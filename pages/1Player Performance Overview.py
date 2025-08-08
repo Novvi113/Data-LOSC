@@ -92,15 +92,7 @@ st.set_page_config(page_title="Player Performance Overview")
 st.sidebar.title("Select Parameters")
 
 st.title("Player Performance Overview")
-st.markdown("""
-Dive into detailed **individual player performances** across the **Top 5 European leagues** and major continental competitions (**UCL**, **UEL**, **UECL**).
-
-- Select one or more players to explore their **performance metrics** across key areas such as **attack**, **passing**, **defense**, and **possession**.
-- Visualize their strengths with **percentile radar charts** based on position.
-- Access their **average performance rating**, calculated from all matches played.
-- Easily **compare multiple players side by side** to support scouting, performance tracking, or advanced football analysis.
-""")
-
+st.write("Compare individual performances in attack, passing, defense, and possession, with radar charts and average ratings.")
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
 
 season = None
@@ -205,7 +197,7 @@ if season_code:
                         suffixes=("_abs", "_pct")
                     )
 
-                    deleted_stats = ['Matches', 'Minutes', 'Age', 'Nationality', 'Born', 'Squad', 'Team', 'Starts', 'Team(s)', 'League(s)', 'League', 'General Position']
+                    deleted_stats = ['Matches', 'Minutes', 'Age', 'Nationality', 'Born', 'Squad', 'Team', 'Starts', 'Team(s)', 'League(s)', 'League', 'General Position', 'Position']
                     common_stats = [col.replace("_abs", "") for col in df_merged.columns if col.endswith("_abs") and col.replace("_abs", "") not in deleted_stats]
 
                     valid_stats = []

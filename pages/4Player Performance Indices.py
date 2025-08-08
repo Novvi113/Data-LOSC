@@ -12,18 +12,9 @@ def get_goalkeeper_stats():
 st.set_page_config(page_title="Player Performance Indices")
 st.title("Player Performance Indices")
 
-st.markdown("""
-This page lets you explore and compare players through a set of **custom performance indices**, built for advanced analysis across leagues, positions, and roles.
-
-- Filter by **league category**, **player position**, **age**, and **specific metric** to highlight the player profiles you're interested in.
-- Each index is displayed on a **percentile scale**, allowing fair and contextualized comparisons between players.
-- The **indices are calculated using a custom algorithm** tailored to player roles and minutes played, and continuously refined based on new data.
-- These metrics aim to provide a consistent and objective framework for **ranking** and **profiling** players across competitions.
-""")
-
 # ---------------- Sidebar progressive filters ----------------
 st.sidebar.title("Select Parameters")
-
+st.write("Explore custom indices by role and minutes played, displayed on a percentile scale for advanced comparisons.")
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
 
 season = None

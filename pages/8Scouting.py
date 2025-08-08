@@ -80,17 +80,8 @@ def plot_radar(players_data, features, players):
 # ------------------------- Streamlit App -------------------------
 st.set_page_config(page_title="Scouting")
 st.sidebar.title("Select Parameters")
-
 st.title("Scouting")
-st.markdown("""
-This page is designed as a **support tool** to explore and analyze individual player performances exclusively from the Other Leagues.
-
-- These leagues include the Argentine Primera, Brazilian Série A, Dutch Eredivisie, MLS, Portuguese Primeira Liga, Copa Libertadores, English Championship, Italian Serie B, Liga MX, and Belgian Pro League.
-- It provides detailed **performance metrics** and **percentile radar charts** based on player positions, helping scouts, analysts, and enthusiasts make informed evaluations.
-- Please note that for these leagues, only performance stats and percentile charts are available.
-
-Use this tool to deepen your understanding and support player assessment beyond the Top 5 European leagues and major cups.
-""")
+st.write("Access detailed metrics and radar charts for players from outside the Big Leagues.")
 
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
 

@@ -37,16 +37,7 @@ def get_goalkeeper_stats():
 # ----------------------- Streamlit UI ------------------------
 st.set_page_config(page_title="Top Season Performances")
 st.title("Top Season Performances")
-
-st.markdown("""
-Explore the **best individual season performances** across all leagues and positions.
-
-- Select a **season** and a **player position** to begin.
-- Choose a **statistic** (e.g., assists, interceptions, saves) to rank players by their seasonal output.
-- Filter results by **minimum minutes played**, **age**, and toggle between **total stats** or **per 90 minutes** for more accurate comparisons.
-- **Note:** Percentage-based stats are only available on a **per-90-minute basis**, which may cause some values to be missing or inconsistent when viewing totals.
-""")
-
+st.write("Rank seasonal outputs by stat, with totals or per-90 metrics.")
 # ----------------------- Sidebar ------------------------
 st.sidebar.title("Select Parameters")
 

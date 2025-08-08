@@ -75,15 +75,7 @@ df_top.set_index("Player", inplace=True)
 
 # --------- Display ---------
 st.title("Top Player Rankings")
-
-st.markdown("""
-This page displays a **ranking of the top-performing players**, based on their **average match ratings** across selected competitions.
-
-- Filter by **league**, **position group**, **matchday**, and **age** to narrow down the leaderboard.
-- Only players who have played a minimum number of matches are included to ensure reliability.
-- Player ratings are calculated using a **custom performance algorithm** — they are **subjective** and should be interpreted with context.
-""")
-
+st.write("Rank top players by average rating, filtered by league, position, age, and matches played.")
 
 if all_leagues or len(selected_leagues) > 1:
     cols_to_display = ["Average Rating", "Position", "Age", "Nationality", "Matches", "Minutes", "Team", "League"]

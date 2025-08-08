@@ -43,14 +43,7 @@ def plot_team_radar(df, features, selected_teams):
 # ------------------------- Streamlit App -------------------------
 st.set_page_config(page_title="Team Performances")
 st.title("Team Performances")
-st.markdown("""
-Explore detailed **team-level performances** across the **Big 5 European leagues** and major continental competitions (**UCL**, **UEL**, **UECL**).
-
-- Select one or more teams to view comprehensive statistics, including **percentile radar charts** that highlight their strengths relative to peers.
-- Analyze key performance indicators covering offense, defense, possession, and more.
-- Use this tool to compare teams, track form, and gain data-driven insights into team dynamics.
-""")
-
+st.write("Compare team performances across leagues using percentile charts and key performance indicators.")
 st.sidebar.title("Select Parameters")
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
 

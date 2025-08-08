@@ -56,17 +56,7 @@ def get_opponent_score(row):
 # ------------------------- Streamlit App -------------------------
 st.set_page_config(page_title="Top Match Performances")
 st.title("Top Match Performances")
-
-st.markdown("""
-Explore the **best individual match performances** across all leagues and positions.
-
-- Start by selecting a **season** and a **player position**.
-- Choose a **statistic** (e.g., assists, interceptions, saves) to rank players by their top performances.
-- Filter results by **league** and **age** to refine your search.
-- View the **top N match performances** based on the selected stat.
-- The table displays each player's stat value, their **match rating**, **minutes played**, **opponent**, and **match result**.
-""")
-
+st.write("Highlight the best single-match outputs by stat (e.g., assists, interceptions, saves).")
 st.sidebar.title("Select Parameters")
 
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)

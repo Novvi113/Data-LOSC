@@ -6,19 +6,22 @@ st.set_page_config(page_title="Data LOSC")
 st.title("Data LOSC")
 
 st.markdown("""
-I'm passionate about **data analysis**, **data science**, and **football**, especially as a dedicated **Lille OSC** supporter. This dashboard is a **personal data science project** designed to **analyze, compare, and visualize football player performances**.
+I'm passionate about data analysis, data science, and football — especially as a dedicated Lille OSC supporter.
+This dashboard is a personal end-to-end project designed to analyze, compare, and visualize football player and team performances, using data scraped from [FBref.com](https://fbref.com).
 
-It showcases a full **end-to-end workflow**, including:
+Pages overview:
+- **Player Performance Overview:** Compare individual performances in attack, passing, defense, and possession, with radar charts and average ratings.
+- **Matchday Player Report:** Dive into match-specific ratings and stats by league, week, and team.
+- **Top Player Rankings:** Rank top players by average rating, filtered by league, position, age, and matches played.
+- **Player Performance Indices:** Explore custom indices by role and minutes played, displayed on a percentile scale for advanced comparisons.
+- **Top Match Performances:** Highlight the best single-match outputs by stat (e.g., assists, interceptions, saves).
+- **Top Season Performances:** Rank seasonal outputs by stat, with totals or per-90 metrics.
+- **Team Performances:** Compare team performances across leagues using percentile charts and key performance indicators.
+- **Scouting:** Access detailed metrics and radar charts for players from outside the Big Leagues.
 
-- **Web scraping** of detailed player statistics from [FBref.com](https://fbref.com), covering the **Top 5 European leagues** (*Ligue 1, Premier League, Serie A, Bundesliga, La Liga*) and the **3 major European cups** (*UEFA Champions League, Europa League, Conference League*) — over **2100 matches per season**.
-- **Data cleaning & transformation**: standardizing, enriching, and formatting raw scraped data to prepare it for analysis.
-- **Advanced data analysis**: selecting key metrics by position, filtering noise, and identifying trends and patterns.
-- **Custom rating algorithm**: a performance index I personally designed, combining weighted metrics by **position** and **playing time**, to deliver a **match-by-match rating**.
-- **Percentile-based comparison system**: allows benchmarking players against their peers to highlight relative strengths.
-- **Scouting features**: includes metrics and comparisons for players in **minor leagues**.
-- **Team analysis**: additional pages to explore club-level performance, built from scraped and processed team data.
-
-This dashboard brings together **statistics**, **visuals**, and **contextual insights**, all tailored for **football analysis** from a **data-driven perspective**.
+Note: 
+- **Big Leagues:** Top 5 European leagues, UCL, UEL and UECL — over 2,100 matches per season
+- **Minor Leagues:** Argentine Primera, Brazilian Série A, Dutch Eredivisie, MLS, Portuguese Primeira Liga, Copa Libertadores, English Championship, Italian Serie B, Liga MX, and Belgian Pro League
 
 ---
 
