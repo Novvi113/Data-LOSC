@@ -32,7 +32,7 @@ def get_features_for_goalkeepers():
     return [
         'Clean Sheets', 'Crosses Stopped', 'Defensive Actions Outside Penalty Area', 'Saves',
         'Goals Against', 'Save Efficiency', '% Saves', '% Long Passes', 
-        '% Crosses Stopped'
+        '% Crosses Stopped', 'PSxG/Save'
     ]
 
 def get_features(positions):
