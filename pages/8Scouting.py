@@ -81,7 +81,10 @@ def plot_radar(players_data, features, players):
 st.set_page_config(page_title="Scouting")
 st.sidebar.title("Select Parameters")
 st.title("Scouting")
-st.write("Access detailed metrics and radar charts for players from outside the Big Leagues.")
+st.write(
+    "- Access detailed scouting metrics and radar charts for players outside the Big Leagues. \n"
+    "- Filter by position, season, and players to compare stats, percentiles, and adjusted metrics."
+)
 
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
 

@@ -92,7 +92,11 @@ st.set_page_config(page_title="Player Performance Overview")
 st.sidebar.title("Select Parameters")
 
 st.title("Player Performance Overview")
-st.write("Compare individual performances in attack, passing, defense, and possession, with radar charts and average ratings.")
+st.write(
+    "- Interactive tool to explore and compare football player performances by season, position, and stats. \n"
+    "- View average ratings, percentiles, radar charts, and advanced metrics to analyze strengths and weaknesses."
+    )
+
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
 
 season = None

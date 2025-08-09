@@ -48,7 +48,10 @@ def prepare_player_stats(stats_df, ratings_df, exclude_cols=None):
 # ------------------------- Streamlit App -------------------------
 st.set_page_config(page_title="Matchday Player Report")
 st.title("Matchday Player Report")
-st.write("Dive into match-specific ratings and stats by league, week, and team.")
+st.write(
+    "- View detailed matchday reports by league, week, and match. \n"
+    "- See player ratings, in-depth stats, and compare performances for both teams."
+)
 st.sidebar.title("Select Parameters")
 
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)

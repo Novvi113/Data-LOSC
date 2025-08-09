@@ -14,7 +14,11 @@ st.title("Player Performance Indices")
 
 # ---------------- Sidebar progressive filters ----------------
 st.sidebar.title("Select Parameters")
-st.write("Explore custom indices by role and minutes played, displayed on a percentile scale for advanced comparisons.")
+st.write(
+    "- View custom player performance indices by role, age, and minutes played. \n"
+    "- Filter results, rank top players, and compare stats on a percentile scale."
+)
+
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
 
 season = None

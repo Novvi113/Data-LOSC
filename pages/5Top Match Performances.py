@@ -56,7 +56,11 @@ def get_opponent_score(row):
 # ------------------------- Streamlit App -------------------------
 st.set_page_config(page_title="Top Match Performances")
 st.title("Top Match Performances")
-st.write("Highlight the best single-match outputs by stat (e.g., assists, interceptions, saves).")
+st.write(
+    "- Highlight the best single-match performances for any stat by players or goalkeepers. \n"
+    "- Filter by season, league, position, and age to showcase standout games."
+)
+
 st.sidebar.title("Select Parameters")
 
 selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
