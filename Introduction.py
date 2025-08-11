@@ -5,7 +5,7 @@ st.set_page_config(page_title="Data LOSC")
 
 st.title("Data LOSC")
 
-st.markdown("""
+st.markdown(""" 
 I'm passionate about data analysis, data science, and football — especially as a dedicated Lille OSC supporter.
 This dashboard is a personal end-to-end project designed to analyze, compare, and visualize football player and team performances, using data scraped from [FBref.com](https://fbref.com).
 
