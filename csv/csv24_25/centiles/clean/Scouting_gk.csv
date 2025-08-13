@@ -1,4 +1,4 @@
-Player,Nation,General Position,Team,Age,Born,Matches Played,Starts,Minutes Played,Goals Against,Shots on Target Against,Saves,Clean Sheets,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Post-Shot Expected Goals,Launched Passes Completed,Launched Passes Attempted,Passes Attempted (GK),Through Balls,Goal Kicks Attempted,Crosses Opposed,Crosses Stopped,Sweeper Actions
+Player,Nation,General Position,Team,Age,Born,Matches Played,Starts,Minutes Played,Goals Against,Shots on Target Against,Saves,Clean Sheets,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Post-Shot Expected Goals,Launched Passes Completed,Launched Passes Attempted,Passes Attempted (GK),Through Balls,Goal Kicks Attempted,Crosses Opposed,Crosses Stopped,Defensive Actions Outside Penalty Area
 Gavin Bazunu,IRL,Goalkeeper,Standard Liège,,2002,6,6,540,12,25,13,1,0,0,0,0,11.5,25,92,178,25,28,77,0,15
 Arnaud Bodart,BEL,Goalkeeper,Standard Liège,,1998,2,2,180,1,6,5,1,0,0,0,0,2.6,18,56,47,4,16,40,8,9
 Sinan Bolat,TUR,Goalkeeper,Westerlo,,1988,11,11,990,20,62,42,1,2,2,0,0,19.5,59,168,323,47,79,165,7,12
