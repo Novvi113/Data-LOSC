@@ -20,7 +20,7 @@ def get_stats_infos(position):
                 'Completed Long Passes', 'Attempted Long Passes', 'Crosses Faced',	'Crosses Stopped', 'Defensive Actions Outside Penalty Area']
     else:
         list =['Player', 'Game Week', 'Team', 'League', 'Position', 'Age', 'Minutes', 'Goals', 'Assists', 'Shots Total', 'Shots on Target', 'Expected Goals (xG)', 'Shot-Creating Actions (SCA)', 
-               'Goal-Creating Actions (GCA)',	'Key Passes', 'Passes into Final Third', 'Passes into Penalty Area', 'Crosses into Penalty Area', 'Crosses', 
+               'Goal-Creating Actions (GCA)', 'Key Passes', 'Passes into Final Third', 'Passes into Penalty Area', 'Crosses into Penalty Area', 'Crosses', 
                 'Expected Assists (xA)', 'Passes Completed', 'Passes Attempted', 'Progressive Passes', 'Progressive Runs', 'Progressive Carries', 'Take-Ons Attempted', 
                 'Successful Take-Ons', 'Tackles Won', 'Dribblers Tackled', 'Interceptions', 'Errors Leading to Shot', 'Ball Recoveries', 'Ball Losses', 'Touches', 
                 'Yellow Cards', 'Red Cards', 'Second Yellow Card',	'Offsides', 'Aerials Won', 'Total Aerials']
@@ -43,6 +43,17 @@ def prepare_player_stats(stats_df, ratings_df, exclude_cols=None):
     df = df.set_index("Player")
     return df
 
+def team_stats(df_stats, team_name):
+    important_stats = [
+        'Expected Goals (xG)', 'Progressive Passes', 'Progressive Runs', 'Progressive Carries', 
+        'Key Passes', 'Passes into Final Third', 'Tackles Won', 'Interceptions', 'Aerials Won', 'Offsides',
+    ]
+    cols = [col for col in important_stats if col in df_stats.columns]
+    if not cols:
+        return pd.DataFrame()
+    df_team = df_stats[cols].apply(pd.to_numeric, errors='coerce').fillna(0)
+    df_summary = df_team.sum().to_frame(name=team_name).round(2)
+    return df_summary
 
 
 # ------------------------- Streamlit App -------------------------
@@ -69,6 +80,7 @@ path_players = os.path.join(base_path, "ratings", "data_players.csv")
 path_goalkeepers = os.path.join(base_path, "ratings", "data_goals.csv")
 path_players_stats = os.path.join(base_path, "clean", "data_players.csv")
 path_goalkeepers_stats = os.path.join(base_path, "clean", "data_goals.csv")
+path_teams_stats = os.path.join(base_path, "clean", "data_teams.csv")
 path_leagues = os.path.join(base_path, "leagues_games")
 
 df_players = pd.read_csv(path_players)
@@ -82,6 +94,8 @@ df_gk_stats = df_gk_stats[get_stats_infos("GK")]
 
 available_leagues = df_players["League"].dropna().unique().tolist()
 selected_leagues = st.sidebar.multiselect("League", available_leagues)
+
+df_teams_stat = pd.read_csv(path_teams_stats)
 
 if selected_leagues:
     df_games = pd.read_csv(f"{path_leagues}/{selected_leagues[0]}_games.csv")
@@ -147,6 +161,12 @@ if selected_leagues:
                 (df_gk_stats["League"] == selected_leagues[0])
             ].drop(columns=["ID"], errors="ignore")
             
+            df_teams_stat = df_teams_stat[
+                ((df_teams_stat["Team"] == home_team) | (df_teams_stat["Team"] == away_team)) &
+                (df_teams_stat["Game Week"] == game_week) &
+                (df_teams_stat["League"] == selected_leagues[0])
+            ].drop(columns=["ID"], errors="ignore")
+            
             columns_excl = ['Game Week', 'Team', 'League']
 
             df_home_players = prepare_player_stats(df_home_stats, df_home_ratings, exclude_cols=columns_excl)
@@ -154,6 +174,16 @@ if selected_leagues:
             df_home_gk = prepare_player_stats(df_home_stats_gk, df_home_ratings, exclude_cols=columns_excl)
             df_away_gk = prepare_player_stats(df_away_stats_gk, df_away_ratings, exclude_cols=columns_excl)
 
+            df_home_summary = team_stats(df_home_stats, home_team)
+            df_away_summary = team_stats(df_away_stats, away_team)
+            df_team_stats_bis = pd.concat([df_home_summary, df_away_summary], axis=1)
+            columns_excl = ['Game Week', 'League']
+            df_teams_stat = df_teams_stat.drop(columns=[col for col in columns_excl if col in df_teams_stat.columns], errors='ignore')
+
+            st.markdown("## Team Stats Overview")
+            df_team_stats = pd.concat([df_teams_stat.set_index("Team").T, df_team_stats_bis], axis=0)
+            st.dataframe(df_team_stats)
+            
             st.markdown(f"### {home_team}")
             st.dataframe(df_home_players.sort_values(by="Rating", ascending=False), use_container_width=True)
             st.dataframe(df_home_gk.sort_values(by="Rating", ascending=False), use_container_width=True)

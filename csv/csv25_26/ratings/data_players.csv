@@ -1,618 +1,664 @@
 Player,Game Week,Position,General Position,Team,League,Minutes,Rating,Age,Nationality
-Marc Cucurella,J1,LB,Defender,Chelsea,English Premier League,90,6.61,27,ESP
-Trevoh Chalobah,J1,CB,Defender,Chelsea,English Premier League,90,7.01,26,ENG
-Joshua Acheampong,J1,CB,Defender,Chelsea,English Premier League,90,7.04,19,ENG
-Reece James,J1,RB,Defender,Chelsea,English Premier League,78,7.39,25,ENG
-Marc Guéhi,J1,CB,Defender,Crystal Palace,English Premier League,90,5.66,25,ENG
-Maxence Lacroix,J1,CB,Defender,Crystal Palace,English Premier League,90,6.51,25,FRA
+Marc Cucurella,J1,LB,Defender,Chelsea,English Premier League,90,6.6,27,ESP
+Trevoh Chalobah,J1,CB,Defender,Chelsea,English Premier League,90,6.86,26,ENG
+Joshua Acheampong,J1,CB,Defender,Chelsea,English Premier League,90,7.05,19,ENG
+Reece James,J1,RB,Defender,Chelsea,English Premier League,78,7.2,25,ENG
+Marc Guéhi,J1,CB,Defender,Crystal Palace,English Premier League,90,5.74,25,ENG
+Maxence Lacroix,J1,CB,Defender,Crystal Palace,English Premier League,90,6.48,25,FRA
 Chris Richards,J1,CB,Defender,Crystal Palace,English Premier League,90,5.94,25,USA
-Luke Shaw,J1,CB,Defender,Manchester Utd,English Premier League,79,6.82,30,ENG
-Matthijs de Ligt,J1,CB,Defender,Manchester Utd,English Premier League,90,7.26,26,NED
-Leny Yoro,J1,CB,Defender,Manchester Utd,English Premier League,90,7.39,19,FRA
-Riccardo Calafiori,J1,LB,Defender,Arsenal,English Premier League,71,6.5,23,ITA
-Gabriel Magalhães,J1,CB,Defender,Arsenal,English Premier League,90,5.93,27,BRA
-William Saliba,J1,CB,Defender,Arsenal,English Premier League,90,6.65,24,FRA
-Ben White,J1,RB,Defender,Arsenal,English Premier League,70,6.95,27,ENG
-Jurriën Timber,J1,RB,Defender,Arsenal,English Premier League,20,6.32,24,NED
-Joel Roca,J1,LB,Defender,Girona,Spanish La Liga,90,6.26,20,ESP
-Daley Blind,J1,LB,Defender,Girona,Spanish La Liga,57,6.71,35,NED
-Vitor Reis,J1,CB,Defender,Girona,Spanish La Liga,33,6.16,19,BRA
-Ladislav Krejčí,J1,CB,Defender,Girona,Spanish La Liga,90,6.26,26,CZE
-David López,J1,CB,Defender,Girona,Spanish La Liga,90,6.58,35,ESP
-Arnau Martinez,J1,RB,Defender,Girona,Spanish La Liga,57,7.16,22,ESP
-Hugo Rincón,J1,RB,Defender,Girona,Spanish La Liga,33,6.14,22,ESP
-Pep Chavarría,J1,LB,Defender,Rayo Vallecano,Spanish La Liga,90,7.09,27,ESP
-Luiz Felipe,J1,CB,Defender,Rayo Vallecano,Spanish La Liga,45,6.93,28,ITA
-Pelayo Fernandez,J1,CB,Defender,Rayo Vallecano,Spanish La Liga,45,6.54,22,ESP
-Florian Lejeune,J1,CB,Defender,Rayo Vallecano,Spanish La Liga,90,6.38,34,FRA
-Andrei Ratiu,J1,RB,Defender,Rayo Vallecano,Spanish La Liga,90,7.11,27,ROU
-Sergi Cardona,J1,LB,Defender,Villarreal,Spanish La Liga,90,7.2,26,ESP
-Rafa Marín,J1,CB,Defender,Villarreal,Spanish La Liga,90,5.97,23,ESP
-Juan Foyth,J1,CB,Defender,Villarreal,Spanish La Liga,69,6.0,27,ARG
-Santiago Mouriño,J1,RB,Defender,Villarreal,Spanish La Liga,90,7.16,23,URU
-Marco Esteban,J1,CB,Defender,Oviedo,Spanish La Liga,45,5.34,19,ESP
-Rahim Bonkano,J1,LB,Defender,Oviedo,Spanish La Liga,84,7.11,23,NIG
-Dani Calvo,J1,CB,Defender,Oviedo,Spanish La Liga,90,6.12,31,ESP
-Oier Luengo,J1,CB,Defender,Oviedo,Spanish La Liga,90,5.68,27,ESP
-Nacho Vidal,J1,RB,Defender,Oviedo,Spanish La Liga,90,6.52,30,ESP
-Antonio Sánchez,J1,RB,Defender,Mallorca,Spanish La Liga,90,6.54,28,ESP
-Johan Mojica,J1,LB,Defender,Mallorca,Spanish La Liga,89,6.75,32,COL
-Antonio Raillo,J1,CB,Defender,Mallorca,Spanish La Liga,90,6.37,33,ESP
-Martin Valjent,J1,CB,Defender,Mallorca,Spanish La Liga,90,6.06,29,SVK
-Mateu Morey,J1,RB,Defender,Mallorca,Spanish La Liga,45,6.43,25,ESP
-Alejandro Balde,J1,LB,Defender,Barcelona,Spanish La Liga,67,6.24,21,ESP
-Jofre Torrents,J1,LB,Defender,Barcelona,Spanish La Liga,23,6.45,18,ESP
-Pau Cubarsí,J1,CB,Defender,Barcelona,Spanish La Liga,68,6.43,18,ESP
-Ronald Araújo,J1,CB,Defender,Barcelona,Spanish La Liga,90,6.17,26,URU
-Eric García,J1,RB,Defender,Barcelona,Spanish La Liga,90,6.96,24,ESP
-Victor Parada,J1,LB,Defender,Alavés,Spanish La Liga,89,6.14,23,ESP
-Nahuel Tenaglia,J1,CB,Defender,Alavés,Spanish La Liga,90,6.98,29,ARG
-Facundo Garcés,J1,CB,Defender,Alavés,Spanish La Liga,90,6.59,25,MAS
-Jonny Castro,J1,RB,Defender,Alavés,Spanish La Liga,90,7.05,31,ESP
-Manu Sánchez,J1,LB,Defender,Levante,Spanish La Liga,78,6.54,24,ESP
-Jorge Cabello,J1,CB,Defender,Levante,Spanish La Liga,90,5.84,21,ESP
-Unai Elgezabal,J1,CB,Defender,Levante,Spanish La Liga,90,6.52,32,ESP
-Adrián de la Fuente,J1,CB,Defender,Levante,Spanish La Liga,90,5.86,26,ESP
-Jeremy Toljan,J1,RB,Defender,Levante,Spanish La Liga,90,6.18,31,GER
-José Luis Gayà,J1,LB,Defender,Valencia,Spanish La Liga,79,6.28,30,ESP
-Copete,J1,CB,Defender,Valencia,Spanish La Liga,90,6.68,25,ESP
-César Tárrega,J1,CB,Defender,Valencia,Spanish La Liga,90,6.58,23,ESP
-Dimitri Foulquier,J1,RB,Defender,Valencia,Spanish La Liga,90,7.1,32,FRA
-Aihen Muñoz,J1,LB,Defender,Real Sociedad,Spanish La Liga,79,6.66,28,ESP
-Duje Ćaleta-Car,J1,CB,Defender,Real Sociedad,Spanish La Liga,67,6.61,28,CRO
-Aritz Elustondo,J1,CB,Defender,Real Sociedad,Spanish La Liga,23,5.65,31,ESP
-Igor Zubeldia,J1,CB,Defender,Real Sociedad,Spanish La Liga,90,6.25,28,ESP
-Jon Aramburu,J1,RB,Defender,Real Sociedad,Spanish La Liga,90,7.16,23,VEN
-Marcos Alonso,J1,CB,Defender,Celta Vigo,Spanish La Liga,90,7.09,34,ESP
-Yoel Lago,J1,CB,Defender,Celta Vigo,Spanish La Liga,81,6.64,21,ESP
-Javi Rodríguez,J1,CB,Defender,Celta Vigo,Spanish La Liga,90,6.76,22,ESP
-Davinchi,J1,LB,Defender,Getafe,Spanish La Liga,90,6.16,17,ESP
-Diego Rico,J1,CB,Defender,Getafe,Spanish La Liga,90,5.45,32,ESP
-Djené,J1,CB,Defender,Getafe,Spanish La Liga,90,6.14,33,TOG
-Iglesias,J1,CB,Defender,Getafe,Spanish La Liga,90,6.48,27,ESP
-Ismael Bekhoucha,J1,RB,Defender,Getafe,Spanish La Liga,90,6.35,20,MAR
-Yuri Berchiche,J1,LB,Defender,Athletic Club,Spanish La Liga,90,6.74,35,ESP
-Aitor Paredes,J1,CB,Defender,Athletic Club,Spanish La Liga,90,6.46,25,ESP
-Daniel Vivian,J1,CB,Defender,Athletic Club,Spanish La Liga,90,6.56,26,ESP
-Jesús Areso,J1,RB,Defender,Athletic Club,Spanish La Liga,82,5.82,26,ESP
-Carmona,J1,LB,Defender,Sevilla,Spanish La Liga,90,6.91,23,ESP
-Kike Salas,J1,CB,Defender,Sevilla,Spanish La Liga,90,7.6,23,ESP
-Castrin,J1,CB,Defender,Sevilla,Spanish La Liga,70,6.71,22,ESP
-Juanlu Sánchez,J1,RB,Defender,Sevilla,Spanish La Liga,90,7.5,22,ESP
-Carlos Romero,J1,LB,Defender,Espanyol,Spanish La Liga,90,6.67,23,ESP
-Leandro Cabrera,J1,CB,Defender,Espanyol,Spanish La Liga,90,6.48,34,URU
-Fernando Calero,J1,CB,Defender,Espanyol,Spanish La Liga,65,6.64,29,ESP
-Miguel Ángel Rubio,J1,CB,Defender,Espanyol,Spanish La Liga,25,6.25,27,ESP
-Omar El Hilali,J1,RB,Defender,Espanyol,Spanish La Liga,90,7.28,21,MAR
-Matteo Ruggeri,J1,LB,Defender,Atlético Madrid,Spanish La Liga,90,7.4,23,ITA
-Dávid Hancko,J1,CB,Defender,Atlético Madrid,Spanish La Liga,90,6.69,27,SVK
-Robin Le Normand,J1,CB,Defender,Atlético Madrid,Spanish La Liga,90,7.01,28,ESP
-Marcos Llorente,J1,RB,Defender,Atlético Madrid,Spanish La Liga,90,7.13,30,ESP
-Christopher Wooh,J1,CB,Defender,Rennes,French Ligue 1,54,5.33,23,CMR
-Quentin Merlin,J1,LB,Defender,Rennes,French Ligue 1,90,7.06,23,FRA
-Anthony Rouault,J1,CB,Defender,Rennes,French Ligue 1,90,6.19,24,FRA
-Jérémy Jacquet,J1,CB,Defender,Rennes,French Ligue 1,90,6.22,20,FRA
-Abdelhamid Ait Boudlal,J1,CB,Defender,Rennes,French Ligue 1,30,5.35,19,MAR
-Przemysław Frankowski,J1,RB,Defender,Rennes,French Ligue 1,84,6.4,30,POL
-Geoffrey Kondogbia,J1,LB,Defender,Marseille,French Ligue 1,45,6.67,32,CTA
-Timothy Weah,J1,RB,Defender,Marseille,French Ligue 1,45,6.69,25,USA
-Leonardo Balerdi,J1,CB,Defender,Marseille,French Ligue 1,90,6.89,26,ARG
-CJ Egan-Riley,J1,RB,Defender,Marseille,French Ligue 1,90,7.25,22,ENG
-Matthieu Udol,J1,CB,Defender,Lens,French Ligue 1,90,5.94,29,FRA
-Malang Sarr,J1,CB,Defender,Lens,French Ligue 1,90,7.07,26,FRA
-Samson Baidoo,J1,CB,Defender,Lens,French Ligue 1,90,6.18,21,AUT
-Abner,J1,LB,Defender,Lyon,French Ligue 1,90,6.55,25,BRA
-Moussa Niakhate,J1,CB,Defender,Lyon,French Ligue 1,90,6.6,29,SEN
-Clinton Mata,J1,CB,Defender,Lyon,French Ligue 1,90,6.1,32,ANG
+Luke Shaw,J1,CB,Defender,Manchester Utd,English Premier League,79,6.76,30,ENG
+Matthijs de Ligt,J1,CB,Defender,Manchester Utd,English Premier League,90,7.18,26,NED
+Leny Yoro,J1,CB,Defender,Manchester Utd,English Premier League,90,7.13,19,FRA
+Riccardo Calafiori,J1,LB,Defender,Arsenal,English Premier League,71,6.37,23,ITA
+Gabriel Magalhães,J1,CB,Defender,Arsenal,English Premier League,90,5.88,27,BRA
+William Saliba,J1,CB,Defender,Arsenal,English Premier League,90,6.62,24,FRA
+Ben White,J1,RB,Defender,Arsenal,English Premier League,70,6.85,27,ENG
+Jurriën Timber,J1,RB,Defender,Arsenal,English Premier League,20,6.24,24,NED
+Gabriel Gudmundsson,J1,LB,Defender,Leeds United,English Premier League,90,7.26,26,SWE
+Pascal Struijk,J1,CB,Defender,Leeds United,English Premier League,90,6.59,26,NED
+Joe Rodon,J1,CB,Defender,Leeds United,English Premier League,90,6.35,27,WAL
+Jayden Bogle,J1,RB,Defender,Leeds United,English Premier League,90,6.56,25,ENG
+James Garner,J1,LB,Defender,Everton,English Premier League,90,7.2,24,ENG
+Michael Keane,J1,CB,Defender,Everton,English Premier League,90,6.41,32,ENG
+James Tarkowski,J1,CB,Defender,Everton,English Premier League,90,7.37,32,ENG
+Jake O'Brien,J1,RB,Defender,Everton,English Premier League,90,6.69,24,IRL
+Joel Roca,J1,LB,Defender,Girona,Spanish La Liga,90,6.21,20,ESP
+Daley Blind,J1,LB,Defender,Girona,Spanish La Liga,57,6.64,35,NED
+Vitor Reis,J1,CB,Defender,Girona,Spanish La Liga,33,6.07,19,BRA
+Ladislav Krejčí,J1,CB,Defender,Girona,Spanish La Liga,90,6.2,26,CZE
+David López,J1,CB,Defender,Girona,Spanish La Liga,90,6.46,35,ESP
+Arnau Martinez,J1,RB,Defender,Girona,Spanish La Liga,57,7.09,22,ESP
+Hugo Rincón,J1,RB,Defender,Girona,Spanish La Liga,33,6.06,22,ESP
+Pep Chavarría,J1,LB,Defender,Rayo Vallecano,Spanish La Liga,90,7.04,27,ESP
+Luiz Felipe,J1,CB,Defender,Rayo Vallecano,Spanish La Liga,45,6.84,28,ITA
+Pelayo Fernandez,J1,CB,Defender,Rayo Vallecano,Spanish La Liga,45,6.42,22,ESP
+Florian Lejeune,J1,CB,Defender,Rayo Vallecano,Spanish La Liga,90,6.32,34,FRA
+Andrei Ratiu,J1,RB,Defender,Rayo Vallecano,Spanish La Liga,90,7.06,27,ROU
+Sergi Cardona,J1,LB,Defender,Villarreal,Spanish La Liga,90,7.13,26,ESP
+Rafa Marín,J1,CB,Defender,Villarreal,Spanish La Liga,90,5.92,23,ESP
+Juan Foyth,J1,CB,Defender,Villarreal,Spanish La Liga,69,5.97,27,ARG
+Santiago Mouriño,J1,RB,Defender,Villarreal,Spanish La Liga,90,7.11,23,URU
+Marco Esteban,J1,CB,Defender,Oviedo,Spanish La Liga,45,5.33,19,ESP
+Rahim Bonkano,J1,LB,Defender,Oviedo,Spanish La Liga,84,7.08,23,NIG
+Dani Calvo,J1,CB,Defender,Oviedo,Spanish La Liga,90,6.18,31,ESP
+Oier Luengo,J1,CB,Defender,Oviedo,Spanish La Liga,90,5.71,27,ESP
+Nacho Vidal,J1,RB,Defender,Oviedo,Spanish La Liga,90,6.43,30,ESP
+Antonio Sánchez,J1,RB,Defender,Mallorca,Spanish La Liga,90,6.42,28,ESP
+Johan Mojica,J1,LB,Defender,Mallorca,Spanish La Liga,89,6.66,32,COL
+Antonio Raillo,J1,CB,Defender,Mallorca,Spanish La Liga,90,6.3,33,ESP
+Martin Valjent,J1,CB,Defender,Mallorca,Spanish La Liga,90,6.0,29,SVK
+Mateu Morey,J1,RB,Defender,Mallorca,Spanish La Liga,45,6.34,25,ESP
+Alejandro Balde,J1,LB,Defender,Barcelona,Spanish La Liga,67,6.17,21,ESP
+Jofre Torrents,J1,LB,Defender,Barcelona,Spanish La Liga,23,6.38,18,ESP
+Pau Cubarsí,J1,CB,Defender,Barcelona,Spanish La Liga,68,6.35,18,ESP
+Ronald Araújo,J1,CB,Defender,Barcelona,Spanish La Liga,90,6.12,26,URU
+Eric García,J1,RB,Defender,Barcelona,Spanish La Liga,90,6.9,24,ESP
+Victor Parada,J1,LB,Defender,Alavés,Spanish La Liga,89,6.09,23,ESP
+Nahuel Tenaglia,J1,CB,Defender,Alavés,Spanish La Liga,90,6.91,29,ARG
+Facundo Garcés,J1,CB,Defender,Alavés,Spanish La Liga,90,6.5,25,MAS
+Jonny Castro,J1,RB,Defender,Alavés,Spanish La Liga,90,7.06,31,ESP
+Manu Sánchez,J1,LB,Defender,Levante,Spanish La Liga,78,6.44,24,ESP
+Jorge Cabello,J1,CB,Defender,Levante,Spanish La Liga,90,5.82,21,ESP
+Unai Elgezabal,J1,CB,Defender,Levante,Spanish La Liga,90,6.43,32,ESP
+Adrián de la Fuente,J1,CB,Defender,Levante,Spanish La Liga,90,5.97,26,ESP
+Jeremy Toljan,J1,RB,Defender,Levante,Spanish La Liga,90,6.12,31,GER
+José Luis Gayà,J1,LB,Defender,Valencia,Spanish La Liga,79,6.23,30,ESP
+Copete,J1,CB,Defender,Valencia,Spanish La Liga,90,6.62,25,ESP
+César Tárrega,J1,CB,Defender,Valencia,Spanish La Liga,90,6.6,23,ESP
+Dimitri Foulquier,J1,RB,Defender,Valencia,Spanish La Liga,90,6.98,32,FRA
+Aihen Muñoz,J1,LB,Defender,Real Sociedad,Spanish La Liga,79,6.59,28,ESP
+Duje Ćaleta-Car,J1,CB,Defender,Real Sociedad,Spanish La Liga,67,6.55,28,CRO
+Aritz Elustondo,J1,CB,Defender,Real Sociedad,Spanish La Liga,23,5.82,31,ESP
+Igor Zubeldia,J1,CB,Defender,Real Sociedad,Spanish La Liga,90,6.17,28,ESP
+Jon Aramburu,J1,RB,Defender,Real Sociedad,Spanish La Liga,90,7.07,23,VEN
+Marcos Alonso,J1,CB,Defender,Celta Vigo,Spanish La Liga,90,7.0,34,ESP
+Yoel Lago,J1,CB,Defender,Celta Vigo,Spanish La Liga,81,6.51,21,ESP
+Javi Rodríguez,J1,CB,Defender,Celta Vigo,Spanish La Liga,90,6.77,22,ESP
+Davinchi,J1,LB,Defender,Getafe,Spanish La Liga,90,6.34,17,ESP
+Diego Rico,J1,CB,Defender,Getafe,Spanish La Liga,90,5.54,32,ESP
+Djené,J1,CB,Defender,Getafe,Spanish La Liga,90,6.03,33,TOG
+Iglesias,J1,CB,Defender,Getafe,Spanish La Liga,90,6.38,27,ESP
+Ismael Bekhoucha,J1,RB,Defender,Getafe,Spanish La Liga,90,6.45,20,MAR
+Yuri Berchiche,J1,LB,Defender,Athletic Club,Spanish La Liga,90,6.72,35,ESP
+Aitor Paredes,J1,CB,Defender,Athletic Club,Spanish La Liga,90,6.4,25,ESP
+Daniel Vivian,J1,CB,Defender,Athletic Club,Spanish La Liga,90,6.46,26,ESP
+Jesús Areso,J1,RB,Defender,Athletic Club,Spanish La Liga,82,5.77,26,ESP
+Carmona,J1,LB,Defender,Sevilla,Spanish La Liga,90,6.82,23,ESP
+Kike Salas,J1,CB,Defender,Sevilla,Spanish La Liga,90,7.64,23,ESP
+Castrin,J1,CB,Defender,Sevilla,Spanish La Liga,70,6.62,22,ESP
+Juanlu Sánchez,J1,RB,Defender,Sevilla,Spanish La Liga,90,7.38,22,ESP
+Carlos Romero,J1,LB,Defender,Espanyol,Spanish La Liga,90,6.56,23,ESP
+Leandro Cabrera,J1,CB,Defender,Espanyol,Spanish La Liga,90,6.39,34,URU
+Fernando Calero,J1,CB,Defender,Espanyol,Spanish La Liga,65,6.48,29,ESP
+Miguel Ángel Rubio,J1,CB,Defender,Espanyol,Spanish La Liga,25,6.2,27,ESP
+Omar El Hilali,J1,RB,Defender,Espanyol,Spanish La Liga,90,7.23,21,MAR
+Matteo Ruggeri,J1,LB,Defender,Atlético Madrid,Spanish La Liga,90,7.3,23,ITA
+Dávid Hancko,J1,CB,Defender,Atlético Madrid,Spanish La Liga,90,6.63,27,SVK
+Robin Le Normand,J1,CB,Defender,Atlético Madrid,Spanish La Liga,90,6.89,28,ESP
+Marcos Llorente,J1,RB,Defender,Atlético Madrid,Spanish La Liga,90,7.07,30,ESP
+Léo Pétrot,J1,LB,Defender,Elche,Spanish La Liga,72,6.39,28,FRA
+Pedro Bigas,J1,CB,Defender,Elche,Spanish La Liga,90,6.68,34,ESP
+David Affengruber,J1,CB,Defender,Elche,Spanish La Liga,90,7.24,24,AUT
+Núñez,J1,RB,Defender,Elche,Spanish La Liga,90,6.88,25,ESP
+Ricardo Rodríguez,J1,LB,Defender,Betis,Spanish La Liga,90,6.08,32,SUI
+Natan,J1,CB,Defender,Betis,Spanish La Liga,90,5.81,24,BRA
+Marc Bartra,J1,CB,Defender,Betis,Spanish La Liga,90,6.71,34,ESP
+Héctor Bellerín,J1,RB,Defender,Betis,Spanish La Liga,90,6.95,30,ESP
+Christopher Wooh,J1,CB,Defender,Rennes,French Ligue 1,54,5.14,23,CMR
+Quentin Merlin,J1,LB,Defender,Rennes,French Ligue 1,90,6.97,23,FRA
+Anthony Rouault,J1,CB,Defender,Rennes,French Ligue 1,90,6.13,24,FRA
+Jérémy Jacquet,J1,CB,Defender,Rennes,French Ligue 1,90,6.16,20,FRA
+Abdelhamid Ait Boudlal,J1,CB,Defender,Rennes,French Ligue 1,30,5.34,19,MAR
+Przemysław Frankowski,J1,RB,Defender,Rennes,French Ligue 1,84,6.32,30,POL
+Geoffrey Kondogbia,J1,LB,Defender,Marseille,French Ligue 1,45,6.59,32,CTA
+Timothy Weah,J1,RB,Defender,Marseille,French Ligue 1,45,6.62,25,USA
+Leonardo Balerdi,J1,CB,Defender,Marseille,French Ligue 1,90,6.78,26,ARG
+CJ Egan-Riley,J1,RB,Defender,Marseille,French Ligue 1,90,7.15,22,ENG
+Matthieu Udol,J1,CB,Defender,Lens,French Ligue 1,90,6.1,29,FRA
+Malang Sarr,J1,CB,Defender,Lens,French Ligue 1,90,7.04,26,FRA
+Samson Baidoo,J1,CB,Defender,Lens,French Ligue 1,90,6.13,21,AUT
+Abner,J1,LB,Defender,Lyon,French Ligue 1,90,6.5,25,BRA
+Moussa Niakhate,J1,CB,Defender,Lyon,French Ligue 1,90,6.41,29,SEN
+Clinton Mata,J1,CB,Defender,Lyon,French Ligue 1,90,6.11,32,ANG
 Sael Kumbedi,J1,RB,Defender,Lyon,French Ligue 1,65,5.44,20,FRA
-Caio Henrique Oliveira Silva,J1,LB,Defender,Monaco,French Ligue 1,90,6.1,28,BRA
-Christian Mawissa,J1,CB,Defender,Monaco,French Ligue 1,90,6.39,20,FRA
-Eric Dier,J1,CB,Defender,Monaco,French Ligue 1,90,7.1,31,ENG
-Jordan Teze,J1,RB,Defender,Monaco,French Ligue 1,62,6.38,25,NED
-Vanderson,J1,RB,Defender,Monaco,French Ligue 1,28,6.79,24,BRA
-Yanis Zouaoui,J1,LB,Defender,Le Havre,French Ligue 1,90,6.43,31,ALG
-Gautier Lloris,J1,CB,Defender,Le Havre,French Ligue 1,90,5.69,30,FRA
-Ayumu Seko,J1,CB,Defender,Le Havre,French Ligue 1,90,5.78,25,JPN
-Arouna Sangante,J1,RB,Defender,Le Havre,French Ligue 1,77,5.82,23,SEN
-Kojo Peprah Oppong,J1,CB,Defender,Nice,French Ligue 1,89,5.78,21,GHA
-Juma Bah,J1,CB,Defender,Nice,French Ligue 1,90,6.86,19,SLE
-Antoine Mendy,J1,CB,Defender,Nice,French Ligue 1,90,6.61,21,SEN
-Mark McKenzie,J1,CB,Defender,Toulouse,French Ligue 1,90,6.19,26,USA
-Charlie Cresswell,J1,CB,Defender,Toulouse,French Ligue 1,90,6.51,22,ENG
-Djibril Sidibé,J1,CB,Defender,Toulouse,French Ligue 1,90,6.46,33,FRA
-Bradley Locko,J1,LB,Defender,Brest,French Ligue 1,90,6.83,23,FRA
-Julien Le Cardinal,J1,CB,Defender,Brest,French Ligue 1,90,6.13,28,FRA
-Brendan Chardonnet,J1,CB,Defender,Brest,French Ligue 1,90,5.69,30,FRA
-Kenny Lala,J1,RB,Defender,Brest,French Ligue 1,90,6.69,33,MAD
-Romain Perraud,J1,LB,Defender,Lille,French Ligue 1,71,5.67,27,FRA
-Alexsandro Ribeiro,J1,CB,Defender,Lille,French Ligue 1,90,6.0,26,BRA
-Nathan Ngoy,J1,CB,Defender,Lille,French Ligue 1,90,6.72,22,BEL
-Ousmane Toure,J1,RB,Defender,Lille,French Ligue 1,51,6.94,20,FRA
-Maxima Goffi,J1,RB,Defender,Lille,French Ligue 1,39,6.82,17,FRA
-Jordan Lefort,J1,CB,Defender,Angers,French Ligue 1,90,6.45,32,FRA
-Ousmane Camara,J1,CB,Defender,Angers,French Ligue 1,90,5.93,22,FRA
-Carlens Arcus,J1,CB,Defender,Angers,French Ligue 1,90,5.85,29,HAI
-Nhoa Sangui,J1,LB,Defender,Paris FC,French Ligue 1,90,6.33,19,FRA
-Timothée Kolodziejczak,J1,CB,Defender,Paris FC,French Ligue 1,84,6.37,33,FRA
-Moustapha Mbow,J1,CB,Defender,Paris FC,French Ligue 1,90,6.69,25,SEN
-Samir Chergui,J1,RB,Defender,Paris FC,French Ligue 1,90,6.3,26,FRA
-Gideon Mensah,J1,LB,Defender,Auxerre,French Ligue 1,89,5.87,27,GHA
-Clément Akpa,J1,CB,Defender,Auxerre,French Ligue 1,90,6.77,23,CIV
-Francisco Sierralta,J1,CB,Defender,Auxerre,French Ligue 1,90,6.69,28,CHI
-Gabriel Osho,J1,CB,Defender,Auxerre,French Ligue 1,90,5.88,27,NGA
-Marvin Senaya,J1,RB,Defender,Auxerre,French Ligue 1,90,5.97,24,TOG
-Igor Carioca,J1,CB,Defender,Lorient,French Ligue 1,90,5.85,28,BRA
-Montassar Talbi,J1,CB,Defender,Lorient,French Ligue 1,90,6.37,27,TUN
-Formose Mendy,J1,CB,Defender,Lorient,French Ligue 1,90,6.8,24,SEN
-Heorhii Tsitaishvili,J1,LB,Defender,Metz,French Ligue 1,90,6.03,24,GEO
-Michel Mboula,J1,CB,Defender,Metz,French Ligue 1,90,6.14,22,GAB
-Jean-Philippe Gbamin,J1,CB,Defender,Metz,French Ligue 1,90,6.45,29,CIV
-Sadibou Sané,J1,CB,Defender,Metz,French Ligue 1,90,6.58,21,SEN
-Koffi Kouao,J1,RB,Defender,Metz,French Ligue 1,83,6.09,27,CIV
-Guimissongui Ouattara,J1,LB,Defender,Strasbourg,French Ligue 1,54,5.7,19,FRA
-Dilane Bakwa,J1,RB,Defender,Strasbourg,French Ligue 1,36,5.98,22,FRA
-Mamadou Sarr,J1,CB,Defender,Strasbourg,French Ligue 1,90,6.65,19,FRA
-Lucas Høgsberg,J1,CB,Defender,Strasbourg,French Ligue 1,90,6.79,19,DEN
-Junior Mwanga,J1,CB,Defender,Strasbourg,French Ligue 1,90,6.46,22,FRA
-Samuel Amo-Ameyaw,J1,RB,Defender,Strasbourg,French Ligue 1,79,5.57,19,ENG
-Nicolas Cozza,J1,LB,Defender,Nantes,French Ligue 1,90,6.25,26,FRA
-Tylel Tati,J1,CB,Defender,Nantes,French Ligue 1,90,5.62,17,FRA
-Chidozie Awaziem,J1,CB,Defender,Nantes,French Ligue 1,90,6.42,28,NGA
-Kelvin Amian,J1,RB,Defender,Nantes,French Ligue 1,90,6.03,27,FRA
-Lucas Hernández,J1,LB,Defender,Paris S-G,French Ligue 1,60,6.2,29,FRA
-Nuno Mendes,J1,LB,Defender,Paris S-G,French Ligue 1,30,6.61,23,POR
-Lucas Beraldo,J1,CB,Defender,Paris S-G,French Ligue 1,90,6.62,21,BRA
-Illia Zabarnyi,J1,CB,Defender,Paris S-G,French Ligue 1,90,6.08,22,UKR
+Caio Henrique Oliveira Silva,J1,LB,Defender,Monaco,French Ligue 1,90,6.02,28,BRA
+Christian Mawissa,J1,CB,Defender,Monaco,French Ligue 1,90,6.32,20,FRA
+Eric Dier,J1,CB,Defender,Monaco,French Ligue 1,90,7.08,31,ENG
+Jordan Teze,J1,RB,Defender,Monaco,French Ligue 1,62,6.29,25,NED
+Vanderson,J1,RB,Defender,Monaco,French Ligue 1,28,6.73,24,BRA
+Yanis Zouaoui,J1,LB,Defender,Le Havre,French Ligue 1,90,6.33,31,ALG
+Gautier Lloris,J1,CB,Defender,Le Havre,French Ligue 1,90,5.74,30,FRA
+Ayumu Seko,J1,CB,Defender,Le Havre,French Ligue 1,90,5.76,25,JPN
+Arouna Sangante,J1,RB,Defender,Le Havre,French Ligue 1,77,5.81,23,SEN
+Kojo Peprah Oppong,J1,CB,Defender,Nice,French Ligue 1,89,5.77,21,GHA
+Juma Bah,J1,CB,Defender,Nice,French Ligue 1,90,6.75,19,SLE
+Antoine Mendy,J1,CB,Defender,Nice,French Ligue 1,90,6.55,21,SEN
+Mark McKenzie,J1,CB,Defender,Toulouse,French Ligue 1,90,6.15,26,USA
+Charlie Cresswell,J1,CB,Defender,Toulouse,French Ligue 1,90,6.45,22,ENG
+Djibril Sidibé,J1,CB,Defender,Toulouse,French Ligue 1,90,6.36,33,FRA
+Bradley Locko,J1,LB,Defender,Brest,French Ligue 1,90,6.62,23,FRA
+Julien Le Cardinal,J1,CB,Defender,Brest,French Ligue 1,90,6.0,28,FRA
+Brendan Chardonnet,J1,CB,Defender,Brest,French Ligue 1,90,5.72,30,FRA
+Kenny Lala,J1,RB,Defender,Brest,French Ligue 1,90,6.52,33,MAD
+Romain Perraud,J1,LB,Defender,Lille,French Ligue 1,71,5.74,27,FRA
+Alexsandro Ribeiro,J1,CB,Defender,Lille,French Ligue 1,90,5.98,26,BRA
+Nathan Ngoy,J1,CB,Defender,Lille,French Ligue 1,90,6.56,22,BEL
+Ousmane Toure,J1,RB,Defender,Lille,French Ligue 1,51,6.86,20,FRA
+Maxima Goffi,J1,RB,Defender,Lille,French Ligue 1,39,6.73,17,FRA
+Jordan Lefort,J1,CB,Defender,Angers,French Ligue 1,90,6.27,32,FRA
+Ousmane Camara,J1,CB,Defender,Angers,French Ligue 1,90,5.97,22,FRA
+Carlens Arcus,J1,CB,Defender,Angers,French Ligue 1,90,5.82,29,HAI
+Nhoa Sangui,J1,LB,Defender,Paris FC,French Ligue 1,90,6.27,19,FRA
+Timothée Kolodziejczak,J1,CB,Defender,Paris FC,French Ligue 1,84,6.29,33,FRA
+Moustapha Mbow,J1,CB,Defender,Paris FC,French Ligue 1,90,6.66,25,SEN
+Samir Chergui,J1,RB,Defender,Paris FC,French Ligue 1,90,6.35,26,FRA
+Gideon Mensah,J1,LB,Defender,Auxerre,French Ligue 1,89,5.91,27,GHA
+Clément Akpa,J1,CB,Defender,Auxerre,French Ligue 1,90,6.8,23,CIV
+Francisco Sierralta,J1,CB,Defender,Auxerre,French Ligue 1,90,6.61,28,CHI
+Gabriel Osho,J1,CB,Defender,Auxerre,French Ligue 1,90,5.86,27,NGA
+Marvin Senaya,J1,RB,Defender,Auxerre,French Ligue 1,90,5.91,24,TOG
+Igor Carioca,J1,CB,Defender,Lorient,French Ligue 1,90,5.93,28,BRA
+Montassar Talbi,J1,CB,Defender,Lorient,French Ligue 1,90,6.39,27,TUN
+Formose Mendy,J1,CB,Defender,Lorient,French Ligue 1,90,6.71,24,SEN
+Heorhii Tsitaishvili,J1,LB,Defender,Metz,French Ligue 1,90,5.91,24,GEO
+Michel Mboula,J1,CB,Defender,Metz,French Ligue 1,90,6.13,22,GAB
+Jean-Philippe Gbamin,J1,CB,Defender,Metz,French Ligue 1,90,6.32,29,CIV
+Sadibou Sané,J1,CB,Defender,Metz,French Ligue 1,90,6.49,21,SEN
+Koffi Kouao,J1,RB,Defender,Metz,French Ligue 1,83,6.02,27,CIV
+Guimissongui Ouattara,J1,LB,Defender,Strasbourg,French Ligue 1,54,5.76,19,FRA
+Dilane Bakwa,J1,RB,Defender,Strasbourg,French Ligue 1,36,6.15,22,FRA
+Mamadou Sarr,J1,CB,Defender,Strasbourg,French Ligue 1,90,6.41,19,FRA
+Lucas Høgsberg,J1,CB,Defender,Strasbourg,French Ligue 1,90,6.62,19,DEN
+Junior Mwanga,J1,CB,Defender,Strasbourg,French Ligue 1,90,6.44,22,FRA
+Samuel Amo-Ameyaw,J1,RB,Defender,Strasbourg,French Ligue 1,90,5.44,19,ENG
+Nicolas Cozza,J1,LB,Defender,Nantes,French Ligue 1,90,6.2,26,FRA
+Tylel Tati,J1,CB,Defender,Nantes,French Ligue 1,90,5.65,17,FRA
+Chidozie Awaziem,J1,CB,Defender,Nantes,French Ligue 1,90,6.32,28,NGA
+Kelvin Amian,J1,RB,Defender,Nantes,French Ligue 1,90,5.86,27,FRA
+Achraf Hakimi,J1,RB,Defender,Paris S-G,French Ligue 1,30,6.03,26,MAR
+Lucas Hernández,J1,LB,Defender,Paris S-G,French Ligue 1,60,6.09,29,FRA
+Nuno Mendes,J1,LB,Defender,Paris S-G,French Ligue 1,30,6.54,23,POR
+Lucas Beraldo,J1,CB,Defender,Paris S-G,French Ligue 1,90,6.57,21,BRA
+Illia Zabarnyi,J1,CB,Defender,Paris S-G,French Ligue 1,90,6.01,22,UKR
 Warren Zaïre-Emery,J1,RB,Defender,Paris S-G,French Ligue 1,90,7.05,19,FRA
-Milos Kerkez,J1,LB,Defender,Liverpool,English Premier League,59,6.7,21,HUN
-Andrew Robertson,J1,LB,Defender,Liverpool,English Premier League,31,5.97,31,SCO
-Virgil van Dijk,J1,CB,Defender,Liverpool,English Premier League,90,7.59,34,NED
-Ibrahima Konaté,J1,CB,Defender,Liverpool,English Premier League,90,6.11,26,FRA
-Jeremie Frimpong,J1,RB,Defender,Liverpool,English Premier League,59,5.97,24,NED
-Adrien Truffert,J1,LB,Defender,Bournemouth,English Premier League,90,6.79,23,FRA
-Marcos Senesi,J1,CB,Defender,Bournemouth,English Premier League,90,6.53,28,ARG
-Bafodé Diakité,J1,CB,Defender,Bournemouth,English Premier League,90,6.66,24,FRA
-Adam Smith,J1,RB,Defender,Bournemouth,English Premier League,89,6.39,34,ENG
-Lucas Digne,J1,LB,Defender,Aston Villa,English Premier League,90,6.82,32,FRA
-Tyrone Mings,J1,CB,Defender,Aston Villa,English Premier League,90,6.11,32,ENG
-Ezri Konsa,J1,CB,Defender,Aston Villa,English Premier League,65,5.7,27,ENG
-Matty Cash,J1,RB,Defender,Aston Villa,English Premier League,90,6.52,28,POL
-Valentino Livramento,J1,LB,Defender,Newcastle Utd,English Premier League,90,7.4,22,ENG
-Dan Burn,J1,CB,Defender,Newcastle Utd,English Premier League,90,7.03,33,ENG
-Fabian Schär,J1,CB,Defender,Newcastle Utd,English Premier League,90,6.87,33,SUI
-Kieran Trippier,J1,RB,Defender,Newcastle Utd,English Premier League,90,6.92,34,ENG
-Reinildo Mandava,J1,LB,Defender,Sunderland,English Premier League,90,7.14,31,MOZ
-Jenson Seelt,J1,CB,Defender,Sunderland,English Premier League,52,6.69,22,NED
-Omar Alderete,J1,CB,Defender,Sunderland,English Premier League,38,6.67,28,PAR
-Daniel Ballard,J1,CB,Defender,Sunderland,English Premier League,90,6.68,25,NIR
-Trai Hume,J1,RB,Defender,Sunderland,English Premier League,90,7.07,23,NIR
-Nayef Aguerd,J1,CB,Defender,West Ham,English Premier League,90,6.32,29,MAR
+Milos Kerkez,J1,LB,Defender,Liverpool,English Premier League,59,6.62,21,HUN
+Andrew Robertson,J1,LB,Defender,Liverpool,English Premier League,31,5.86,31,SCO
+Virgil van Dijk,J1,CB,Defender,Liverpool,English Premier League,90,7.51,34,NED
+Ibrahima Konaté,J1,CB,Defender,Liverpool,English Premier League,90,6.02,26,FRA
+Jeremie Frimpong,J1,RB,Defender,Liverpool,English Premier League,59,5.9,24,NED
+Adrien Truffert,J1,LB,Defender,Bournemouth,English Premier League,90,6.68,23,FRA
+Marcos Senesi,J1,CB,Defender,Bournemouth,English Premier League,90,6.42,28,ARG
+Bafodé Diakité,J1,CB,Defender,Bournemouth,English Premier League,90,6.57,24,FRA
+Adam Smith,J1,RB,Defender,Bournemouth,English Premier League,89,6.32,34,ENG
+Lucas Digne,J1,LB,Defender,Aston Villa,English Premier League,90,6.73,32,FRA
+Tyrone Mings,J1,CB,Defender,Aston Villa,English Premier League,90,6.03,32,ENG
+Ezri Konsa,J1,CB,Defender,Aston Villa,English Premier League,65,5.74,27,ENG
+Matty Cash,J1,RB,Defender,Aston Villa,English Premier League,90,6.4,28,POL
+Valentino Livramento,J1,LB,Defender,Newcastle Utd,English Premier League,90,7.28,22,ENG
+Dan Burn,J1,CB,Defender,Newcastle Utd,English Premier League,90,6.94,33,ENG
+Fabian Schär,J1,CB,Defender,Newcastle Utd,English Premier League,90,6.77,33,SUI
+Kieran Trippier,J1,RB,Defender,Newcastle Utd,English Premier League,90,6.82,34,ENG
+Reinildo Mandava,J1,LB,Defender,Sunderland,English Premier League,90,7.11,31,MOZ
+Jenson Seelt,J1,CB,Defender,Sunderland,English Premier League,52,6.67,22,NED
+Omar Alderete,J1,CB,Defender,Sunderland,English Premier League,38,6.81,28,PAR
+Daniel Ballard,J1,CB,Defender,Sunderland,English Premier League,90,6.58,25,NIR
+Trai Hume,J1,RB,Defender,Sunderland,English Premier League,90,7.0,23,NIR
+Nayef Aguerd,J1,CB,Defender,West Ham,English Premier League,90,6.3,29,MAR
 Max Kilman,J1,CB,Defender,West Ham,English Premier League,90,6.94,28,ENG
-Jean-Clair Todibo,J1,CB,Defender,West Ham,English Premier League,81,6.64,25,FRA
-Djed Spence,J1,LB,Defender,Tottenham,English Premier League,90,6.69,25,ENG
-Micky van de Ven,J1,CB,Defender,Tottenham,English Premier League,90,6.93,24,NED
-Cristian Romero,J1,CB,Defender,Tottenham,English Premier League,90,6.83,27,ARG
-Pedro Porro,J1,RB,Defender,Tottenham,English Premier League,90,7.37,25,ESP
-Quilindschy Hartman,J1,LB,Defender,Burnley,English Premier League,90,6.57,23,NED
-Maxime Estève,J1,CB,Defender,Burnley,English Premier League,90,5.94,23,FRA
-Hjalmar Ekdal,J1,CB,Defender,Burnley,English Premier League,90,5.55,26,SWE
+Jean-Clair Todibo,J1,CB,Defender,West Ham,English Premier League,81,6.61,25,FRA
+Djed Spence,J1,LB,Defender,Tottenham,English Premier League,90,6.61,25,ENG
+Micky van de Ven,J1,CB,Defender,Tottenham,English Premier League,90,6.83,24,NED
+Cristian Romero,J1,CB,Defender,Tottenham,English Premier League,90,6.74,27,ARG
+Pedro Porro,J1,RB,Defender,Tottenham,English Premier League,90,7.2,25,ESP
+Quilindschy Hartman,J1,LB,Defender,Burnley,English Premier League,90,6.46,23,NED
+Maxime Estève,J1,CB,Defender,Burnley,English Premier League,90,5.86,23,FRA
+Hjalmar Ekdal,J1,CB,Defender,Burnley,English Premier League,90,5.57,26,SWE
 Kyle Walker,J1,CB,Defender,Burnley,English Premier League,90,5.77,35,ENG
-Oliver Sonne,J1,RB,Defender,Burnley,English Premier League,73,5.57,24,PER
-Maxim De Cuyper,J1,LB,Defender,Brighton,English Premier League,90,6.54,24,BEL
-Lewis Dunk,J1,CB,Defender,Brighton,English Premier League,90,6.98,33,ENG
-Jan Paul van Hecke,J1,CB,Defender,Brighton,English Premier League,90,7.37,25,NED
-Mats Wieffer,J1,RB,Defender,Brighton,English Premier League,90,7.4,25,NED
-Calvin Bassey,J1,LB,Defender,Fulham,English Premier League,90,7.01,25,NGA
-Jorge Cuenca,J1,CB,Defender,Fulham,English Premier League,83,6.43,25,ESP
+Oliver Sonne,J1,RB,Defender,Burnley,English Premier League,73,5.6,24,PER
+Maxim De Cuyper,J1,LB,Defender,Brighton,English Premier League,90,6.57,24,BEL
+Lewis Dunk,J1,CB,Defender,Brighton,English Premier League,90,7.13,33,ENG
+Jan Paul van Hecke,J1,CB,Defender,Brighton,English Premier League,90,7.18,25,NED
+Mats Wieffer,J1,RB,Defender,Brighton,English Premier League,90,7.33,25,NED
+Calvin Bassey,J1,LB,Defender,Fulham,English Premier League,90,6.93,25,NGA
+Jorge Cuenca,J1,CB,Defender,Fulham,English Premier League,83,6.5,25,ESP
 Joachim Andersen,J1,CB,Defender,Fulham,English Premier League,90,6.49,29,DEN
-Kenny Tete,J1,RB,Defender,Fulham,English Premier League,90,6.97,29,NED
-Toti Gomes,J1,CB,Defender,Wolves,English Premier League,90,6.34,26,POR
-Emmanuel Agbadou,J1,CB,Defender,Wolves,English Premier League,90,6.49,28,CIV
-Matt Doherty,J1,CB,Defender,Wolves,English Premier League,90,6.15,33,IRL
-Rayan Aït-Nouri,J1,LB,Defender,Manchester City,English Premier League,90,7.78,24,ALG
-Rúben Dias,J1,CB,Defender,Manchester City,English Premier League,90,6.92,28,POR
-John Stones,J1,CB,Defender,Manchester City,English Premier League,81,6.48,31,ENG
-Rico Lewis,J1,RB,Defender,Manchester City,English Premier League,65,7.18,20,ENG
-Matheus Nunes,J1,RB,Defender,Manchester City,English Premier League,25,6.97,26,POR
-Neco Williams,J1,LB,Defender,Nott'ham Forest,English Premier League,90,6.89,24,WAL
-Murillo,J1,CB,Defender,Nott'ham Forest,English Premier League,90,6.35,23,BRA
-Nikola Milenković,J1,CB,Defender,Nott'ham Forest,English Premier League,90,5.9,27,SRB
-Ola Aina,J1,RB,Defender,Nott'ham Forest,English Premier League,90,7.5,28,NGA
-Rico Henry,J1,LB,Defender,Brentford,English Premier League,87,6.04,28,ENG
-Sepp van den Berg,J1,CB,Defender,Brentford,English Premier League,90,7.52,23,NED
-Nathan Collins,J1,CB,Defender,Brentford,English Premier League,90,6.27,24,IRL
-Michael Kayode,J1,RB,Defender,Brentford,English Premier League,90,6.9,21,ITA
-João Pedro,J1,AM,Forward,Chelsea,English Premier League,72,6.68,23,BRA
-Jamie Gittens,J1,LW,Forward,Chelsea,English Premier League,53,6.78,21,ENG
-Estêvão Willian,J1,RW,Forward,Chelsea,English Premier League,37,6.82,18,BRA
-Pedro Neto,J1,RW,Forward,Chelsea,English Premier League,90,6.97,25,POR
-Cole Palmer,J1,AM,Forward,Chelsea,English Premier League,90,7.01,23,ENG
-Jean-Philippe Mateta,J1,AM,Forward,Crystal Palace,English Premier League,90,6.25,28,FRA
-Eberechi Eze,J1,AM,Forward,Crystal Palace,English Premier League,83,6.71,27,ENG
-Ismaila Sarr,J1,AM,Forward,Crystal Palace,English Premier League,90,6.36,27,SEN
-Matheus Cunha,J1,AM,Forward,Manchester Utd,English Premier League,90,7.16,26,BRA
-Mason Mount,J1,AM,Forward,Manchester Utd,English Premier League,64,6.84,26,ENG
-Benjamin Šeško,J1,AM,Forward,Manchester Utd,English Premier League,26,6.84,22,SVN
-Bryan Mbeumo,J1,AM,Forward,Manchester Utd,English Premier League,90,7.29,26,CMR
-Viktor Gyökeres,J1,AM,Forward,Arsenal,English Premier League,59,6.08,27,SWE
-Kai Havertz,J1,AM,Forward,Arsenal,English Premier League,31,6.71,26,GER
-Gabriel Martinelli,J1,LW,Forward,Arsenal,English Premier League,59,6.0,24,BRA
-Noni Madueke,J1,LW,Forward,Arsenal,English Premier League,31,6.03,23,ENG
-Bukayo Saka,J1,RW,Forward,Arsenal,English Premier League,90,6.55,23,ENG
-Bojan Miovski,J1,AM,Forward,Girona,Spanish La Liga,44,5.8,26,MKD
-Yaser Asprilla,J1,LW,Forward,Girona,Spanish La Liga,45,5.83,21,COL
-Portu,J1,AM,Forward,Girona,Spanish La Liga,45,6.63,33,ESP
-Jorge de Frutos,J1,AM,Forward,Rayo Vallecano,Spanish La Liga,80,7.07,28,ESP
-Álvaro García,J1,LW,Forward,Rayo Vallecano,Spanish La Liga,84,6.39,32,ESP
-Isaac Palazón Camacho,J1,RW,Forward,Rayo Vallecano,Spanish La Liga,90,7.18,30,ESP
-Pedro Díaz,J1,AM,Forward,Rayo Vallecano,Spanish La Liga,69,6.64,27,ESP
-Gerard Gumbau,J1,AM,Forward,Rayo Vallecano,Spanish La Liga,21,5.99,30,ESP
-Karl Etta,J1,AM,Forward,Villarreal,Spanish La Liga,90,6.77,21,CMR
-Gerard Moreno,J1,AM,Forward,Villarreal,Spanish La Liga,46,7.35,33,ESP
-Tajon Buchanan,J1,AM,Forward,Villarreal,Spanish La Liga,44,6.7,26,CAN
-Alberto Moleiro,J1,RW,Forward,Villarreal,Spanish La Liga,21,6.37,21,ESP
-Salomón Rondón,J1,AM,Forward,Oviedo,Spanish La Liga,62,6.16,35,VEN
-Federico Viñas,J1,AM,Forward,Oviedo,Spanish La Liga,28,6.18,27,URU
-Haissem Hassan,J1,RW,Forward,Oviedo,Spanish La Liga,45,6.15,23,FRA
-Vedat Muriqi,J1,AM,Forward,Mallorca,Spanish La Liga,38,6.04,31,KVX
-Sergi Darder,J1,LW,Forward,Mallorca,Spanish La Liga,82,6.1,31,ESP
-Takuma Asano,J1,RW,Forward,Mallorca,Spanish La Liga,45,5.72,30,JPN
-Pablo Torre,J1,AM,Forward,Mallorca,Spanish La Liga,45,5.91,22,ESP
-Ferrán Torres,J1,AM,Forward,Barcelona,Spanish La Liga,68,6.91,25,ESP
-Marcus Rashford,J1,LW,Forward,Barcelona,Spanish La Liga,22,6.92,27,ENG
-Raphinha,J1,LW,Forward,Barcelona,Spanish La Liga,76,7.24,28,BRA
-Lamine Yamal,J1,RW,Forward,Barcelona,Spanish La Liga,90,7.38,18,ESP
-Fermin López,J1,AM,Forward,Barcelona,Spanish La Liga,45,6.67,22,ESP
-Dani Olmo,J1,AM,Forward,Barcelona,Spanish La Liga,45,7.09,27,ESP
-Gavi,J1,AM,Forward,Barcelona,Spanish La Liga,22,7.04,21,ESP
-Toni Martínez,J1,AM,Forward,Alavés,Spanish La Liga,90,7.09,28,ESP
+Kenny Tete,J1,RB,Defender,Fulham,English Premier League,90,7.02,29,NED
+Toti Gomes,J1,CB,Defender,Wolves,English Premier League,90,6.29,26,POR
+Emmanuel Agbadou,J1,CB,Defender,Wolves,English Premier League,90,6.42,28,CIV
+Matt Doherty,J1,CB,Defender,Wolves,English Premier League,90,6.03,33,IRL
+Rayan Aït-Nouri,J1,LB,Defender,Manchester City,English Premier League,90,7.96,24,ALG
+Rúben Dias,J1,CB,Defender,Manchester City,English Premier League,90,6.86,28,POR
+John Stones,J1,CB,Defender,Manchester City,English Premier League,81,6.41,31,ENG
+Rico Lewis,J1,RB,Defender,Manchester City,English Premier League,65,7.15,20,ENG
+Matheus Nunes,J1,RB,Defender,Manchester City,English Premier League,25,6.83,26,POR
+Neco Williams,J1,LB,Defender,Nott'ham Forest,English Premier League,90,6.8,24,WAL
+Murillo,J1,CB,Defender,Nott'ham Forest,English Premier League,90,6.28,23,BRA
+Nikola Milenković,J1,CB,Defender,Nott'ham Forest,English Premier League,90,5.85,27,SRB
+Ola Aina,J1,RB,Defender,Nott'ham Forest,English Premier League,90,7.39,28,NGA
+Rico Henry,J1,LB,Defender,Brentford,English Premier League,87,5.99,28,ENG
+Sepp van den Berg,J1,CB,Defender,Brentford,English Premier League,90,7.41,23,NED
+Nathan Collins,J1,CB,Defender,Brentford,English Premier League,90,6.23,24,IRL
+Michael Kayode,J1,RB,Defender,Brentford,English Premier League,90,6.81,21,ITA
+João Pedro,J1,AM,Forward,Chelsea,English Premier League,72,6.73,23,BRA
+Jamie Gittens,J1,LW,Forward,Chelsea,English Premier League,53,6.73,21,ENG
+Estêvão Willian,J1,RW,Forward,Chelsea,English Premier League,37,6.79,18,BRA
+Pedro Neto,J1,RW,Forward,Chelsea,English Premier League,90,7.03,25,POR
+Cole Palmer,J1,AM,Forward,Chelsea,English Premier League,90,7.17,23,ENG
+Jean-Philippe Mateta,J1,AM,Forward,Crystal Palace,English Premier League,90,6.51,28,FRA
+Eberechi Eze,J1,AM,Forward,Crystal Palace,English Premier League,83,6.58,27,ENG
+Ismaila Sarr,J1,AM,Forward,Crystal Palace,English Premier League,90,6.33,27,SEN
+Matheus Cunha,J1,AM,Forward,Manchester Utd,English Premier League,90,7.35,26,BRA
+Mason Mount,J1,AM,Forward,Manchester Utd,English Premier League,64,6.93,26,ENG
+Benjamin Šeško,J1,AM,Forward,Manchester Utd,English Premier League,26,6.8,22,SVN
+Bryan Mbeumo,J1,AM,Forward,Manchester Utd,English Premier League,90,7.39,26,CMR
+Viktor Gyökeres,J1,AM,Forward,Arsenal,English Premier League,59,6.0,27,SWE
+Kai Havertz,J1,AM,Forward,Arsenal,English Premier League,31,6.73,26,GER
+Gabriel Martinelli,J1,LW,Forward,Arsenal,English Premier League,59,5.95,24,BRA
+Noni Madueke,J1,LW,Forward,Arsenal,English Premier League,31,5.98,23,ENG
+Bukayo Saka,J1,RW,Forward,Arsenal,English Premier League,90,6.68,23,ENG
+Joël Piroe,J1,AM,Forward,Leeds United,English Premier League,77,6.5,26,NED
+Wilfried Gnonto,J1,LW,Forward,Leeds United,English Premier League,66,6.3,21,ITA
+Brenden Aaronson,J1,LW,Forward,Leeds United,English Premier League,24,6.36,24,USA
+Daniel James,J1,RW,Forward,Leeds United,English Premier League,77,6.52,27,WAL
+Beto,J1,AM,Forward,Everton,English Premier League,90,6.07,27,GNB
+Iliman Ndiaye,J1,LW,Forward,Everton,English Premier League,90,5.86,25,SEN
+Carlos Alcaraz,J1,RW,Forward,Everton,English Premier League,85,6.17,22,ARG
+Kiernan Dewsbury-Hall,J1,AM,Forward,Everton,English Premier League,90,6.78,26,ENG
+Jack Grealish,J1,LW,Forward,Everton,English Premier League,20,6.58,29,ENG
+Bojan Miovski,J1,AM,Forward,Girona,Spanish La Liga,44,5.77,26,MKD
+Yaser Asprilla,J1,LW,Forward,Girona,Spanish La Liga,45,5.81,21,COL
+Portu,J1,AM,Forward,Girona,Spanish La Liga,45,6.6,33,ESP
+Jorge de Frutos,J1,AM,Forward,Rayo Vallecano,Spanish La Liga,80,7.14,28,ESP
+Álvaro García,J1,LW,Forward,Rayo Vallecano,Spanish La Liga,84,6.4,32,ESP
+Isaac Palazón Camacho,J1,RW,Forward,Rayo Vallecano,Spanish La Liga,90,7.37,30,ESP
+Pedro Díaz,J1,AM,Forward,Rayo Vallecano,Spanish La Liga,69,6.61,27,ESP
+Gerard Gumbau,J1,AM,Forward,Rayo Vallecano,Spanish La Liga,21,5.92,30,ESP
+Karl Etta,J1,AM,Forward,Villarreal,Spanish La Liga,90,6.76,21,CMR
+Gerard Moreno,J1,AM,Forward,Villarreal,Spanish La Liga,46,7.41,33,ESP
+Alberto Moleiro,J1,RW,Forward,Villarreal,Spanish La Liga,21,6.61,21,ESP
+Salomón Rondón,J1,AM,Forward,Oviedo,Spanish La Liga,62,6.1,35,VEN
+Federico Viñas,J1,AM,Forward,Oviedo,Spanish La Liga,28,6.15,27,URU
+Haissem Hassan,J1,RW,Forward,Oviedo,Spanish La Liga,45,6.1,23,FRA
+Vedat Muriqi,J1,AM,Forward,Mallorca,Spanish La Liga,38,6.01,31,KVX
+Sergi Darder,J1,LW,Forward,Mallorca,Spanish La Liga,82,6.07,31,ESP
+Takuma Asano,J1,RW,Forward,Mallorca,Spanish La Liga,45,5.75,30,JPN
+Pablo Torre,J1,AM,Forward,Mallorca,Spanish La Liga,45,5.85,22,ESP
+Ferrán Torres,J1,AM,Forward,Barcelona,Spanish La Liga,68,6.92,25,ESP
+Marcus Rashford,J1,LW,Forward,Barcelona,Spanish La Liga,22,6.93,27,ENG
+Raphinha,J1,LW,Forward,Barcelona,Spanish La Liga,76,7.39,28,BRA
+Lamine Yamal,J1,RW,Forward,Barcelona,Spanish La Liga,90,7.42,18,ESP
+Fermin López,J1,AM,Forward,Barcelona,Spanish La Liga,45,6.63,22,ESP
+Dani Olmo,J1,AM,Forward,Barcelona,Spanish La Liga,45,7.2,27,ESP
+Gavi,J1,AM,Forward,Barcelona,Spanish La Liga,22,7.09,21,ESP
+Toni Martínez,J1,AM,Forward,Alavés,Spanish La Liga,90,7.19,28,ESP
 Iván Romero,J1,AM,Forward,Levante,Spanish La Liga,78,6.88,24,ESP
-Hugo Duro,J1,AM,Forward,Valencia,Spanish La Liga,67,6.55,25,ESP
-Domingos André Ribeiro Almeida,J1,AM,Forward,Valencia,Spanish La Liga,23,6.68,25,POR
-Dani Raba,J1,AM,Forward,Valencia,Spanish La Liga,66,7.42,29,ESP
-Arnaut Danjuma,J1,AM,Forward,Valencia,Spanish La Liga,24,6.61,28,NED
-Mikel Oyarzabal,J1,AM,Forward,Real Sociedad,Spanish La Liga,90,6.87,28,ESP
-Brais Méndez,J1,AM,Forward,Real Sociedad,Spanish La Liga,67,7.09,28,ESP
-Orri Steinn Óskarsson,J1,AM,Forward,Real Sociedad,Spanish La Liga,23,6.11,20,ISL
-Ferran Jutglà,J1,AM,Forward,Celta Vigo,Spanish La Liga,66,6.31,26,ESP
-Borja Iglesias,J1,AM,Forward,Celta Vigo,Spanish La Liga,24,6.6,32,ESP
-Williot Swedberg,J1,LW,Forward,Celta Vigo,Spanish La Liga,56,5.86,21,SWE
-Jones El-Abdellaoui,J1,AM,Forward,Celta Vigo,Spanish La Liga,34,5.65,19,MAR
-Iago Aspas,J1,RW,Forward,Celta Vigo,Spanish La Liga,90,7.0,38,ESP
-Bryan Zaragoza,J1,LW,Forward,Celta Vigo,Spanish La Liga,34,6.54,24,ESP
-Christantus Uche,J1,AM,Forward,Getafe,Spanish La Liga,90,7.51,22,NGA
-Adrián Liso,J1,AM,Forward,Getafe,Spanish La Liga,77,6.42,20,ESP
-Maroan Sannadi,J1,AM,Forward,Athletic Club,Spanish La Liga,66,6.83,24,MAR
-Gorka Guruzeta,J1,AM,Forward,Athletic Club,Spanish La Liga,24,6.2,28,ESP
-Nico Williams,J1,LW,Forward,Athletic Club,Spanish La Liga,82,7.56,23,ESP
-Iñaki Williams,J1,RW,Forward,Athletic Club,Spanish La Liga,90,6.62,31,GHA
-Álex Berenguer,J1,AM,Forward,Athletic Club,Spanish La Liga,66,6.97,30,ESP
-Roberto Navarro,J1,AM,Forward,Athletic Club,Spanish La Liga,24,6.99,23,ESP
-Akor Adams,J1,AM,Forward,Sevilla,Spanish La Liga,90,6.89,25,NGA
-Adnan Januzaj,J1,AM,Forward,Sevilla,Spanish La Liga,20,5.95,30,BEL
-Roberto Férnandez,J1,AM,Forward,Espanyol,Spanish La Liga,73,6.29,23,ESP
-Javi Puado,J1,LW,Forward,Espanyol,Spanish La Liga,87,6.43,27,ESP
-Jofre,J1,RW,Forward,Espanyol,Spanish La Liga,45,5.38,24,ESP
-Tyrhys Dolan,J1,RW,Forward,Espanyol,Spanish La Liga,45,6.58,23,ENG
-Ramón Terrats,J1,AM,Forward,Espanyol,Spanish La Liga,45,6.01,24,ESP
-Kiké,J1,AM,Forward,Espanyol,Spanish La Liga,45,6.62,35,ESP
-Julián Álvarez,J1,AM,Forward,Atlético Madrid,Spanish La Liga,81,7.64,25,ARG
-Thiago Almada,J1,LW,Forward,Atlético Madrid,Spanish La Liga,67,6.86,24,ARG
-Giacomo Raspadori,J1,LW,Forward,Atlético Madrid,Spanish La Liga,23,6.46,25,ITA
-Giuliano Simeone,J1,RW,Forward,Atlético Madrid,Spanish La Liga,90,7.0,22,ARG
-Alex Baena,J1,AM,Forward,Atlético Madrid,Spanish La Liga,67,6.79,24,ESP
-Antoine Griezmann,J1,AM,Forward,Atlético Madrid,Spanish La Liga,23,6.17,34,FRA
-Mohamed Meité,J1,AM,Forward,Rennes,French Ligue 1,36,5.46,17,FRA
-Musa Al-Taamari,J1,AM,Forward,Rennes,French Ligue 1,83,6.63,28,JOR
-Amine Gouiri,J1,AM,Forward,Marseille,French Ligue 1,85,6.79,25,ALG
-Jon Rowe,J1,LW,Forward,Marseille,French Ligue 1,62,6.34,22,ENG
-Pierre-Emerick Aubameyang,J1,AM,Forward,Marseille,French Ligue 1,28,6.1,36,GAB
-Mason Greenwood,J1,RW,Forward,Marseille,French Ligue 1,90,7.03,23,ENG
-Rayan Fofana,J1,AM,Forward,Lens,French Ligue 1,56,6.2,19,FRA
-Florian Thauvin,J1,AM,Forward,Lens,French Ligue 1,34,6.87,32,FRA
-Morgan Guilavogui,J1,AM,Forward,Lens,French Ligue 1,90,6.65,27,GUI
-Wesley Saïd,J1,AM,Forward,Lens,French Ligue 1,85,6.55,30,FRA
-Georges Mikautadze,J1,AM,Forward,Lyon,French Ligue 1,89,6.74,24,GEO
-Malick Fofana,J1,LW,Forward,Lyon,French Ligue 1,89,6.85,20,BEL
-Ainsley Maitland-Niles,J1,RW,Forward,Lyon,French Ligue 1,90,5.91,27,ENG
-Corentin Tolisso,J1,AM,Forward,Lyon,French Ligue 1,90,6.69,31,FRA
-Khalis Merah,J1,RW,Forward,Lyon,French Ligue 1,25,5.38,18,FRA
-Mika Biereth,J1,AM,Forward,Monaco,French Ligue 1,79,6.36,22,DEN
-Aleksandr Golovin,J1,LW,Forward,Monaco,French Ligue 1,88,6.58,29,RUS
+Hugo Duro,J1,AM,Forward,Valencia,Spanish La Liga,67,6.49,25,ESP
+Domingos André Ribeiro Almeida,J1,AM,Forward,Valencia,Spanish La Liga,23,6.7,25,POR
+Dani Raba,J1,AM,Forward,Valencia,Spanish La Liga,66,7.43,29,ESP
+Arnaut Danjuma,J1,AM,Forward,Valencia,Spanish La Liga,24,6.59,28,NED
+Mikel Oyarzabal,J1,AM,Forward,Real Sociedad,Spanish La Liga,90,6.88,28,ESP
+Ander Barrenetxea,J1,LW,Forward,Real Sociedad,Spanish La Liga,90,7.07,23,ESP
+Takefusa Kubo,J1,RW,Forward,Real Sociedad,Spanish La Liga,79,6.69,24,JPN
+Brais Méndez,J1,AM,Forward,Real Sociedad,Spanish La Liga,67,7.24,28,ESP
+Orri Steinn Óskarsson,J1,AM,Forward,Real Sociedad,Spanish La Liga,23,6.1,20,ISL
+Ferran Jutglà,J1,AM,Forward,Celta Vigo,Spanish La Liga,66,6.24,26,ESP
+Borja Iglesias,J1,AM,Forward,Celta Vigo,Spanish La Liga,24,6.55,32,ESP
+Williot Swedberg,J1,LW,Forward,Celta Vigo,Spanish La Liga,56,5.81,21,SWE
+Jones El-Abdellaoui,J1,AM,Forward,Celta Vigo,Spanish La Liga,34,5.7,19,MAR
+Iago Aspas,J1,RW,Forward,Celta Vigo,Spanish La Liga,90,7.07,38,ESP
+Bryan Zaragoza,J1,LW,Forward,Celta Vigo,Spanish La Liga,34,6.48,24,ESP
+Christantus Uche,J1,AM,Forward,Getafe,Spanish La Liga,90,7.47,22,NGA
+Adrián Liso,J1,AM,Forward,Getafe,Spanish La Liga,77,6.39,20,ESP
+Maroan Sannadi,J1,AM,Forward,Athletic Club,Spanish La Liga,66,6.82,24,MAR
+Gorka Guruzeta,J1,AM,Forward,Athletic Club,Spanish La Liga,24,6.19,28,ESP
+Nico Williams,J1,LW,Forward,Athletic Club,Spanish La Liga,82,7.57,23,ESP
+Iñaki Williams,J1,RW,Forward,Athletic Club,Spanish La Liga,90,6.71,31,GHA
+Álex Berenguer,J1,AM,Forward,Athletic Club,Spanish La Liga,66,6.99,30,ESP
+Roberto Navarro,J1,AM,Forward,Athletic Club,Spanish La Liga,24,7.01,23,ESP
+Akor Adams,J1,AM,Forward,Sevilla,Spanish La Liga,90,6.91,25,NGA
+Adnan Januzaj,J1,AM,Forward,Sevilla,Spanish La Liga,20,5.91,30,BEL
+Roberto Férnandez,J1,AM,Forward,Espanyol,Spanish La Liga,73,6.06,23,ESP
+Javi Puado,J1,LW,Forward,Espanyol,Spanish La Liga,87,6.49,27,ESP
+Jofre,J1,RW,Forward,Espanyol,Spanish La Liga,45,5.27,24,ESP
+Tyrhys Dolan,J1,RW,Forward,Espanyol,Spanish La Liga,45,6.54,23,ENG
+Ramón Terrats,J1,AM,Forward,Espanyol,Spanish La Liga,45,5.96,24,ESP
+Kiké,J1,AM,Forward,Espanyol,Spanish La Liga,45,6.57,35,ESP
+Julián Álvarez,J1,AM,Forward,Atlético Madrid,Spanish La Liga,81,7.58,25,ARG
+Thiago Almada,J1,LW,Forward,Atlético Madrid,Spanish La Liga,67,6.89,24,ARG
+Giacomo Raspadori,J1,LW,Forward,Atlético Madrid,Spanish La Liga,23,6.43,25,ITA
+Giuliano Simeone,J1,RW,Forward,Atlético Madrid,Spanish La Liga,90,7.04,22,ARG
+Alex Baena,J1,AM,Forward,Atlético Madrid,Spanish La Liga,67,6.83,24,ESP
+Antoine Griezmann,J1,AM,Forward,Atlético Madrid,Spanish La Liga,23,6.12,34,FRA
+Álvaro Rodríguez,J1,AM,Forward,Elche,Spanish La Liga,64,6.75,21,URU
+Mourad El Ghezouani,J1,AM,Forward,Elche,Spanish La Liga,26,5.93,27,MAR
+Rodrigo Mendoza,J1,LW,Forward,Elche,Spanish La Liga,90,6.7,20,ESP
+Germán Valera,J1,RW,Forward,Elche,Spanish La Liga,81,6.81,23,ESP
+Cucho,J1,AM,Forward,Betis,Spanish La Liga,83,6.89,26,COL
+Rodrigo Riquelme,J1,LW,Forward,Betis,Spanish La Liga,69,6.75,25,ESP
+Ezequiel Ávila,J1,LW,Forward,Betis,Spanish La Liga,21,6.73,31,ARG
+Aitor Ruibal,J1,RW,Forward,Betis,Spanish La Liga,70,6.52,29,ESP
+Pablo Garcia,J1,RW,Forward,Betis,Spanish La Liga,20,5.42,19,ESP
+Giovani Lo Celso,J1,AM,Forward,Betis,Spanish La Liga,90,7.05,29,ARG
+Mohamed Meité,J1,AM,Forward,Rennes,French Ligue 1,36,5.33,17,FRA
+Musa Al-Taamari,J1,AM,Forward,Rennes,French Ligue 1,83,6.6,28,JOR
+Amine Gouiri,J1,AM,Forward,Marseille,French Ligue 1,85,6.77,25,ALG
+Jon Rowe,J1,LW,Forward,Marseille,French Ligue 1,62,6.26,22,ENG
+Pierre-Emerick Aubameyang,J1,AM,Forward,Marseille,French Ligue 1,28,6.05,36,GAB
+Mason Greenwood,J1,RW,Forward,Marseille,French Ligue 1,90,7.07,23,ENG
+Rayan Fofana,J1,AM,Forward,Lens,French Ligue 1,56,6.13,19,FRA
+Florian Thauvin,J1,AM,Forward,Lens,French Ligue 1,34,6.82,32,FRA
+Morgan Guilavogui,J1,AM,Forward,Lens,French Ligue 1,90,6.62,27,GUI
+Wesley Saïd,J1,AM,Forward,Lens,French Ligue 1,85,6.5,30,FRA
+Georges Mikautadze,J1,AM,Forward,Lyon,French Ligue 1,89,6.76,24,GEO
+Malick Fofana,J1,LW,Forward,Lyon,French Ligue 1,89,6.69,20,BEL
+Ainsley Maitland-Niles,J1,RW,Forward,Lyon,French Ligue 1,90,5.82,27,ENG
+Corentin Tolisso,J1,AM,Forward,Lyon,French Ligue 1,90,6.67,31,FRA
+Khalis Merah,J1,RW,Forward,Lyon,French Ligue 1,25,5.52,18,FRA
+Mika Biereth,J1,AM,Forward,Monaco,French Ligue 1,79,6.31,22,DEN
+Aleksandr Golovin,J1,LW,Forward,Monaco,French Ligue 1,88,6.49,29,RUS
 Maghnes Akliouche,J1,RW,Forward,Monaco,French Ligue 1,90,6.92,23,FRA
-Takumi Minamino,J1,AM,Forward,Monaco,French Ligue 1,80,6.37,30,JPN
-Eliesse Ben Seghir,J1,LW,Forward,Monaco,French Ligue 1,28,5.77,20,MAR
-Issa Soumaré,J1,AM,Forward,Le Havre,French Ligue 1,90,5.96,24,SEN
-Mbwana Samatta,J1,AM,Forward,Le Havre,French Ligue 1,33,6.44,32,TAN
+Takumi Minamino,J1,AM,Forward,Monaco,French Ligue 1,80,6.34,30,JPN
+Eliesse Ben Seghir,J1,LW,Forward,Monaco,French Ligue 1,28,5.76,20,MAR
+Issa Soumaré,J1,AM,Forward,Le Havre,French Ligue 1,90,5.92,24,SEN
+Mbwana Samatta,J1,AM,Forward,Le Havre,French Ligue 1,33,6.46,32,TAN
 Terem Moffi,J1,AM,Forward,Nice,French Ligue 1,75,6.41,26,NGA
-Isak Jansson,J1,AM,Forward,Nice,French Ligue 1,75,6.09,23,SWE
-Badredine Bouanani,J1,AM,Forward,Nice,French Ligue 1,75,6.6,20,ALG
+Isak Jansson,J1,AM,Forward,Nice,French Ligue 1,75,6.15,23,SWE
+Badredine Bouanani,J1,AM,Forward,Nice,French Ligue 1,75,6.67,20,ALG
 Frank Magri,J1,AM,Forward,Toulouse,French Ligue 1,75,6.03,25,CMR
-Yann Gboho,J1,LW,Forward,Toulouse,French Ligue 1,90,6.89,24,FRA
-Noah Edjouma,J1,RW,Forward,Toulouse,French Ligue 1,67,6.41,19,FRA
-Ludovic Ajorque,J1,AM,Forward,Brest,French Ligue 1,90,6.38,31,FRA
+Yann Gboho,J1,LW,Forward,Toulouse,French Ligue 1,90,6.88,24,FRA
+Noah Edjouma,J1,RW,Forward,Toulouse,French Ligue 1,67,6.46,19,FRA
+Ludovic Ajorque,J1,AM,Forward,Brest,French Ligue 1,90,6.4,31,FRA
 Mama Samba Baldé,J1,LW,Forward,Brest,French Ligue 1,89,6.62,29,GNB
-Romain Del Castillo,J1,RW,Forward,Brest,French Ligue 1,90,6.51,29,FRA
-Olivier Giroud,J1,AM,Forward,Lille,French Ligue 1,90,6.45,38,FRA
-Félix Correia,J1,LW,Forward,Lille,French Ligue 1,90,6.37,24,POR
-Marius Broholm,J1,RW,Forward,Lille,French Ligue 1,45,5.95,20,NOR
-Matias Fernandez-Pardo,J1,RW,Forward,Lille,French Ligue 1,45,6.65,20,BEL
-Hákon Arnar Haraldsson,J1,AM,Forward,Lille,French Ligue 1,84,6.9,22,ISL
-Esteban Lepaul,J1,AM,Forward,Angers,French Ligue 1,84,6.37,25,FRA
-Sidiki Cherif,J1,AM,Forward,Angers,French Ligue 1,61,6.27,18,FRA
-Lanroy Machine,J1,AM,Forward,Angers,French Ligue 1,29,5.5,19,FRA
-Louis Mouton,J1,AM,Forward,Angers,French Ligue 1,56,6.19,23,FRA
-Pierre-Yves Hamel,J1,AM,Forward,Paris FC,French Ligue 1,70,5.71,31,FRA
-Julien López,J1,AM,Forward,Paris FC,French Ligue 1,20,6.01,33,ALG
-Jean-Philippe Krasso,J1,AM,Forward,Paris FC,French Ligue 1,60,6.19,28,CIV
-Alimani Gory,J1,AM,Forward,Paris FC,French Ligue 1,30,5.65,28,MLI
-Lassine Sinayoko,J1,AM,Forward,Auxerre,French Ligue 1,87,6.47,25,MLI
-Mohamed Bamba,J1,AM,Forward,Lorient,French Ligue 1,64,6.17,23,CIV
-Sambou Soumano,J1,AM,Forward,Lorient,French Ligue 1,26,6.11,24,SEN
-Pablo Pagis,J1,LW,Forward,Lorient,French Ligue 1,65,5.89,22,FRA
-Dermane Karim,J1,LW,Forward,Lorient,French Ligue 1,25,6.13,21,TOG
-Tosin Aiyegun,J1,RW,Forward,Lorient,French Ligue 1,90,6.22,27,BEN
-Cheikh Tidiane Sabaly,J1,AM,Forward,Metz,French Ligue 1,72,5.92,26,SEN
-Brian Madjo,J1,AM,Forward,Metz,French Ligue 1,58,5.92,16,LUX
-Idrissa Guèye,J1,AM,Forward,Metz,French Ligue 1,32,5.81,18,SEN
-Joaquín Panichelli,J1,AM,Forward,Strasbourg,French Ligue 1,90,6.6,22,ARG
-Emanuel Emegha,J1,AM,Forward,Strasbourg,French Ligue 1,90,6.15,22,NED
-Mostafa Mohamed,J1,AM,Forward,Nantes,French Ligue 1,78,5.59,27,EGY
+Romain Del Castillo,J1,RW,Forward,Brest,French Ligue 1,90,6.46,29,FRA
+Olivier Giroud,J1,AM,Forward,Lille,French Ligue 1,90,6.44,38,FRA
+Félix Correia,J1,RW,Forward,Lille,French Ligue 1,90,6.51,24,POR
+Marius Broholm,J1,RW,Forward,Lille,French Ligue 1,45,5.9,20,NOR
+Matias Fernandez-Pardo,J1,LW,Forward,Lille,French Ligue 1,45,6.68,20,BEL
+Hákon Arnar Haraldsson,J1,AM,Forward,Lille,French Ligue 1,84,6.93,22,ISL
+Esteban Lepaul,J1,AM,Forward,Angers,French Ligue 1,84,6.35,25,FRA
+Sidiki Cherif,J1,AM,Forward,Angers,French Ligue 1,61,6.21,18,FRA
+Lanroy Machine,J1,AM,Forward,Angers,French Ligue 1,29,5.61,19,FRA
+Louis Mouton,J1,AM,Forward,Angers,French Ligue 1,56,6.17,23,FRA
+Pierre-Yves Hamel,J1,AM,Forward,Paris FC,French Ligue 1,70,5.74,31,FRA
+Julien López,J1,AM,Forward,Paris FC,French Ligue 1,20,6.03,33,ALG
+Jean-Philippe Krasso,J1,AM,Forward,Paris FC,French Ligue 1,60,6.2,28,CIV
+Alimani Gory,J1,AM,Forward,Paris FC,French Ligue 1,30,5.9,28,MLI
+Lassine Sinayoko,J1,AM,Forward,Auxerre,French Ligue 1,87,6.44,25,MLI
+Mohamed Bamba,J1,AM,Forward,Lorient,French Ligue 1,64,6.06,23,CIV
+Sambou Soumano,J1,AM,Forward,Lorient,French Ligue 1,26,6.15,24,SEN
+Pablo Pagis,J1,LW,Forward,Lorient,French Ligue 1,90,5.78,22,FRA
+Tosin Aiyegun,J1,RW,Forward,Lorient,French Ligue 1,90,6.2,27,BEN
+Cheikh Tidiane Sabaly,J1,AM,Forward,Metz,French Ligue 1,72,5.81,26,SEN
+Brian Madjo,J1,AM,Forward,Metz,French Ligue 1,58,5.89,16,LUX
+Idrissa Guèye,J1,AM,Forward,Metz,French Ligue 1,32,5.76,18,SEN
+Joaquín Panichelli,J1,AM,Forward,Strasbourg,French Ligue 1,90,6.55,22,ARG
+Emanuel Emegha,J1,AM,Forward,Strasbourg,French Ligue 1,90,6.09,22,NED
+Mostafa Mohamed,J1,AM,Forward,Nantes,French Ligue 1,78,5.66,27,EGY
 Gonçalo Ramos,J1,AM,Forward,Paris S-G,French Ligue 1,77,6.32,24,POR
-Bradley Barcola,J1,LW,Forward,Paris S-G,French Ligue 1,90,6.82,22,FRA
-Ibrahim Mbaye,J1,RW,Forward,Paris S-G,French Ligue 1,60,6.78,17,FRA
-Ousmane Dembélé,J1,RW,Forward,Paris S-G,French Ligue 1,30,7.08,28,FRA
-Hugo Ekitike,J1,AM,Forward,Liverpool,English Premier League,71,7.65,23,FRA
-Cody Gakpo,J1,LW,Forward,Liverpool,English Premier League,90,7.76,26,NED
-Mohamed Salah,J1,RW,Forward,Liverpool,English Premier League,90,7.27,33,EGY
-Florian Wirtz,J1,AM,Forward,Liverpool,English Premier League,81,7.14,22,GER
-Evanilson,J1,AM,Forward,Bournemouth,English Premier League,90,6.35,25,BRA
-Ollie Watkins,J1,AM,Forward,Aston Villa,English Premier League,90,6.65,29,ENG
-Morgan Rogers,J1,LW,Forward,Aston Villa,English Premier League,90,6.3,23,ENG
-John McGinn,J1,RW,Forward,Aston Villa,English Premier League,83,6.49,30,SCO
-Youri Tielemans,J1,AM,Forward,Aston Villa,English Premier League,90,5.99,28,BEL
-Anthony Gordon,J1,AM,Forward,Newcastle Utd,English Premier League,90,6.96,24,ENG
-Harvey Barnes,J1,LW,Forward,Newcastle Utd,English Premier League,89,7.15,27,ENG
-Anthony Elanga,J1,RW,Forward,Newcastle Utd,English Premier League,77,6.97,23,SWE
-Eliezer Mayenda,J1,AM,Forward,Sunderland,English Premier League,75,6.51,20,ESP
-Simon Adingra,J1,LW,Forward,Sunderland,English Premier League,75,6.32,23,CIV
-Chemsdine Talbi,J1,RW,Forward,Sunderland,English Premier League,89,6.24,20,BEL
+Bradley Barcola,J1,LW,Forward,Paris S-G,French Ligue 1,90,6.9,22,FRA
+Ibrahim Mbaye,J1,RW,Forward,Paris S-G,French Ligue 1,60,6.77,17,FRA
+Ousmane Dembélé,J1,RW,Forward,Paris S-G,French Ligue 1,30,7.19,28,FRA
+Hugo Ekitike,J1,AM,Forward,Liverpool,English Premier League,71,7.67,23,FRA
+Cody Gakpo,J1,LW,Forward,Liverpool,English Premier League,90,7.73,26,NED
+Mohamed Salah,J1,RW,Forward,Liverpool,English Premier League,90,7.4,33,EGY
+Florian Wirtz,J1,AM,Forward,Liverpool,English Premier League,81,7.3,22,GER
+Evanilson,J1,AM,Forward,Bournemouth,English Premier League,90,6.33,25,BRA
+Ollie Watkins,J1,AM,Forward,Aston Villa,English Premier League,90,6.62,29,ENG
+Morgan Rogers,J1,LW,Forward,Aston Villa,English Premier League,90,6.22,23,ENG
+John McGinn,J1,RW,Forward,Aston Villa,English Premier League,83,6.45,30,SCO
+Youri Tielemans,J1,AM,Forward,Aston Villa,English Premier League,90,5.93,28,BEL
+Anthony Gordon,J1,AM,Forward,Newcastle Utd,English Premier League,90,6.94,24,ENG
+Harvey Barnes,J1,LW,Forward,Newcastle Utd,English Premier League,89,7.35,27,ENG
+Anthony Elanga,J1,RW,Forward,Newcastle Utd,English Premier League,77,7.01,23,SWE
+Eliezer Mayenda,J1,AM,Forward,Sunderland,English Premier League,75,6.52,20,ESP
+Simon Adingra,J1,LW,Forward,Sunderland,English Premier League,75,6.21,23,CIV
+Chemsdine Talbi,J1,RW,Forward,Sunderland,English Premier League,89,6.19,20,BEL
 Niclas Füllkrug,J1,AM,Forward,West Ham,English Premier League,90,6.75,32,GER
-Jarrod Bowen,J1,AM,Forward,West Ham,English Premier League,90,7.11,28,ENG
-Lucas Paquetá,J1,AM,Forward,West Ham,English Premier League,90,6.79,27,BRA
-Richarlison,J1,AM,Forward,Tottenham,English Premier League,70,7.05,28,BRA
-Dominic Solanke,J1,AM,Forward,Tottenham,English Premier League,20,6.32,27,ENG
+Jarrod Bowen,J1,AM,Forward,West Ham,English Premier League,90,7.17,28,ENG
+Lucas Paquetá,J1,AM,Forward,West Ham,English Premier League,90,6.67,27,BRA
+Callum Wilson,J1,AM,Forward,West Ham,English Premier League,20,6.42,33,ENG
+Richarlison,J1,AM,Forward,Tottenham,English Premier League,70,7.14,28,BRA
+Dominic Solanke,J1,AM,Forward,Tottenham,English Premier League,20,6.25,27,ENG
 Brennan Johnson,J1,LW,Forward,Tottenham,English Premier League,79,6.82,24,WAL
-Mohammed Kudus,J1,RW,Forward,Tottenham,English Premier League,84,7.1,25,GHA
-Lyle Foster,J1,AM,Forward,Burnley,English Premier League,73,6.68,24,RSA
-Georginio Rutter,J1,AM,Forward,Brighton,English Premier League,68,6.52,23,FRA
-Danny Welbeck,J1,AM,Forward,Brighton,English Premier League,22,6.09,34,ENG
-Kaoru Mitoma,J1,LW,Forward,Brighton,English Premier League,82,6.58,28,JPN
-Yankuba Minteh,J1,RW,Forward,Brighton,English Premier League,68,6.37,21,GAM
-Ferdi Kadioglu,J1,LW,Forward,Brighton,English Premier League,22,5.61,25,TUR
-Matt O'Riley,J1,AM,Forward,Brighton,English Premier League,87,6.88,24,DEN
-Raúl Jiménez,J1,AM,Forward,Fulham,English Premier League,65,6.04,34,MEX
-Rodrigo Muniz,J1,AM,Forward,Fulham,English Premier League,25,6.5,24,BRA
-Alex Iwobi,J1,LW,Forward,Fulham,English Premier League,65,7.01,29,NGA
-Adama Traoré,J1,LW,Forward,Fulham,English Premier League,25,5.82,29,ESP
-Harry Wilson,J1,RW,Forward,Fulham,English Premier League,90,6.11,28,WAL
-Joshua King,J1,AM,Forward,Fulham,English Premier League,76,7.02,18,ENG
-Jørgen Strand Larsen,J1,AM,Forward,Wolves,English Premier League,81,6.42,25,NOR
-Jean-Ricner Bellegarde,J1,LW,Forward,Wolves,English Premier League,72,6.14,27,FRA
-Marshall Munetsi,J1,RW,Forward,Wolves,English Premier League,90,6.09,29,ZIM
-Erling Haaland,J1,AM,Forward,Manchester City,English Premier League,72,6.81,25,NOR
-Jeremy Doku,J1,LW,Forward,Manchester City,English Premier League,65,6.35,23,BEL
-Omar Marmoush,J1,LW,Forward,Manchester City,English Premier League,25,6.35,26,EGY
-Oscar Bobb,J1,RW,Forward,Manchester City,English Premier League,90,7.08,22,NOR
-Chris Wood,J1,AM,Forward,Nott'ham Forest,English Premier League,78,6.73,33,NZL
-Callum Hudson-Odoi,J1,LW,Forward,Nott'ham Forest,English Premier League,90,6.76,24,ENG
-Dan Ndoye,J1,RW,Forward,Nott'ham Forest,English Premier League,78,6.38,24,SUI
-Morgan Gibbs-White,J1,AM,Forward,Nott'ham Forest,English Premier League,83,7.84,25,ENG
-Thiago,J1,AM,Forward,Brentford,English Premier League,90,6.6,24,BRA
-Fabio Carvalho,J1,LW,Forward,Brentford,English Premier League,90,6.1,22,POR
-Keane Lewis-Potter,J1,RW,Forward,Brentford,English Premier League,68,6.02,24,ENG
-Antoni Milambo,J1,AM,Forward,Brentford,English Premier League,45,6.34,20,NED
-Kevin Schade,J1,LW,Forward,Brentford,English Premier League,45,6.05,23,GER
-Moisés Caicedo,J1,DM,Midfielder,Chelsea,English Premier League,90,6.83,23,ECU
+Mohammed Kudus,J1,RW,Forward,Tottenham,English Premier League,84,7.25,25,GHA
+Lyle Foster,J1,AM,Forward,Burnley,English Premier League,73,6.7,24,RSA
+Georginio Rutter,J1,AM,Forward,Brighton,English Premier League,68,6.48,23,FRA
+Danny Welbeck,J1,AM,Forward,Brighton,English Premier League,22,6.04,34,ENG
+Kaoru Mitoma,J1,LW,Forward,Brighton,English Premier League,82,6.47,28,JPN
+Yankuba Minteh,J1,RW,Forward,Brighton,English Premier League,68,6.38,21,GAM
+Ferdi Kadioglu,J1,LW,Forward,Brighton,English Premier League,22,5.67,25,TUR
+Matt O'Riley,J1,AM,Forward,Brighton,English Premier League,87,6.9,24,DEN
+Raúl Jiménez,J1,AM,Forward,Fulham,English Premier League,65,6.0,34,MEX
+Rodrigo Muniz,J1,AM,Forward,Fulham,English Premier League,25,6.48,24,BRA
+Alex Iwobi,J1,LW,Forward,Fulham,English Premier League,65,6.96,29,NGA
+Adama Traoré,J1,LW,Forward,Fulham,English Premier League,25,5.79,29,ESP
+Harry Wilson,J1,RW,Forward,Fulham,English Premier League,90,6.0,28,WAL
+Joshua King,J1,AM,Forward,Fulham,English Premier League,76,7.09,18,ENG
+Jørgen Strand Larsen,J1,AM,Forward,Wolves,English Premier League,81,6.44,25,NOR
+Jean-Ricner Bellegarde,J1,LW,Forward,Wolves,English Premier League,72,6.23,27,FRA
+Marshall Munetsi,J1,RW,Forward,Wolves,English Premier League,90,6.07,29,ZIM
+Erling Haaland,J1,AM,Forward,Manchester City,English Premier League,72,6.82,25,NOR
+Jeremy Doku,J1,LW,Forward,Manchester City,English Premier League,65,6.28,23,BEL
+Omar Marmoush,J1,LW,Forward,Manchester City,English Premier League,25,6.31,26,EGY
+Oscar Bobb,J1,RW,Forward,Manchester City,English Premier League,90,7.13,22,NOR
+Chris Wood,J1,AM,Forward,Nott'ham Forest,English Premier League,78,6.74,33,NZL
+Callum Hudson-Odoi,J1,LW,Forward,Nott'ham Forest,English Premier League,90,6.75,24,ENG
+Dan Ndoye,J1,RW,Forward,Nott'ham Forest,English Premier League,78,6.37,24,SUI
+Morgan Gibbs-White,J1,AM,Forward,Nott'ham Forest,English Premier League,83,8.29,25,ENG
+Thiago,J1,AM,Forward,Brentford,English Premier League,90,6.55,24,BRA
+Fabio Carvalho,J1,LW,Forward,Brentford,English Premier League,90,6.09,22,POR
+Keane Lewis-Potter,J1,RW,Forward,Brentford,English Premier League,68,5.97,24,ENG
+Antoni Milambo,J1,AM,Forward,Brentford,English Premier League,45,6.31,20,NED
+Kevin Schade,J1,LW,Forward,Brentford,English Premier League,45,6.02,23,GER
+Moisés Caicedo,J1,DM,Midfielder,Chelsea,English Premier League,90,6.97,23,ECU
 Enzo Fernández,J1,DM,Midfielder,Chelsea,English Premier League,78,6.31,24,ARG
 Will Hughes,J1,CM,Midfielder,Crystal Palace,English Premier League,69,5.97,30,ENG
-Jefferson Lerma,J1,CM,Midfielder,Crystal Palace,English Premier League,21,5.66,30,COL
-Adam Wharton,J1,CM,Midfielder,Crystal Palace,English Premier League,90,6.62,21,ENG
-Tyrick Mitchell,J1,WB,Midfielder,Crystal Palace,English Premier League,90,6.48,25,ENG
-Daniel Muñoz,J1,WB,Midfielder,Crystal Palace,English Premier League,90,6.45,29,COL
-Bruno Fernandes,J1,CM,Midfielder,Manchester Utd,English Premier League,90,7.51,30,POR
-Casemiro,J1,CM,Midfielder,Manchester Utd,English Premier League,64,6.73,33,BRA
-Manuel Ugarte Ribeiro,J1,CM,Midfielder,Manchester Utd,English Premier League,26,6.82,24,URU
-Patrick Dorgu,J1,WB,Midfielder,Manchester Utd,English Premier League,90,6.78,20,DEN
+Jefferson Lerma,J1,CM,Midfielder,Crystal Palace,English Premier League,21,5.9,30,COL
+Adam Wharton,J1,CM,Midfielder,Crystal Palace,English Premier League,90,6.64,21,ENG
+Tyrick Mitchell,J1,WB,Midfielder,Crystal Palace,English Premier League,90,6.45,25,ENG
+Daniel Muñoz,J1,WB,Midfielder,Crystal Palace,English Premier League,90,6.42,29,COL
+Bruno Fernandes,J1,CM,Midfielder,Manchester Utd,English Premier League,90,7.43,30,POR
+Casemiro,J1,CM,Midfielder,Manchester Utd,English Premier League,64,6.75,33,BRA
+Manuel Ugarte Ribeiro,J1,CM,Midfielder,Manchester Utd,English Premier League,26,6.67,24,URU
+Patrick Dorgu,J1,WB,Midfielder,Manchester Utd,English Premier League,90,6.79,20,DEN
 Diogo Dalot,J1,WB,Midfielder,Manchester Utd,English Premier League,54,6.34,26,POR
-Amad Diallo,J1,WB,Midfielder,Manchester Utd,English Premier League,36,7.07,23,CIV
-Declan Rice,J1,LM,Midfielder,Arsenal,English Premier League,82,6.43,26,ENG
-Martín Zubimendi,J1,CM,Midfielder,Arsenal,English Premier League,90,6.76,26,ESP
-Martin Ødegaard,J1,RM,Midfielder,Arsenal,English Premier League,90,7.22,26,NOR
-Viktor Tsyhankov,J1,CM,Midfielder,Girona,Spanish La Liga,90,6.52,27,UKR
-Jhon Solis,J1,CM,Midfielder,Girona,Spanish La Liga,90,6.23,20,COL
-Yangel Herrera,J1,RM,Midfielder,Girona,Spanish La Liga,69,6.36,27,VEN
-Thomas Lemar,J1,CM,Midfielder,Girona,Spanish La Liga,21,7.05,29,FRA
-Unai López,J1,DM,Midfielder,Rayo Vallecano,Spanish La Liga,80,7.07,29,ESP
+Amad Diallo,J1,WB,Midfielder,Manchester Utd,English Premier League,36,7.2,23,CIV
+Declan Rice,J1,LM,Midfielder,Arsenal,English Premier League,82,6.39,26,ENG
+Martín Zubimendi,J1,CM,Midfielder,Arsenal,English Premier League,90,6.74,26,ESP
+Martin Ødegaard,J1,RM,Midfielder,Arsenal,English Premier League,90,7.37,26,NOR
+Anton Stach,J1,LM,Midfielder,Leeds United,English Premier League,90,7.74,26,GER
+Ethan Ampadu,J1,CM,Midfielder,Leeds United,English Premier League,77,6.71,24,WAL
+Ao Tanaka,J1,RM,Midfielder,Leeds United,English Premier League,89,7.01,26,JPN
+Idrissa Gana Gueye,J1,DM,Midfielder,Everton,English Premier League,90,6.74,35,SEN
+Tim Iroegbunam,J1,DM,Midfielder,Everton,English Premier League,70,6.09,22,ENG
+Viktor Tsyhankov,J1,CM,Midfielder,Girona,Spanish La Liga,90,6.48,27,UKR
+Jhon Solis,J1,CM,Midfielder,Girona,Spanish La Liga,90,6.25,20,COL
+Yangel Herrera,J1,RM,Midfielder,Girona,Spanish La Liga,69,6.33,27,VEN
+Thomas Lemar,J1,CM,Midfielder,Girona,Spanish La Liga,21,7.16,29,FRA
+Unai López,J1,DM,Midfielder,Rayo Vallecano,Spanish La Liga,80,7.2,29,ESP
 Pathé Ciss,J1,DM,Midfielder,Rayo Vallecano,Spanish La Liga,90,6.85,31,SEN
-Yeremi Pino,J1,LM,Midfielder,Villarreal,Spanish La Liga,90,7.18,22,ESP
-Pape Gueye,J1,CM,Midfielder,Villarreal,Spanish La Liga,69,7.59,26,SEN
-Daniel Parejo,J1,CM,Midfielder,Villarreal,Spanish La Liga,21,7.03,36,ESP
-Santi Comesaña,J1,CM,Midfielder,Villarreal,Spanish La Liga,81,6.78,28,ESP
-Nicolas Pépé,J1,RM,Midfielder,Villarreal,Spanish La Liga,81,7.3,30,CIV
-Ilyas Chaira,J1,CM,Midfielder,Oviedo,Spanish La Liga,76,6.37,24,MAR
+Tajon Buchanan,J1,RM,Midfielder,Villarreal,Spanish La Liga,44,6.65,26,CAN
+Yeremi Pino,J1,LM,Midfielder,Villarreal,Spanish La Liga,90,7.32,22,ESP
+Pape Gueye,J1,CM,Midfielder,Villarreal,Spanish La Liga,69,7.75,26,SEN
+Daniel Parejo,J1,CM,Midfielder,Villarreal,Spanish La Liga,21,7.11,36,ESP
+Santi Comesaña,J1,CM,Midfielder,Villarreal,Spanish La Liga,81,6.8,28,ESP
+Nicolas Pépé,J1,RM,Midfielder,Villarreal,Spanish La Liga,81,7.53,30,CIV
+Ilyas Chaira,J1,CM,Midfielder,Oviedo,Spanish La Liga,76,6.49,24,MAR
 Luka Ilić,J1,CM,Midfielder,Oviedo,Spanish La Liga,76,5.98,26,SRB
-Alberto Reina,J1,DM,Midfielder,Oviedo,Spanish La Liga,26,6.64,27,ESP
-Kwasi Sibo,J1,CM,Midfielder,Oviedo,Spanish La Liga,90,6.12,27,GHA
-Mateo Joseph,J1,RM,Midfielder,Mallorca,Spanish La Liga,45,5.84,21,ESP
-Dani Rodríguez,J1,LM,Midfielder,Mallorca,Spanish La Liga,45,6.14,37,ESP
-Manu Morlanes,J1,DM,Midfielder,Mallorca,Spanish La Liga,32,5.75,26,ESP
-Omar Mascarell,J1,CM,Midfielder,Mallorca,Spanish La Liga,45,6.38,32,EQG
-Pedri,J1,DM,Midfielder,Barcelona,Spanish La Liga,90,7.4,22,ESP
-Frenkie de Jong,J1,DM,Midfielder,Barcelona,Spanish La Liga,90,6.65,28,NED
-Carles Aleñá,J1,LM,Midfielder,Alavés,Spanish La Liga,89,7.25,27,ESP
-Pablo Ibáñez,J1,CM,Midfielder,Alavés,Spanish La Liga,76,6.59,26,ESP
-Jon Guridi,J1,CM,Midfielder,Alavés,Spanish La Liga,76,6.44,30,ESP
-Carlos Vicente,J1,RM,Midfielder,Alavés,Spanish La Liga,85,6.77,26,ESP
-Antonio Blanco,J1,DM,Midfielder,Alavés,Spanish La Liga,90,7.14,25,ESP
-Brugui,J1,LM,Midfielder,Levante,Spanish La Liga,85,5.91,28,ESP
-Oriol Rey,J1,CM,Midfielder,Levante,Spanish La Liga,90,6.67,27,ESP
-Pablo Martínez,J1,CM,Midfielder,Levante,Spanish La Liga,84,6.16,27,ESP
-Víctor García,J1,RM,Midfielder,Levante,Spanish La Liga,53,5.45,27,ESP
-José Luis Morales,J1,LM,Midfielder,Levante,Spanish La Liga,37,6.3,38,ESP
-Diego López,J1,LM,Midfielder,Valencia,Spanish La Liga,90,6.62,23,ESP
-José Luis García Vayá,J1,CM,Midfielder,Valencia,Spanish La Liga,79,6.89,27,ESP
-Javier Guerra,J1,CM,Midfielder,Valencia,Spanish La Liga,86,6.82,22,ESP
-Luis Rioja,J1,RM,Midfielder,Valencia,Spanish La Liga,90,6.74,31,ESP
-Ander Barrenetxea,J1,LM,Midfielder,Real Sociedad,Spanish La Liga,90,7.02,23,ESP
-Pablo Marín,J1,CM,Midfielder,Real Sociedad,Spanish La Liga,90,6.63,22,ESP
-Beñat Turrientes,J1,CM,Midfielder,Real Sociedad,Spanish La Liga,79,6.67,23,ESP
-Takefusa Kubo,J1,RM,Midfielder,Real Sociedad,Spanish La Liga,79,6.43,24,JPN
-Mihailo Ristić,J1,LM,Midfielder,Celta Vigo,Spanish La Liga,56,7.04,29,SRB
-Ilaix Moriba,J1,CM,Midfielder,Celta Vigo,Spanish La Liga,90,6.42,22,GUI
-Fran Beltrán,J1,CM,Midfielder,Celta Vigo,Spanish La Liga,56,6.72,26,ESP
-Hugo Sotelo,J1,CM,Midfielder,Celta Vigo,Spanish La Liga,34,6.92,21,ESP
-Óscar Mingueza,J1,RM,Midfielder,Celta Vigo,Spanish La Liga,90,7.15,26,ESP
-Mauro Arambarri,J1,CM,Midfielder,Getafe,Spanish La Liga,90,6.49,29,URU
+Alberto Reina,J1,DM,Midfielder,Oviedo,Spanish La Liga,26,6.6,27,ESP
+Kwasi Sibo,J1,CM,Midfielder,Oviedo,Spanish La Liga,90,6.27,27,GHA
+Mateo Joseph,J1,RM,Midfielder,Mallorca,Spanish La Liga,45,5.79,21,ESP
+Dani Rodríguez,J1,LM,Midfielder,Mallorca,Spanish La Liga,45,6.11,37,ESP
+Manu Morlanes,J1,DM,Midfielder,Mallorca,Spanish La Liga,32,5.77,26,ESP
+Omar Mascarell,J1,CM,Midfielder,Mallorca,Spanish La Liga,45,6.36,32,EQG
+Pedri,J1,DM,Midfielder,Barcelona,Spanish La Liga,90,7.67,22,ESP
+Frenkie de Jong,J1,DM,Midfielder,Barcelona,Spanish La Liga,90,6.62,28,NED
+Carles Aleñá,J1,LM,Midfielder,Alavés,Spanish La Liga,89,7.33,27,ESP
+Pablo Ibáñez,J1,CM,Midfielder,Alavés,Spanish La Liga,76,6.53,26,ESP
+Jon Guridi,J1,CM,Midfielder,Alavés,Spanish La Liga,76,6.4,30,ESP
+Carlos Vicente,J1,RM,Midfielder,Alavés,Spanish La Liga,85,6.71,26,ESP
+Antonio Blanco,J1,DM,Midfielder,Alavés,Spanish La Liga,90,7.26,25,ESP
+Brugui,J1,LM,Midfielder,Levante,Spanish La Liga,85,5.83,28,ESP
+Oriol Rey,J1,CM,Midfielder,Levante,Spanish La Liga,90,6.73,27,ESP
+Pablo Martínez,J1,CM,Midfielder,Levante,Spanish La Liga,84,6.11,27,ESP
+Víctor García,J1,RM,Midfielder,Levante,Spanish La Liga,53,5.64,27,ESP
+José Luis Morales,J1,LM,Midfielder,Levante,Spanish La Liga,37,6.29,38,ESP
+Diego López,J1,LM,Midfielder,Valencia,Spanish La Liga,90,6.6,23,ESP
+José Luis García Vayá,J1,CM,Midfielder,Valencia,Spanish La Liga,79,6.9,27,ESP
+Javier Guerra,J1,CM,Midfielder,Valencia,Spanish La Liga,86,6.74,22,ESP
+Luis Rioja,J1,RM,Midfielder,Valencia,Spanish La Liga,90,6.77,31,ESP
+Pablo Marín,J1,DM,Midfielder,Real Sociedad,Spanish La Liga,90,6.46,22,ESP
+Beñat Turrientes,J1,DM,Midfielder,Real Sociedad,Spanish La Liga,79,6.5,23,ESP
+Mihailo Ristić,J1,LM,Midfielder,Celta Vigo,Spanish La Liga,56,7.03,29,SRB
+Ilaix Moriba,J1,CM,Midfielder,Celta Vigo,Spanish La Liga,90,6.39,22,GUI
+Fran Beltrán,J1,CM,Midfielder,Celta Vigo,Spanish La Liga,56,6.71,26,ESP
+Hugo Sotelo,J1,CM,Midfielder,Celta Vigo,Spanish La Liga,34,7.12,21,ESP
+Óscar Mingueza,J1,RM,Midfielder,Celta Vigo,Spanish La Liga,90,7.28,26,ESP
+Mauro Arambarri,J1,CM,Midfielder,Getafe,Spanish La Liga,90,6.46,29,URU
 Luis Milla,J1,CM,Midfielder,Getafe,Spanish La Liga,90,6.42,30,ESP
-Mario Martín,J1,CM,Midfielder,Getafe,Spanish La Liga,90,6.66,21,ESP
-Mikel Jauregizar,J1,DM,Midfielder,Athletic Club,Spanish La Liga,90,6.68,21,ESP
-Iñigo Ruiz de Galarreta,J1,DM,Midfielder,Athletic Club,Spanish La Liga,77,6.69,32,ESP
-Stanis Idumbo,J1,LM,Midfielder,Sevilla,Spanish La Liga,45,6.92,20,BEL
-Chidera Ejuke,J1,LM,Midfielder,Sevilla,Spanish La Liga,45,6.98,27,NGA
-Djibril Sow,J1,CM,Midfielder,Sevilla,Spanish La Liga,86,6.85,28,SUI
-Lucien Agoume,J1,CM,Midfielder,Sevilla,Spanish La Liga,90,7.25,23,FRA
-Dodi Lukebakio,J1,RM,Midfielder,Sevilla,Spanish La Liga,90,7.11,27,BEL
-Nemanja Gudelj,J1,DM,Midfielder,Sevilla,Spanish La Liga,81,6.84,33,SRB
-Edu Expósito,J1,DM,Midfielder,Espanyol,Spanish La Liga,90,7.27,29,ESP
-Pol Lozano,J1,DM,Midfielder,Espanyol,Spanish La Liga,90,6.55,25,ESP
+Mario Martín,J1,CM,Midfielder,Getafe,Spanish La Liga,90,6.65,21,ESP
+Mikel Jauregizar,J1,DM,Midfielder,Athletic Club,Spanish La Liga,90,6.62,21,ESP
+Iñigo Ruiz de Galarreta,J1,DM,Midfielder,Athletic Club,Spanish La Liga,77,6.71,32,ESP
+Stanis Idumbo,J1,LM,Midfielder,Sevilla,Spanish La Liga,45,6.83,20,BEL
+Chidera Ejuke,J1,LM,Midfielder,Sevilla,Spanish La Liga,45,7.04,27,NGA
+Djibril Sow,J1,CM,Midfielder,Sevilla,Spanish La Liga,86,6.66,28,SUI
+Lucien Agoume,J1,CM,Midfielder,Sevilla,Spanish La Liga,90,7.32,23,FRA
+Dodi Lukebakio,J1,RM,Midfielder,Sevilla,Spanish La Liga,90,7.22,27,BEL
+Nemanja Gudelj,J1,DM,Midfielder,Sevilla,Spanish La Liga,81,6.82,33,SRB
+Edu Expósito,J1,DM,Midfielder,Espanyol,Spanish La Liga,90,7.47,29,ESP
+Pol Lozano,J1,DM,Midfielder,Espanyol,Spanish La Liga,90,6.49,25,ESP
 Johnny Cardoso,J1,DM,Midfielder,Atlético Madrid,Spanish La Liga,45,6.74,23,USA
-Koke,J1,DM,Midfielder,Atlético Madrid,Spanish La Liga,45,6.44,33,ESP
-Conor Gallagher,J1,DM,Midfielder,Atlético Madrid,Spanish La Liga,45,6.6,25,ENG
-Pablo Barrios,J1,DM,Midfielder,Atlético Madrid,Spanish La Liga,45,7.06,22,ESP
+Koke,J1,DM,Midfielder,Atlético Madrid,Spanish La Liga,45,6.53,33,ESP
+Conor Gallagher,J1,DM,Midfielder,Atlético Madrid,Spanish La Liga,45,6.54,25,ENG
+Pablo Barrios,J1,DM,Midfielder,Atlético Madrid,Spanish La Liga,45,7.17,22,ESP
+Ali Houary,J1,LM,Midfielder,Elche,Spanish La Liga,64,6.99,20,MAR
+Martim Neto,J1,LM,Midfielder,Elche,Spanish La Liga,26,7.29,22,POR
+Marc Aguado,J1,CM,Midfielder,Elche,Spanish La Liga,64,6.97,25,ESP
+Jairo Izquierdo,J1,CM,Midfielder,Elche,Spanish La Liga,26,6.12,31,ESP
+Aleix Febas,J1,RM,Midfielder,Elche,Spanish La Liga,90,6.91,29,ESP
+Pablo Fornals,J1,DM,Midfielder,Betis,Spanish La Liga,90,6.49,29,ESP
+Sergi Altimira,J1,DM,Midfielder,Betis,Spanish La Liga,90,6.56,23,ESP
 Seko Fofana,J1,CM,Midfielder,Rennes,French Ligue 1,85,6.28,30,CIV
-Valentin Rongier,J1,CM,Midfielder,Rennes,French Ligue 1,90,6.03,30,FRA
+Valentin Rongier,J1,CM,Midfielder,Rennes,French Ligue 1,90,5.98,30,FRA
 Fabian Rieder,J1,CM,Midfielder,Rennes,French Ligue 1,63,6.3,23,SUI
-Mahdi Camara,J1,CM,Midfielder,Rennes,French Ligue 1,27,5.57,27,FRA
-Michael Amir Murillo,J1,CM,Midfielder,Marseille,French Ligue 1,77,6.13,29,PAN
-Adrien Rabiot,J1,CM,Midfielder,Marseille,French Ligue 1,90,6.36,30,FRA
-Angel Gomes,J1,DM,Midfielder,Marseille,French Ligue 1,85,6.9,24,ENG
-Pierre Højbjerg,J1,DM,Midfielder,Marseille,French Ligue 1,90,6.57,30,DEN
-Andy Diouf,J1,CM,Midfielder,Lens,French Ligue 1,90,6.61,22,FRA
+Mahdi Camara,J1,CM,Midfielder,Rennes,French Ligue 1,27,5.74,27,FRA
+Michael Amir Murillo,J1,CM,Midfielder,Marseille,French Ligue 1,77,6.08,29,PAN
+Adrien Rabiot,J1,CM,Midfielder,Marseille,French Ligue 1,90,6.34,30,FRA
+Angel Gomes,J1,DM,Midfielder,Marseille,French Ligue 1,85,6.93,24,ENG
+Pierre Højbjerg,J1,DM,Midfielder,Marseille,French Ligue 1,90,6.51,30,DEN
+Andy Diouf,J1,CM,Midfielder,Lens,French Ligue 1,90,6.53,22,FRA
 Adrien Thomasson,J1,CM,Midfielder,Lens,French Ligue 1,90,6.72,31,FRA
-Deiver Machado,J1,WB,Midfielder,Lens,French Ligue 1,75,6.47,31,COL
-Ruben Aguilar,J1,WB,Midfielder,Lens,French Ligue 1,85,6.56,32,FRA
-Tanner Tessmann,J1,DM,Midfielder,Lyon,French Ligue 1,90,6.36,23,USA
-Tyler Morton,J1,DM,Midfielder,Lyon,French Ligue 1,90,6.33,22,ENG
-Denis Zakaria,J1,DM,Midfielder,Monaco,French Ligue 1,90,7.01,28,SUI
-Lamine Camara,J1,DM,Midfielder,Monaco,French Ligue 1,62,6.65,21,SEN
-Yassine Kechta,J1,LM,Midfielder,Le Havre,French Ligue 1,90,6.78,23,MAR
-Rassoul Ndiaye,J1,CM,Midfielder,Le Havre,French Ligue 1,78,6.31,23,SEN
-Simon Ebonog,J1,CM,Midfielder,Le Havre,French Ligue 1,57,5.88,21,CMR
+Deiver Machado,J1,WB,Midfielder,Lens,French Ligue 1,75,6.39,31,COL
+Ruben Aguilar,J1,WB,Midfielder,Lens,French Ligue 1,85,6.65,32,FRA
+Tanner Tessmann,J1,DM,Midfielder,Lyon,French Ligue 1,90,6.42,23,USA
+Tyler Morton,J1,DM,Midfielder,Lyon,French Ligue 1,90,6.28,22,ENG
+Denis Zakaria,J1,DM,Midfielder,Monaco,French Ligue 1,90,7.08,28,SUI
+Lamine Camara,J1,DM,Midfielder,Monaco,French Ligue 1,62,6.71,21,SEN
+Yassine Kechta,J1,LM,Midfielder,Le Havre,French Ligue 1,90,6.91,23,MAR
+Rassoul Ndiaye,J1,CM,Midfielder,Le Havre,French Ligue 1,78,6.3,23,SEN
+Simon Ebonog,J1,CM,Midfielder,Le Havre,French Ligue 1,57,5.86,21,CMR
 Younes Namli,J1,RM,Midfielder,Le Havre,French Ligue 1,57,5.97,31,DEN
-Fodé Doucouré,J1,CM,Midfielder,Le Havre,French Ligue 1,33,5.6,24,MLI
-Etienne Youte Kinkoue,J1,DM,Midfielder,Le Havre,French Ligue 1,77,5.97,23,FRA
-Tom Louchet,J1,CM,Midfielder,Nice,French Ligue 1,75,6.11,22,FRA
-Hicham Boudaoui,J1,CM,Midfielder,Nice,French Ligue 1,90,6.61,25,ALG
-Melvin Bard,J1,WB,Midfielder,Nice,French Ligue 1,90,6.3,24,FRA
-Jonathan Clauss,J1,WB,Midfielder,Nice,French Ligue 1,90,6.9,32,FRA
-Warren Kamanzi,J1,RM,Midfielder,Toulouse,French Ligue 1,23,6.14,24,NOR
-Dayann Methalie,J1,LM,Midfielder,Toulouse,French Ligue 1,81,6.16,19,FRA
-Mario Sauer,J1,CM,Midfielder,Toulouse,French Ligue 1,67,6.37,21,SVK
-Alexis Vossah,J1,CM,Midfielder,Toulouse,French Ligue 1,23,6.09,17,FRA
-Jaydee Canvot,J1,CM,Midfielder,Toulouse,French Ligue 1,90,6.28,19,FRA
-Aron Dønnum,J1,RM,Midfielder,Toulouse,French Ligue 1,90,6.83,27,NOR
-Hugo Magnetti,J1,LM,Midfielder,Brest,French Ligue 1,90,5.95,27,FRA
-Pierre Lees-Melou,J1,CM,Midfielder,Brest,French Ligue 1,90,6.9,32,FRA
-Kamory Doumbia,J1,RM,Midfielder,Brest,French Ligue 1,89,7.2,22,MLI
-Benjamin André,J1,DM,Midfielder,Lille,French Ligue 1,90,6.64,35,FRA
-Ngal'Ayel Mukau,J1,DM,Midfielder,Lille,French Ligue 1,84,5.94,20,COD
-Yassin Belkhdim,J1,CM,Midfielder,Angers,French Ligue 1,84,6.51,23,FRA
-Haris Belkebla,J1,CM,Midfielder,Angers,French Ligue 1,90,6.21,31,ALG
-Florent Hanin,J1,WB,Midfielder,Angers,French Ligue 1,71,6.12,35,ALG
-Lilian Raolisoa,J1,WB,Midfielder,Angers,French Ligue 1,61,6.13,25,FRA
-Jim Allevinah,J1,WB,Midfielder,Angers,French Ligue 1,29,6.28,30,GAB
-Moses Simon,J1,LM,Midfielder,Paris FC,French Ligue 1,71,6.48,30,NGA
-Maxime Lopez,J1,CM,Midfielder,Paris FC,French Ligue 1,90,6.99,27,FRA
-Lohann Doucet,J1,CM,Midfielder,Paris FC,French Ligue 1,60,6.39,22,FRA
+Fodé Doucouré,J1,CM,Midfielder,Le Havre,French Ligue 1,33,5.66,24,MLI
+Etienne Youte Kinkoue,J1,DM,Midfielder,Le Havre,French Ligue 1,77,5.91,23,FRA
+Tom Louchet,J1,CM,Midfielder,Nice,French Ligue 1,75,6.22,22,FRA
+Hicham Boudaoui,J1,CM,Midfielder,Nice,French Ligue 1,90,6.44,25,ALG
+Melvin Bard,J1,WB,Midfielder,Nice,French Ligue 1,90,6.13,24,FRA
+Jonathan Clauss,J1,WB,Midfielder,Nice,French Ligue 1,90,6.86,32,FRA
+Warren Kamanzi,J1,RM,Midfielder,Toulouse,French Ligue 1,23,6.32,24,NOR
+Dayann Methalie,J1,LM,Midfielder,Toulouse,French Ligue 1,81,6.11,19,FRA
+Mario Sauer,J1,CM,Midfielder,Toulouse,French Ligue 1,67,6.35,21,SVK
+Alexis Vossah,J1,CM,Midfielder,Toulouse,French Ligue 1,23,6.06,17,FRA
+Jaydee Canvot,J1,CM,Midfielder,Toulouse,French Ligue 1,90,6.31,19,FRA
+Aron Dønnum,J1,RM,Midfielder,Toulouse,French Ligue 1,90,6.92,27,NOR
+Hugo Magnetti,J1,LM,Midfielder,Brest,French Ligue 1,90,5.99,27,FRA
+Pierre Lees-Melou,J1,CM,Midfielder,Brest,French Ligue 1,90,7.03,32,FRA
+Kamory Doumbia,J1,RM,Midfielder,Brest,French Ligue 1,89,7.34,22,MLI
+Benjamin André,J1,DM,Midfielder,Lille,French Ligue 1,90,6.65,35,FRA
+Ngal'Ayel Mukau,J1,DM,Midfielder,Lille,French Ligue 1,84,5.95,20,COD
+Yassin Belkhdim,J1,CM,Midfielder,Angers,French Ligue 1,84,6.47,23,FRA
+Haris Belkebla,J1,CM,Midfielder,Angers,French Ligue 1,90,6.19,31,ALG
+Florent Hanin,J1,WB,Midfielder,Angers,French Ligue 1,71,6.14,35,ALG
+Lilian Raolisoa,J1,WB,Midfielder,Angers,French Ligue 1,61,6.09,25,FRA
+Jim Allevinah,J1,WB,Midfielder,Angers,French Ligue 1,29,6.16,30,GAB
+Moses Simon,J1,LM,Midfielder,Paris FC,French Ligue 1,71,6.44,30,NGA
+Maxime Lopez,J1,CM,Midfielder,Paris FC,French Ligue 1,90,7.06,27,FRA
+Lohann Doucet,J1,CM,Midfielder,Paris FC,French Ligue 1,60,6.37,22,FRA
 Vincent Marchetti,J1,CM,Midfielder,Paris FC,French Ligue 1,30,6.68,28,FRA
-Ilan Kebbal,J1,RM,Midfielder,Paris FC,French Ligue 1,90,6.97,27,ALG
-Ibrahim Osman,J1,LM,Midfielder,Auxerre,French Ligue 1,81,6.5,20,GHA
-Kévin Danois,J1,CM,Midfielder,Auxerre,French Ligue 1,90,6.57,21,FRA
-Elisha Owusu,J1,CM,Midfielder,Auxerre,French Ligue 1,90,6.5,27,GHA
-Josué Casimir,J1,RM,Midfielder,Auxerre,French Ligue 1,81,6.03,23,FRA
-Arsène Kouassi,J1,LM,Midfielder,Lorient,French Ligue 1,74,5.37,21,BFA
-Laurent Abergel,J1,CM,Midfielder,Lorient,French Ligue 1,90,6.33,32,FRA
-Arthur Avom Ebong,J1,CM,Midfielder,Lorient,French Ligue 1,90,6.51,20,CMR
-Joel Mvuka,J1,RM,Midfielder,Lorient,French Ligue 1,64,6.23,22,NOR
-Panos Katseris,J1,RM,Midfielder,Lorient,French Ligue 1,26,6.52,24,GRE
-Jessy Deminguet,J1,CM,Midfielder,Metz,French Ligue 1,72,6.4,27,FRA
-Benjamin Stambouli,J1,CM,Midfielder,Metz,French Ligue 1,90,6.56,35,FRA
-Boubacar Traoré,J1,CM,Midfielder,Metz,French Ligue 1,83,5.77,23,MLI
-Valentín Barco,J1,CM,Midfielder,Strasbourg,French Ligue 1,90,6.81,21,ARG
-Samir El Mourabet,J1,CM,Midfielder,Strasbourg,French Ligue 1,71,6.76,19,MAR
-Félix Lemaréchal,J1,CM,Midfielder,Strasbourg,French Ligue 1,90,6.68,22,FRA
-Bahereba Guirassy,J1,LM,Midfielder,Nantes,French Ligue 1,58,6.32,18,FRA
-Hong Hyunseok,J1,RM,Midfielder,Nantes,French Ligue 1,32,6.36,26,KOR
-Johann Lepenant,J1,CM,Midfielder,Nantes,French Ligue 1,90,6.35,22,FRA
-Louis Leroux,J1,CM,Midfielder,Nantes,French Ligue 1,85,6.26,19,FRA
-Yassine Benhattab,J1,RM,Midfielder,Nantes,French Ligue 1,58,6.32,22,FRA
+Ilan Kebbal,J1,RM,Midfielder,Paris FC,French Ligue 1,90,7.03,27,ALG
+Ibrahim Osman,J1,LM,Midfielder,Auxerre,French Ligue 1,81,6.54,20,GHA
+Kévin Danois,J1,CM,Midfielder,Auxerre,French Ligue 1,90,6.56,21,FRA
+Elisha Owusu,J1,CM,Midfielder,Auxerre,French Ligue 1,90,6.42,27,GHA
+Josué Casimir,J1,RM,Midfielder,Auxerre,French Ligue 1,81,6.04,23,FRA
+Arsène Kouassi,J1,LM,Midfielder,Lorient,French Ligue 1,74,5.63,21,BFA
+Laurent Abergel,J1,CM,Midfielder,Lorient,French Ligue 1,90,6.35,32,FRA
+Arthur Avom Ebong,J1,CM,Midfielder,Lorient,French Ligue 1,90,6.5,20,CMR
+Joel Mvuka,J1,RM,Midfielder,Lorient,French Ligue 1,64,6.32,22,NOR
+Panos Katseris,J1,RM,Midfielder,Lorient,French Ligue 1,26,6.48,24,GRE
+Jessy Deminguet,J1,CM,Midfielder,Metz,French Ligue 1,72,6.31,27,FRA
+Benjamin Stambouli,J1,CM,Midfielder,Metz,French Ligue 1,90,6.61,35,FRA
+Boubacar Traoré,J1,CM,Midfielder,Metz,French Ligue 1,83,5.88,23,MLI
+Valentín Barco,J1,CM,Midfielder,Strasbourg,French Ligue 1,90,6.73,21,ARG
+Samir El Mourabet,J1,CM,Midfielder,Strasbourg,French Ligue 1,71,6.81,19,MAR
+Félix Lemaréchal,J1,CM,Midfielder,Strasbourg,French Ligue 1,90,6.53,22,FRA
+Bahereba Guirassy,J1,LM,Midfielder,Nantes,French Ligue 1,58,6.17,18,FRA
+Hong Hyunseok,J1,RM,Midfielder,Nantes,French Ligue 1,32,6.39,26,KOR
+Johann Lepenant,J1,CM,Midfielder,Nantes,French Ligue 1,90,6.56,22,FRA
+Louis Leroux,J1,CM,Midfielder,Nantes,French Ligue 1,85,6.16,19,FRA
+Yassine Benhattab,J1,RM,Midfielder,Nantes,French Ligue 1,58,6.39,22,FRA
 Matthis Abline,J1,LM,Midfielder,Nantes,French Ligue 1,32,6.03,22,FRA
-Kwon Hyeokkyu,J1,DM,Midfielder,Nantes,French Ligue 1,78,5.5,24,KOR
-Fabián Ruiz Peña,J1,LM,Midfielder,Paris S-G,French Ligue 1,60,6.5,29,ESP
-Achraf Hakimi,J1,LM,Midfielder,Paris S-G,French Ligue 1,30,6.66,26,MAR
-Vitinha,J1,CM,Midfielder,Paris S-G,French Ligue 1,90,7.13,25,POR
-Lee Kang-in,J1,RM,Midfielder,Paris S-G,French Ligue 1,60,6.81,24,KOR
-Désiré Doué,J1,RM,Midfielder,Paris S-G,French Ligue 1,30,7.27,20,FRA
-Alexis Mac Allister,J1,DM,Midfielder,Liverpool,English Premier League,71,7.07,26,ARG
-Dominik Szoboszlai,J1,DM,Midfielder,Liverpool,English Premier League,90,6.97,24,HUN
+Kwon Hyeokkyu,J1,DM,Midfielder,Nantes,French Ligue 1,78,5.65,24,KOR
+Fabián Ruiz Peña,J1,LM,Midfielder,Paris S-G,French Ligue 1,60,6.35,29,ESP
+Vitinha,J1,CM,Midfielder,Paris S-G,French Ligue 1,90,7.3,25,POR
+Lee Kang-in,J1,RM,Midfielder,Paris S-G,French Ligue 1,60,6.96,24,KOR
+Désiré Doué,J1,LM,Midfielder,Paris S-G,French Ligue 1,30,7.33,20,FRA
+Alexis Mac Allister,J1,DM,Midfielder,Liverpool,English Premier League,71,7.19,26,ARG
+Dominik Szoboszlai,J1,DM,Midfielder,Liverpool,English Premier League,90,7.03,24,HUN
 Wataru Endo,J1,CM,Midfielder,Liverpool,English Premier League,31,6.74,32,JPN
-David Brooks,J1,LM,Midfielder,Bournemouth,English Premier League,83,7.03,28,WAL
-Marcus Tavernier,J1,CM,Midfielder,Bournemouth,English Premier League,90,7.05,26,ENG
-Alex Scott,J1,CM,Midfielder,Bournemouth,English Premier League,73,6.12,21,ENG
-Antoine Semenyo,J1,RM,Midfielder,Bournemouth,English Premier League,90,7.06,25,GHA
+David Brooks,J1,LM,Midfielder,Bournemouth,English Premier League,83,7.12,28,WAL
+Marcus Tavernier,J1,CM,Midfielder,Bournemouth,English Premier League,90,7.14,26,ENG
+Alex Scott,J1,CM,Midfielder,Bournemouth,English Premier League,73,6.08,21,ENG
+Antoine Semenyo,J1,RM,Midfielder,Bournemouth,English Premier League,90,7.18,25,GHA
 Tyler Adams,J1,DM,Midfielder,Bournemouth,English Premier League,89,6.65,26,USA
-Amadou Onana,J1,DM,Midfielder,Aston Villa,English Premier League,90,6.94,24,BEL
-Boubacar Kamara,J1,DM,Midfielder,Aston Villa,English Premier League,90,6.92,25,FRA
-Joelinton,J1,LM,Midfielder,Newcastle Utd,English Premier League,82,6.89,29,BRA
-Sandro Tonali,J1,CM,Midfielder,Newcastle Utd,English Premier League,90,7.26,25,ITA
-Bruno Guimarães,J1,RM,Midfielder,Newcastle Utd,English Premier League,90,7.08,27,BRA
-Noah Sadiki,J1,LM,Midfielder,Sunderland,English Premier League,90,6.54,20,COD
-Granit Xhaka,J1,CM,Midfielder,Sunderland,English Premier League,90,6.5,32,SUI
-Habib Diarra,J1,RM,Midfielder,Sunderland,English Premier League,90,6.62,21,SEN
-Guido Rodríguez,J1,CM,Midfielder,West Ham,English Premier League,70,6.55,31,ARG
-Callum Wilson,J1,CM,Midfielder,West Ham,English Premier League,20,5.49,33,ENG
-James Ward-Prowse,J1,CM,Midfielder,West Ham,English Premier League,70,6.67,30,ENG
-Tomáš Souček,J1,CM,Midfielder,West Ham,English Premier League,20,6.19,30,CZE
-El Hadji Diouf,J1,WB,Midfielder,West Ham,English Premier League,90,6.49,20,SEN
-Aaron Wan-Bissaka,J1,WB,Midfielder,West Ham,English Premier League,90,7.28,27,ENG
-Lucas Bergvall,J1,LM,Midfielder,Tottenham,English Premier League,79,6.41,19,SWE
+Amadou Onana,J1,DM,Midfielder,Aston Villa,English Premier League,90,7.03,24,BEL
+Boubacar Kamara,J1,DM,Midfielder,Aston Villa,English Premier League,90,6.98,25,FRA
+Joelinton,J1,LM,Midfielder,Newcastle Utd,English Premier League,82,6.9,29,BRA
+Sandro Tonali,J1,CM,Midfielder,Newcastle Utd,English Premier League,90,7.33,25,ITA
+Bruno Guimarães,J1,RM,Midfielder,Newcastle Utd,English Premier League,90,7.23,27,BRA
+Noah Sadiki,J1,LM,Midfielder,Sunderland,English Premier League,90,6.66,20,COD
+Granit Xhaka,J1,CM,Midfielder,Sunderland,English Premier League,90,6.47,32,SUI
+Habib Diarra,J1,RM,Midfielder,Sunderland,English Premier League,90,6.57,21,SEN
+Guido Rodríguez,J1,CM,Midfielder,West Ham,English Premier League,70,6.5,31,ARG
+James Ward-Prowse,J1,CM,Midfielder,West Ham,English Premier League,70,6.47,30,ENG
+Tomáš Souček,J1,DM,Midfielder,West Ham,English Premier League,20,6.04,30,CZE
+El Hadji Diouf,J1,WB,Midfielder,West Ham,English Premier League,90,6.45,20,SEN
+Aaron Wan-Bissaka,J1,WB,Midfielder,West Ham,English Premier League,90,7.45,27,ENG
+Lucas Bergvall,J1,LM,Midfielder,Tottenham,English Premier League,79,6.39,19,SWE
 Archie Gray,J1,CM,Midfielder,Tottenham,English Premier League,70,6.88,19,ENG
-Rodrigo Bentancur,J1,DM,Midfielder,Tottenham,English Premier League,20,6.62,28,URU
-Pape Matar Sarr,J1,RM,Midfielder,Tottenham,English Premier League,90,7.18,22,SEN
-Jaidon Anthony,J1,LM,Midfielder,Burnley,English Premier League,84,6.57,25,ENG
-Josh Cullen,J1,CM,Midfielder,Burnley,English Premier League,90,6.9,29,IRL
-Josh Laurent,J1,CM,Midfielder,Burnley,English Premier League,62,6.34,30,ENG
-Lesley Ugochukwu,J1,CM,Midfielder,Burnley,English Premier League,28,5.5,21,FRA
-Hannibal Mejbri,J1,RM,Midfielder,Burnley,English Premier League,62,5.94,22,TUN
-Jacob Bruun Larsen,J1,LM,Midfielder,Burnley,English Premier League,28,6.23,26,DEN
-Yasin Ayari,J1,DM,Midfielder,Brighton,English Premier League,90,6.74,21,SWE
-Carlos Baleba,J1,DM,Midfielder,Brighton,English Premier League,68,6.32,21,CMR
-Diego Gómez,J1,DM,Midfielder,Brighton,English Premier League,22,6.82,22,PAR
-Sander Berge,J1,DM,Midfielder,Fulham,English Premier League,65,6.24,27,NOR
-Tom Cairney,J1,DM,Midfielder,Fulham,English Premier League,25,5.85,34,SCO
-Saša Lukić,J1,DM,Midfielder,Fulham,English Premier League,90,5.83,29,SRB
-David Møller Wolfe,J1,LM,Midfielder,Wolves,English Premier League,71,6.34,23,NOR
-João Gomes,J1,CM,Midfielder,Wolves,English Premier League,90,7.03,24,BRA
-André,J1,CM,Midfielder,Wolves,English Premier League,71,6.8,24,BRA
-Ki-Jana Hoever,J1,RM,Midfielder,Wolves,English Premier League,72,6.89,23,NED
-Bernardo Silva,J1,LM,Midfielder,Manchester City,English Premier League,65,7.13,31,POR
-Nico O’Reilly,J1,LM,Midfielder,Manchester City,English Premier League,25,6.11,20,ENG
-Nicolás González,J1,CM,Midfielder,Manchester City,English Premier League,90,6.98,23,ESP
-Tijjani Reijnders,J1,RM,Midfielder,Manchester City,English Premier League,90,7.39,27,NED
-Elliot Anderson,J1,DM,Midfielder,Nott'ham Forest,English Premier League,90,8.0,22,ENG
-Ibrahim Sangaré,J1,DM,Midfielder,Nott'ham Forest,English Premier League,90,6.22,27,CIV
-Frank Onyeka,J1,LM,Midfielder,Brentford,English Premier League,22,6.52,27,NGA
+Rodrigo Bentancur,J1,DM,Midfielder,Tottenham,English Premier League,20,6.58,28,URU
+Pape Matar Sarr,J1,RM,Midfielder,Tottenham,English Premier League,90,7.31,22,SEN
+Jaidon Anthony,J1,LM,Midfielder,Burnley,English Premier League,84,6.51,25,ENG
+Josh Cullen,J1,CM,Midfielder,Burnley,English Premier League,90,6.93,29,IRL
+Josh Laurent,J1,CM,Midfielder,Burnley,English Premier League,62,6.33,30,ENG
+Lesley Ugochukwu,J1,CM,Midfielder,Burnley,English Premier League,28,5.74,21,FRA
+Hannibal Mejbri,J1,RM,Midfielder,Burnley,English Premier League,62,5.87,22,TUN
+Jacob Bruun Larsen,J1,LM,Midfielder,Burnley,English Premier League,28,6.2,26,DEN
+Yasin Ayari,J1,DM,Midfielder,Brighton,English Premier League,90,6.77,21,SWE
+Carlos Baleba,J1,DM,Midfielder,Brighton,English Premier League,68,6.33,21,CMR
+Diego Gómez,J1,DM,Midfielder,Brighton,English Premier League,22,6.78,22,PAR
+Sander Berge,J1,DM,Midfielder,Fulham,English Premier League,65,6.12,27,NOR
+Tom Cairney,J1,DM,Midfielder,Fulham,English Premier League,25,5.99,34,SCO
+Saša Lukić,J1,DM,Midfielder,Fulham,English Premier League,90,5.88,29,SRB
+David Møller Wolfe,J1,LM,Midfielder,Wolves,English Premier League,71,6.33,23,NOR
+João Gomes,J1,CM,Midfielder,Wolves,English Premier League,90,7.13,24,BRA
+André,J1,CM,Midfielder,Wolves,English Premier League,71,6.81,24,BRA
+Ki-Jana Hoever,J1,RM,Midfielder,Wolves,English Premier League,72,6.8,23,NED
+Bernardo Silva,J1,LM,Midfielder,Manchester City,English Premier League,65,7.25,31,POR
+Nico O’Reilly,J1,LM,Midfielder,Manchester City,English Premier League,25,6.06,20,ENG
+Nicolás González,J1,CM,Midfielder,Manchester City,English Premier League,90,7.07,23,ESP
+Tijjani Reijnders,J1,RM,Midfielder,Manchester City,English Premier League,90,7.27,27,NED
+Elliot Anderson,J1,DM,Midfielder,Nott'ham Forest,English Premier League,90,8.48,22,ENG
+Ibrahim Sangaré,J1,DM,Midfielder,Nott'ham Forest,English Premier League,90,6.17,27,CIV
+Frank Onyeka,J1,LM,Midfielder,Brentford,English Premier League,22,6.47,27,NGA
 Mathias Jensen,J1,DM,Midfielder,Brentford,English Premier League,68,6.26,29,DEN
-Jordan Henderson,J1,CM,Midfielder,Brentford,English Premier League,22,6.41,35,ENG
-Yehor Yarmoliuk,J1,DM,Midfielder,Brentford,English Premier League,90,6.06,21,UKR
+Jordan Henderson,J1,CM,Midfielder,Brentford,English Premier League,22,6.38,35,ENG
+Yehor Yarmoliuk,J1,DM,Midfielder,Brentford,English Premier League,90,6.05,21,UKR

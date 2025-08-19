@@ -1,54 +1,58 @@
 Player,Game Week,Position,General Position,Team,League,Minutes,Rating,Age,Nationality
-Robert Sánchez,J1,GK,Goalkeeper,Chelsea,English Premier League,90,6.98,27,ESP
-Dean Henderson,J1,GK,Goalkeeper,Crystal Palace,English Premier League,90,7.12,28,ENG
-Altay Bayındır,J1,GK,Goalkeeper,Manchester Utd,English Premier League,90,6.74,27,TUR
-David Raya,J1,GK,Goalkeeper,Arsenal,English Premier League,90,7.18,29,ESP
-Paulo Gazzaniga,J1,GK,Goalkeeper,Girona,Spanish La Liga,42,5.67,33,ARG
-Krapyvtsov Vladyslav,J1,GK,Goalkeeper,Girona,Spanish La Liga,46,6.65,20,UKR
-Augusto Batalla,J1,GK,Goalkeeper,Rayo Vallecano,Spanish La Liga,90,6.44,29,ARG
-Luiz Lúcio Reis Júnior,J1,GK,Goalkeeper,Villarreal,Spanish La Liga,90,7.02,24,BRA
-Aarón Escandell,J1,GK,Goalkeeper,Oviedo,Spanish La Liga,90,6.7,29,ESP
-Leo Román,J1,GK,Goalkeeper,Mallorca,Spanish La Liga,90,6.46,25,ESP
-Joan García,J1,GK,Goalkeeper,Barcelona,Spanish La Liga,90,6.81,24,ESP
-Antonio Sivera,J1,GK,Goalkeeper,Alavés,Spanish La Liga,90,6.59,29,ESP
-Pablo Cuñat,J1,GK,Goalkeeper,Levante,Spanish La Liga,90,6.56,23,ESP
-Julen Agirrezabala,J1,GK,Goalkeeper,Valencia,Spanish La Liga,90,6.18,24,ESP
-Álex Remiro,J1,GK,Goalkeeper,Real Sociedad,Spanish La Liga,90,6.41,30,ESP
-Ionuț Radu,J1,GK,Goalkeeper,Celta Vigo,Spanish La Liga,90,5.94,28,ROU
-David Soria,J1,GK,Goalkeeper,Getafe,Spanish La Liga,90,7.11,32,ESP
-Unai Simón,J1,GK,Goalkeeper,Athletic Club,Spanish La Liga,90,6.35,28,ESP
-Ørjan Nyland,J1,GK,Goalkeeper,Sevilla,Spanish La Liga,90,5.8,34,NOR
+Robert Sánchez,J1,GK,Goalkeeper,Chelsea,English Premier League,90,6.85,27,ESP
+Dean Henderson,J1,GK,Goalkeeper,Crystal Palace,English Premier League,90,7.1,28,ENG
+Altay Bayındır,J1,GK,Goalkeeper,Manchester Utd,English Premier League,90,6.73,27,TUR
+David Raya,J1,GK,Goalkeeper,Arsenal,English Premier League,90,7.14,29,ESP
+Lucas Perri,J1,GK,Goalkeeper,Leeds United,English Premier League,90,6.78,27,BRA
+Jordan Pickford,J1,GK,Goalkeeper,Everton,English Premier League,90,6.75,31,ENG
+Paulo Gazzaniga,J1,GK,Goalkeeper,Girona,Spanish La Liga,42,5.62,33,ARG
+Krapyvtsov Vladyslav,J1,GK,Goalkeeper,Girona,Spanish La Liga,46,6.66,20,UKR
+Augusto Batalla,J1,GK,Goalkeeper,Rayo Vallecano,Spanish La Liga,90,6.38,29,ARG
+Luiz Lúcio Reis Júnior,J1,GK,Goalkeeper,Villarreal,Spanish La Liga,90,6.92,24,BRA
+Aarón Escandell,J1,GK,Goalkeeper,Oviedo,Spanish La Liga,90,6.73,29,ESP
+Leo Román,J1,GK,Goalkeeper,Mallorca,Spanish La Liga,90,6.4,25,ESP
+Joan García,J1,GK,Goalkeeper,Barcelona,Spanish La Liga,90,6.8,24,ESP
+Antonio Sivera,J1,GK,Goalkeeper,Alavés,Spanish La Liga,90,6.53,29,ESP
+Pablo Cuñat,J1,GK,Goalkeeper,Levante,Spanish La Liga,90,6.6,23,ESP
+Julen Agirrezabala,J1,GK,Goalkeeper,Valencia,Spanish La Liga,90,6.25,24,ESP
+Álex Remiro,J1,GK,Goalkeeper,Real Sociedad,Spanish La Liga,90,6.32,30,ESP
+Ionuț Radu,J1,GK,Goalkeeper,Celta Vigo,Spanish La Liga,90,5.85,28,ROU
+David Soria,J1,GK,Goalkeeper,Getafe,Spanish La Liga,90,7.07,32,ESP
+Unai Simón,J1,GK,Goalkeeper,Athletic Club,Spanish La Liga,90,6.37,28,ESP
+Ørjan Nyland,J1,GK,Goalkeeper,Sevilla,Spanish La Liga,90,5.83,34,NOR
 Marko Dmitrović,J1,GK,Goalkeeper,Espanyol,Spanish La Liga,90,6.67,33,SRB
-Jan Oblak,J1,GK,Goalkeeper,Atlético Madrid,Spanish La Liga,90,6.08,32,SVN
-Brice Samba,J1,GK,Goalkeeper,Rennes,French Ligue 1,90,7.0,31,FRA
-Gerónimo Rulli,J1,GK,Goalkeeper,Marseille,French Ligue 1,90,6.49,33,ARG
-Robin Risser,J1,GK,Goalkeeper,Lens,French Ligue 1,90,6.57,20,FRA
-Rémy Descamps,J1,GK,Goalkeeper,Lyon,French Ligue 1,90,7.02,29,FRA
-Lukáš Hrádecký,J1,GK,Goalkeeper,Monaco,French Ligue 1,90,6.19,35,FIN
-Mory Diaw,J1,GK,Goalkeeper,Le Havre,French Ligue 1,90,5.6,32,SEN
-Yehvann Diouf,J1,GK,Goalkeeper,Nice,French Ligue 1,90,5.97,25,SEN
-Guillaume Restes,J1,GK,Goalkeeper,Toulouse,French Ligue 1,90,6.82,20,FRA
-Radosław Majecki,J1,GK,Goalkeeper,Brest,French Ligue 1,90,5.77,25,POL
-Berke Özer,J1,GK,Goalkeeper,Lille,French Ligue 1,90,6.36,25,TUR
-Hervé Koffi,J1,GK,Goalkeeper,Angers,French Ligue 1,90,7.42,28,BFA
-Obed Nkambadio,J1,GK,Goalkeeper,Paris FC,French Ligue 1,90,5.88,22,FRA
-Donovan Léon,J1,GK,Goalkeeper,Auxerre,French Ligue 1,90,6.85,32,GUF
-Bingourou Kamara,J1,GK,Goalkeeper,Lorient,French Ligue 1,90,6.31,28,SEN
-Jonathan Fischer,J1,GK,Goalkeeper,Metz,French Ligue 1,90,6.47,23,DEN
-Mike Penders,J1,GK,Goalkeeper,Strasbourg,French Ligue 1,90,6.54,20,BEL
-Anthony Lopes,J1,GK,Goalkeeper,Nantes,French Ligue 1,90,6.41,34,POR
-Lucas Chevalier,J1,GK,Goalkeeper,Paris S-G,French Ligue 1,90,6.53,23,FRA
-Alisson,J1,GK,Goalkeeper,Liverpool,English Premier League,90,6.03,32,BRA
-Đorđe Petrović,J1,GK,Goalkeeper,Bournemouth,English Premier League,90,6.33,25,SRB
-Marco Bizot,J1,GK,Goalkeeper,Aston Villa,English Premier League,90,7.69,34,NED
-Nick Pope,J1,GK,Goalkeeper,Newcastle Utd,English Premier League,90,6.88,33,ENG
-Robin Roefs,J1,GK,Goalkeeper,Sunderland,English Premier League,90,7.05,22,NED
-Mads Hermansen,J1,GK,Goalkeeper,West Ham,English Premier League,90,6.04,25,DEN
-Guglielmo Vicario,J1,GK,Goalkeeper,Tottenham,English Premier League,90,7.06,28,ITA
-Martin Dúbravka,J1,GK,Goalkeeper,Burnley,English Premier League,90,6.32,36,SVK
-Bart Verbruggen,J1,GK,Goalkeeper,Brighton,English Premier League,90,6.1,22,NED
-Bernd Leno,J1,GK,Goalkeeper,Fulham,English Premier League,90,6.68,33,GER
-José Sá,J1,GK,Goalkeeper,Wolves,English Premier League,90,5.49,32,POR
-James Trafford,J1,GK,Goalkeeper,Manchester City,English Premier League,90,7.0,22,ENG
-Matz Sels,J1,GK,Goalkeeper,Nott'ham Forest,English Premier League,90,6.59,33,BEL
-Caoimhín Kelleher,J1,GK,Goalkeeper,Brentford,English Premier League,90,6.03,26,IRL
+Jan Oblak,J1,GK,Goalkeeper,Atlético Madrid,Spanish La Liga,90,6.01,32,SVN
+Matías Dituro,J1,GK,Goalkeeper,Elche,Spanish La Liga,90,6.95,38,ARG
+Pau López,J1,GK,Goalkeeper,Betis,Spanish La Liga,90,6.03,30,ESP
+Brice Samba,J1,GK,Goalkeeper,Rennes,French Ligue 1,90,6.86,31,FRA
+Gerónimo Rulli,J1,GK,Goalkeeper,Marseille,French Ligue 1,90,6.44,33,ARG
+Robin Risser,J1,GK,Goalkeeper,Lens,French Ligue 1,90,6.55,20,FRA
+Rémy Descamps,J1,GK,Goalkeeper,Lyon,French Ligue 1,90,7.01,29,FRA
+Lukáš Hrádecký,J1,GK,Goalkeeper,Monaco,French Ligue 1,90,6.4,35,FIN
+Mory Diaw,J1,GK,Goalkeeper,Le Havre,French Ligue 1,90,5.48,32,SEN
+Yehvann Diouf,J1,GK,Goalkeeper,Nice,French Ligue 1,90,5.87,25,SEN
+Guillaume Restes,J1,GK,Goalkeeper,Toulouse,French Ligue 1,90,6.78,20,FRA
+Radosław Majecki,J1,GK,Goalkeeper,Brest,French Ligue 1,90,5.8,25,POL
+Berke Özer,J1,GK,Goalkeeper,Lille,French Ligue 1,90,6.23,25,TUR
+Hervé Koffi,J1,GK,Goalkeeper,Angers,French Ligue 1,90,7.37,28,BFA
+Obed Nkambadio,J1,GK,Goalkeeper,Paris FC,French Ligue 1,90,5.86,22,FRA
+Donovan Léon,J1,GK,Goalkeeper,Auxerre,French Ligue 1,90,6.93,32,GUF
+Bingourou Kamara,J1,GK,Goalkeeper,Lorient,French Ligue 1,90,6.22,28,SEN
+Jonathan Fischer,J1,GK,Goalkeeper,Metz,French Ligue 1,90,6.3,23,DEN
+Mike Penders,J1,GK,Goalkeeper,Strasbourg,French Ligue 1,90,6.5,20,BEL
+Anthony Lopes,J1,GK,Goalkeeper,Nantes,French Ligue 1,90,6.28,34,POR
+Lucas Chevalier,J1,GK,Goalkeeper,Paris S-G,French Ligue 1,90,6.45,23,FRA
+Alisson,J1,GK,Goalkeeper,Liverpool,English Premier League,90,5.91,32,BRA
+Đorđe Petrović,J1,GK,Goalkeeper,Bournemouth,English Premier League,90,6.27,25,SRB
+Marco Bizot,J1,GK,Goalkeeper,Aston Villa,English Premier League,90,7.68,34,NED
+Nick Pope,J1,GK,Goalkeeper,Newcastle Utd,English Premier League,90,6.84,33,ENG
+Robin Roefs,J1,GK,Goalkeeper,Sunderland,English Premier League,90,6.95,22,NED
+Mads Hermansen,J1,GK,Goalkeeper,West Ham,English Premier League,90,5.98,25,DEN
+Guglielmo Vicario,J1,GK,Goalkeeper,Tottenham,English Premier League,90,7.02,28,ITA
+Martin Dúbravka,J1,GK,Goalkeeper,Burnley,English Premier League,90,6.27,36,SVK
+Bart Verbruggen,J1,GK,Goalkeeper,Brighton,English Premier League,90,6.09,22,NED
+Bernd Leno,J1,GK,Goalkeeper,Fulham,English Premier League,90,6.65,33,GER
+José Sá,J1,GK,Goalkeeper,Wolves,English Premier League,90,5.23,32,POR
+James Trafford,J1,GK,Goalkeeper,Manchester City,English Premier League,90,7.02,22,ENG
+Matz Sels,J1,GK,Goalkeeper,Nott'ham Forest,English Premier League,90,6.61,33,BEL
+Caoimhín Kelleher,J1,GK,Goalkeeper,Brentford,English Premier League,90,6.0,26,IRL
