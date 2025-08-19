@@ -1,0 +1,54 @@
+Player,Game Week,Team,League,Nationality,Position,General Position,Age,Minutes,Shots on Target Against,Goals Against,Saves,Post-Shot Expected Goals (PSxG),Save Efficiency,Clean Sheets,Completed Long Passes,Attempted Long Passes,Attempted Passes (excluding GK),Attempted Throws,Pass Length (Total),Attempted Goal Kicks,Goal Kick Length (Total),Crosses Faced,Crosses Stopped,Defensive Actions Outside Penalty Area,Distance of Defensive Actions (Total)
+Robert Sánchez,J1,Chelsea,English Premier League,ESP,GK,Goalkeeper,27,90,4,0,4.0,0.3,0.3,1,2,11,28,3,870.8,7,284.9,11,0.0,1.0,15.8
+Dean Henderson,J1,Crystal Palace,English Premier League,ENG,GK,Goalkeeper,28,90,2,0,2.0,0.7,0.7,1,8,16,16,3,660.8,14,582.4,19,0.0,1.0,12.0
+Altay Bayındır,J1,Manchester Utd,English Premier League,TUR,GK,Goalkeeper,27,90,3,1,2.0,1.3,0.3,0,5,15,46,5,1472.0,2,77.0,9,2.0,1.0,9.5
+David Raya,J1,Arsenal,English Premier League,ESP,GK,Goalkeeper,29,90,7,0,7.0,0.7,0.7,1,6,20,28,7,966.0,9,583.2,12,2.0,0.0,0.0
+Paulo Gazzaniga,J1,Girona,Spanish La Liga,ARG,GK,Goalkeeper,33,42,2,2,0.0,1.7,-0.3,0,2,3,15,1,369.0,2,26.0,2,0.0,0.0,0.0
+Krapyvtsov Vladyslav,J1,Girona,Spanish La Liga,UKR,GK,Goalkeeper,20,46,2,1,1.0,1.5,0.5,0,4,18,20,4,752.0,7,452.2,11,0.0,0.0,0.0
+Augusto Batalla,J1,Rayo Vallecano,Spanish La Liga,ARG,GK,Goalkeeper,29,90,2,1,1.0,0.7,-0.3,0,6,13,24,4,1012.8,1,69.0,10,0.0,2.0,49.4
+Luiz Lúcio Reis Júnior,J1,Villarreal,Spanish La Liga,BRA,GK,Goalkeeper,24,90,4,0,3.0,1.2,1.2,1,0,2,13,2,275.6,2,29.0,2,0.0,0.0,0.0
+Aarón Escandell,J1,Oviedo,Spanish La Liga,ESP,GK,Goalkeeper,29,90,10,2,8.0,2.0,0.0,0,14,22,27,3,985.5,11,491.7,22,0.0,4.0,70.8
+Leo Román,J1,Mallorca,Spanish La Liga,ESP,GK,Goalkeeper,25,90,8,3,5.0,2.5,-0.5,0,9,32,30,2,1563.0,7,466.9,6,0.0,2.0,20.0
+Joan García,J1,Barcelona,Spanish La Liga,ESP,GK,Goalkeeper,24,90,1,0,1.0,0.2,0.2,1,1,1,15,3,321.0,4,123.2,7,2.0,2.0,33.0
+Antonio Sivera,J1,Alavés,Spanish La Liga,ESP,GK,Goalkeeper,29,90,3,1,2.0,1.1,0.1,0,11,17,14,1,740.6,5,329.0,7,0.0,0.0,0.0
+Pablo Cuñat,J1,Levante,Spanish La Liga,ESP,GK,Goalkeeper,23,90,4,2,2.0,2.2,0.2,0,5,18,23,4,968.3,16,644.8,26,1.0,1.0,11.0
+Julen Agirrezabala,J1,Valencia,Spanish La Liga,ESP,GK,Goalkeeper,24,90,3,1,2.0,0.5,-0.5,0,2,8,31,4,796.7,7,221.9,10,1.0,0.0,0.0
+Álex Remiro,J1,Real Sociedad,Spanish La Liga,ESP,GK,Goalkeeper,30,90,2,1,1.0,0.5,-0.5,0,10,13,25,4,812.5,5,242.0,19,0.0,1.0,21.0
+Ionuț Radu,J1,Celta Vigo,Spanish La Liga,ROU,GK,Goalkeeper,28,90,3,2,1.0,1.8,-0.2,0,0,1,12,3,247.2,5,88.0,6,0.0,0.0,0.0
+David Soria,J1,Getafe,Spanish La Liga,ESP,GK,Goalkeeper,32,90,3,0,3.0,0.5,0.5,1,8,25,19,1,1010.8,10,671.0,18,0.0,0.0,0.0
+Unai Simón,J1,Athletic Club,Spanish La Liga,ESP,GK,Goalkeeper,28,90,6,2,4.0,1.7,-0.3,0,1,19,35,4,1246.0,3,210.0,9,2.0,1.0,14.3
+Ørjan Nyland,J1,Sevilla,Spanish La Liga,NOR,GK,Goalkeeper,34,90,3,3,0.0,2.6,-0.4,0,2,13,35,5,1148.0,4,266.0,18,0.0,3.0,66.0
+Marko Dmitrović,J1,Espanyol,Spanish La Liga,SRB,GK,Goalkeeper,33,90,4,1,3.0,1.3,0.3,0,5,12,31,5,945.5,7,242.9,13,0.0,0.0,0.0
+Jan Oblak,J1,Atlético Madrid,Spanish La Liga,SVN,GK,Goalkeeper,32,90,5,2,3.0,1.4,-0.6,0,3,7,22,3,629.2,6,238.8,20,0.0,0.0,0.0
+Brice Samba,J1,Rennes,French Ligue 1,FRA,GK,Goalkeeper,31,90,2,0,2.0,0.8,0.8,1,5,16,34,3,1315.8,3,168.9,31,1.0,0.0,0.0
+Gerónimo Rulli,J1,Marseille,French Ligue 1,ARG,GK,Goalkeeper,33,90,5,1,4.0,1.1,0.1,0,2,3,24,1,480.0,4,152.0,1,0.0,5.0,118.0
+Robin Risser,J1,Lens,French Ligue 1,FRA,GK,Goalkeeper,20,90,3,1,2.0,1.6,0.6,0,3,5,32,1,950.4,0,0.0,13,0.0,2.0,41.2
+Rémy Descamps,J1,Lyon,French Ligue 1,FRA,GK,Goalkeeper,29,90,4,0,4.0,1.9,1.9,1,3,13,35,3,1172.5,5,176.0,25,0.0,0.0,0.0
+Lukáš Hrádecký,J1,Monaco,French Ligue 1,FIN,GK,Goalkeeper,35,90,4,1,3.0,0.7,-0.3,0,1,5,30,2,729.0,3,44.1,12,0.0,2.0,66.0
+Mory Diaw,J1,Le Havre,French Ligue 1,SEN,GK,Goalkeeper,32,90,3,3,1.0,1.6,-1.4,0,4,13,22,5,745.8,9,446.4,17,0.0,1.0,8.0
+Yehvann Diouf,J1,Nice,French Ligue 1,SEN,GK,Goalkeeper,25,90,2,1,1.0,0.4,-0.6,0,1,3,24,4,482.4,4,150.0,11,1.0,0.0,0.0
+Guillaume Restes,J1,Toulouse,French Ligue 1,FRA,GK,Goalkeeper,20,90,2,0,2.0,0.2,0.2,1,5,16,23,1,890.1,4,240.0,19,1.0,1.0,12.0
+Radosław Majecki,J1,Brest,French Ligue 1,POL,GK,Goalkeeper,25,90,6,3,3.0,1.3,-1.7,0,4,16,31,6,1119.1,4,248.0,9,0.0,0.0,0.0
+Berke Özer,J1,Lille,French Ligue 1,TUR,GK,Goalkeeper,25,90,5,3,2.0,3.3,0.3,0,2,8,28,5,786.8,8,230.4,11,0.0,2.0,29.6
+Hervé Koffi,J1,Angers,French Ligue 1,BFA,GK,Goalkeeper,28,90,7,0,7.0,1.3,1.3,1,10,27,40,4,1740.0,5,320.0,21,3.0,0.0,0.0
+Obed Nkambadio,J1,Paris FC,French Ligue 1,FRA,GK,Goalkeeper,22,90,2,1,1.0,0.4,-0.6,0,0,1,22,3,464.2,8,128.8,8,0.0,3.0,52.2
+Donovan Léon,J1,Auxerre,French Ligue 1,GUF,GK,Goalkeeper,32,90,3,0,3.0,0.3,0.3,1,8,22,30,3,1287.0,3,224.1,9,0.0,0.0,0.0
+Bingourou Kamara,J1,Lorient,French Ligue 1,SEN,GK,Goalkeeper,28,90,3,1,2.0,0.7,-0.3,0,3,7,29,2,788.8,2,51.0,8,0.0,5.0,111.0
+Jonathan Fischer,J1,Metz,French Ligue 1,DEN,GK,Goalkeeper,23,90,3,1,2.0,1.2,0.2,0,2,9,24,5,832.8,3,93.0,17,1.0,2.0,30.0
+Mike Penders,J1,Strasbourg,French Ligue 1,BEL,GK,Goalkeeper,20,90,0,0,0.0,0.0,0.0,1,2,3,25,2,632.5,0,0.0,9,2.0,2.0,25.8
+Anthony Lopes,J1,Nantes,French Ligue 1,POR,GK,Goalkeeper,34,90,4,1,3.0,0.3,-0.7,0,11,23,47,9,1715.5,11,233.2,11,2.0,0.0,0.0
+Lucas Chevalier,J1,Paris S-G,French Ligue 1,FRA,GK,Goalkeeper,23,90,0,0,0.0,0.0,0.0,1,5,6,16,4,484.8,3,138.0,3,0.0,0.0,0.0
+Alisson,J1,Liverpool,English Premier League,BRA,GK,Goalkeeper,32,90,3,2,1.0,0.8,-1.2,0,6,11,41,4,1299.7,1,5.0,16,1.0,0.0,0.0
+Đorđe Petrović,J1,Bournemouth,English Premier League,SRB,GK,Goalkeeper,25,90,10,4,6.0,3.0,-1.0,0,7,20,29,5,1046.9,11,628.1,15,2.0,4.0,61.2
+Marco Bizot,J1,Aston Villa,English Premier League,NED,GK,Goalkeeper,34,90,3,0,3.0,0.6,0.6,1,4,24,34,4,1210.4,11,634.7,22,3.0,3.0,45.3
+Nick Pope,J1,Newcastle Utd,English Premier League,ENG,GK,Goalkeeper,33,90,3,0,3.0,0.2,0.2,1,1,6,26,12,655.2,3,140.1,6,3.0,4.0,69.2
+Robin Roefs,J1,Sunderland,English Premier League,NED,GK,Goalkeeper,22,90,3,0,3.0,0.4,0.4,1,4,16,22,4,946.0,4,230.0,18,2.0,0.0,0.0
+Mads Hermansen,J1,West Ham,English Premier League,DEN,GK,Goalkeeper,25,90,5,3,2.0,2.0,-1.0,0,8,20,35,4,1354.5,2,49.0,10,1.0,0.0,0.0
+Guglielmo Vicario,J1,Tottenham,English Premier League,ITA,GK,Goalkeeper,28,90,4,0,4.0,1.1,1.1,1,1,2,46,4,1058.0,4,137.2,10,0.0,0.0,0.0
+Martin Dúbravka,J1,Burnley,English Premier League,SVK,GK,Goalkeeper,36,90,6,3,3.0,2.6,-0.4,0,5,22,18,3,736.2,13,777.4,22,3.0,0.0,0.0
+Bart Verbruggen,J1,Brighton,English Premier League,NED,GK,Goalkeeper,22,90,2,1,1.0,0.9,-0.1,0,1,10,39,3,1084.2,2,55.0,11,0.0,0.0,0.0
+Bernd Leno,J1,Fulham,English Premier League,GER,GK,Goalkeeper,33,90,4,1,3.0,1.0,0.0,0,9,21,44,8,1430.0,8,367.2,9,2.0,0.0,0.0
+José Sá,J1,Wolves,English Premier League,POR,GK,Goalkeeper,32,90,4,4,0.0,1.9,-2.1,0,3,7,18,3,509.4,8,324.0,13,1.0,0.0,0.0
+James Trafford,J1,Manchester City,English Premier League,ENG,GK,Goalkeeper,22,90,3,0,3.0,0.4,0.4,1,1,8,28,5,800.8,3,167.1,12,1.0,2.0,23.2
+Matz Sels,J1,Nott'ham Forest,English Premier League,BEL,GK,Goalkeeper,33,90,3,1,2.0,1.5,0.5,0,2,11,22,4,891.0,6,205.2,11,0.0,2.0,48.6
+Caoimhín Kelleher,J1,Brentford,English Premier League,IRL,GK,Goalkeeper,26,90,5,3,2.0,2.4,-0.6,0,3,14,34,11,1077.8,5,254.0,21,0.0,3.0,39.6
