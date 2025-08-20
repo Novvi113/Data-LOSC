@@ -21,7 +21,7 @@ def get_stats_infos(position):
     else:
         list =['Player', 'Game Week', 'Team', 'League', 'Position', 'Age', 'Minutes', 'Goals', 'Assists', 'Shots Total', 'Shots on Target', 'Expected Goals (xG)', 'Shot-Creating Actions (SCA)', 
                'Goal-Creating Actions (GCA)', 'Key Passes', 'Passes into Final Third', 'Passes into Penalty Area', 'Crosses into Penalty Area', 'Crosses', 
-                'Expected Assists (xA)', 'Passes Completed', 'Passes Attempted', 'Progressive Passes', 'Progressive Runs', 'Progressive Carries', 'Take-Ons Attempted', 
+                'Expected Assists (xA)', 'Passes Completed', 'Passes Attempted', 'Progressive Passes', 'Progressive Carries', 'Take-Ons Attempted', 
                 'Successful Take-Ons', 'Tackles Won', 'Dribblers Tackled', 'Interceptions', 'Errors Leading to Shot', 'Ball Recoveries', 'Ball Losses', 'Touches', 
                 'Yellow Cards', 'Red Cards', 'Second Yellow Card',	'Offsides', 'Aerials Won', 'Total Aerials']
     return list
@@ -45,7 +45,7 @@ def prepare_player_stats(stats_df, ratings_df, exclude_cols=None):
 
 def team_stats(df_stats, team_name):
     important_stats = [
-        'Expected Goals (xG)', 'Progressive Passes', 'Progressive Runs', 'Progressive Carries', 
+        'Expected Goals (xG)', 'Progressive Passes', 'Progressive Carries', 
         'Key Passes', 'Passes into Final Third', 'Tackles Won', 'Interceptions', 'Aerials Won', 'Offsides',
     ]
     cols = [col for col in important_stats if col in df_stats.columns]
@@ -95,7 +95,10 @@ df_gk_stats = df_gk_stats[get_stats_infos("GK")]
 available_leagues = df_players["League"].dropna().unique().tolist()
 selected_leagues = st.sidebar.multiselect("League", available_leagues)
 
-df_teams_stat = pd.read_csv(path_teams_stats)
+if os.path.exists(path_teams_stats):
+    df_teams_stat = pd.read_csv(path_teams_stats)
+else:
+    df_teams_stat = pd.DataFrame()
 
 if selected_leagues:
     df_games = pd.read_csv(f"{path_leagues}/{selected_leagues[0]}_games.csv")
@@ -161,11 +164,12 @@ if selected_leagues:
                 (df_gk_stats["League"] == selected_leagues[0])
             ].drop(columns=["ID"], errors="ignore")
             
-            df_teams_stat = df_teams_stat[
-                ((df_teams_stat["Team"] == home_team) | (df_teams_stat["Team"] == away_team)) &
-                (df_teams_stat["Game Week"] == game_week) &
-                (df_teams_stat["League"] == selected_leagues[0])
-            ].drop(columns=["ID"], errors="ignore")
+            if not df_teams_stat.empty:
+                df_teams_stat = df_teams_stat[
+                    ((df_teams_stat["Team"] == home_team) | (df_teams_stat["Team"] == away_team)) &
+                    (df_teams_stat["Game Week"] == game_week) &
+                    (df_teams_stat["League"] == selected_leagues[0])
+                ].drop(columns=["ID"], errors="ignore")
             
             columns_excl = ['Game Week', 'Team', 'League']
 
@@ -177,12 +181,17 @@ if selected_leagues:
             df_home_summary = team_stats(df_home_stats, home_team)
             df_away_summary = team_stats(df_away_stats, away_team)
             df_team_stats_bis = pd.concat([df_home_summary, df_away_summary], axis=1)
-            columns_excl = ['Game Week', 'League']
-            df_teams_stat = df_teams_stat.drop(columns=[col for col in columns_excl if col in df_teams_stat.columns], errors='ignore')
+            if not df_teams_stat.empty:
+                columns_excl = ['Game Week', 'League']
+                df_teams_stat = df_teams_stat.drop(columns=[col for col in columns_excl if col in df_teams_stat.columns], errors='ignore')
 
-            st.markdown("## Team Stats Overview")
-            df_team_stats = pd.concat([df_teams_stat.set_index("Team").T, df_team_stats_bis], axis=0)
-            st.dataframe(df_team_stats)
+                st.markdown("## Team Stats Overview")
+                df_team_stats = pd.concat([df_teams_stat.set_index("Team").T, df_team_stats_bis], axis=0)
+                st.dataframe(df_team_stats)
+            
+            else:
+                st.markdown("## Team Stats Overview")
+                st.dataframe(df_team_stats_bis)
             
             st.markdown(f"### {home_team}")
             st.dataframe(df_home_players.sort_values(by="Rating", ascending=False), use_container_width=True)
