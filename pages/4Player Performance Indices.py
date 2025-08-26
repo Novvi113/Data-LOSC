@@ -19,7 +19,7 @@ st.write(
     "- Filter results, rank top players, and compare stats on a percentile scale."
 )
 
-selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=1)
+selected_season = st.sidebar.selectbox("Season", ["2025-2026", "2024-2025", "2023-2024"], index=0)
 
 season = None
 if selected_season == "2023-2024":

@@ -1,664 +1,1285 @@
 Player,Team,League,Position,General Position,Nationality,Age,Rating,Minutes,Matches,Average Rating
-Aaron Wan-Bissaka,West Ham,English Premier League,WB,Midfielder,ENG,27,7.45,90,1,7.45
-Abdelhamid Ait Boudlal,Rennes,French Ligue 1,CB,Defender,MAR,19,5.34,30,1,5.34
-Abner,Lyon,French Ligue 1,LB,Defender,BRA,25,6.5,90,1,6.5
-Achraf Hakimi,Paris S-G,French Ligue 1,RB,Defender,MAR,26,6.03,30,1,6.03
-Adam Smith,Bournemouth,English Premier League,RB,Defender,ENG,34,6.32,89,1,6.32
-Adam Wharton,Crystal Palace,English Premier League,CM,Midfielder,ENG,21,6.64,90,1,6.64
-Adama Traoré,Fulham,English Premier League,LW,Forward,ESP,29,5.79,25,1,5.79
-Adnan Januzaj,Sevilla,Spanish La Liga,AM,Forward,BEL,30,5.91,20,1,5.91
-Adrien Rabiot,Marseille,French Ligue 1,CM,Midfielder,FRA,30,6.34,90,1,6.34
-Adrien Thomasson,Lens,French Ligue 1,CM,Midfielder,FRA,31,6.72,90,1,6.72
-Adrien Truffert,Bournemouth,English Premier League,LB,Defender,FRA,23,6.68,90,1,6.68
-Adrián Liso,Getafe,Spanish La Liga,AM,Forward,ESP,20,6.39,77,1,6.39
-Adrián de la Fuente,Levante,Spanish La Liga,CB,Defender,ESP,26,5.97,90,1,5.97
-Aihen Muñoz,Real Sociedad,Spanish La Liga,LB,Defender,ESP,28,6.59,79,1,6.59
-Ainsley Maitland-Niles,Lyon,French Ligue 1,RW,Forward,ENG,27,5.82,90,1,5.82
-Aitor Paredes,Athletic Club,Spanish La Liga,CB,Defender,ESP,25,6.4,90,1,6.4
-Aitor Ruibal,Betis,Spanish La Liga,RW,Forward,ESP,29,6.52,70,1,6.52
-Akor Adams,Sevilla,Spanish La Liga,AM,Forward,NGA,25,6.91,90,1,6.91
-Alberto Moleiro,Villarreal,Spanish La Liga,RW,Forward,ESP,21,6.61,21,1,6.61
-Alberto Reina,Oviedo,Spanish La Liga,DM,Midfielder,ESP,27,6.6,26,1,6.6
-Aleix Febas,Elche,Spanish La Liga,RM,Midfielder,ESP,29,6.91,90,1,6.91
-Alejandro Balde,Barcelona,Spanish La Liga,LB,Defender,ESP,21,6.17,67,1,6.17
-Aleksandr Golovin,Monaco,French Ligue 1,LW,Forward,RUS,29,6.49,88,1,6.49
-Alex Baena,Atlético Madrid,Spanish La Liga,AM,Forward,ESP,24,6.83,67,1,6.83
-Alex Iwobi,Fulham,English Premier League,LW,Forward,NGA,29,6.96,65,1,6.96
-Alex Scott,Bournemouth,English Premier League,CM,Midfielder,ENG,21,6.08,73,1,6.08
+Aaron Wan-Bissaka,West Ham,English Premier League,WB,Midfielder,ENG,27,13.88,180,2,6.94
+Aaron Zehnter,Wolfsburg,German Bundesliga,LB,Defender,GER,20,6.26,90,1,6.26
+Aarón Martín,Genoa,Italian Serie A,LB,Defender,ESP,28,6.25,90,1,6.25
+Abdelhamid Ait Boudlal,Rennes,French Ligue 1,CB,Defender,MAR,19,5.48,30,1,5.48
+Abderrahman Rebbach,Alavés,Spanish La Liga,LM,Midfielder,ALG,27,7.36,33,1,7.36
+Abdou Harroui,Hellas Verona,Italian Serie A,CM,Midfielder,NED,27,6.46,25,1,6.46
+Abdoulaye Faye,Lorient,French Ligue 1,CB,Defender,SEN,20,6.03,45,1,6.03
+Abdoulaye Touré,Le Havre,French Ligue 1,CM,Midfielder,GUI,31,6.26,28,1,6.26
+Abdoulie Ceesay,St. Pauli,German Bundesliga,AM,Forward,GAM,21,5.99,23,1,5.99
+Abdón Prats,Mallorca,Spanish La Liga,AM,Forward,ESP,32,6.0,23,1,6.0
+Abel,Osasuna,Spanish La Liga,WB,Midfielder,ESP,24,6.64,89,1,6.64
+Abner,Lyon,French Ligue 1,LB,Defender,BRA,25,12.17,163,2,6.08
+Achraf Hakimi,Paris S-G,French Ligue 1,RB,Defender,MAR,26,12.45,120,2,6.22
+Adam Dźwigała,St. Pauli,German Bundesliga,CB,Defender,POL,29,5.59,76,1,5.59
+Adam Marušić,Lazio,Italian Serie A,RB,Defender,MNE,32,5.87,30,1,5.87
+Adam Masina,Torino,Italian Serie A,CB,Defender,MAR,31,6.27,90,1,6.27
+Adam Obert,Cagliari,Italian Serie A,LB,Defender,SVK,23,5.73,74,1,5.73
+Adam Smith,Bournemouth,English Premier League,RB,Defender,ENG,34,12.51,179,2,6.26
+Adam Wharton,Crystal Palace,English Premier League,CM,Midfielder,ENG,21,13.83,171,2,6.92
+Adama Camara,Paris FC,French Ligue 1,LM,Midfielder,FRA,28,6.28,68,1,6.28
+Adama Traoré,Fulham,English Premier League,LW,Forward,ESP,29,5.77,25,1,5.77
+Adnan Januzaj,Sevilla,Spanish La Liga,AM,Forward,BEL,30,5.99,20,1,5.99
+Adrian Bernabe,Parma,Italian Serie A,CM,Midfielder,ESP,24,6.64,90,1,6.64
+Adrien Rabiot,Marseille,French Ligue 1,CM,Midfielder,FRA,30,6.38,90,1,6.38
+Adrien Tameze,Torino,Italian Serie A,CM,Midfielder,CMR,31,5.74,33,1,5.74
+Adrien Thomasson,Lens,French Ligue 1,CM,Midfielder,FRA,31,12.88,180,2,6.44
+Adrien Truffert,Bournemouth,English Premier League,LB,Defender,FRA,23,13.9,180,2,6.95
+Adrián Liso,Getafe,Spanish La Liga,AM,Forward,ESP,20,13.51,167,2,6.76
+Adrián de la Fuente,Levante,Spanish La Liga,CB,Defender,ESP,26,12.9,180,2,6.45
+Aihen Muñoz,Real Sociedad,Spanish La Liga,LB,Defender,ESP,28,13.21,99,2,6.6
+Aimar Oroz,Osasuna,Spanish La Liga,AM,Forward,ESP,23,13.47,153,2,6.74
+Ainsley Maitland-Niles,Lyon,French Ligue 1,RB,Defender,ENG,27,12.5,180,2,6.25
+Aitor Paredes,Athletic Club,Spanish La Liga,CB,Defender,ESP,25,12.61,180,2,6.3
+Aitor Ruibal,Betis,Spanish La Liga,RW,Forward,ESP,29,13.57,160,2,6.78
+Akor Adams,Sevilla,Spanish La Liga,AM,Forward,NGA,25,13.41,180,2,6.7
+Albert Grønbaek,Genoa,Italian Serie A,LW,Forward,DEN,24,6.32,59,1,6.32
+Albert Guðmundsson,Fiorentina,Italian Serie A,AM,Forward,ISL,28,6.05,71,1,6.05
+Alberto Grassi,Cremonese,Italian Serie A,CM,Midfielder,ITA,30,5.63,55,1,5.63
+Alberto Moleiro,Villarreal,Spanish La Liga,LM,Forward,ESP,21,13.33,42,2,6.66
+Alberto Reina,Oviedo,Spanish La Liga,DM,Midfielder,ESP,27,6.65,26,1,6.65
+Aleix Febas,Elche,Spanish La Liga,CM,Midfielder,ESP,29,13.49,180,2,6.74
+Aleix García,Leverkusen,German Bundesliga,CM,Midfielder,ESP,28,6.67,90,1,6.67
+Alejandro Balde,Barcelona,Spanish La Liga,LB,Defender,ESP,21,13.2,142,2,6.6
+Alejandro Jiménez,Milan,Italian Serie A,LB,Defender,ESP,20,5.88,45,1,5.88
+Aleksandar Pavlovic,Bayern Munich,German Bundesliga,DM,Midfielder,GER,21,6.64,23,1,6.64
+Aleksandr Golovin,Monaco,French Ligue 1,LM,Forward,RUS,29,13.28,161,2,6.64
+Alessandro Bastoni,Inter,Italian Serie A,CB,Defender,ITA,26,6.66,85,1,6.66
+Alessandro Circati,Parma,Italian Serie A,CB,Defender,AUS,21,6.1,90,1,6.1
+Alessandro Deiola,Cagliari,Italian Serie A,LM,Midfielder,ITA,30,6.26,73,1,6.26
+Alessandro Marcandalli,Genoa,Italian Serie A,CB,Defender,ITA,22,5.81,90,1,5.81
+Alessio Zerbin,Cremonese,Italian Serie A,WB,Midfielder,ITA,26,7.17,90,1,7.17
+Alex Baena,Atlético Madrid,Spanish La Liga,AM,Forward,ESP,24,6.82,67,1,6.82
+Alex Iwobi,Fulham,English Premier League,LW,Forward,NGA,29,14.31,155,2,7.15
+Alex Král,Union Berlin,German Bundesliga,CM,Midfielder,CZE,27,6.25,24,1,6.25
+Alex Scott,Bournemouth,English Premier League,CM,Midfielder,ENG,22,12.41,138,2,6.2
+Alexander Røssing-Lelesiit,Hamburger SV,German Bundesliga,LW,Forward,NOR,18,5.59,73,1,5.59
+Alexander Sørloth,Atlético Madrid,Spanish La Liga,AM,Forward,NOR,29,7.51,67,1,7.51
 Alexis Mac Allister,Liverpool,English Premier League,DM,Midfielder,ARG,26,7.19,71,1,7.19
-Alexis Vossah,Toulouse,French Ligue 1,CM,Midfielder,FRA,17,6.06,23,1,6.06
-Alexsandro Ribeiro,Lille,French Ligue 1,CB,Defender,BRA,26,5.98,90,1,5.98
-Ali Houary,Elche,Spanish La Liga,LM,Midfielder,MAR,20,6.99,64,1,6.99
-Alimani Gory,Paris FC,French Ligue 1,AM,Forward,MLI,28,5.9,30,1,5.9
-Amad Diallo,Manchester Utd,English Premier League,WB,Midfielder,CIV,23,7.2,36,1,7.2
-Amadou Onana,Aston Villa,English Premier League,DM,Midfielder,BEL,24,7.03,90,1,7.03
-Amine Gouiri,Marseille,French Ligue 1,AM,Forward,ALG,25,6.77,85,1,6.77
-Ander Barrenetxea,Real Sociedad,Spanish La Liga,LW,Forward,ESP,23,7.07,90,1,7.07
-Andrei Ratiu,Rayo Vallecano,Spanish La Liga,RB,Defender,ROU,27,7.06,90,1,7.06
-Andrew Robertson,Liverpool,English Premier League,LB,Defender,SCO,31,5.86,31,1,5.86
-André,Wolves,English Premier League,CM,Midfielder,BRA,24,6.81,71,1,6.81
-Andy Diouf,Lens,French Ligue 1,CM,Midfielder,FRA,22,6.53,90,1,6.53
-Angel Gomes,Marseille,French Ligue 1,DM,Midfielder,ENG,24,6.93,85,1,6.93
-Anthony Elanga,Newcastle Utd,English Premier League,RW,Forward,SWE,23,7.01,77,1,7.01
-Anthony Gordon,Newcastle Utd,English Premier League,AM,Forward,ENG,24,6.94,90,1,6.94
-Anthony Rouault,Rennes,French Ligue 1,CB,Defender,FRA,24,6.13,90,1,6.13
-Antoine Griezmann,Atlético Madrid,Spanish La Liga,AM,Forward,FRA,34,6.12,23,1,6.12
-Antoine Mendy,Nice,French Ligue 1,CB,Defender,SEN,21,6.55,90,1,6.55
-Antoine Semenyo,Bournemouth,English Premier League,RM,Midfielder,GHA,25,7.18,90,1,7.18
-Anton Stach,Leeds United,English Premier League,LM,Midfielder,GER,26,7.74,90,1,7.74
-Antoni Milambo,Brentford,English Premier League,AM,Forward,NED,20,6.31,45,1,6.31
-Antonio Blanco,Alavés,Spanish La Liga,DM,Midfielder,ESP,25,7.26,90,1,7.26
-Antonio Raillo,Mallorca,Spanish La Liga,CB,Defender,ESP,33,6.3,90,1,6.3
-Antonio Sánchez,Mallorca,Spanish La Liga,RB,Defender,ESP,28,6.42,90,1,6.42
-Ao Tanaka,Leeds United,English Premier League,RM,Midfielder,JPN,26,7.01,89,1,7.01
-Archie Gray,Tottenham,English Premier League,CM,Midfielder,ENG,19,6.88,70,1,6.88
-Aritz Elustondo,Real Sociedad,Spanish La Liga,CB,Defender,ESP,31,5.82,23,1,5.82
-Arnau Martinez,Girona,Spanish La Liga,RB,Defender,ESP,22,7.09,57,1,7.09
-Arnaut Danjuma,Valencia,Spanish La Liga,AM,Forward,NED,28,6.59,24,1,6.59
-Aron Dønnum,Toulouse,French Ligue 1,RM,Midfielder,NOR,27,6.92,90,1,6.92
-Arouna Sangante,Le Havre,French Ligue 1,RB,Defender,SEN,23,5.81,77,1,5.81
-Arsène Kouassi,Lorient,French Ligue 1,LM,Midfielder,BFA,21,5.63,74,1,5.63
-Arthur Avom Ebong,Lorient,French Ligue 1,CM,Midfielder,CMR,20,6.5,90,1,6.5
-Ayumu Seko,Le Havre,French Ligue 1,CB,Defender,JPN,25,5.76,90,1,5.76
-Badredine Bouanani,Nice,French Ligue 1,AM,Forward,ALG,20,6.67,75,1,6.67
-Bafodé Diakité,Bournemouth,English Premier League,CB,Defender,FRA,24,6.57,90,1,6.57
-Bahereba Guirassy,Nantes,French Ligue 1,LM,Midfielder,FRA,18,6.17,58,1,6.17
-Ben White,Arsenal,English Premier League,RB,Defender,ENG,27,6.85,70,1,6.85
-Benjamin André,Lille,French Ligue 1,DM,Midfielder,FRA,35,6.65,90,1,6.65
-Benjamin Stambouli,Metz,French Ligue 1,CM,Midfielder,FRA,35,6.61,90,1,6.61
-Benjamin Šeško,Manchester Utd,English Premier League,AM,Forward,SVN,22,6.8,26,1,6.8
-Bernardo Silva,Manchester City,English Premier League,LM,Midfielder,POR,31,7.25,65,1,7.25
-Beto,Everton,English Premier League,AM,Forward,GNB,27,6.07,90,1,6.07
-Beñat Turrientes,Real Sociedad,Spanish La Liga,DM,Midfielder,ESP,23,6.5,79,1,6.5
+Alexis Saelemaekers,Milan,Italian Serie A,WB,Midfielder,BEL,26,6.86,90,1,6.86
+Alexis Vossah,Toulouse,French Ligue 1,CM,Midfielder,FRA,17,6.04,23,1,6.04
+Alexsandro Ribeiro,Lille,French Ligue 1,CB,Defender,BRA,26,13.23,180,2,6.62
+Ali Houary,Elche,Spanish La Liga,LM,Midfielder,MAR,20,6.97,64,1,6.97
+Alimani Gory,Paris FC,French Ligue 1,AM,Forward,MLI,28,11.07,57,2,5.54
+Alpha Amadou Touré,Metz,French Ligue 1,LB,Defender,SEN,19,6.26,50,1,6.26
+Amad Diallo,Manchester Utd,English Premier League,WB,Midfielder,CIV,23,14.09,87,2,7.04
+Amadou Onana,Aston Villa,English Premier League,DM,Midfielder,BEL,24,13.53,153,2,6.76
+Amin Sarr,Hellas Verona,Italian Serie A,AM,Forward,SWE,24,6.02,65,1,6.02
+Amine Adli,Bournemouth,English Premier League,RM,Midfielder,MAR,25,7.68,25,1,7.68
+Amine Gouiri,Marseille,French Ligue 1,AM,Forward,ALG,25,13.51,174,2,6.76
+Amir Rrahmani,Napoli,Italian Serie A,CB,Defender,KVX,31,6.73,90,1,6.73
+Anastasios Douvikas,Como,Italian Serie A,AM,Forward,GRE,26,6.94,69,1,6.94
+Ander Barrenetxea,Real Sociedad,Spanish La Liga,LM,Forward,ESP,23,13.75,169,2,6.88
+Ander Guevara,Alavés,Spanish La Liga,CM,Midfielder,ESP,28,6.42,33,1,6.42
+Andre-Frank Zambo Anguissa,Napoli,Italian Serie A,CM,Midfielder,CMR,29,6.38,90,1,6.38
+Andrea Cambiaso,Juventus,Italian Serie A,WB,Midfielder,ITA,25,7.04,82,1,7.04
+Andrea Pinamonti,Sassuolo,Italian Serie A,AM,Forward,ITA,26,5.9,89,1,5.9
+Andreas Hanche-Olsen,Mainz 05,German Bundesliga,CB,Defender,NOR,28,5.84,64,1,5.84
+Andreas Hountondji,St. Pauli,German Bundesliga,AM,Forward,BEN,23,6.64,67,1,6.64
+Andreas Skov Olsen,Wolfsburg,German Bundesliga,RW,Forward,DEN,25,6.88,88,1,6.88
+Andrei Ratiu,Rayo Vallecano,Spanish La Liga,RB,Defender,ROU,27,13.73,180,2,6.86
+Andrej Ilic,Union Berlin,German Bundesliga,AM,Forward,SRB,25,6.57,90,1,6.57
+Andrej Kramarić,Hoffenheim,German Bundesliga,LM,Midfielder,CRO,34,6.53,90,1,6.53
+Andrew Omobamidele,Strasbourg,French Ligue 1,CB,Defender,IRL,23,6.29,40,1,6.29
+Andrew Robertson,Liverpool,English Premier League,LB,Defender,SCO,31,6.07,31,1,6.07
+Andrey Santos,Chelsea,English Premier League,AM,Forward,BRA,21,6.58,29,1,6.58
+András Schäfer,Union Berlin,German Bundesliga,CM,Midfielder,HUN,26,5.84,90,1,5.84
+André,Wolves,English Premier League,CM,Midfielder,BRA,24,13.87,116,2,6.94
+André Silva,Elche,Spanish La Liga,AM,Forward,POR,29,6.12,24,1,6.12
+Andy Diouf,Lens,French Ligue 1,CM,Midfielder,FRA,22,6.6,90,1,6.6
+Ange-Yoan Bonny,Inter,Italian Serie A,AM,Forward,FRA,21,6.83,24,1,6.83
+Angel Gomes,Marseille,French Ligue 1,DM,Midfielder,ENG,24,13.4,175,2,6.7
+Angeliño,Roma,Italian Serie A,WB,Midfielder,ESP,28,6.45,82,1,6.45
+Angelo Stiller,Stuttgart,German Bundesliga,DM,Midfielder,GER,24,6.62,90,1,6.62
+Ansgar Knauff,Eint Frankfurt,German Bundesliga,LW,Forward,GER,23,6.7,24,1,6.7
+Ante Budimir,Osasuna,Spanish La Liga,AM,Forward,CRO,34,12.68,180,2,6.34
+Anthony Caci,Mainz 05,German Bundesliga,WB,Midfielder,FRA,28,6.16,64,1,6.16
+Anthony Elanga,Newcastle Utd,English Premier League,RW,Forward,SWE,23,13.22,167,2,6.61
+Anthony Gordon,Newcastle Utd,English Premier League,AM,Forward,ENG,24,13.92,134,2,6.96
+Anthony Rouault,Rennes,French Ligue 1,CB,Defender,FRA,24,13.39,180,2,6.7
+Antoine Bernede,Hellas Verona,Italian Serie A,CM,Midfielder,FRA,26,6.52,90,1,6.52
+Antoine Griezmann,Atlético Madrid,Spanish La Liga,AM,Forward,FRA,34,13.03,46,2,6.52
+Antoine Mendy,Nice,French Ligue 1,CB,Defender,SEN,21,13.73,180,2,6.86
+Antoine Semenyo,Bournemouth,English Premier League,LM,Midfielder,GHA,25,14.26,180,2,7.13
+Anton Stach,Leeds United,English Premier League,LM,Midfielder,GER,26,14.28,180,2,7.14
+Antonee Robinson,Fulham,English Premier League,LB,Defender,USA,28,6.26,29,1,6.26
+Antoni Milambo,Brentford,English Premier League,AM,Forward,NED,20,6.35,45,1,6.35
+Antonino Gallo,Lecce,Italian Serie A,LB,Defender,ITA,25,5.94,90,1,5.94
+Antonio Blanco,Alavés,Spanish La Liga,CM,Midfielder,ESP,25,14.45,178,2,7.22
+Antonio Caracciolo,Pisa,Italian Serie A,CB,Defender,ITA,35,5.89,90,1,5.89
+Antonio Nusa,RB Leipzig,German Bundesliga,LW,Forward,NOR,20,6.7,45,1,6.7
+Antonio Raillo,Mallorca,Spanish La Liga,CB,Defender,ESP,33,13.05,180,2,6.52
+Antonio Rüdiger,Real Madrid,Spanish La Liga,CB,Defender,GER,32,6.31,90,1,6.31
+Antonio Sanabria,Cremonese,Italian Serie A,AM,Forward,PAR,29,5.7,26,1,5.7
+Antonio Sánchez,Mallorca,Spanish La Liga,DM,Defender,ESP,28,12.38,135,2,6.19
+Ao Tanaka,Leeds United,English Premier League,RM,Midfielder,JPN,26,12.98,146,2,6.49
+Archie Gray,Tottenham,English Premier League,CM,Midfielder,ENG,19,6.9,70,1,6.9
+Arda Güler,Real Madrid,Spanish La Liga,AM,Forward,TUR,20,15.01,162,2,7.5
+Arijon Ibrahimović,Heidenheim,German Bundesliga,AM,Forward,GER,19,6.32,70,1,6.32
+Aritz Elustondo,Real Sociedad,Spanish La Liga,CB,Defender,ESP,31,5.97,23,1,5.97
+Arkadiusz Pyrka,St. Pauli,German Bundesliga,WB,Midfielder,POL,22,6.73,76,1,6.73
+Armand Lauriente,Sassuolo,Italian Serie A,LW,Forward,FRA,26,5.76,80,1,5.76
+Arnau Martinez,Girona,Spanish La Liga,RB,Defender,ESP,22,7.08,57,1,7.08
+Arnaud Kalimuendo,Nott'ham Forest,English Premier League,LW,Forward,FRA,23,5.69,20,1,5.69
+Arnaut Danjuma,Valencia,Spanish La Liga,AM,Forward,NED,28,13.19,114,2,6.6
+Aron Dønnum,Toulouse,French Ligue 1,RM,Forward,NOR,27,12.6,180,2,6.3
+Arouna Sangante,Le Havre,French Ligue 1,CB,Defender,SEN,23,12.42,160,2,6.21
+Arsène Kouassi,Lorient,French Ligue 1,LM,Midfielder,BFA,21,12.19,146,2,6.1
+Arthur,Leverkusen,German Bundesliga,WB,Midfielder,BRA,22,6.18,45,1,6.18
+Arthur Atta,Udinese,Italian Serie A,CM,Midfielder,FRA,22,6.21,90,1,6.21
+Arthur Avom Ebong,Lorient,French Ligue 1,CM,Midfielder,CMR,20,13.73,180,2,6.86
+Arthur Chaves,Hoffenheim,German Bundesliga,CB,Defender,BRA,24,5.15,46,1,5.15
+Arthur Theate,Eint Frankfurt,German Bundesliga,LB,Defender,BEL,25,6.54,90,1,6.54
+Atakan Karazor,Stuttgart,German Bundesliga,DM,Midfielder,NAN,28,6.2,81,1,6.2
+Aurélien Tchouaméni,Real Madrid,Spanish La Liga,CM,Midfielder,FRA,25,13.6,180,2,6.8
+Ayumu Seko,Le Havre,French Ligue 1,CB,Defender,JPN,25,11.71,180,2,5.86
+Ayyoub Bouaddi,Lille,French Ligue 1,DM,Midfielder,FRA,17,6.35,90,1,6.35
+Badredine Bouanani,Nice,French Ligue 1,AM,Forward,ALG,20,6.64,75,1,6.64
+Bafodé Diakité,Bournemouth,English Premier League,CB,Defender,FRA,24,13.05,180,2,6.52
+Bahereba Guirassy,Nantes,French Ligue 1,LM,Midfielder,FRA,18,12.45,113,2,6.22
+Bazoumana Touré,Hoffenheim,German Bundesliga,LW,Forward,CIV,19,6.53,90,1,6.53
+Ben White,Arsenal,English Premier League,RB,Defender,ENG,27,6.91,70,1,6.91
+Benedikt Gimber,Heidenheim,German Bundesliga,CM,Midfielder,GER,28,6.02,90,1,6.02
+Benjamin André,Lille,French Ligue 1,DM,Midfielder,FRA,35,13.54,180,2,6.77
+Benjamin Pavard,Inter,Italian Serie A,CB,Defender,FRA,29,6.72,90,1,6.72
+Benjamin Stambouli,Metz,French Ligue 1,CM,Midfielder,FRA,35,12.64,180,2,6.32
+Benjamin Šeško,Manchester Utd,English Premier League,AM,Forward,SVN,22,12.98,64,2,6.49
+Berat Djimsiti,Atalanta,Italian Serie A,CB,Defender,ALB,32,6.87,90,1,6.87
+Bernardo,Hoffenheim,German Bundesliga,LB,Defender,BRA,30,6.94,90,1,6.94
+Bernardo Silva,Manchester City,English Premier League,CM,Midfielder,POR,31,13.46,102,2,6.73
+Beto,Everton,English Premier League,AM,Forward,GNB,27,12.78,117,2,6.39
+Beñat Prados,Athletic Club,Spanish La Liga,DM,Midfielder,ESP,24,6.11,24,1,6.11
+Beñat Turrientes,Real Sociedad,Spanish La Liga,DM,Midfielder,ESP,23,13.3,134,2,6.65
+Bilal Nadir,Marseille,French Ligue 1,AM,Forward,MAR,21,6.91,28,1,6.91
 Bojan Miovski,Girona,Spanish La Liga,AM,Forward,MKD,26,5.77,44,1,5.77
-Borja Iglesias,Celta Vigo,Spanish La Liga,AM,Forward,ESP,32,6.55,24,1,6.55
-Boubacar Kamara,Aston Villa,English Premier League,DM,Midfielder,FRA,25,6.98,90,1,6.98
-Boubacar Traoré,Metz,French Ligue 1,CM,Midfielder,MLI,23,5.88,83,1,5.88
-Bradley Barcola,Paris S-G,French Ligue 1,LW,Forward,FRA,22,6.9,90,1,6.9
-Bradley Locko,Brest,French Ligue 1,LB,Defender,FRA,23,6.62,90,1,6.62
-Brais Méndez,Real Sociedad,Spanish La Liga,AM,Forward,ESP,28,7.24,67,1,7.24
-Brendan Chardonnet,Brest,French Ligue 1,CB,Defender,FRA,30,5.72,90,1,5.72
-Brenden Aaronson,Leeds United,English Premier League,LW,Forward,USA,24,6.36,24,1,6.36
-Brennan Johnson,Tottenham,English Premier League,LW,Forward,WAL,24,6.82,79,1,6.82
-Brian Madjo,Metz,French Ligue 1,AM,Forward,LUX,16,5.89,58,1,5.89
-Brugui,Levante,Spanish La Liga,LM,Midfielder,ESP,28,5.83,85,1,5.83
-Bruno Fernandes,Manchester Utd,English Premier League,CM,Midfielder,POR,30,7.43,90,1,7.43
-Bruno Guimarães,Newcastle Utd,English Premier League,RM,Midfielder,BRA,27,7.23,90,1,7.23
-Bryan Mbeumo,Manchester Utd,English Premier League,AM,Forward,CMR,26,7.39,90,1,7.39
-Bryan Zaragoza,Celta Vigo,Spanish La Liga,LW,Forward,ESP,24,6.48,34,1,6.48
-Bukayo Saka,Arsenal,English Premier League,RW,Forward,ENG,23,6.68,90,1,6.68
-CJ Egan-Riley,Marseille,French Ligue 1,RB,Defender,ENG,22,7.15,90,1,7.15
-Caio Henrique Oliveira Silva,Monaco,French Ligue 1,LB,Defender,BRA,28,6.02,90,1,6.02
-Callum Hudson-Odoi,Nott'ham Forest,English Premier League,LW,Forward,ENG,24,6.75,90,1,6.75
-Callum Wilson,West Ham,English Premier League,AM,Forward,ENG,33,6.42,20,1,6.42
-Calvin Bassey,Fulham,English Premier League,LB,Defender,NGA,25,6.93,90,1,6.93
-Carlens Arcus,Angers,French Ligue 1,CB,Defender,HAI,29,5.82,90,1,5.82
-Carles Aleñá,Alavés,Spanish La Liga,LM,Midfielder,ESP,27,7.33,89,1,7.33
-Carlos Alcaraz,Everton,English Premier League,RW,Forward,ARG,22,6.17,85,1,6.17
-Carlos Baleba,Brighton,English Premier League,DM,Midfielder,CMR,21,6.33,68,1,6.33
-Carlos Romero,Espanyol,Spanish La Liga,LB,Defender,ESP,23,6.56,90,1,6.56
-Carlos Vicente,Alavés,Spanish La Liga,RM,Midfielder,ESP,26,6.71,85,1,6.71
-Carmona,Sevilla,Spanish La Liga,LB,Defender,ESP,23,6.82,90,1,6.82
-Casemiro,Manchester Utd,English Premier League,CM,Midfielder,BRA,33,6.75,64,1,6.75
-Castrin,Sevilla,Spanish La Liga,CB,Defender,ESP,22,6.62,70,1,6.62
-Charlie Cresswell,Toulouse,French Ligue 1,CB,Defender,ENG,22,6.45,90,1,6.45
-Cheikh Tidiane Sabaly,Metz,French Ligue 1,AM,Forward,SEN,26,5.81,72,1,5.81
-Chemsdine Talbi,Sunderland,English Premier League,RW,Forward,BEL,20,6.19,89,1,6.19
-Chidera Ejuke,Sevilla,Spanish La Liga,LM,Midfielder,NGA,27,7.04,45,1,7.04
-Chidozie Awaziem,Nantes,French Ligue 1,CB,Defender,NGA,28,6.32,90,1,6.32
-Chris Richards,Crystal Palace,English Premier League,CB,Defender,USA,25,5.94,90,1,5.94
-Chris Wood,Nott'ham Forest,English Premier League,AM,Forward,NZL,33,6.74,78,1,6.74
-Christantus Uche,Getafe,Spanish La Liga,AM,Forward,NGA,22,7.47,90,1,7.47
-Christian Mawissa,Monaco,French Ligue 1,CB,Defender,FRA,20,6.32,90,1,6.32
-Christopher Wooh,Rennes,French Ligue 1,CB,Defender,CMR,23,5.14,54,1,5.14
-Clinton Mata,Lyon,French Ligue 1,CB,Defender,ANG,32,6.11,90,1,6.11
-Clément Akpa,Auxerre,French Ligue 1,CB,Defender,CIV,23,6.8,90,1,6.8
-Cody Gakpo,Liverpool,English Premier League,LW,Forward,NED,26,7.73,90,1,7.73
-Cole Palmer,Chelsea,English Premier League,AM,Forward,ENG,23,7.17,90,1,7.17
-Conor Gallagher,Atlético Madrid,Spanish La Liga,DM,Midfielder,ENG,25,6.54,45,1,6.54
-Copete,Valencia,Spanish La Liga,CB,Defender,ESP,25,6.62,90,1,6.62
-Corentin Tolisso,Lyon,French Ligue 1,AM,Forward,FRA,31,6.67,90,1,6.67
-Cristian Romero,Tottenham,English Premier League,CB,Defender,ARG,27,6.74,90,1,6.74
-Cucho,Betis,Spanish La Liga,AM,Forward,COL,26,6.89,83,1,6.89
-César Tárrega,Valencia,Spanish La Liga,CB,Defender,ESP,23,6.6,90,1,6.6
-Daley Blind,Girona,Spanish La Liga,LB,Defender,NED,35,6.64,57,1,6.64
-Dan Burn,Newcastle Utd,English Premier League,CB,Defender,ENG,33,6.94,90,1,6.94
-Dan Ndoye,Nott'ham Forest,English Premier League,RW,Forward,SUI,24,6.37,78,1,6.37
-Dani Calvo,Oviedo,Spanish La Liga,CB,Defender,ESP,31,6.18,90,1,6.18
-Dani Olmo,Barcelona,Spanish La Liga,AM,Forward,ESP,27,7.2,45,1,7.2
-Dani Raba,Valencia,Spanish La Liga,AM,Forward,ESP,29,7.43,66,1,7.43
-Dani Rodríguez,Mallorca,Spanish La Liga,LM,Midfielder,ESP,37,6.11,45,1,6.11
-Daniel Ballard,Sunderland,English Premier League,CB,Defender,NIR,25,6.58,90,1,6.58
-Daniel James,Leeds United,English Premier League,RW,Forward,WAL,27,6.52,77,1,6.52
-Daniel Muñoz,Crystal Palace,English Premier League,WB,Midfielder,COL,29,6.42,90,1,6.42
-Daniel Parejo,Villarreal,Spanish La Liga,CM,Midfielder,ESP,36,7.11,21,1,7.11
-Daniel Vivian,Athletic Club,Spanish La Liga,CB,Defender,ESP,26,6.46,90,1,6.46
-Danny Welbeck,Brighton,English Premier League,AM,Forward,ENG,34,6.04,22,1,6.04
-David Affengruber,Elche,Spanish La Liga,CB,Defender,AUT,24,7.24,90,1,7.24
-David Brooks,Bournemouth,English Premier League,LM,Midfielder,WAL,28,7.12,83,1,7.12
-David López,Girona,Spanish La Liga,CB,Defender,ESP,35,6.46,90,1,6.46
-David Møller Wolfe,Wolves,English Premier League,LM,Midfielder,NOR,23,6.33,71,1,6.33
-Davinchi,Getafe,Spanish La Liga,LB,Defender,ESP,17,6.34,90,1,6.34
-Dayann Methalie,Toulouse,French Ligue 1,LM,Midfielder,FRA,19,6.11,81,1,6.11
-Declan Rice,Arsenal,English Premier League,LM,Midfielder,ENG,26,6.39,82,1,6.39
-Deiver Machado,Lens,French Ligue 1,WB,Midfielder,COL,31,6.39,75,1,6.39
-Denis Zakaria,Monaco,French Ligue 1,DM,Midfielder,SUI,28,7.08,90,1,7.08
-Diego Gómez,Brighton,English Premier League,DM,Midfielder,PAR,22,6.78,22,1,6.78
-Diego López,Valencia,Spanish La Liga,LM,Midfielder,ESP,23,6.6,90,1,6.6
-Diego Rico,Getafe,Spanish La Liga,CB,Defender,ESP,32,5.54,90,1,5.54
-Dilane Bakwa,Strasbourg,French Ligue 1,RB,Defender,FRA,22,6.15,36,1,6.15
-Dimitri Foulquier,Valencia,Spanish La Liga,RB,Defender,FRA,32,6.98,90,1,6.98
-Diogo Dalot,Manchester Utd,English Premier League,WB,Midfielder,POR,26,6.34,54,1,6.34
-Djed Spence,Tottenham,English Premier League,LB,Defender,ENG,25,6.61,90,1,6.61
-Djené,Getafe,Spanish La Liga,CB,Defender,TOG,33,6.03,90,1,6.03
-Djibril Sidibé,Toulouse,French Ligue 1,CB,Defender,FRA,33,6.36,90,1,6.36
-Djibril Sow,Sevilla,Spanish La Liga,CM,Midfielder,SUI,28,6.66,86,1,6.66
-Dodi Lukebakio,Sevilla,Spanish La Liga,RM,Midfielder,BEL,27,7.22,90,1,7.22
-Domingos André Ribeiro Almeida,Valencia,Spanish La Liga,AM,Forward,POR,25,6.7,23,1,6.7
-Dominic Solanke,Tottenham,English Premier League,AM,Forward,ENG,27,6.25,20,1,6.25
-Dominik Szoboszlai,Liverpool,English Premier League,DM,Midfielder,HUN,24,7.03,90,1,7.03
-Duje Ćaleta-Car,Real Sociedad,Spanish La Liga,CB,Defender,CRO,28,6.55,67,1,6.55
-Dávid Hancko,Atlético Madrid,Spanish La Liga,CB,Defender,SVK,27,6.63,90,1,6.63
-Désiré Doué,Paris S-G,French Ligue 1,LM,Midfielder,FRA,20,7.33,30,1,7.33
+Borja Iglesias,Celta Vigo,Spanish La Liga,AM,Forward,ESP,32,6.56,24,1,6.56
+Boubacar Kamara,Aston Villa,English Premier League,DM,Midfielder,FRA,25,6.95,90,1,6.95
+Boubacar Traoré,Metz,French Ligue 1,CM,Midfielder,MLI,24,11.95,173,2,5.98
+Bradley Barcola,Paris S-G,French Ligue 1,LW,Forward,FRA,22,13.47,156,2,6.74
+Bradley Locko,Brest,French Ligue 1,LB,Defender,FRA,23,12.88,180,2,6.44
+Brahim Díaz,Real Madrid,Spanish La Liga,RW,Forward,MAR,26,13.7,95,2,6.85
+Brais Méndez,Real Sociedad,Spanish La Liga,AM,Forward,ESP,28,7.17,67,1,7.17
+Brendan Chardonnet,Brest,French Ligue 1,CB,Defender,FRA,30,11.85,161,2,5.92
+Brenden Aaronson,Leeds United,English Premier League,LW,Forward,USA,24,12.58,49,2,6.29
+Brennan Johnson,Tottenham,English Premier League,LW,Forward,WAL,24,13.48,156,2,6.74
+Brian Madjo,Metz,French Ligue 1,AM,Forward,LUX,16,11.76,137,2,5.88
+Brooke Norton-Cuffy,Genoa,Italian Serie A,RB,Defender,ENG,21,6.61,90,1,6.61
+Brugui,Levante,Spanish La Liga,LM,Midfielder,ESP,28,11.89,159,2,5.94
+Bruno Fernandes,Manchester Utd,English Premier League,CM,Midfielder,POR,30,14.76,180,2,7.38
+Bruno Guimarães,Newcastle Utd,English Premier League,RM,Midfielder,BRA,27,14.23,180,2,7.12
+Bryan Cristante,Roma,Italian Serie A,CM,Midfielder,ITA,30,6.68,90,1,6.68
+Bryan Mbeumo,Manchester Utd,English Premier League,AM,Forward,CMR,26,13.91,180,2,6.96
+Bryan Zaragoza,Celta Vigo,Spanish La Liga,LW,Forward,ESP,24,6.49,34,1,6.49
+Budu Zivzivadze,Heidenheim,German Bundesliga,AM,Forward,GEO,31,5.89,70,1,5.89
+Bukayo Saka,Arsenal,English Premier League,RW,Forward,ENG,23,13.41,142,2,6.7
+CJ Egan-Riley,Marseille,French Ligue 1,CB,Defender,ENG,22,13.57,180,2,6.78
+Caio Henrique Oliveira Silva,Monaco,French Ligue 1,LB,Defender,BRA,28,12.64,174,2,6.32
+Callum Hudson-Odoi,Nott'ham Forest,English Premier League,LW,Forward,ENG,24,13.52,161,2,6.76
+Callum Wilson,West Ham,English Premier League,AM,Forward,ENG,33,12.86,65,2,6.43
+Calvin Bassey,Fulham,English Premier League,CB,Defender,NGA,25,12.91,180,2,6.46
+Can Uzun,Eint Frankfurt,German Bundesliga,AM,Forward,TUR,19,7.34,73,1,7.34
+Carlens Arcus,Angers,French Ligue 1,CB,Defender,HAI,29,12.0,180,2,6.0
+Carles Aleñá,Alavés,Spanish La Liga,LM,Midfielder,ESP,27,14.24,179,2,7.12
+Carlos Alcaraz,Everton,English Premier League,DM,Forward,ARG,22,12.61,112,2,6.3
+Carlos Augusto,Inter,Italian Serie A,WB,Midfielder,BRA,26,5.9,25,1,5.9
+Carlos Baleba,Brighton,English Premier League,DM,Midfielder,CMR,21,12.13,113,2,6.06
+Carlos Dominguez,Celta Vigo,Spanish La Liga,CB,Defender,ESP,24,6.69,90,1,6.69
+Carlos Romero,Espanyol,Spanish La Liga,LB,Defender,ESP,23,12.65,180,2,6.32
+Carlos Vicente,Alavés,Spanish La Liga,RM,Midfielder,ESP,26,13.68,175,2,6.84
+Carlos Álvarez,Levante,Spanish La Liga,RM,Midfielder,ESP,22,6.37,32,1,6.37
+Carmona,Sevilla,Spanish La Liga,LB,Defender,ESP,23,13.95,180,2,6.98
+Casemiro,Manchester Utd,English Premier League,CM,Midfielder,BRA,33,13.31,116,2,6.65
+Castello Lukeba,RB Leipzig,German Bundesliga,CB,Defender,FRA,22,6.49,90,1,6.49
+Castrin,Sevilla,Spanish La Liga,CB,Defender,ESP,22,13.92,160,2,6.96
+Catena,Osasuna,Spanish La Liga,CB,Defender,ESP,30,13.19,180,2,6.6
+Cenk Özkacar,Köln,German Bundesliga,AM,Forward,TUR,24,6.19,24,1,6.19
+Cesare Casadei,Torino,Italian Serie A,RM,Midfielder,ITA,22,6.31,90,1,6.31
+Charalampos Lykogiannis,Bologna,Italian Serie A,LB,Defender,GRE,31,6.73,90,1,6.73
+Charles De Ketelaere,Atalanta,Italian Serie A,AM,Forward,BEL,24,7.01,83,1,7.01
+Charlie Cresswell,Toulouse,French Ligue 1,CB,Defender,ENG,23,12.75,180,2,6.38
+Che Adams,Torino,Italian Serie A,AM,Forward,SCO,29,6.04,27,1,6.04
+Cheikh Tidiane Niasse,Hellas Verona,Italian Serie A,CM,Midfielder,SEN,25,5.71,65,1,5.71
+Cheikh Tidiane Sabaly,Metz,French Ligue 1,AM,Forward,SEN,26,5.78,72,1,5.78
+Chemsdine Talbi,Sunderland,English Premier League,RW,Forward,BEL,20,12.32,151,2,6.16
+Cher Ndour,Fiorentina,Italian Serie A,AM,Forward,ITA,21,6.22,45,1,6.22
+Chidera Ejuke,Sevilla,Spanish La Liga,LM,Forward,NGA,27,13.65,111,2,6.82
+Chidozie Awaziem,Nantes,French Ligue 1,CB,Defender,NGA,28,13.4,180,2,6.7
+Chris Führich,Stuttgart,German Bundesliga,LW,Forward,GER,27,7.11,20,1,7.11
+Chris Richards,Crystal Palace,English Premier League,CB,Defender,USA,25,12.72,180,2,6.36
+Chris Wood,Nott'ham Forest,English Premier League,AM,Forward,NZL,33,13.02,165,2,6.51
+Chrislain Matsima,Augsburg,German Bundesliga,CB,Defender,FRA,23,6.15,90,1,6.15
+Christ-Owen Kouassi,Lecce,Italian Serie A,RB,Defender,FRA,22,5.82,23,1,5.82
+Christantus Uche,Getafe,Spanish La Liga,AM,Forward,NGA,22,14.08,180,2,7.04
+Christian Günter,Freiburg,German Bundesliga,LB,Defender,GER,32,5.61,80,1,5.61
+Christian Mawissa,Monaco,French Ligue 1,CB,Defender,FRA,20,13.04,180,2,6.52
+Christian Ordoñez,Parma,Italian Serie A,AM,Forward,ARG,21,5.64,56,1,5.64
+Christian Pulisic,Milan,Italian Serie A,AM,Forward,USA,26,6.99,90,1,6.99
+Christoph Baumgartner,RB Leipzig,German Bundesliga,RW,Forward,AUT,26,5.99,22,1,5.99
+Christopher Trimmel,Union Berlin,German Bundesliga,RB,Defender,AUT,38,5.88,83,1,5.88
+Christopher Wooh,Rennes,French Ligue 1,CB,Defender,CMR,23,5.06,54,1,5.06
+Ciro Immobile,Bologna,Italian Serie A,AM,Forward,ITA,35,5.53,29,1,5.53
+Clinton Mata,Lyon,French Ligue 1,CB,Defender,ANG,32,12.53,175,2,6.26
+Clément Akpa,Auxerre,French Ligue 1,CB,Defender,CIV,23,13.03,180,2,6.52
+Cody Gakpo,Liverpool,English Premier League,LW,Forward,NED,26,14.62,179,2,7.31
+Cole Palmer,Chelsea,English Premier League,AM,Forward,ENG,23,7.08,90,1,7.08
+Conor Gallagher,Atlético Madrid,Spanish La Liga,DM,Midfielder,ENG,25,13.54,68,2,6.77
+Copete,Valencia,Spanish La Liga,CB,Defender,ESP,25,13.14,167,2,6.57
+Corentin Tolisso,Lyon,French Ligue 1,AM,Forward,FRA,31,13.27,164,2,6.64
+Cristhian Mosquera,Arsenal,English Premier League,RB,Defender,ESP,21,6.24,27,1,6.24
+Cristian Cásseres Jr.,Toulouse,French Ligue 1,CM,Midfielder,VEN,25,6.85,90,1,6.85
+Cristian Romero,Tottenham,English Premier League,CB,Defender,ARG,27,13.27,180,2,6.64
+Cristiano Biraghi,Torino,Italian Serie A,LB,Defender,ITA,32,6.05,90,1,6.05
+Cucho,Betis,Spanish La Liga,AM,Forward,COL,26,13.58,167,2,6.79
+Curtis Jones,Liverpool,English Premier League,DM,Midfielder,ENG,24,7.02,89,1,7.02
+Cyriaque Irié,Freiburg,German Bundesliga,RW,Forward,BFA,20,6.23,31,1,6.23
+Cyril Ngonge,Torino,Italian Serie A,RW,Forward,BEL,25,6.12,79,1,6.12
+César Tárrega,Valencia,Spanish La Liga,CB,Defender,ESP,23,13.77,180,2,6.88
+Daley Blind,Girona,Spanish La Liga,CM,Defender,NED,35,13.65,147,2,6.82
+Dan Burn,Newcastle Utd,English Premier League,CB,Defender,ENG,33,13.3,180,2,6.65
+Dan Ndoye,Nott'ham Forest,English Premier League,RW,Forward,SUI,24,13.29,148,2,6.64
+Danel Sinani,St. Pauli,German Bundesliga,AM,Forward,LUX,28,7.37,90,1,7.37
+Dango Ouattara,Brentford,English Premier League,RW,Forward,BFA,23,6.71,83,1,6.71
+Dani Calvo,Oviedo,Spanish La Liga,CB,Defender,ESP,31,13.05,180,2,6.52
+Dani Carvajal,Real Madrid,Spanish La Liga,RB,Defender,ESP,33,13.59,109,2,6.8
+Dani Olmo,Barcelona,Spanish La Liga,AM,Forward,ESP,27,14.68,90,2,7.34
+Dani Raba,Valencia,Spanish La Liga,AM,Forward,ESP,29,13.39,91,2,6.7
+Dani Rodríguez,Mallorca,Spanish La Liga,CM,Midfielder,ESP,37,12.53,68,2,6.26
+Daniel Ballard,Sunderland,English Premier League,CB,Defender,NIR,25,6.63,90,1,6.63
+Daniel Boloca,Sassuolo,Italian Serie A,LM,Midfielder,ROU,26,6.96,90,1,6.96
+Daniel Denoon,Pisa,Italian Serie A,CB,Defender,SUI,21,5.32,77,1,5.32
+Daniel Elfadli,Hamburger SV,German Bundesliga,CB,Defender,LBY,28,6.08,90,1,6.08
+Daniel James,Leeds United,English Premier League,RW,Forward,WAL,27,12.78,142,2,6.39
+Daniel Maldini,Atalanta,Italian Serie A,AM,Forward,ITA,23,6.94,70,1,6.94
+Daniel Mosquera,Hellas Verona,Italian Serie A,AM,Forward,COL,25,5.77,25,1,5.77
+Daniel Muñoz,Crystal Palace,English Premier League,RM,Midfielder,COL,29,13.5,180,2,6.75
+Daniel Parejo,Villarreal,Spanish La Liga,CM,Midfielder,ESP,36,13.8,46,2,6.9
+Daniel Svensson,Dortmund,German Bundesliga,WB,Midfielder,SWE,23,6.28,90,1,6.28
+Daniel Vivian,Athletic Club,Spanish La Liga,CB,Defender,ESP,26,13.05,180,2,6.52
+Danilho Doekhi,Union Berlin,German Bundesliga,CB,Defender,NED,27,6.05,90,1,6.05
+Danilo Cataldi,Lazio,Italian Serie A,CM,Midfielder,ITA,31,5.82,65,1,5.82
+Danilo Veiga,Lecce,Italian Serie A,RB,Defender,POR,22,6.05,67,1,6.05
+Danny Loader,Auxerre,French Ligue 1,LM,Midfielder,CMR,24,5.56,29,1,5.56
+Danny Welbeck,Brighton,English Premier League,AM,Forward,ENG,34,12.53,112,2,6.26
+Danny da Costa,Mainz 05,German Bundesliga,CB,Defender,GER,32,5.93,90,1,5.93
+David Affengruber,Elche,Spanish La Liga,CB,Defender,AUT,24,14.31,180,2,7.15
+David Brooks,Bournemouth,English Premier League,LM,Midfielder,WAL,28,13.94,148,2,6.97
+David Costas,Oviedo,Spanish La Liga,CB,Defender,ESP,30,6.68,90,1,6.68
+David López,Girona,Spanish La Liga,CB,Defender,ESP,35,13.31,139,2,6.65
+David Møller Wolfe,Wolves,English Premier League,LM,Midfielder,NOR,23,13.06,116,2,6.53
+David Okereke,Cremonese,Italian Serie A,AM,Forward,NGA,27,5.66,64,1,5.66
+David Raum,RB Leipzig,German Bundesliga,LB,Defender,GER,27,6.65,90,1,6.65
+Davinchi,Getafe,Spanish La Liga,LB,Defender,ESP,17,12.72,180,2,6.36
+Dawda Camara,Girona,Spanish La Liga,AM,Forward,MTN,22,6.08,45,1,6.08
+Dayann Methalie,Toulouse,French Ligue 1,LM,Midfielder,FRA,19,12.83,163,2,6.42
+Dayot Upamecano,Bayern Munich,German Bundesliga,CB,Defender,FRA,26,6.73,90,1,6.73
+Dean Huijsen,Real Madrid,Spanish La Liga,CB,Defender,ESP,20,13.7,180,2,6.85
+Declan Rice,Arsenal,English Premier League,LM,Midfielder,ENG,26,13.47,172,2,6.74
+Deiver Machado,Lens,French Ligue 1,WB,Midfielder,COL,31,12.31,165,2,6.16
+Denis Zakaria,Monaco,French Ligue 1,CM,Midfielder,SUI,28,13.44,180,2,6.72
+Deniz Undav,Stuttgart,German Bundesliga,AM,Forward,GER,29,6.84,90,1,6.84
+Denzel Dumfries,Inter,Italian Serie A,WB,Midfielder,NED,29,6.32,90,1,6.32
+Dermane Karim,Lorient,French Ligue 1,LW,Forward,TOG,21,5.99,55,1,5.99
+Derrick Köhn,Union Berlin,German Bundesliga,LB,Defender,GER,26,5.47,24,1,5.47
+Diego Gómez,Brighton,English Premier League,DM,Midfielder,PAR,22,13.46,46,2,6.73
+Diego López,Valencia,Spanish La Liga,LM,Midfielder,ESP,23,13.42,180,2,6.71
+Diego Moreira,Strasbourg,French Ligue 1,WB,Midfielder,POR,21,6.68,27,1,6.68
+Diego Rico,Getafe,Spanish La Liga,CB,Defender,ESP,32,11.84,180,2,5.92
+Dilane Bakwa,Strasbourg,French Ligue 1,AM,Defender,FRA,22,13.23,62,2,6.62
+Dimitri Foulquier,Valencia,Spanish La Liga,RB,Defender,FRA,32,13.59,180,2,6.8
+Dimitris Giannoulis,Augsburg,German Bundesliga,LM,Midfielder,GRE,29,6.8,59,1,6.8
+Diogo Dalot,Manchester Utd,English Premier League,WB,Midfielder,POR,26,12.78,93,2,6.39
+Djaoui Cissé,Rennes,French Ligue 1,RM,Midfielder,FRA,21,5.99,28,1,5.99
+Djed Spence,Tottenham,English Premier League,LB,Defender,ENG,25,13.63,180,2,6.82
+Djené,Getafe,Spanish La Liga,CB,Defender,TOG,33,12.07,180,2,6.04
+Djibril Sidibé,Toulouse,French Ligue 1,CB,Defender,FRA,33,13.24,159,2,6.62
+Djibril Sow,Sevilla,Spanish La Liga,CM,Midfielder,SUI,28,6.69,86,1,6.69
+Dodi Lukebakio,Sevilla,Spanish La Liga,RM,Forward,BEL,27,14.27,180,2,7.14
+Dodô,Fiorentina,Italian Serie A,WB,Midfielder,BRA,26,6.1,90,1,6.1
+Domagoj Bradarić,Hellas Verona,Italian Serie A,WB,Midfielder,CRO,25,5.86,71,1,5.86
+Domenico Berardi,Sassuolo,Italian Serie A,RW,Forward,ITA,31,5.93,89,1,5.93
+Domingos André Ribeiro Almeida,Valencia,Spanish La Liga,AM,Forward,POR,25,6.69,23,1,6.69
+Domingos Duarte,Getafe,Spanish La Liga,CB,Defender,POR,30,5.51,90,1,5.51
+Dominic Solanke,Tottenham,English Premier League,AM,Forward,ENG,27,6.33,20,1,6.33
+Dominik Kohr,Mainz 05,German Bundesliga,CB,Defender,GER,31,6.39,89,1,6.39
+Dominik Szoboszlai,Liverpool,English Premier League,DM,Defender,HUN,24,13.69,180,2,6.84
+Donyell Malen,Aston Villa,English Premier League,RW,Forward,NED,26,6.43,27,1,6.43
+Duje Ćaleta-Car,Real Sociedad,Spanish La Liga,CB,Defender,CRO,28,6.6,67,1,6.6
+Dwight McNeil,Everton,English Premier League,RW,Forward,ENG,25,6.54,20,1,6.54
+Dávid Hancko,Atlético Madrid,Spanish La Liga,CB,Defender,SVK,27,13.42,180,2,6.71
+Désiré Doué,Paris S-G,French Ligue 1,LM,Forward,FRA,20,14.13,106,2,7.06
+Dženan Pejčinović,Wolfsburg,German Bundesliga,AM,Forward,GER,20,6.46,63,1,6.46
+Ebenezer Akinsanmiro,Pisa,Italian Serie A,AM,Forward,NGA,20,5.83,29,1,5.83
 Eberechi Eze,Crystal Palace,English Premier League,AM,Forward,ENG,27,6.58,83,1,6.58
-Edu Expósito,Espanyol,Spanish La Liga,DM,Midfielder,ESP,29,7.47,90,1,7.47
-El Hadji Diouf,West Ham,English Premier League,WB,Midfielder,SEN,20,6.45,90,1,6.45
-Eliesse Ben Seghir,Monaco,French Ligue 1,LW,Forward,MAR,20,5.76,28,1,5.76
-Eliezer Mayenda,Sunderland,English Premier League,AM,Forward,ESP,20,6.52,75,1,6.52
-Elisha Owusu,Auxerre,French Ligue 1,CM,Midfielder,GHA,27,6.42,90,1,6.42
-Elliot Anderson,Nott'ham Forest,English Premier League,DM,Midfielder,ENG,22,8.48,90,1,8.48
-Emanuel Emegha,Strasbourg,French Ligue 1,AM,Forward,NED,22,6.09,90,1,6.09
-Emmanuel Agbadou,Wolves,English Premier League,CB,Defender,CIV,28,6.42,90,1,6.42
-Enzo Fernández,Chelsea,English Premier League,DM,Midfielder,ARG,24,6.31,78,1,6.31
-Eric Dier,Monaco,French Ligue 1,CB,Defender,ENG,31,7.08,90,1,7.08
-Eric García,Barcelona,Spanish La Liga,RB,Defender,ESP,24,6.9,90,1,6.9
-Erling Haaland,Manchester City,English Premier League,AM,Forward,NOR,25,6.82,72,1,6.82
-Esteban Lepaul,Angers,French Ligue 1,AM,Forward,FRA,25,6.35,84,1,6.35
-Estêvão Willian,Chelsea,English Premier League,RW,Forward,BRA,18,6.79,37,1,6.79
-Ethan Ampadu,Leeds United,English Premier League,CM,Midfielder,WAL,24,6.71,77,1,6.71
-Etienne Youte Kinkoue,Le Havre,French Ligue 1,DM,Midfielder,FRA,23,5.91,77,1,5.91
-Evanilson,Bournemouth,English Premier League,AM,Forward,BRA,25,6.33,90,1,6.33
-Ezequiel Ávila,Betis,Spanish La Liga,LW,Forward,ARG,31,6.73,21,1,6.73
-Ezri Konsa,Aston Villa,English Premier League,CB,Defender,ENG,27,5.74,65,1,5.74
-Fabian Rieder,Rennes,French Ligue 1,CM,Midfielder,SUI,23,6.3,63,1,6.3
-Fabian Schär,Newcastle Utd,English Premier League,CB,Defender,SUI,33,6.77,90,1,6.77
-Fabio Carvalho,Brentford,English Premier League,LW,Forward,POR,22,6.09,90,1,6.09
-Fabián Ruiz Peña,Paris S-G,French Ligue 1,LM,Midfielder,ESP,29,6.35,60,1,6.35
-Facundo Garcés,Alavés,Spanish La Liga,CB,Defender,MAS,25,6.5,90,1,6.5
-Federico Viñas,Oviedo,Spanish La Liga,AM,Forward,URU,27,6.15,28,1,6.15
-Ferdi Kadioglu,Brighton,English Premier League,LW,Forward,TUR,25,5.67,22,1,5.67
-Fermin López,Barcelona,Spanish La Liga,AM,Forward,ESP,22,6.63,45,1,6.63
-Fernando Calero,Espanyol,Spanish La Liga,CB,Defender,ESP,29,6.48,65,1,6.48
-Ferran Jutglà,Celta Vigo,Spanish La Liga,AM,Forward,ESP,26,6.24,66,1,6.24
-Ferrán Torres,Barcelona,Spanish La Liga,AM,Forward,ESP,25,6.92,68,1,6.92
-Florent Hanin,Angers,French Ligue 1,WB,Midfielder,ALG,35,6.14,71,1,6.14
-Florian Lejeune,Rayo Vallecano,Spanish La Liga,CB,Defender,FRA,34,6.32,90,1,6.32
-Florian Thauvin,Lens,French Ligue 1,AM,Forward,FRA,32,6.82,34,1,6.82
-Florian Wirtz,Liverpool,English Premier League,AM,Forward,GER,22,7.3,81,1,7.3
-Fodé Doucouré,Le Havre,French Ligue 1,CM,Midfielder,MLI,24,5.66,33,1,5.66
-Formose Mendy,Lorient,French Ligue 1,CB,Defender,SEN,24,6.71,90,1,6.71
-Fran Beltrán,Celta Vigo,Spanish La Liga,CM,Midfielder,ESP,26,6.71,56,1,6.71
-Francisco Sierralta,Auxerre,French Ligue 1,CB,Defender,CHI,28,6.61,90,1,6.61
-Frank Magri,Toulouse,French Ligue 1,AM,Forward,CMR,25,6.03,75,1,6.03
-Frank Onyeka,Brentford,English Premier League,LM,Midfielder,NGA,27,6.47,22,1,6.47
-Frenkie de Jong,Barcelona,Spanish La Liga,DM,Midfielder,NED,28,6.62,90,1,6.62
-Félix Correia,Lille,French Ligue 1,RW,Forward,POR,24,6.51,90,1,6.51
-Félix Lemaréchal,Strasbourg,French Ligue 1,CM,Midfielder,FRA,22,6.53,90,1,6.53
-Gabriel Gudmundsson,Leeds United,English Premier League,LB,Defender,SWE,26,7.26,90,1,7.26
-Gabriel Magalhães,Arsenal,English Premier League,CB,Defender,BRA,27,5.88,90,1,5.88
-Gabriel Martinelli,Arsenal,English Premier League,LW,Forward,BRA,24,5.95,59,1,5.95
-Gabriel Osho,Auxerre,French Ligue 1,CB,Defender,NGA,27,5.86,90,1,5.86
-Gautier Lloris,Le Havre,French Ligue 1,CB,Defender,FRA,30,5.74,90,1,5.74
-Gavi,Barcelona,Spanish La Liga,AM,Forward,ESP,21,7.09,22,1,7.09
-Geoffrey Kondogbia,Marseille,French Ligue 1,LB,Defender,CTA,32,6.59,45,1,6.59
-Georges Mikautadze,Lyon,French Ligue 1,AM,Forward,GEO,24,6.76,89,1,6.76
-Georginio Rutter,Brighton,English Premier League,AM,Forward,FRA,23,6.48,68,1,6.48
-Gerard Gumbau,Rayo Vallecano,Spanish La Liga,AM,Forward,ESP,30,5.92,21,1,5.92
-Gerard Moreno,Villarreal,Spanish La Liga,AM,Forward,ESP,33,7.41,46,1,7.41
-Germán Valera,Elche,Spanish La Liga,RW,Forward,ESP,23,6.81,81,1,6.81
-Giacomo Raspadori,Atlético Madrid,Spanish La Liga,LW,Forward,ITA,25,6.43,23,1,6.43
-Gideon Mensah,Auxerre,French Ligue 1,LB,Defender,GHA,27,5.91,89,1,5.91
-Giovani Lo Celso,Betis,Spanish La Liga,AM,Forward,ARG,29,7.05,90,1,7.05
-Giuliano Simeone,Atlético Madrid,Spanish La Liga,RW,Forward,ARG,22,7.04,90,1,7.04
-Gonçalo Ramos,Paris S-G,French Ligue 1,AM,Forward,POR,24,6.32,77,1,6.32
-Gorka Guruzeta,Athletic Club,Spanish La Liga,AM,Forward,ESP,28,6.19,24,1,6.19
-Granit Xhaka,Sunderland,English Premier League,CM,Midfielder,SUI,32,6.47,90,1,6.47
-Guido Rodríguez,West Ham,English Premier League,CM,Midfielder,ARG,31,6.5,70,1,6.5
-Guimissongui Ouattara,Strasbourg,French Ligue 1,LB,Defender,FRA,19,5.76,54,1,5.76
-Habib Diarra,Sunderland,English Premier League,RM,Midfielder,SEN,21,6.57,90,1,6.57
-Haissem Hassan,Oviedo,Spanish La Liga,RW,Forward,FRA,23,6.1,45,1,6.1
-Hannibal Mejbri,Burnley,English Premier League,RM,Midfielder,TUN,22,5.87,62,1,5.87
-Haris Belkebla,Angers,French Ligue 1,CM,Midfielder,ALG,31,6.19,90,1,6.19
-Harry Wilson,Fulham,English Premier League,RW,Forward,WAL,28,6.0,90,1,6.0
-Harvey Barnes,Newcastle Utd,English Premier League,LW,Forward,ENG,27,7.35,89,1,7.35
-Heorhii Tsitaishvili,Metz,French Ligue 1,LB,Defender,GEO,24,5.91,90,1,5.91
-Hicham Boudaoui,Nice,French Ligue 1,CM,Midfielder,ALG,25,6.44,90,1,6.44
-Hjalmar Ekdal,Burnley,English Premier League,CB,Defender,SWE,26,5.57,90,1,5.57
-Hong Hyunseok,Nantes,French Ligue 1,RM,Midfielder,KOR,26,6.39,32,1,6.39
-Hugo Duro,Valencia,Spanish La Liga,AM,Forward,ESP,25,6.49,67,1,6.49
-Hugo Ekitike,Liverpool,English Premier League,AM,Forward,FRA,23,7.67,71,1,7.67
-Hugo Magnetti,Brest,French Ligue 1,LM,Midfielder,FRA,27,5.99,90,1,5.99
-Hugo Rincón,Girona,Spanish La Liga,RB,Defender,ESP,22,6.06,33,1,6.06
-Hugo Sotelo,Celta Vigo,Spanish La Liga,CM,Midfielder,ESP,21,7.12,34,1,7.12
-Hákon Arnar Haraldsson,Lille,French Ligue 1,AM,Forward,ISL,22,6.93,84,1,6.93
-Héctor Bellerín,Betis,Spanish La Liga,RB,Defender,ESP,30,6.95,90,1,6.95
-Iago Aspas,Celta Vigo,Spanish La Liga,RW,Forward,ESP,38,7.07,90,1,7.07
-Ibrahim Mbaye,Paris S-G,French Ligue 1,RW,Forward,FRA,17,6.77,60,1,6.77
-Ibrahim Osman,Auxerre,French Ligue 1,LM,Midfielder,GHA,20,6.54,81,1,6.54
-Ibrahim Sangaré,Nott'ham Forest,English Premier League,DM,Midfielder,CIV,27,6.17,90,1,6.17
-Ibrahima Konaté,Liverpool,English Premier League,CB,Defender,FRA,26,6.02,90,1,6.02
-Idrissa Gana Gueye,Everton,English Premier League,DM,Midfielder,SEN,35,6.74,90,1,6.74
-Idrissa Guèye,Metz,French Ligue 1,AM,Forward,SEN,18,5.76,32,1,5.76
-Iglesias,Getafe,Spanish La Liga,CB,Defender,ESP,27,6.38,90,1,6.38
-Igor Carioca,Lorient,French Ligue 1,CB,Defender,BRA,28,5.93,90,1,5.93
-Igor Zubeldia,Real Sociedad,Spanish La Liga,CB,Defender,ESP,28,6.17,90,1,6.17
-Ilaix Moriba,Celta Vigo,Spanish La Liga,CM,Midfielder,GUI,22,6.39,90,1,6.39
-Ilan Kebbal,Paris FC,French Ligue 1,RM,Midfielder,ALG,27,7.03,90,1,7.03
-Iliman Ndiaye,Everton,English Premier League,LW,Forward,SEN,25,5.86,90,1,5.86
-Illia Zabarnyi,Paris S-G,French Ligue 1,CB,Defender,UKR,22,6.01,90,1,6.01
-Ilyas Chaira,Oviedo,Spanish La Liga,CM,Midfielder,MAR,24,6.49,76,1,6.49
-Isaac Palazón Camacho,Rayo Vallecano,Spanish La Liga,RW,Forward,ESP,30,7.37,90,1,7.37
-Isak Jansson,Nice,French Ligue 1,AM,Forward,SWE,23,6.15,75,1,6.15
-Ismael Bekhoucha,Getafe,Spanish La Liga,RB,Defender,MAR,20,6.45,90,1,6.45
-Ismaila Sarr,Crystal Palace,English Premier League,AM,Forward,SEN,27,6.33,90,1,6.33
-Issa Soumaré,Le Havre,French Ligue 1,AM,Forward,SEN,24,5.92,90,1,5.92
-Iván Romero,Levante,Spanish La Liga,AM,Forward,ESP,24,6.88,78,1,6.88
-Iñaki Williams,Athletic Club,Spanish La Liga,RW,Forward,GHA,31,6.71,90,1,6.71
-Iñigo Ruiz de Galarreta,Athletic Club,Spanish La Liga,DM,Midfielder,ESP,32,6.71,77,1,6.71
-Jack Grealish,Everton,English Premier League,LW,Forward,ENG,29,6.58,20,1,6.58
-Jacob Bruun Larsen,Burnley,English Premier League,LM,Midfielder,DEN,26,6.2,28,1,6.2
-Jaidon Anthony,Burnley,English Premier League,LM,Midfielder,ENG,25,6.51,84,1,6.51
-Jairo Izquierdo,Elche,Spanish La Liga,CM,Midfielder,ESP,31,6.12,26,1,6.12
-Jake O'Brien,Everton,English Premier League,RB,Defender,IRL,24,6.69,90,1,6.69
-James Garner,Everton,English Premier League,LB,Defender,ENG,24,7.2,90,1,7.2
-James Tarkowski,Everton,English Premier League,CB,Defender,ENG,32,7.37,90,1,7.37
-James Ward-Prowse,West Ham,English Premier League,CM,Midfielder,ENG,30,6.47,70,1,6.47
-Jamie Gittens,Chelsea,English Premier League,LW,Forward,ENG,21,6.73,53,1,6.73
-Jan Paul van Hecke,Brighton,English Premier League,CB,Defender,NED,25,7.18,90,1,7.18
-Jarrod Bowen,West Ham,English Premier League,AM,Forward,ENG,28,7.17,90,1,7.17
-Javi Puado,Espanyol,Spanish La Liga,LW,Forward,ESP,27,6.49,87,1,6.49
-Javi Rodríguez,Celta Vigo,Spanish La Liga,CB,Defender,ESP,22,6.77,90,1,6.77
-Javier Guerra,Valencia,Spanish La Liga,CM,Midfielder,ESP,22,6.74,86,1,6.74
-Jaydee Canvot,Toulouse,French Ligue 1,CM,Midfielder,FRA,19,6.31,90,1,6.31
-Jayden Bogle,Leeds United,English Premier League,RB,Defender,ENG,25,6.56,90,1,6.56
-Jean-Clair Todibo,West Ham,English Premier League,CB,Defender,FRA,25,6.61,81,1,6.61
-Jean-Philippe Gbamin,Metz,French Ligue 1,CB,Defender,CIV,29,6.32,90,1,6.32
-Jean-Philippe Krasso,Paris FC,French Ligue 1,AM,Forward,CIV,28,6.2,60,1,6.2
-Jean-Philippe Mateta,Crystal Palace,English Premier League,AM,Forward,FRA,28,6.51,90,1,6.51
-Jean-Ricner Bellegarde,Wolves,English Premier League,LW,Forward,FRA,27,6.23,72,1,6.23
-Jefferson Lerma,Crystal Palace,English Premier League,CM,Midfielder,COL,30,5.9,21,1,5.9
-Jenson Seelt,Sunderland,English Premier League,CB,Defender,NED,22,6.67,52,1,6.67
-Jeremie Frimpong,Liverpool,English Premier League,RB,Defender,NED,24,5.9,59,1,5.9
-Jeremy Doku,Manchester City,English Premier League,LW,Forward,BEL,23,6.28,65,1,6.28
-Jeremy Toljan,Levante,Spanish La Liga,RB,Defender,GER,31,6.12,90,1,6.12
-Jessy Deminguet,Metz,French Ligue 1,CM,Midfielder,FRA,27,6.31,72,1,6.31
-Jesús Areso,Athletic Club,Spanish La Liga,RB,Defender,ESP,26,5.77,82,1,5.77
-Jhon Solis,Girona,Spanish La Liga,CM,Midfielder,COL,20,6.25,90,1,6.25
-Jim Allevinah,Angers,French Ligue 1,WB,Midfielder,GAB,30,6.16,29,1,6.16
-Joachim Andersen,Fulham,English Premier League,CB,Defender,DEN,29,6.49,90,1,6.49
-Joaquín Panichelli,Strasbourg,French Ligue 1,AM,Forward,ARG,22,6.55,90,1,6.55
-Joe Rodon,Leeds United,English Premier League,CB,Defender,WAL,27,6.35,90,1,6.35
-Joel Mvuka,Lorient,French Ligue 1,RM,Midfielder,NOR,22,6.32,64,1,6.32
-Joel Roca,Girona,Spanish La Liga,LB,Defender,ESP,20,6.21,90,1,6.21
-Joelinton,Newcastle Utd,English Premier League,LM,Midfielder,BRA,29,6.9,82,1,6.9
-Jofre,Espanyol,Spanish La Liga,RW,Forward,ESP,24,5.27,45,1,5.27
-Jofre Torrents,Barcelona,Spanish La Liga,LB,Defender,ESP,18,6.38,23,1,6.38
-Johan Mojica,Mallorca,Spanish La Liga,LB,Defender,COL,32,6.66,89,1,6.66
-Johann Lepenant,Nantes,French Ligue 1,CM,Midfielder,FRA,22,6.56,90,1,6.56
-John McGinn,Aston Villa,English Premier League,RW,Forward,SCO,30,6.45,83,1,6.45
-John Stones,Manchester City,English Premier League,CB,Defender,ENG,31,6.41,81,1,6.41
-Johnny Cardoso,Atlético Madrid,Spanish La Liga,DM,Midfielder,USA,23,6.74,45,1,6.74
-Jon Aramburu,Real Sociedad,Spanish La Liga,RB,Defender,VEN,23,7.07,90,1,7.07
-Jon Guridi,Alavés,Spanish La Liga,CM,Midfielder,ESP,30,6.4,76,1,6.4
-Jon Rowe,Marseille,French Ligue 1,LW,Forward,ENG,22,6.26,62,1,6.26
-Jonathan Clauss,Nice,French Ligue 1,WB,Midfielder,FRA,32,6.86,90,1,6.86
-Jones El-Abdellaoui,Celta Vigo,Spanish La Liga,AM,Forward,MAR,19,5.7,34,1,5.7
-Jonny Castro,Alavés,Spanish La Liga,RB,Defender,ESP,31,7.06,90,1,7.06
-Jordan Henderson,Brentford,English Premier League,CM,Midfielder,ENG,35,6.38,22,1,6.38
-Jordan Lefort,Angers,French Ligue 1,CB,Defender,FRA,32,6.27,90,1,6.27
-Jordan Teze,Monaco,French Ligue 1,RB,Defender,NED,25,6.29,62,1,6.29
-Jorge Cabello,Levante,Spanish La Liga,CB,Defender,ESP,21,5.82,90,1,5.82
-Jorge Cuenca,Fulham,English Premier League,CB,Defender,ESP,25,6.5,83,1,6.5
-Jorge de Frutos,Rayo Vallecano,Spanish La Liga,AM,Forward,ESP,28,7.14,80,1,7.14
-Josh Cullen,Burnley,English Premier League,CM,Midfielder,IRL,29,6.93,90,1,6.93
-Josh Laurent,Burnley,English Premier League,CM,Midfielder,ENG,30,6.33,62,1,6.33
-Joshua Acheampong,Chelsea,English Premier League,CB,Defender,ENG,19,7.05,90,1,7.05
-Joshua King,Fulham,English Premier League,AM,Forward,ENG,18,7.09,76,1,7.09
-Josué Casimir,Auxerre,French Ligue 1,RM,Midfielder,FRA,23,6.04,81,1,6.04
-José Luis García Vayá,Valencia,Spanish La Liga,CM,Midfielder,ESP,27,6.9,79,1,6.9
-José Luis Gayà,Valencia,Spanish La Liga,LB,Defender,ESP,30,6.23,79,1,6.23
-José Luis Morales,Levante,Spanish La Liga,LM,Midfielder,ESP,38,6.29,37,1,6.29
-João Gomes,Wolves,English Premier League,CM,Midfielder,BRA,24,7.13,90,1,7.13
-João Pedro,Chelsea,English Premier League,AM,Forward,BRA,23,6.73,72,1,6.73
-Joël Piroe,Leeds United,English Premier League,AM,Forward,NED,26,6.5,77,1,6.5
-Juan Foyth,Villarreal,Spanish La Liga,CB,Defender,ARG,27,5.97,69,1,5.97
-Juanlu Sánchez,Sevilla,Spanish La Liga,RB,Defender,ESP,22,7.38,90,1,7.38
-Julien Le Cardinal,Brest,French Ligue 1,CB,Defender,FRA,28,6.0,90,1,6.0
-Julien López,Paris FC,French Ligue 1,AM,Forward,ALG,33,6.03,20,1,6.03
-Julián Álvarez,Atlético Madrid,Spanish La Liga,AM,Forward,ARG,25,7.58,81,1,7.58
-Juma Bah,Nice,French Ligue 1,CB,Defender,SLE,19,6.75,90,1,6.75
-Junior Mwanga,Strasbourg,French Ligue 1,CB,Defender,FRA,22,6.44,90,1,6.44
-Jurriën Timber,Arsenal,English Premier League,RB,Defender,NED,24,6.24,20,1,6.24
-Jérémy Jacquet,Rennes,French Ligue 1,CB,Defender,FRA,20,6.16,90,1,6.16
-Jørgen Strand Larsen,Wolves,English Premier League,AM,Forward,NOR,25,6.44,81,1,6.44
+Edmond Tapsoba,Leverkusen,German Bundesliga,CB,Defender,BFA,26,6.95,90,1,6.95
+Edu Expósito,Espanyol,Spanish La Liga,DM,Midfielder,ESP,29,14.17,170,2,7.08
+El Hadji Diouf,West Ham,English Premier League,WB,Midfielder,SEN,20,12.95,180,2,6.48
+Elias Saad,Augsburg,German Bundesliga,LW,Forward,TUN,25,6.1,69,1,6.1
+Eliesse Ben Seghir,Monaco,French Ligue 1,LW,Forward,MAR,20,5.74,28,1,5.74
+Eliezer Mayenda,Sunderland,English Premier League,AM,Forward,ESP,20,12.71,137,2,6.36
+Elisha Owusu,Auxerre,French Ligue 1,CM,Midfielder,GHA,27,12.89,180,2,6.44
+Elliot Anderson,Nott'ham Forest,English Premier League,DM,Midfielder,ENG,22,15.37,180,2,7.68
+Elvis Rexhbeçaj,Augsburg,German Bundesliga,AM,Forward,KVX,27,6.3,21,1,6.3
+Elye Wahi,Eint Frankfurt,German Bundesliga,AM,Forward,FRA,22,6.54,24,1,6.54
+Emanuel Emegha,Strasbourg,French Ligue 1,AM,Forward,NED,22,12.33,135,2,6.16
+Emanuele Valeri,Parma,Italian Serie A,WB,Midfielder,ITA,26,5.83,90,1,5.83
+Emi Buendía,Aston Villa,English Premier League,AM,Forward,ARG,28,6.86,59,1,6.86
+Emile Smith Rowe,Fulham,English Premier League,AM,Forward,ENG,25,7.24,20,1,7.24
+Emir Sahiti,Hamburger SV,German Bundesliga,RW,Forward,KVX,26,6.02,65,1,6.02
+Emirhan İlkhan,Torino,Italian Serie A,CM,Midfielder,TUR,21,5.7,57,1,5.7
+Emmanuel Agbadou,Wolves,English Premier League,CB,Defender,CIV,28,13.74,180,2,6.87
+Enrico Del Prato,Parma,Italian Serie A,CB,Defender,ITA,25,5.79,90,1,5.79
+Enzo Boyomo,Osasuna,Spanish La Liga,CB,Defender,CMR,23,13.42,180,2,6.71
+Enzo Fernández,Chelsea,English Premier League,DM,Midfielder,ARG,24,13.0,168,2,6.5
+Enzo Le Fée,Sunderland,English Premier League,LM,Midfielder,FRA,25,7.38,28,1,7.38
+Eren Dinkçi,Freiburg,German Bundesliga,RW,Forward,GER,23,6.16,59,1,6.16
+Eric Dier,Monaco,French Ligue 1,CB,Defender,ENG,31,13.34,180,2,6.67
+Eric García,Barcelona,Spanish La Liga,RB,Defender,ESP,24,13.73,174,2,6.86
+Eric Martel,Köln,German Bundesliga,CM,Midfielder,GER,23,6.23,90,1,6.23
+Eric Smith,St. Pauli,German Bundesliga,CB,Defender,SWE,28,6.6,90,1,6.6
+Erling Haaland,Manchester City,English Premier League,AM,Forward,NOR,25,13.58,162,2,6.79
+Ermedin Demirović,Stuttgart,German Bundesliga,AM,Forward,BIH,27,6.58,64,1,6.58
+Ernest Poku,Leverkusen,German Bundesliga,AM,Forward,NED,21,6.47,45,1,6.47
+Esteban Lepaul,Angers,French Ligue 1,AM,Forward,FRA,25,12.28,174,2,6.14
+Estêvão Willian,Chelsea,English Premier League,RW,Forward,BRA,18,13.94,113,2,6.97
+Ethan Ampadu,Leeds United,English Premier League,CM,Midfielder,WAL,24,6.74,77,1,6.74
+Ethan Nwaneri,Arsenal,English Premier League,RM,Midfielder,ENG,18,6.91,53,1,6.91
+Etienne Youte Kinkoue,Le Havre,French Ligue 1,DM,Midfielder,FRA,23,5.88,77,1,5.88
+Evan Ferguson,Roma,Italian Serie A,AM,Forward,IRL,20,6.67,73,1,6.67
+Evanilson,Bournemouth,English Premier League,AM,Forward,BRA,25,12.61,177,2,6.3
+Ezechiel Banzuzi,RB Leipzig,German Bundesliga,RM,Midfielder,NED,20,5.73,22,1,5.73
+Ezequiel Ávila,Betis,Spanish La Liga,LW,Forward,ARG,31,6.74,21,1,6.74
+Ezri Konsa,Aston Villa,English Premier League,CB,Defender,ENG,27,5.88,65,1,5.88
+Fabian Rieder,Rennes,French Ligue 1,CM,Midfielder,SUI,23,12.08,125,2,6.04
+Fabian Schär,Newcastle Utd,English Premier League,CB,Defender,SUI,33,13.04,170,2,6.52
+Fabio Carvalho,Brentford,English Premier League,LW,Forward,POR,22,6.15,90,1,6.15
+Fabio Chiarodia,Gladbach,German Bundesliga,CB,Defender,ITA,20,6.45,76,1,6.45
+Fabián Ruiz Peña,Paris S-G,French Ligue 1,LM,Midfielder,ESP,29,13.78,150,2,6.89
+Facundo Garcés,Alavés,Spanish La Liga,CB,Defender,MAS,25,13.37,180,2,6.68
+Fallou Cham,Hellas Verona,Italian Serie A,WB,Midfielder,NAN,0,6.14,81,1,6.14
+Fares Chaïbi,Eint Frankfurt,German Bundesliga,DM,Midfielder,ALG,22,7.19,90,1,7.19
+Federico Baschirotto,Cremonese,Italian Serie A,CB,Defender,ITA,28,6.37,90,1,6.37
+Federico Bonazzoli,Cremonese,Italian Serie A,AM,Forward,ITA,28,6.53,83,1,6.53
+Federico Dimarco,Inter,Italian Serie A,WB,Midfielder,ITA,27,6.58,65,1,6.58
+Federico Gatti,Juventus,Italian Serie A,CB,Defender,ITA,27,5.59,56,1,5.59
+Federico Valverde,Real Madrid,Spanish La Liga,DM,Midfielder,URU,27,14.66,180,2,7.33
+Federico Viñas,Oviedo,Spanish La Liga,AM,Forward,URU,27,6.23,28,1,6.23
+Felix Agu,Werder Bremen,German Bundesliga,LB,Defender,NGA,25,6.8,90,1,6.8
+Felix Nmecha,Dortmund,German Bundesliga,AM,Forward,GER,24,6.2,45,1,6.2
+Ferdi Kadioglu,Brighton,English Premier League,LB,Defender,TUR,25,11.97,46,2,5.98
+Fermin López,Barcelona,Spanish La Liga,AM,Forward,ESP,22,6.64,45,1,6.64
+Fernando Calero,Espanyol,Spanish La Liga,CB,Defender,ESP,29,12.47,86,2,6.24
+Ferran Jutglà,Celta Vigo,Spanish La Liga,AM,Forward,ESP,26,12.91,137,2,6.46
+Ferrán Torres,Barcelona,Spanish La Liga,AM,Forward,ESP,25,14.07,158,2,7.04
+Fikayo Tomori,Milan,Italian Serie A,CB,Defender,ENG,27,6.32,64,1,6.32
+Filip Ugrinic,Valencia,Spanish La Liga,CM,Midfielder,SUI,26,5.83,24,1,5.83
+Filippo Mane,Dortmund,German Bundesliga,CB,Defender,ITA,20,6.04,84,1,6.04
+Filippo Romagna,Sassuolo,Italian Serie A,CB,Defender,ITA,28,5.78,90,1,5.78
+Filippo Terracciano,Cremonese,Italian Serie A,CB,Defender,ITA,22,6.58,90,1,6.58
+Fisayo Dele-Bashiru,Lazio,Italian Serie A,LM,Midfielder,NGA,24,6.06,74,1,6.06
+Fisnik Asllani,Hoffenheim,German Bundesliga,RW,Forward,KVX,23,6.54,90,1,6.54
+Florent Hanin,Angers,French Ligue 1,WB,Midfielder,ALG,35,6.17,71,1,6.17
+Florian Lejeune,Rayo Vallecano,Spanish La Liga,CB,Defender,FRA,34,13.4,180,2,6.7
+Florian Neuhaus,Gladbach,German Bundesliga,AM,Forward,GER,28,6.59,25,1,6.59
+Florian Thauvin,Lens,French Ligue 1,AM,Forward,FRA,32,13.07,106,2,6.54
+Florian Wirtz,Liverpool,English Premier League,AM,Forward,GER,22,13.69,160,2,6.85
+Fodé Doucouré,Le Havre,French Ligue 1,CM,Midfielder,MLI,24,12.72,95,2,6.36
+Fodé Sylla,Lens,French Ligue 1,CM,Midfielder,FRA,19,6.67,58,1,6.67
+Folarin Balogun,Monaco,French Ligue 1,AM,Forward,USA,24,6.09,90,1,6.09
+Formose Mendy,Lorient,French Ligue 1,CB,Defender,SEN,24,12.9,135,2,6.45
+Fran Beltrán,Celta Vigo,Spanish La Liga,CM,Midfielder,ESP,26,6.76,56,1,6.76
+Francesco Acerbi,Inter,Italian Serie A,CB,Defender,ITA,37,6.72,90,1,6.72
+Francesco Camarda,Lecce,Italian Serie A,AM,Forward,ITA,17,6.05,82,1,6.05
+Francis Coquelin,Nantes,French Ligue 1,DM,Midfielder,FRA,34,5.66,55,1,5.66
+Francisco Conceição,Juventus,Italian Serie A,AM,Forward,POR,22,7.12,79,1,7.12
+Francisco Perez,Rayo Vallecano,Spanish La Liga,AM,Forward,ESP,22,6.47,36,1,6.47
+Francisco Sierralta,Auxerre,French Ligue 1,CB,Defender,CHI,28,12.57,180,2,6.28
+Franck Honorat,Gladbach,German Bundesliga,RW,Forward,FRA,29,6.58,90,1,6.58
+Franco Mastantuono,Real Madrid,Spanish La Liga,RW,Forward,ARG,18,13.9,85,2,6.95
+Frank Magri,Toulouse,French Ligue 1,AM,Forward,CMR,25,12.88,157,2,6.44
+Frank Onyeka,Brentford,English Premier League,DM,Midfielder,NGA,27,12.7,44,2,6.35
+Freddie Potts,West Ham,English Premier League,CM,Midfielder,ENG,21,6.38,45,1,6.38
+Frenkie de Jong,Barcelona,Spanish La Liga,DM,Midfielder,NED,28,6.66,90,1,6.66
+Félix Correia,Lille,French Ligue 1,LW,Forward,POR,24,13.09,170,2,6.54
+Félix Lemaréchal,Strasbourg,French Ligue 1,CM,Midfielder,FRA,22,13.09,164,2,6.54
+Gabriel Gudmundsson,Leeds United,English Premier League,LB,Defender,SWE,26,13.5,180,2,6.75
+Gabriel Magalhães,Arsenal,English Premier League,CB,Defender,BRA,27,13.2,180,2,6.6
+Gabriel Martinelli,Arsenal,English Premier League,LW,Forward,BRA,24,6.05,59,1,6.05
+Gabriel Osho,Auxerre,French Ligue 1,CB,Defender,NGA,27,11.54,139,2,5.77
+Gabriele Zappa,Cagliari,Italian Serie A,RB,Defender,ITA,25,6.64,90,1,6.64
+Gauthier Hein,Metz,French Ligue 1,AM,Forward,FRA,29,6.82,90,1,6.82
+Gautier Lloris,Le Havre,French Ligue 1,CB,Defender,FRA,30,12.57,180,2,6.28
+Gavi,Barcelona,Spanish La Liga,AM,Forward,ESP,21,14.34,67,2,7.17
+Gennaro Borrelli,Cagliari,Italian Serie A,AM,Forward,ITA,25,6.22,80,1,6.22
+Geoffrey Kondogbia,Marseille,French Ligue 1,LB,Defender,CTA,32,6.64,45,1,6.64
+Georges Mikautadze,Lyon,French Ligue 1,AM,Forward,GEO,24,13.25,179,2,6.62
+Georginio Rutter,Brighton,English Premier League,AM,Forward,FRA,23,6.49,68,1,6.49
+Gerard Gumbau,Rayo Vallecano,Spanish La Liga,AM,Forward,ESP,30,11.9,57,2,5.95
+Gerard Moreno,Villarreal,Spanish La Liga,AM,Forward,ESP,33,7.4,46,1,7.4
+Germán Valera,Elche,Spanish La Liga,RW,Forward,ESP,23,14.08,171,2,7.04
+Giacomo Raspadori,Atlético Madrid,Spanish La Liga,AM,Forward,ITA,25,12.99,46,2,6.5
+Gianluca Mancini,Roma,Italian Serie A,CB,Defender,ITA,29,6.2,90,1,6.2
+Gianluca Scamacca,Atalanta,Italian Serie A,AM,Forward,ITA,26,6.87,71,1,6.87
+Gideon Mensah,Auxerre,French Ligue 1,LB,Defender,GHA,27,12.66,161,2,6.33
+Giorgi Abuashvili,Metz,French Ligue 1,LW,Forward,GEO,22,6.45,61,1,6.45
+Giorgi Gocholeishvili,Hamburger SV,German Bundesliga,RM,Midfielder,GEO,24,6.52,85,1,6.52
+Giorgio Scalvini,Atalanta,Italian Serie A,CB,Defender,ITA,21,5.73,87,1,5.73
+Giovane,Hellas Verona,Italian Serie A,AM,Forward,BRA,21,6.69,90,1,6.69
+Giovani Lo Celso,Betis,Spanish La Liga,AM,Forward,ARG,29,14.52,175,2,7.26
+Giovanni Di Lorenzo,Napoli,Italian Serie A,RB,Defender,ITA,32,6.27,90,1,6.27
+Giovanni Simeone,Torino,Italian Serie A,AM,Forward,ARG,30,6.0,63,1,6.0
+Giuliano Simeone,Atlético Madrid,Spanish La Liga,RM,Forward,ARG,22,14.04,164,2,7.02
+Giuseppe Pezzella,Cremonese,Italian Serie A,WB,Midfielder,ITA,27,6.03,90,1,6.03
+Gleison Bremer,Juventus,Italian Serie A,CB,Defender,BRA,28,6.37,90,1,6.37
+Gonçalo Ramos,Paris S-G,French Ligue 1,AM,Forward,POR,24,12.3,101,2,6.15
+Gorka Guruzeta,Athletic Club,Spanish La Liga,AM,Forward,ESP,28,6.28,24,1,6.28
+Granit Xhaka,Sunderland,English Premier League,CM,Midfielder,SUI,32,13.85,180,2,6.93
+Guido Rodríguez,West Ham,English Premier League,CM,Midfielder,ARG,31,6.57,70,1,6.57
+Guimissongui Ouattara,Strasbourg,French Ligue 1,LB,Defender,FRA,19,12.31,144,2,6.15
+Gvidas Gineitis,Torino,Italian Serie A,LM,Midfielder,LTU,21,6.21,90,1,6.21
+Habib Diarra,Sunderland,English Premier League,RM,Midfielder,SEN,21,13.37,169,2,6.68
+Haissem Hassan,Oviedo,Spanish La Liga,RW,Forward,FRA,23,13.28,90,2,6.64
+Han-Noah Massengo,Augsburg,German Bundesliga,CM,Midfielder,FRA,24,6.4,90,1,6.4
+Hannibal Mejbri,Burnley,English Premier League,AM,Forward,TUN,22,12.53,144,2,6.26
+Haris Belkebla,Angers,French Ligue 1,CM,Midfielder,ALG,31,11.93,180,2,5.96
+Haris Tabakovic,Gladbach,German Bundesliga,AM,Forward,BIH,31,6.04,82,1,6.04
+Harry Kane,Bayern Munich,German Bundesliga,AM,Forward,ENG,32,7.61,85,1,7.61
+Harry Wilson,Fulham,English Premier League,RW,Forward,WAL,28,12.41,119,2,6.2
+Harvey Barnes,Newcastle Utd,English Premier League,LW,Forward,ENG,27,13.66,164,2,6.83
+Hauke Wahl,St. Pauli,German Bundesliga,CB,Defender,GER,31,6.34,90,1,6.34
+Henrik Meister,Pisa,Italian Serie A,AM,Forward,DEN,21,5.82,53,1,5.82
+Henrikh Mkhitaryan,Inter,Italian Serie A,CM,Midfielder,ARM,36,6.58,78,1,6.58
+Heorhii Tsitaishvili,Metz,French Ligue 1,LB,Defender,GEO,24,12.19,151,2,6.1
+Hicham Boudaoui,Nice,French Ligue 1,CM,Midfielder,ALG,25,13.02,180,2,6.51
+Hjalmar Ekdal,Burnley,English Premier League,CB,Defender,SWE,26,12.49,180,2,6.24
+Hong Hyunseok,Nantes,French Ligue 1,CM,Midfielder,KOR,26,13.38,52,2,6.69
+Hugo Bueno,Wolves,English Premier League,LM,Midfielder,ESP,22,6.92,45,1,6.92
+Hugo Duro,Valencia,Spanish La Liga,AM,Forward,ESP,25,6.51,67,1,6.51
+Hugo Ekitike,Liverpool,English Premier League,AM,Forward,FRA,23,14.69,150,2,7.35
+Hugo Larsson,Eint Frankfurt,German Bundesliga,DM,Midfielder,SWE,21,6.57,82,1,6.57
+Hugo Magnetti,Brest,French Ligue 1,LM,Midfielder,FRA,27,12.51,161,2,6.26
+Hugo Rincón,Girona,Spanish La Liga,RB,Defender,ESP,22,12.62,123,2,6.31
+Hugo Sotelo,Celta Vigo,Spanish La Liga,CM,Midfielder,ESP,21,14.29,106,2,7.14
+Hákon Arnar Haraldsson,Lille,French Ligue 1,AM,Forward,ISL,22,13.8,174,2,6.9
+Héctor Bellerín,Betis,Spanish La Liga,RB,Defender,ESP,30,13.81,180,2,6.9
+Iago Aspas,Celta Vigo,Spanish La Liga,AM,Forward,ESP,38,13.49,152,2,6.74
+Ian Maatsen,Aston Villa,English Premier League,LB,Defender,NED,23,7.39,27,1,7.39
+Ibou Sané,Metz,French Ligue 1,RW,Forward,SEN,20,6.14,29,1,6.14
+Ibrahim Maza,Leverkusen,German Bundesliga,AM,Forward,ALG,19,6.32,83,1,6.32
+Ibrahim Mbaye,Paris S-G,French Ligue 1,RW,Forward,FRA,17,6.76,60,1,6.76
+Ibrahim Osman,Auxerre,French Ligue 1,LM,Forward,GHA,20,13.26,142,2,6.63
+Ibrahim Salah,Rennes,French Ligue 1,AM,Forward,MAR,23,5.71,28,1,5.71
+Ibrahim Sangaré,Nott'ham Forest,English Premier League,DM,Midfielder,CIV,27,12.66,177,2,6.33
+Ibrahima Konaté,Liverpool,English Premier League,CB,Defender,FRA,26,12.57,180,2,6.28
+Idrissa Gana Gueye,Everton,English Premier League,DM,Midfielder,SEN,35,13.13,180,2,6.56
+Idrissa Guèye,Metz,French Ligue 1,AM,Forward,SEN,18,5.75,32,1,5.75
+Idrissa Touré,Pisa,Italian Serie A,WB,Midfielder,GER,27,6.27,90,1,6.27
+Iglesias,Getafe,Spanish La Liga,CB,Defender,ESP,27,13.33,180,2,6.66
+Ignace Van Der Brempt,Como,Italian Serie A,RB,Defender,BEL,23,6.04,69,1,6.04
+Igor Carioca,Lorient,French Ligue 1,CB,Defender,BRA,29,12.26,180,2,6.13
+Igor Zubeldia,Real Sociedad,Spanish La Liga,CB,Defender,ESP,28,13.18,180,2,6.59
+Iker Bravo,Udinese,Italian Serie A,AM,Forward,ESP,20,6.51,60,1,6.51
+Ilaix Moriba,Celta Vigo,Spanish La Liga,CM,Midfielder,GUI,22,13.57,180,2,6.78
+Ilan Kebbal,Paris FC,French Ligue 1,RM,Forward,ALG,27,13.86,180,2,6.93
+Ilia Gruev,Leeds United,English Premier League,CM,Midfielder,BUL,25,6.39,90,1,6.39
+Ilias Akhomach,Villarreal,Spanish La Liga,AM,Forward,MAR,21,7.16,28,1,7.16
+Iliman Ndiaye,Everton,English Premier League,LW,Forward,SEN,25,12.59,153,2,6.3
+Illia Zabarnyi,Paris S-G,French Ligue 1,CB,Defender,UKR,22,6.17,90,1,6.17
+Ilyas Ansah,Union Berlin,German Bundesliga,AM,Forward,GER,20,6.88,75,1,6.88
+Ilyas Chaira,Oviedo,Spanish La Liga,CM,Forward,MAR,24,12.73,154,2,6.36
+Isaac Palazón Camacho,Rayo Vallecano,Spanish La Liga,RM,Forward,ESP,30,13.97,168,2,6.98
+Isaac Romero,Sevilla,Spanish La Liga,LW,Forward,ESP,25,6.36,24,1,6.36
+Isak Hien,Atalanta,Italian Serie A,CB,Defender,SWE,26,6.53,90,1,6.53
+Isak Jansson,Nice,French Ligue 1,AM,Forward,SWE,23,12.51,137,2,6.26
+Ismael Bekhoucha,Getafe,Spanish La Liga,RB,Defender,MAR,20,6.52,90,1,6.52
+Ismaila Sarr,Crystal Palace,English Premier League,AM,Forward,SEN,27,12.97,180,2,6.48
+Ismaël Doukouré,Strasbourg,French Ligue 1,CB,Defender,FRA,22,6.67,90,1,6.67
+Ismaël Koné,Sassuolo,Italian Serie A,RM,Midfielder,CAN,23,6.12,78,1,6.12
+Issa Soumaré,Le Havre,French Ligue 1,AM,Forward,SEN,24,11.95,180,2,5.98
+Ivan Smolčić,Como,Italian Serie A,RB,Defender,CRO,25,5.93,21,1,5.93
+Iván Martín,Girona,Spanish La Liga,CM,Midfielder,ESP,26,7.38,20,1,7.38
+Iván Romero,Levante,Spanish La Liga,AM,Forward,ESP,24,13.57,152,2,6.78
+Iñaki Williams,Athletic Club,Spanish La Liga,RW,Forward,GHA,31,12.94,168,2,6.47
+Iñigo Ruiz de Galarreta,Athletic Club,Spanish La Liga,DM,Midfielder,ESP,32,13.37,143,2,6.68
+Jack Grealish,Everton,English Premier League,LW,Forward,ENG,29,13.97,109,2,6.98
+Jack Hinshelwood,Brighton,English Premier League,DM,Midfielder,ENG,20,6.84,45,1,6.84
+Jackson Tchatchoua,Wolves,English Premier League,RM,Midfielder,CMR,23,6.65,56,1,6.65
+Jacob Bruun Larsen,Burnley,English Premier League,LM,Forward,DEN,26,12.07,96,2,6.04
+Jacobo Ramón,Como,Italian Serie A,CB,Defender,ESP,20,6.55,90,1,6.55
+Jacques Ekomie,Angers,French Ligue 1,WB,Midfielder,GAB,22,6.1,75,1,6.1
+Jaidon Anthony,Burnley,English Premier League,LM,Forward,ENG,25,13.82,174,2,6.91
+Jairo Izquierdo,Elche,Spanish La Liga,CM,Midfielder,ESP,31,6.16,26,1,6.16
+Jake O'Brien,Everton,English Premier League,RB,Defender,IRL,24,12.98,180,2,6.49
+Jakub Kamiński,Köln,German Bundesliga,AM,Forward,POL,23,6.89,90,1,6.89
+James Garner,Everton,English Premier League,LB,Defender,ENG,24,14.63,180,2,7.32
+James Sands,St. Pauli,German Bundesliga,CM,Midfielder,USA,25,6.06,86,1,6.06
+James Tarkowski,Everton,English Premier League,CB,Defender,ENG,32,13.51,180,2,6.76
+James Ward-Prowse,West Ham,English Premier League,CM,Midfielder,ENG,30,13.37,160,2,6.68
+Jamie Gittens,Chelsea,English Premier League,LW,Forward,ENG,21,6.74,53,1,6.74
+Jamie Leweling,Stuttgart,German Bundesliga,LW,Forward,GER,24,6.84,90,1,6.84
+Jan Paul van Hecke,Brighton,English Premier League,CB,Defender,NED,25,13.97,180,2,6.98
+Jan Schöppner,Heidenheim,German Bundesliga,CM,Midfielder,GER,26,5.9,90,1,5.9
+Jan Thielmann,Köln,German Bundesliga,AM,Forward,GER,23,6.25,66,1,6.25
+Janik Haberer,Union Berlin,German Bundesliga,CM,Midfielder,GER,31,5.68,66,1,5.68
+Jarell Quansah,Leverkusen,German Bundesliga,CB,Defender,ENG,22,6.96,90,1,6.96
+Jari Vandeputte,Cremonese,Italian Serie A,CM,Midfielder,BEL,29,5.92,55,1,5.92
+Jarrod Bowen,West Ham,English Premier League,AM,Forward,ENG,28,13.97,180,2,6.98
+Javi Puado,Espanyol,Spanish La Liga,LW,Forward,ESP,27,13.22,177,2,6.61
+Javi Rodríguez,Celta Vigo,Spanish La Liga,CB,Defender,ESP,22,12.55,118,2,6.28
+Javier Guerra,Valencia,Spanish La Liga,CM,Midfielder,ESP,22,13.13,152,2,6.56
+Javier Rueda Garcia,Celta Vigo,Spanish La Liga,WB,Midfielder,ESP,23,6.39,90,1,6.39
+Jaydee Canvot,Toulouse,French Ligue 1,CB,Defender,FRA,19,12.62,180,2,6.31
+Jayden Bogle,Leeds United,English Premier League,RB,Defender,ENG,25,12.81,172,2,6.4
+Jean Mattéo Bahoya,Eint Frankfurt,German Bundesliga,LW,Forward,FRA,20,7.32,66,1,7.32
+Jean-Clair Todibo,West Ham,English Premier League,CB,Defender,FRA,25,12.38,126,2,6.19
+Jean-Philippe Gbamin,Metz,French Ligue 1,CB,Defender,CIV,29,12.66,180,2,6.33
+Jean-Philippe Krasso,Paris FC,French Ligue 1,AM,Forward,CIV,28,11.77,87,2,5.88
+Jean-Philippe Mateta,Crystal Palace,English Premier League,AM,Forward,FRA,28,12.69,177,2,6.34
+Jean-Ricner Bellegarde,Wolves,English Premier League,CM,Forward,FRA,27,12.57,117,2,6.28
+Jefferson Lerma,Crystal Palace,English Premier League,CM,Midfielder,COL,30,5.88,21,1,5.88
+Jeffrey Gouweleeuw,Augsburg,German Bundesliga,CB,Defender,NED,34,5.97,90,1,5.97
+Jens Odgaard,Bologna,Italian Serie A,AM,Forward,DEN,26,5.96,71,1,5.96
+Jenson Seelt,Sunderland,English Premier League,CB,Defender,NED,22,14.01,134,2,7.0
+Jeremie Boga,Nice,French Ligue 1,AM,Forward,CIV,28,6.97,72,1,6.97
+Jeremie Frimpong,Liverpool,English Premier League,RB,Defender,NED,24,6.08,59,1,6.08
+Jeremy Doku,Manchester City,English Premier League,LM,Forward,BEL,23,12.97,102,2,6.48
+Jeremy Toljan,Levante,Spanish La Liga,RB,Defender,GER,31,12.48,175,2,6.24
+Jesper Karlström,Udinese,Italian Serie A,CM,Midfielder,SWE,30,6.64,90,1,6.64
+Jessy Deminguet,Metz,French Ligue 1,CM,Midfielder,FRA,27,6.27,72,1,6.27
+Jesus Rodríguez,Como,Italian Serie A,LW,Forward,ESP,19,6.64,89,1,6.64
+Jesus Vazquez,Valencia,Spanish La Liga,LB,Defender,ESP,22,6.5,65,1,6.5
+Jesús Areso,Athletic Club,Spanish La Liga,RB,Defender,ESP,26,13.39,172,2,6.7
+Jhon Arias,Wolves,English Premier League,LW,Forward,COL,27,5.93,55,1,5.93
+Jhon Lucumí,Bologna,Italian Serie A,CB,Defender,COL,27,6.45,90,1,6.45
+Jhon Solis,Girona,Spanish La Liga,CM,Midfielder,COL,20,12.91,160,2,6.46
+Jim Allevinah,Angers,French Ligue 1,AM,Forward,GAB,30,11.4,58,2,5.7
+Joachim Andersen,Fulham,English Premier League,CB,Defender,DEN,29,13.69,180,2,6.84
+Joaquín Panichelli,Strasbourg,French Ligue 1,AM,Forward,ARG,22,12.95,180,2,6.48
+Jobe Bellingham,Dortmund,German Bundesliga,AM,Forward,ENG,19,5.82,45,1,5.82
+Joe Rodon,Leeds United,English Premier League,CB,Defender,WAL,27,13.03,180,2,6.52
+Joe Scally,Gladbach,German Bundesliga,RB,Defender,USA,22,6.95,90,1,6.95
+Joel Fujita,St. Pauli,German Bundesliga,CM,Midfielder,JPN,23,6.62,90,1,6.62
+Joel Mvuka,Lorient,French Ligue 1,RM,Midfielder,NOR,22,6.31,64,1,6.31
+Joel Roca,Girona,Spanish La Liga,AM,Defender,ESP,20,13.08,180,2,6.54
+Joelinton,Newcastle Utd,English Premier League,LM,Midfielder,BRA,29,13.34,157,2,6.67
+Jofre,Espanyol,Spanish La Liga,RW,Forward,ESP,24,5.18,45,1,5.18
+Jofre Torrents,Barcelona,Spanish La Liga,LB,Defender,ESP,18,6.44,23,1,6.44
+Johan Bakayoko,RB Leipzig,German Bundesliga,RW,Forward,BEL,22,6.22,68,1,6.22
+Johan Manzambi,Freiburg,German Bundesliga,DM,Midfielder,SUI,19,6.84,80,1,6.84
+Johan Mojica,Mallorca,Spanish La Liga,LB,Defender,COL,33,13.55,179,2,6.78
+Johan Vásquez,Genoa,Italian Serie A,CB,Defender,MEX,26,6.93,90,1,6.93
+Johann Lepenant,Nantes,French Ligue 1,CM,Midfielder,FRA,22,13.06,174,2,6.53
+John Donald,Elche,Spanish La Liga,CB,Defender,ESP,24,5.93,45,1,5.93
+John McGinn,Aston Villa,English Premier League,RW,Forward,SCO,30,13.31,156,2,6.65
+John Stones,Manchester City,English Premier League,CB,Defender,ENG,31,13.78,171,2,6.89
+Johnny Cardoso,Atlético Madrid,Spanish La Liga,CM,Midfielder,USA,23,14.14,112,2,7.07
+Jon Aramburu,Real Sociedad,Spanish La Liga,RB,Defender,VEN,23,14.15,180,2,7.07
+Jon Gorrotxategi,Real Sociedad,Spanish La Liga,DM,Midfielder,ESP,23,7.14,35,1,7.14
+Jon Guridi,Alavés,Spanish La Liga,AM,Forward,ESP,30,13.37,133,2,6.68
+Jon Martin,Real Sociedad,Spanish La Liga,CB,Defender,ESP,19,7.53,90,1,7.53
+Jon Moncayola,Osasuna,Spanish La Liga,CM,Midfielder,ESP,27,13.94,180,2,6.97
+Jon Rowe,Marseille,French Ligue 1,LW,Forward,ENG,22,6.33,62,1,6.33
+Jonas Föhrenbach,Heidenheim,German Bundesliga,WB,Midfielder,GER,29,6.08,60,1,6.08
+Jonathan Burkardt,Eint Frankfurt,German Bundesliga,AM,Forward,GER,25,6.39,66,1,6.39
+Jonathan Clauss,Nice,French Ligue 1,WB,Midfielder,FRA,32,6.9,90,1,6.9
+Jonathan David,Juventus,Italian Serie A,AM,Forward,CAN,25,6.77,79,1,6.77
+Jonathan Gradit,Lens,French Ligue 1,CB,Defender,FRA,32,6.9,90,1,6.9
+Jonathan Tah,Bayern Munich,German Bundesliga,CB,Defender,GER,29,6.48,67,1,6.48
+Jones El-Abdellaoui,Celta Vigo,Spanish La Liga,AM,Forward,MAR,19,5.63,34,1,5.63
+Jonny Castro,Alavés,Spanish La Liga,RB,Defender,ESP,31,14.43,180,2,7.22
+Jordan Henderson,Brentford,English Premier League,CM,Midfielder,ENG,35,12.73,90,2,6.36
+Jordan Lefort,Angers,French Ligue 1,CB,Defender,FRA,32,12.73,180,2,6.36
+Jordan Teze,Monaco,French Ligue 1,RB,Defender,NED,25,12.76,135,2,6.38
+Jordan Torunarigha,Hamburger SV,German Bundesliga,CB,Defender,GER,28,6.64,90,1,6.64
+Jordan Zemura,Udinese,Italian Serie A,WB,Midfielder,ZIM,25,6.19,78,1,6.19
+Jorge Cabello,Levante,Spanish La Liga,CB,Defender,ESP,21,11.89,180,2,5.94
+Jorge Cuenca,Fulham,English Premier League,CB,Defender,ESP,25,6.57,83,1,6.57
+Jorge de Frutos,Rayo Vallecano,Spanish La Liga,AM,Forward,ESP,28,13.4,158,2,6.7
+Jorrel Hato,Chelsea,English Premier League,LB,Defender,NED,19,6.37,22,1,6.37
+Josh Cullen,Burnley,English Premier League,CM,Midfielder,IRL,29,14.18,180,2,7.09
+Josh Doig,Sassuolo,Italian Serie A,LB,Defender,SCO,23,6.1,80,1,6.1
+Josh Laurent,Burnley,English Premier League,CM,Midfielder,ENG,30,12.48,84,2,6.24
+Josha Vagnoman,Stuttgart,German Bundesliga,RB,Defender,GER,24,6.08,70,1,6.08
+Joshua Acheampong,Chelsea,English Premier League,CB,Defender,ENG,19,7.03,90,1,7.03
+Joshua Kimmich,Bayern Munich,German Bundesliga,DM,Midfielder,GER,30,6.76,90,1,6.76
+Joshua King,Fulham,English Premier League,AM,Forward,ENG,18,13.66,146,2,6.83
+Josip Stanišić,Bayern Munich,German Bundesliga,LB,Defender,CRO,25,6.47,90,1,6.47
+Josué Casimir,Auxerre,French Ligue 1,RM,Forward,FRA,23,12.1,171,2,6.05
+José Luis García Vayá,Valencia,Spanish La Liga,CM,Midfielder,ESP,27,13.53,156,2,6.76
+José Luis Gayà,Valencia,Spanish La Liga,LB,Defender,ESP,30,13.14,100,2,6.57
+José Luis Morales,Levante,Spanish La Liga,LM,Midfielder,ESP,38,12.64,95,2,6.32
+João Gomes,Wolves,English Premier League,CM,Midfielder,BRA,24,13.78,180,2,6.89
+João Mário Lopes,Juventus,Italian Serie A,WB,Midfielder,POR,25,5.89,34,1,5.89
+João Neves,Paris S-G,French Ligue 1,RM,Midfielder,POR,20,6.85,65,1,6.85
+João Palhinha,Tottenham,English Premier League,CM,Midfielder,POR,30,6.58,89,1,6.58
+João Pedro,Chelsea,English Premier League,AM,Forward,BRA,23,14.09,162,2,7.04
+Joël Piroe,Leeds United,English Premier League,AM,Forward,NED,26,12.22,134,2,6.11
+Joël Schmied,Köln,German Bundesliga,CB,Defender,SUI,26,5.53,90,1,5.53
+Juan Cruz Armada,Osasuna,Spanish La Liga,CB,Defender,ESP,33,11.66,174,2,5.83
+Juan Cuadrado,Pisa,Italian Serie A,AM,Forward,COL,37,6.16,30,1,6.16
+Juan Foyth,Villarreal,Spanish La Liga,CB,Defender,ARG,27,12.83,114,2,6.42
+Juan Jesus,Napoli,Italian Serie A,CB,Defender,BRA,34,6.52,90,1,6.52
+Juanlu Sánchez,Sevilla,Spanish La Liga,RB,Defender,ESP,22,14.02,174,2,7.01
+Julian Brandt,Dortmund,German Bundesliga,AM,Forward,GER,29,6.5,45,1,6.5
+Julian Chabot,Stuttgart,German Bundesliga,CB,Defender,GER,27,6.68,81,1,6.68
+Julien Le Cardinal,Brest,French Ligue 1,CB,Defender,FRA,28,12.69,180,2,6.34
+Julien López,Paris FC,French Ligue 1,AM,Forward,ALG,33,6.09,20,1,6.09
+Julián Malatini,Werder Bremen,German Bundesliga,RB,Defender,ARG,24,6.32,90,1,6.32
+Julián Álvarez,Atlético Madrid,Spanish La Liga,AM,Forward,ARG,25,14.19,171,2,7.1
+Juma Bah,Nice,French Ligue 1,CB,Defender,SLE,19,13.18,180,2,6.59
+Junior Firpo,Betis,Spanish La Liga,LB,Defender,DOM,29,6.85,70,1,6.85
+Junior Messias,Genoa,Italian Serie A,RW,Forward,BRA,34,5.63,31,1,5.63
+Junior Mwanga,Strasbourg,French Ligue 1,CB,Defender,FRA,22,13.28,180,2,6.64
+Jurriën Timber,Arsenal,English Premier League,RB,Defender,NED,24,13.79,83,2,6.9
+Justin Devenny,Crystal Palace,English Premier League,LW,Forward,NIR,21,6.36,65,1,6.36
+Justin Njinmah,Werder Bremen,German Bundesliga,RW,Forward,GER,24,6.31,90,1,6.31
+Jérémy Jacquet,Rennes,French Ligue 1,CB,Defender,FRA,20,12.96,180,2,6.48
+Jørgen Strand Larsen,Wolves,English Premier League,AM,Forward,NOR,25,12.82,158,2,6.41
 Kai Havertz,Arsenal,English Premier League,AM,Forward,GER,26,6.73,31,1,6.73
-Kamory Doumbia,Brest,French Ligue 1,RM,Midfielder,MLI,22,7.34,89,1,7.34
-Kaoru Mitoma,Brighton,English Premier League,LW,Forward,JPN,28,6.47,82,1,6.47
-Karl Etta,Villarreal,Spanish La Liga,AM,Forward,CMR,21,6.76,90,1,6.76
-Keane Lewis-Potter,Brentford,English Premier League,RW,Forward,ENG,24,5.97,68,1,5.97
-Kelvin Amian,Nantes,French Ligue 1,RB,Defender,FRA,27,5.86,90,1,5.86
-Kenny Lala,Brest,French Ligue 1,RB,Defender,MAD,33,6.52,90,1,6.52
-Kenny Tete,Fulham,English Premier League,RB,Defender,NED,29,7.02,90,1,7.02
-Kevin Schade,Brentford,English Premier League,LW,Forward,GER,23,6.02,45,1,6.02
-Khalis Merah,Lyon,French Ligue 1,RW,Forward,FRA,18,5.52,25,1,5.52
-Ki-Jana Hoever,Wolves,English Premier League,RM,Midfielder,NED,23,6.8,72,1,6.8
-Kieran Trippier,Newcastle Utd,English Premier League,RB,Defender,ENG,34,6.82,90,1,6.82
-Kiernan Dewsbury-Hall,Everton,English Premier League,AM,Forward,ENG,26,6.78,90,1,6.78
-Kike Salas,Sevilla,Spanish La Liga,CB,Defender,ESP,23,7.64,90,1,7.64
-Kiké,Espanyol,Spanish La Liga,AM,Forward,ESP,35,6.57,45,1,6.57
-Koffi Kouao,Metz,French Ligue 1,RB,Defender,CIV,27,6.02,83,1,6.02
-Kojo Peprah Oppong,Nice,French Ligue 1,CB,Defender,GHA,21,5.77,89,1,5.77
-Koke,Atlético Madrid,Spanish La Liga,DM,Midfielder,ESP,33,6.53,45,1,6.53
-Kwasi Sibo,Oviedo,Spanish La Liga,CM,Midfielder,GHA,27,6.27,90,1,6.27
-Kwon Hyeokkyu,Nantes,French Ligue 1,DM,Midfielder,KOR,24,5.65,78,1,5.65
-Kyle Walker,Burnley,English Premier League,CB,Defender,ENG,35,5.77,90,1,5.77
-Kévin Danois,Auxerre,French Ligue 1,CM,Midfielder,FRA,21,6.56,90,1,6.56
-Ladislav Krejčí,Girona,Spanish La Liga,CB,Defender,CZE,26,6.2,90,1,6.2
-Lamine Camara,Monaco,French Ligue 1,DM,Midfielder,SEN,21,6.71,62,1,6.71
-Lamine Yamal,Barcelona,Spanish La Liga,RW,Forward,ESP,18,7.42,90,1,7.42
-Lanroy Machine,Angers,French Ligue 1,AM,Forward,FRA,19,5.61,29,1,5.61
-Lassine Sinayoko,Auxerre,French Ligue 1,AM,Forward,MLI,25,6.44,87,1,6.44
-Laurent Abergel,Lorient,French Ligue 1,CM,Midfielder,FRA,32,6.35,90,1,6.35
-Leandro Cabrera,Espanyol,Spanish La Liga,CB,Defender,URU,34,6.39,90,1,6.39
-Lee Kang-in,Paris S-G,French Ligue 1,RM,Midfielder,KOR,24,6.96,60,1,6.96
-Leny Yoro,Manchester Utd,English Premier League,CB,Defender,FRA,19,7.13,90,1,7.13
-Leonardo Balerdi,Marseille,French Ligue 1,CB,Defender,ARG,26,6.78,90,1,6.78
-Lesley Ugochukwu,Burnley,English Premier League,CM,Midfielder,FRA,21,5.74,28,1,5.74
-Lewis Dunk,Brighton,English Premier League,CB,Defender,ENG,33,7.13,90,1,7.13
-Lilian Raolisoa,Angers,French Ligue 1,WB,Midfielder,FRA,25,6.09,61,1,6.09
-Lohann Doucet,Paris FC,French Ligue 1,CM,Midfielder,FRA,22,6.37,60,1,6.37
-Louis Leroux,Nantes,French Ligue 1,CM,Midfielder,FRA,19,6.16,85,1,6.16
-Louis Mouton,Angers,French Ligue 1,AM,Forward,FRA,23,6.17,56,1,6.17
-Lucas Beraldo,Paris S-G,French Ligue 1,CB,Defender,BRA,21,6.57,90,1,6.57
-Lucas Bergvall,Tottenham,English Premier League,LM,Midfielder,SWE,19,6.39,79,1,6.39
-Lucas Digne,Aston Villa,English Premier League,LB,Defender,FRA,32,6.73,90,1,6.73
-Lucas Hernández,Paris S-G,French Ligue 1,LB,Defender,FRA,29,6.09,60,1,6.09
-Lucas Høgsberg,Strasbourg,French Ligue 1,CB,Defender,DEN,19,6.62,90,1,6.62
-Lucas Paquetá,West Ham,English Premier League,AM,Forward,BRA,27,6.67,90,1,6.67
-Lucien Agoume,Sevilla,Spanish La Liga,CM,Midfielder,FRA,23,7.32,90,1,7.32
-Ludovic Ajorque,Brest,French Ligue 1,AM,Forward,FRA,31,6.4,90,1,6.4
-Luis Milla,Getafe,Spanish La Liga,CM,Midfielder,ESP,30,6.42,90,1,6.42
-Luis Rioja,Valencia,Spanish La Liga,RM,Midfielder,ESP,31,6.77,90,1,6.77
-Luiz Felipe,Rayo Vallecano,Spanish La Liga,CB,Defender,ITA,28,6.84,45,1,6.84
-Luka Ilić,Oviedo,Spanish La Liga,CM,Midfielder,SRB,26,5.98,76,1,5.98
-Luke Shaw,Manchester Utd,English Premier League,CB,Defender,ENG,30,6.76,79,1,6.76
-Lyle Foster,Burnley,English Premier League,AM,Forward,RSA,24,6.7,73,1,6.7
-Léo Pétrot,Elche,Spanish La Liga,LB,Defender,FRA,28,6.39,72,1,6.39
-Maghnes Akliouche,Monaco,French Ligue 1,RW,Forward,FRA,23,6.92,90,1,6.92
-Mahdi Camara,Rennes,French Ligue 1,CM,Midfielder,FRA,27,5.74,27,1,5.74
-Malang Sarr,Lens,French Ligue 1,CB,Defender,FRA,26,7.04,90,1,7.04
-Malick Fofana,Lyon,French Ligue 1,LW,Forward,BEL,20,6.69,89,1,6.69
-Mama Samba Baldé,Brest,French Ligue 1,LW,Forward,GNB,29,6.62,89,1,6.62
-Mamadou Sarr,Strasbourg,French Ligue 1,CB,Defender,FRA,19,6.41,90,1,6.41
-Manu Morlanes,Mallorca,Spanish La Liga,DM,Midfielder,ESP,26,5.77,32,1,5.77
-Manu Sánchez,Levante,Spanish La Liga,LB,Defender,ESP,24,6.44,78,1,6.44
-Manuel Ugarte Ribeiro,Manchester Utd,English Premier League,CM,Midfielder,URU,24,6.67,26,1,6.67
-Marc Aguado,Elche,Spanish La Liga,CM,Midfielder,ESP,25,6.97,64,1,6.97
-Marc Bartra,Betis,Spanish La Liga,CB,Defender,ESP,34,6.71,90,1,6.71
-Marc Cucurella,Chelsea,English Premier League,LB,Defender,ESP,27,6.6,90,1,6.6
-Marc Guéhi,Crystal Palace,English Premier League,CB,Defender,ENG,25,5.74,90,1,5.74
-Marco Esteban,Oviedo,Spanish La Liga,CB,Defender,ESP,19,5.33,45,1,5.33
-Marcos Alonso,Celta Vigo,Spanish La Liga,CB,Defender,ESP,34,7.0,90,1,7.0
-Marcos Llorente,Atlético Madrid,Spanish La Liga,RB,Defender,ESP,30,7.07,90,1,7.07
-Marcos Senesi,Bournemouth,English Premier League,CB,Defender,ARG,28,6.42,90,1,6.42
-Marcus Rashford,Barcelona,Spanish La Liga,LW,Forward,ENG,27,6.93,22,1,6.93
-Marcus Tavernier,Bournemouth,English Premier League,CM,Midfielder,ENG,26,7.14,90,1,7.14
-Mario Martín,Getafe,Spanish La Liga,CM,Midfielder,ESP,21,6.65,90,1,6.65
-Mario Sauer,Toulouse,French Ligue 1,CM,Midfielder,SVK,21,6.35,67,1,6.35
-Marius Broholm,Lille,French Ligue 1,RW,Forward,NOR,20,5.9,45,1,5.9
-Mark McKenzie,Toulouse,French Ligue 1,CB,Defender,USA,26,6.15,90,1,6.15
-Maroan Sannadi,Athletic Club,Spanish La Liga,AM,Forward,MAR,24,6.82,66,1,6.82
-Marshall Munetsi,Wolves,English Premier League,RW,Forward,ZIM,29,6.07,90,1,6.07
-Martim Neto,Elche,Spanish La Liga,LM,Midfielder,POR,22,7.29,26,1,7.29
-Martin Valjent,Mallorca,Spanish La Liga,CB,Defender,SVK,29,6.0,90,1,6.0
-Martin Ødegaard,Arsenal,English Premier League,RM,Midfielder,NOR,26,7.37,90,1,7.37
-Martín Zubimendi,Arsenal,English Premier League,CM,Midfielder,ESP,26,6.74,90,1,6.74
-Marvin Senaya,Auxerre,French Ligue 1,RB,Defender,TOG,24,5.91,90,1,5.91
-Mason Greenwood,Marseille,French Ligue 1,RW,Forward,ENG,23,7.07,90,1,7.07
-Mason Mount,Manchester Utd,English Premier League,AM,Forward,ENG,26,6.93,64,1,6.93
-Mateo Joseph,Mallorca,Spanish La Liga,RM,Midfielder,ESP,21,5.79,45,1,5.79
-Mateu Morey,Mallorca,Spanish La Liga,RB,Defender,ESP,25,6.34,45,1,6.34
-Matheus Cunha,Manchester Utd,English Premier League,AM,Forward,BRA,26,7.35,90,1,7.35
-Matheus Nunes,Manchester City,English Premier League,RB,Defender,POR,26,6.83,25,1,6.83
-Mathias Jensen,Brentford,English Premier League,DM,Midfielder,DEN,29,6.26,68,1,6.26
-Matias Fernandez-Pardo,Lille,French Ligue 1,LW,Forward,BEL,20,6.68,45,1,6.68
-Mats Wieffer,Brighton,English Premier League,RB,Defender,NED,25,7.33,90,1,7.33
-Matt Doherty,Wolves,English Premier League,CB,Defender,IRL,33,6.03,90,1,6.03
-Matt O'Riley,Brighton,English Premier League,AM,Forward,DEN,24,6.9,87,1,6.9
-Matteo Ruggeri,Atlético Madrid,Spanish La Liga,LB,Defender,ITA,23,7.3,90,1,7.3
-Matthieu Udol,Lens,French Ligue 1,CB,Defender,FRA,29,6.1,90,1,6.1
-Matthijs de Ligt,Manchester Utd,English Premier League,CB,Defender,NED,26,7.18,90,1,7.18
-Matthis Abline,Nantes,French Ligue 1,LM,Midfielder,FRA,22,6.03,32,1,6.03
-Matty Cash,Aston Villa,English Premier League,RB,Defender,POL,28,6.4,90,1,6.4
-Mauro Arambarri,Getafe,Spanish La Liga,CM,Midfielder,URU,29,6.46,90,1,6.46
-Max Kilman,West Ham,English Premier League,CB,Defender,ENG,28,6.94,90,1,6.94
-Maxence Lacroix,Crystal Palace,English Premier League,CB,Defender,FRA,25,6.48,90,1,6.48
-Maxim De Cuyper,Brighton,English Premier League,LB,Defender,BEL,24,6.57,90,1,6.57
-Maxima Goffi,Lille,French Ligue 1,RB,Defender,FRA,17,6.73,39,1,6.73
-Maxime Estève,Burnley,English Premier League,CB,Defender,FRA,23,5.86,90,1,5.86
-Maxime Lopez,Paris FC,French Ligue 1,CM,Midfielder,FRA,27,7.06,90,1,7.06
-Mbwana Samatta,Le Havre,French Ligue 1,AM,Forward,TAN,32,6.46,33,1,6.46
-Melvin Bard,Nice,French Ligue 1,WB,Midfielder,FRA,24,6.13,90,1,6.13
-Michael Amir Murillo,Marseille,French Ligue 1,CM,Midfielder,PAN,29,6.08,77,1,6.08
-Michael Kayode,Brentford,English Premier League,RB,Defender,ITA,21,6.81,90,1,6.81
-Michael Keane,Everton,English Premier League,CB,Defender,ENG,32,6.41,90,1,6.41
-Michel Mboula,Metz,French Ligue 1,CB,Defender,GAB,22,6.13,90,1,6.13
-Micky van de Ven,Tottenham,English Premier League,CB,Defender,NED,24,6.83,90,1,6.83
-Miguel Ángel Rubio,Espanyol,Spanish La Liga,CB,Defender,ESP,27,6.2,25,1,6.2
-Mihailo Ristić,Celta Vigo,Spanish La Liga,LM,Midfielder,SRB,29,7.03,56,1,7.03
-Mika Biereth,Monaco,French Ligue 1,AM,Forward,DEN,22,6.31,79,1,6.31
-Mikel Jauregizar,Athletic Club,Spanish La Liga,DM,Midfielder,ESP,21,6.62,90,1,6.62
-Mikel Oyarzabal,Real Sociedad,Spanish La Liga,AM,Forward,ESP,28,6.88,90,1,6.88
-Milos Kerkez,Liverpool,English Premier League,LB,Defender,HUN,21,6.62,59,1,6.62
-Mohamed Bamba,Lorient,French Ligue 1,AM,Forward,CIV,23,6.06,64,1,6.06
-Mohamed Meité,Rennes,French Ligue 1,AM,Forward,FRA,17,5.33,36,1,5.33
-Mohamed Salah,Liverpool,English Premier League,RW,Forward,EGY,33,7.4,90,1,7.4
-Mohammed Kudus,Tottenham,English Premier League,RW,Forward,GHA,25,7.25,84,1,7.25
-Moisés Caicedo,Chelsea,English Premier League,DM,Midfielder,ECU,23,6.97,90,1,6.97
-Montassar Talbi,Lorient,French Ligue 1,CB,Defender,TUN,27,6.39,90,1,6.39
-Morgan Gibbs-White,Nott'ham Forest,English Premier League,AM,Forward,ENG,25,8.29,83,1,8.29
+Kaishu Sano,Mainz 05,German Bundesliga,CM,Midfielder,JPN,24,6.19,90,1,6.19
+Kamaldeen Sulemana,Atalanta,Italian Serie A,AM,Forward,GHA,23,6.7,20,1,6.7
+Kamory Doumbia,Brest,French Ligue 1,RM,Midfielder,MLI,22,14.32,167,2,7.16
+Kaoru Mitoma,Brighton,English Premier League,LW,Forward,JPN,28,13.33,172,2,6.66
+Karim Adeyemi,Dortmund,German Bundesliga,AM,Forward,GER,23,6.63,45,1,6.63
+Karl Etta,Villarreal,Spanish La Liga,AM,Forward,CMR,21,13.84,180,2,6.92
+Keane Lewis-Potter,Brentford,English Premier League,LB,Defender,ENG,24,12.05,158,2,6.02
+Keinan Davis,Udinese,Italian Serie A,AM,Forward,ENG,27,6.11,73,1,6.11
+Kelvin Amian,Nantes,French Ligue 1,RB,Defender,FRA,27,12.84,180,2,6.42
+Kenan Yıldız,Juventus,Italian Serie A,AM,Forward,TUR,20,7.3,88,1,7.3
+Kendry Páez,Strasbourg,French Ligue 1,AM,Forward,ECU,18,6.69,63,1,6.69
+Kenny Lala,Brest,French Ligue 1,RB,Defender,MAD,33,13.34,180,2,6.67
+Kenny Tete,Fulham,English Premier League,RB,Defender,NED,29,14.46,180,2,7.23
+Keven Schlotterbeck,Augsburg,German Bundesliga,CB,Defender,GER,28,5.97,90,1,5.97
+Kevin Carlos,Nice,French Ligue 1,AM,Forward,ESP,24,6.07,72,1,6.07
+Kevin De Bruyne,Napoli,Italian Serie A,CM,Midfielder,BEL,34,6.92,90,1,6.92
+Kevin Schade,Brentford,English Premier League,LW,Forward,GER,23,12.28,123,2,6.14
+Kevin Stöger,Gladbach,German Bundesliga,AM,Forward,AUT,31,6.74,65,1,6.74
+Khalis Merah,Lyon,French Ligue 1,RW,Forward,FRA,18,5.38,25,1,5.38
+Khéphren Thuram,Juventus,Italian Serie A,CM,Midfielder,FRA,24,7.05,90,1,7.05
+Ki-Jana Hoever,Wolves,English Premier League,RM,Midfielder,NED,23,12.8,106,2,6.4
+Kialonda,Lecce,Italian Serie A,CB,Defender,ANG,27,5.5,90,1,5.5
+Kieran Trippier,Newcastle Utd,English Premier League,RB,Defender,ENG,34,13.21,165,2,6.6
+Kiernan Dewsbury-Hall,Everton,English Premier League,AM,Forward,ENG,26,13.65,180,2,6.82
+Kike Salas,Sevilla,Spanish La Liga,CB,Defender,ESP,23,15.63,180,2,7.82
+Kiké,Espanyol,Spanish La Liga,AM,Forward,ESP,35,12.66,66,2,6.33
+Kilian Fischer,Wolfsburg,German Bundesliga,RB,Defender,GER,24,6.5,88,1,6.5
+Kim Min-jae,Bayern Munich,German Bundesliga,CB,Defender,KOR,28,6.57,23,1,6.57
+Kingsley Ehizibue,Udinese,Italian Serie A,WB,Midfielder,NED,30,6.15,90,1,6.15
+Koffi Kouao,Metz,French Ligue 1,RB,Defender,CIV,27,12.1,173,2,6.05
+Kojo Peprah Oppong,Nice,French Ligue 1,CB,Defender,GHA,21,12.06,179,2,6.03
+Koke,Atlético Madrid,Spanish La Liga,DM,Midfielder,ESP,33,6.61,45,1,6.61
+Koki Machida,Hoffenheim,German Bundesliga,CB,Defender,JPN,27,6.66,44,1,6.66
+Konrad Laimer,Bayern Munich,German Bundesliga,RB,Defender,AUT,28,6.39,68,1,6.39
+Konstantinos Koulierakis,Wolfsburg,German Bundesliga,CB,Defender,GRE,21,6.17,90,1,6.17
+Kristijan Jakić,Augsburg,German Bundesliga,RW,Forward,CRO,28,6.29,90,1,6.29
+Kristoffer Lund,Köln,German Bundesliga,WB,Midfielder,USA,23,6.33,67,1,6.33
+Kwasi Sibo,Oviedo,Spanish La Liga,CM,Midfielder,GHA,27,12.52,180,2,6.26
+Kwon Hyeokkyu,Nantes,French Ligue 1,DM,Midfielder,KOR,24,10.95,113,2,5.48
+Kyle Walker,Burnley,English Premier League,CB,Defender,ENG,35,13.18,180,2,6.59
+Kyle Walker-Peters,West Ham,English Premier League,WB,Midfielder,ENG,28,6.77,21,1,6.77
+Kylian Mbappé,Real Madrid,Spanish La Liga,AM,Forward,FRA,26,15.07,176,2,7.54
+Kévin Danois,Auxerre,French Ligue 1,CM,Midfielder,FRA,21,13.37,180,2,6.68
+Ladislav Krejčí,Girona,Spanish La Liga,CB,Defender,CZE,26,12.69,180,2,6.34
+Lameck Banda,Lecce,Italian Serie A,RW,Forward,ZAM,24,6.3,58,1,6.3
+Lamine Camara,Monaco,French Ligue 1,DM,Midfielder,SEN,21,13.42,152,2,6.71
+Lamine Yamal,Barcelona,Spanish La Liga,RW,Forward,ESP,18,14.97,180,2,7.48
+Lanroy Machine,Angers,French Ligue 1,AM,Forward,FRA,19,5.53,29,1,5.53
+Lassana Coulibaly,Lecce,Italian Serie A,RM,Midfielder,MLI,29,5.98,82,1,5.98
+Lassine Sinayoko,Auxerre,French Ligue 1,AM,Forward,MLI,25,13.23,159,2,6.62
+Laurent Abergel,Lorient,French Ligue 1,CM,Midfielder,FRA,32,13.66,180,2,6.83
+Lautaro Martínez,Inter,Italian Serie A,AM,Forward,ARG,28,7.03,78,1,7.03
+Lautaro Valenti,Parma,Italian Serie A,CB,Defender,ARG,26,6.03,90,1,6.03
+Leander Dendoncker,Oviedo,Spanish La Liga,CM,Midfielder,BEL,30,6.88,89,1,6.88
+Leandro Cabrera,Espanyol,Spanish La Liga,CB,Defender,URU,34,12.31,180,2,6.15
+Leandro Trossard,Arsenal,English Premier League,LW,Forward,BEL,30,6.64,38,1,6.64
+Lee Jae-sung,Mainz 05,German Bundesliga,AM,Forward,KOR,33,6.24,90,1,6.24
+Lee Kang-in,Paris S-G,French Ligue 1,RM,Midfielder,KOR,24,6.92,60,1,6.92
+Lennard Maloney,Mainz 05,German Bundesliga,CM,Midfielder,USA,25,5.67,26,1,5.67
+Lennart Karl,Bayern Munich,German Bundesliga,RW,Forward,GER,17,6.57,22,1,6.57
+Leny Yoro,Manchester Utd,English Premier League,CB,Defender,FRA,19,13.6,176,2,6.8
+Leon Avdullahu,Hoffenheim,German Bundesliga,CM,Midfielder,SUI,21,6.22,90,1,6.22
+Leon Goretzka,Bayern Munich,German Bundesliga,DM,Midfielder,GER,30,6.65,67,1,6.65
+Leonardo Balerdi,Marseille,French Ligue 1,CB,Defender,ARG,26,13.4,180,2,6.7
+Leonardo Bittencourt,Werder Bremen,German Bundesliga,DM,Midfielder,GER,31,5.96,77,1,5.96
+Leopold Querfeld,Union Berlin,German Bundesliga,CB,Defender,AUT,21,5.51,90,1,5.51
+Lesley Ugochukwu,Burnley,English Premier League,CM,Midfielder,FRA,21,12.02,96,2,6.01
+Lewis Dunk,Brighton,English Premier League,CB,Defender,ENG,33,14.4,180,2,7.2
+Lewis Miley,Newcastle Utd,English Premier League,CM,Midfielder,ENG,19,5.91,25,1,5.91
+Liam Delap,Chelsea,English Premier League,AM,Forward,ENG,22,6.23,61,1,6.23
+Lilian Raolisoa,Angers,French Ligue 1,WB,Midfielder,FRA,25,12.36,137,2,6.18
+Lloyd Kelly,Juventus,Italian Serie A,CB,Defender,ENG,26,6.13,90,1,6.13
+Lohann Doucet,Paris FC,French Ligue 1,CM,Midfielder,FRA,22,11.66,82,2,5.83
+Lorenzo Colombo,Genoa,Italian Serie A,AM,Forward,ITA,23,5.6,72,1,5.6
+Lorenzo De Silvestri,Bologna,Italian Serie A,RB,Defender,ITA,37,5.97,71,1,5.97
+Lorenzo Lucca,Napoli,Italian Serie A,AM,Forward,ITA,24,6.28,81,1,6.28
+Louis Leroux,Nantes,French Ligue 1,CM,Midfielder,FRA,19,12.16,155,2,6.08
+Louis Mouton,Angers,French Ligue 1,AM,Forward,FRA,23,6.25,56,1,6.25
+Louis Oppie,St. Pauli,German Bundesliga,WB,Midfielder,GER,23,6.42,90,1,6.42
+Lovro Majer,Wolfsburg,German Bundesliga,AM,Forward,CRO,27,6.5,63,1,6.5
+Loïc Nego,Le Havre,French Ligue 1,RB,Defender,HUN,34,6.67,90,1,6.67
+Loïs Openda,RB Leipzig,German Bundesliga,AM,Forward,BEL,25,6.46,45,1,6.46
+Luca Jaquez,Stuttgart,German Bundesliga,CB,Defender,SUI,22,6.9,90,1,6.9
+Luca Kerber,Heidenheim,German Bundesliga,RM,Midfielder,GER,23,5.85,29,1,5.85
+Luca Lipani,Sassuolo,Italian Serie A,CM,Midfielder,ITA,20,6.29,72,1,6.29
+Luca Mazzitelli,Cagliari,Italian Serie A,CM,Midfielder,ITA,29,5.95,30,1,5.95
+Luca Pellegrini,Lazio,Italian Serie A,LB,Defender,ITA,26,6.34,25,1,6.34
+Luca Ranieri,Fiorentina,Italian Serie A,CB,Defender,ITA,26,6.69,45,1,6.69
+Lucas Beraldo,Paris S-G,French Ligue 1,CB,Defender,BRA,21,6.62,90,1,6.62
+Lucas Bergvall,Tottenham,English Premier League,LM,Midfielder,SWE,19,6.42,79,1,6.42
+Lucas Da Cunha,Como,Italian Serie A,DM,Midfielder,FRA,24,6.51,90,1,6.51
+Lucas Digne,Aston Villa,English Premier League,LB,Defender,FRA,32,13.25,153,2,6.62
+Lucas Hernández,Paris S-G,French Ligue 1,LB,Defender,FRA,29,6.23,60,1,6.23
+Lucas Höler,Freiburg,German Bundesliga,AM,Forward,GER,31,6.4,90,1,6.4
+Lucas Høgsberg,Strasbourg,French Ligue 1,CB,Defender,DEN,19,6.67,90,1,6.67
+Lucas Paquetá,West Ham,English Premier League,AM,Forward,BRA,27,13.72,180,2,6.86
+Lucas Torró,Osasuna,Spanish La Liga,CM,Midfielder,ESP,31,12.72,167,2,6.36
+Lucien Agoume,Sevilla,Spanish La Liga,CM,Midfielder,FRA,23,14.58,180,2,7.29
+Ludovic Ajorque,Brest,French Ligue 1,AM,Forward,FRA,31,12.78,180,2,6.39
+Ludovic Blas,Rennes,French Ligue 1,AM,Forward,FRA,27,6.05,62,1,6.05
+Luis Díaz,Bayern Munich,German Bundesliga,LW,Forward,COL,28,7.64,90,1,7.64
+Luis Milla,Getafe,Spanish La Liga,CM,Midfielder,ESP,30,14.24,179,2,7.12
+Luis Rioja,Valencia,Spanish La Liga,RM,Midfielder,ESP,31,13.25,156,2,6.62
+Luiz Felipe,Rayo Vallecano,Spanish La Liga,CB,Defender,ITA,28,13.66,135,2,6.83
+Luka Ilić,Oviedo,Spanish La Liga,CM,Forward,SRB,26,12.01,147,2,6.0
+Luka Modrić,Milan,Italian Serie A,CM,Midfielder,CRO,39,6.85,73,1,6.85
+Luka Sučić,Real Sociedad,Spanish La Liga,CM,Midfielder,CRO,22,6.06,55,1,6.06
+Lukas Kübler,Freiburg,German Bundesliga,RB,Defender,GER,32,6.89,90,1,6.89
+Lukas Nmecha,Leeds United,English Premier League,AM,Forward,GER,26,5.7,33,1,5.7
+Lukas Ullrich,Gladbach,German Bundesliga,LB,Defender,GER,21,6.07,76,1,6.07
+Luke Shaw,Manchester Utd,English Premier League,CB,Defender,ENG,30,13.3,165,2,6.65
+Lyle Foster,Burnley,English Premier League,AM,Forward,RSA,24,13.17,158,2,6.59
+Léo Pétrot,Elche,Spanish La Liga,LB,Defender,FRA,28,6.46,72,1,6.46
+Léo Scienza,Heidenheim,German Bundesliga,LW,Forward,BRA,26,6.55,90,1,6.55
+M'Bala Nzola,Pisa,Italian Serie A,AM,Forward,ANG,29,6.33,37,1,6.33
+Maghnes Akliouche,Monaco,French Ligue 1,RW,Forward,FRA,23,13.72,180,2,6.86
+Mahamadou Nagida,Rennes,French Ligue 1,RB,Defender,CMR,20,6.37,57,1,6.37
+Mahdi Camara,Rennes,French Ligue 1,CM,Midfielder,FRA,27,5.7,27,1,5.7
+Malang Sarr,Lens,French Ligue 1,CB,Defender,FRA,26,13.01,180,2,6.5
+Malick Fofana,Lyon,French Ligue 1,LW,Forward,BEL,20,13.66,174,2,6.83
+Malo Gusto,Chelsea,English Premier League,RB,Defender,FRA,22,6.4,68,1,6.4
+Mama Samba Baldé,Brest,French Ligue 1,LW,Forward,GNB,29,12.87,172,2,6.44
+Mamadou Sangare,Lens,French Ligue 1,CM,Midfielder,MLI,23,6.72,32,1,6.72
+Mamadou Sarr,Strasbourg,French Ligue 1,CB,Defender,FRA,19,12.88,180,2,6.44
+Mandela Keita,Parma,Italian Serie A,CM,Midfielder,BEL,23,6.3,87,1,6.3
+Manu Fernández,Celta Vigo,Spanish La Liga,CB,Defender,ESP,24,5.95,62,1,5.95
+Manu Koné,Roma,Italian Serie A,CM,Midfielder,FRA,24,6.54,90,1,6.54
+Manu Morlanes,Mallorca,Spanish La Liga,DM,Midfielder,ESP,26,5.75,32,1,5.75
+Manu Sánchez,Levante,Spanish La Liga,LB,Defender,ESP,24,13.02,152,2,6.51
+Manuel Lazzari,Lazio,Italian Serie A,RB,Defender,ITA,31,6.46,60,1,6.46
+Manuel Locatelli,Juventus,Italian Serie A,CM,Midfielder,ITA,27,6.6,56,1,6.6
+Manuel Ugarte Ribeiro,Manchester Utd,English Premier League,CM,Midfielder,URU,24,12.66,48,2,6.33
+Marash Kumbulla,Mallorca,Spanish La Liga,CB,Defender,ALB,25,6.56,45,1,6.56
+Marc Aguado,Elche,Spanish La Liga,CM,Midfielder,ESP,25,13.49,148,2,6.74
+Marc Bartra,Betis,Spanish La Liga,CB,Defender,ESP,34,13.9,180,2,6.95
+Marc Casado,Barcelona,Spanish La Liga,DM,Midfielder,ESP,21,6.8,45,1,6.8
+Marc Cucurella,Chelsea,English Premier League,LB,Defender,ESP,27,14.32,158,2,7.16
+Marc Domenech,Mallorca,Spanish La Liga,AM,Forward,ESP,19,6.56,23,1,6.56
+Marc Guéhi,Crystal Palace,English Premier League,CB,Defender,ENG,25,12.5,180,2,6.25
+Marc-Oliver Kempf,Como,Italian Serie A,CB,Defender,GER,30,5.95,90,1,5.95
+Marcel Sabitzer,Dortmund,German Bundesliga,CM,Midfielder,AUT,31,6.39,90,1,6.39
+Marco Esteban,Oviedo,Spanish La Liga,CB,Defender,ESP,19,5.27,45,1,5.27
+Marco Friedl,Werder Bremen,German Bundesliga,CB,Defender,AUT,27,6.72,90,1,6.72
+Marco Grüll,Werder Bremen,German Bundesliga,AM,Forward,AUT,27,6.87,88,1,6.87
+Marcos Alonso,Celta Vigo,Spanish La Liga,CB,Defender,ESP,34,13.67,180,2,6.84
+Marcos Llorente,Atlético Madrid,Spanish La Liga,RB,Defender,ESP,30,14.11,180,2,7.06
+Marcos Senesi,Bournemouth,English Premier League,CB,Defender,ARG,28,13.36,180,2,6.68
+Marcus Rashford,Barcelona,Spanish La Liga,LW,Forward,ENG,27,14.14,67,2,7.07
+Marcus Tavernier,Bournemouth,English Premier League,CM,Midfielder,ENG,26,13.85,167,2,6.92
+Marcus Thuram,Inter,Italian Serie A,AM,Forward,FRA,28,7.14,66,1,7.14
+Mariano,Alavés,Spanish La Liga,AM,Forward,DOM,32,6.41,33,1,6.41
+Marin Pongračić,Fiorentina,Italian Serie A,CB,Defender,CRO,27,6.6,90,1,6.6
+Mario Gila,Lazio,Italian Serie A,CB,Defender,ESP,24,6.24,90,1,6.24
+Mario Hermoso,Roma,Italian Serie A,CB,Defender,ESP,30,5.62,90,1,5.62
+Mario Martín,Getafe,Spanish La Liga,CM,Midfielder,ESP,21,13.34,180,2,6.67
+Mario Pašalić,Atalanta,Italian Serie A,CM,Midfielder,CRO,30,6.61,70,1,6.61
+Mario Sauer,Toulouse,French Ligue 1,CM,Midfielder,SVK,21,12.45,126,2,6.22
+Marius Broholm,Lille,French Ligue 1,RW,Forward,NOR,20,5.98,45,1,5.98
+Marius Bülter,Köln,German Bundesliga,AM,Forward,GER,32,6.93,90,1,6.93
+Marius Courcoul,Angers,French Ligue 1,CM,Midfielder,FRA,18,5.86,45,1,5.86
+Marius Marin,Pisa,Italian Serie A,CM,Midfielder,ROU,26,6.12,77,1,6.12
+Marius Wolf,Augsburg,German Bundesliga,RM,Midfielder,GER,30,6.79,85,1,6.79
+Mark McKenzie,Toulouse,French Ligue 1,CB,Defender,USA,26,12.43,180,2,6.22
+Marnon Busch,Heidenheim,German Bundesliga,WB,Midfielder,GER,30,6.53,90,1,6.53
+Maroan Sannadi,Athletic Club,Spanish La Liga,AM,Forward,MAR,24,13.68,111,2,6.84
+Marquinhos,Paris S-G,French Ligue 1,CB,Defender,BRA,31,6.28,90,1,6.28
+Marshall Munetsi,Wolves,English Premier League,RW,Forward,ZIM,29,12.04,180,2,6.02
+Marten de Roon,Atalanta,Italian Serie A,CM,Midfielder,NED,34,6.54,90,1,6.54
+Martim Neto,Elche,Spanish La Liga,AM,Forward,POR,22,13.73,49,2,6.86
+Martin Frese,Hellas Verona,Italian Serie A,CB,Defender,DEN,27,5.97,90,1,5.97
+Martin Valjent,Mallorca,Spanish La Liga,CB,Defender,SVK,29,12.95,180,2,6.48
+Martin Vitík,Bologna,Italian Serie A,CB,Defender,CZE,22,5.88,45,1,5.88
+Martin Ødegaard,Arsenal,English Premier League,RM,Midfielder,NOR,26,14.38,127,2,7.19
+Martín Payero,Cremonese,Italian Serie A,CM,Midfielder,ARG,26,5.52,35,1,5.52
+Martín Zubimendi,Arsenal,English Premier League,CM,Midfielder,ESP,26,14.01,180,2,7.0
+Marvin Senaya,Auxerre,French Ligue 1,RB,Defender,TOG,24,12.12,162,2,6.06
+Mason Greenwood,Marseille,French Ligue 1,RW,Forward,ENG,23,14.62,180,2,7.31
+Mason Mount,Manchester Utd,English Premier League,AM,Forward,ENG,26,13.49,132,2,6.74
+Mateo Joseph,Mallorca,Spanish La Liga,AM,Forward,ESP,21,12.3,112,2,6.15
+Mateo Pellegrino,Parma,Italian Serie A,AM,Forward,ARG,24,5.97,90,1,5.97
+Mateu Morey,Mallorca,Spanish La Liga,RB,Defender,ESP,25,13.63,135,2,6.82
+Matheus Cunha,Manchester Utd,English Premier League,AM,Forward,BRA,26,13.97,180,2,6.98
+Matheus Nunes,Manchester City,English Premier League,RB,Defender,POR,26,6.89,25,1,6.89
+Mathias Honsak,Heidenheim,German Bundesliga,RW,Forward,AUT,28,5.73,20,1,5.73
+Mathias Jensen,Brentford,English Premier League,DM,Midfielder,DEN,29,6.23,68,1,6.23
+Mathias Løvik,Parma,Italian Serie A,WB,Midfielder,NOR,21,5.53,87,1,5.53
+Mathias Pereira Lage,St. Pauli,German Bundesliga,AM,Forward,POR,28,6.11,90,1,6.11
+Mathías Olivera,Napoli,Italian Serie A,LB,Defender,URU,27,5.98,88,1,5.98
+Matias Fernandez-Pardo,Lille,French Ligue 1,LW,Forward,BEL,20,13.22,76,2,6.61
+Mats Wieffer,Brighton,English Premier League,RB,Defender,NED,25,14.68,174,2,7.34
+Matt Doherty,Wolves,English Premier League,CB,Defender,IRL,33,12.76,180,2,6.38
+Matt O'Riley,Brighton,English Premier League,AM,Forward,DEN,24,13.61,177,2,6.8
+Matteo Bianchetti,Cremonese,Italian Serie A,CB,Defender,ITA,32,6.25,82,1,6.25
+Matteo Cancellieri,Lazio,Italian Serie A,RW,Forward,ITA,23,5.93,60,1,5.93
+Matteo Gabbia,Milan,Italian Serie A,CB,Defender,ITA,25,6.45,90,1,6.45
+Matteo Politano,Napoli,Italian Serie A,RM,Midfielder,ITA,32,6.87,75,1,6.87
+Matteo Prati,Cagliari,Italian Serie A,CM,Midfielder,ITA,21,5.82,60,1,5.82
+Matteo Ruggeri,Atlético Madrid,Spanish La Liga,LB,Defender,ITA,23,14.26,164,2,7.13
+Matthias Ginter,Freiburg,German Bundesliga,CB,Defender,GER,31,6.42,90,1,6.42
+Matthieu Udol,Lens,French Ligue 1,CB,Defender,FRA,29,12.61,180,2,6.3
+Matthijs de Ligt,Manchester Utd,English Premier League,CB,Defender,NED,26,13.9,180,2,6.95
+Matthis Abline,Nantes,French Ligue 1,LM,Midfielder,FRA,22,12.11,67,2,6.06
+Mattia Viti,Fiorentina,Italian Serie A,CB,Defender,ITA,23,5.64,45,1,5.64
+Mattia Zaccagni,Lazio,Italian Serie A,LW,Forward,ITA,30,5.69,90,1,5.69
+Mattias Svanberg,Wolfsburg,German Bundesliga,AM,Forward,SWE,26,6.55,27,1,6.55
+Matty Cash,Aston Villa,English Premier League,RB,Defender,POL,28,14.09,180,2,7.04
+Mattéo Guendouzi,Lazio,Italian Serie A,RM,Midfielder,FRA,26,6.16,90,1,6.16
+Mattéo Tramoni,Pisa,Italian Serie A,AM,Forward,FRA,25,6.51,60,1,6.51
+Matìas Soulé,Roma,Italian Serie A,AM,Forward,ARG,22,6.61,73,1,6.61
+Mauro Arambarri,Getafe,Spanish La Liga,CM,Midfielder,URU,29,12.48,180,2,6.24
+Max Dowman,Arsenal,English Premier League,RW,Forward,ENG,15,6.82,27,1,6.82
+Max Kilman,West Ham,English Premier League,CB,Defender,ENG,28,12.76,180,2,6.38
+Maxence Lacroix,Crystal Palace,English Premier League,CB,Defender,FRA,25,13.54,180,2,6.77
+Maxim De Cuyper,Brighton,English Premier League,LB,Defender,BEL,24,12.77,156,2,6.38
+Maxima Goffi,Lille,French Ligue 1,RB,Defender,FRA,17,6.8,39,1,6.8
+Maxime Estève,Burnley,English Premier League,CB,Defender,FRA,23,13.13,172,2,6.56
+Maxime Lopez,Paris FC,French Ligue 1,CM,Midfielder,FRA,27,13.78,180,2,6.89
+Maximilian Arnold,Wolfsburg,German Bundesliga,DM,Midfielder,GER,31,6.83,90,1,6.83
+Maximilian Eggestein,Freiburg,German Bundesliga,DM,Midfielder,GER,28,6.73,90,1,6.73
+Maximilian Mittelstädt,Stuttgart,German Bundesliga,LB,Defender,GER,28,6.88,90,1,6.88
+Mbwana Samatta,Le Havre,French Ligue 1,AM,Forward,TAN,32,13.08,105,2,6.54
+Medon Berisha,Lecce,Italian Serie A,LM,Midfielder,ALB,21,6.69,58,1,6.69
+Melvin Bard,Nice,French Ligue 1,WB,Midfielder,FRA,24,12.17,180,2,6.08
+Merlin Röhl,Freiburg,German Bundesliga,AM,Forward,GER,23,6.11,21,1,6.11
+Mert Kömür,Augsburg,German Bundesliga,AM,Forward,GER,20,6.84,90,1,6.84
+Michael Amir Murillo,Marseille,French Ligue 1,CM,Defender,PAN,29,12.43,167,2,6.22
+Michael Folorunsho,Cagliari,Italian Serie A,AM,Forward,ITA,27,6.23,90,1,6.23
+Michael Kayode,Brentford,English Premier League,RB,Defender,ITA,21,13.6,174,2,6.8
+Michael Keane,Everton,English Premier League,CB,Defender,ENG,32,12.57,180,2,6.28
+Michael Olise,Bayern Munich,German Bundesliga,RW,Forward,FRA,23,7.67,90,1,7.67
+Michel Aebischer,Pisa,Italian Serie A,CM,Midfielder,SUI,28,6.13,90,1,6.13
+Michel Mboula,Metz,French Ligue 1,CB,Defender,GAB,22,12.53,130,2,6.26
+Michel Ndary Adopo,Cagliari,Italian Serie A,RM,Midfielder,FRA,25,6.65,90,1,6.65
+Michele Collocolo,Cremonese,Italian Serie A,CM,Midfielder,ITA,25,6.14,90,1,6.14
+Micky van de Ven,Tottenham,English Premier League,CB,Defender,NED,24,13.03,180,2,6.52
+Miguel Ángel Rubio,Espanyol,Spanish La Liga,CB,Defender,ESP,27,12.09,115,2,6.04
+Mihailo Ristić,Celta Vigo,Spanish La Liga,LM,Midfielder,SRB,29,7.02,56,1,7.02
+Mika Biereth,Monaco,French Ligue 1,AM,Forward,DEN,22,6.35,79,1,6.35
+Mikel Jauregizar,Athletic Club,Spanish La Liga,DM,Midfielder,ESP,21,12.64,180,2,6.32
+Mikel Oyarzabal,Real Sociedad,Spanish La Liga,AM,Forward,ESP,28,13.73,161,2,6.86
+Mikkel Damsgaard,Brentford,English Premier League,AM,Forward,DEN,25,7.17,90,1,7.17
+Mikkel Kaufmann,Heidenheim,German Bundesliga,AM,Forward,DEN,24,5.68,20,1,5.68
+Milos Kerkez,Liverpool,English Premier League,LB,Defender,HUN,21,13.84,149,2,6.92
+Miro Muheim,Hamburger SV,German Bundesliga,LM,Midfielder,SUI,27,6.89,90,1,6.89
+Mohamed Amoura,Wolfsburg,German Bundesliga,AM,Forward,ALG,25,6.59,27,1,6.59
+Mohamed Bamba,Lorient,French Ligue 1,AM,Forward,CIV,23,12.66,99,2,6.33
+Mohamed Kaba,Lecce,Italian Serie A,RM,Midfielder,FRA,23,5.58,32,1,5.58
+Mohamed Meité,Rennes,French Ligue 1,AM,Forward,FRA,17,5.23,36,1,5.23
+Mohamed Salah,Liverpool,English Premier League,RW,Forward,EGY,33,14.09,179,2,7.04
+Mohammed Kudus,Tottenham,English Premier League,RW,Forward,GHA,25,13.54,169,2,6.77
+Moi Gómez,Osasuna,Spanish La Liga,CM,Midfielder,ESP,31,7.04,83,1,7.04
+Moise Kean,Fiorentina,Italian Serie A,AM,Forward,ITA,25,5.72,90,1,5.72
+Moisés Caicedo,Chelsea,English Premier League,DM,Midfielder,ECU,23,14.17,180,2,7.08
+Montassar Talbi,Lorient,French Ligue 1,CB,Defender,TUN,27,12.38,180,2,6.19
+Morgan Bokelé Mputu,Metz,French Ligue 1,LW,Forward,CMR,21,6.1,29,1,6.1
+Morgan Gibbs-White,Nott'ham Forest,English Premier League,AM,Forward,ENG,25,14.65,164,2,7.32
 Morgan Guilavogui,Lens,French Ligue 1,AM,Forward,GUI,27,6.62,90,1,6.62
-Morgan Rogers,Aston Villa,English Premier League,LW,Forward,ENG,23,6.22,90,1,6.22
-Moses Simon,Paris FC,French Ligue 1,LM,Midfielder,NGA,30,6.44,71,1,6.44
-Mostafa Mohamed,Nantes,French Ligue 1,AM,Forward,EGY,27,5.66,78,1,5.66
-Mourad El Ghezouani,Elche,Spanish La Liga,AM,Forward,MAR,27,5.93,26,1,5.93
-Moussa Niakhate,Lyon,French Ligue 1,CB,Defender,SEN,29,6.41,90,1,6.41
-Moustapha Mbow,Paris FC,French Ligue 1,CB,Defender,SEN,25,6.66,90,1,6.66
-Murillo,Nott'ham Forest,English Premier League,CB,Defender,BRA,23,6.28,90,1,6.28
+Morgan Rogers,Aston Villa,English Premier League,LW,Forward,ENG,23,13.05,180,2,6.52
+Moritz Jenz,Wolfsburg,German Bundesliga,CB,Defender,GER,26,5.58,90,1,5.58
+Morten Frendrup,Genoa,Italian Serie A,DM,Midfielder,DEN,24,6.52,86,1,6.52
+Moses Simon,Paris FC,French Ligue 1,LM,Forward,NGA,30,12.84,134,2,6.42
+Mostafa Mohamed,Nantes,French Ligue 1,AM,Forward,EGY,27,11.69,168,2,5.85
+Mouctar Diakhaby,Valencia,Spanish La Liga,CB,Defender,GUI,28,6.56,24,1,6.56
+Mourad El Ghezouani,Elche,Spanish La Liga,AM,Forward,MAR,27,6.04,26,1,6.04
+Moussa Niakhate,Lyon,French Ligue 1,CB,Defender,SEN,29,13.24,180,2,6.62
+Moustapha Mbow,Paris FC,French Ligue 1,CB,Defender,SEN,25,12.83,180,2,6.42
+Murillo,Nott'ham Forest,English Premier League,CB,Defender,BRA,23,13.73,180,2,6.86
 Musa Al-Taamari,Rennes,French Ligue 1,AM,Forward,JOR,28,6.6,83,1,6.6
-Nacho Vidal,Oviedo,Spanish La Liga,RB,Defender,ESP,30,6.43,90,1,6.43
-Nahuel Tenaglia,Alavés,Spanish La Liga,CB,Defender,ARG,29,6.91,90,1,6.91
-Natan,Betis,Spanish La Liga,CB,Defender,BRA,24,5.81,90,1,5.81
-Nathan Collins,Brentford,English Premier League,CB,Defender,IRL,24,6.23,90,1,6.23
-Nathan Ngoy,Lille,French Ligue 1,CB,Defender,BEL,22,6.56,90,1,6.56
-Nayef Aguerd,West Ham,English Premier League,CB,Defender,MAR,29,6.3,90,1,6.3
-Neco Williams,Nott'ham Forest,English Premier League,LB,Defender,WAL,24,6.8,90,1,6.8
-Nemanja Gudelj,Sevilla,Spanish La Liga,DM,Midfielder,SRB,33,6.82,81,1,6.82
-Ngal'Ayel Mukau,Lille,French Ligue 1,DM,Midfielder,COD,20,5.95,84,1,5.95
-Nhoa Sangui,Paris FC,French Ligue 1,LB,Defender,FRA,19,6.27,90,1,6.27
-Niclas Füllkrug,West Ham,English Premier League,AM,Forward,GER,32,6.75,90,1,6.75
+Myles Lewis-Skelly,Arsenal,English Premier League,LB,Defender,ENG,18,6.9,27,1,6.9
+Máximo Perrone,Como,Italian Serie A,DM,Midfielder,ARG,22,6.41,77,1,6.41
+Mërgim Vojvoda,Como,Italian Serie A,RW,Forward,KVX,30,6.99,90,1,6.99
+Nacho Vidal,Oviedo,Spanish La Liga,RB,Defender,ESP,30,12.96,180,2,6.48
+Nadiem Amiri,Mainz 05,German Bundesliga,CM,Midfielder,GER,28,6.4,64,1,6.4
+Nahuel Tenaglia,Alavés,Spanish La Liga,CB,Defender,ARG,29,13.38,180,2,6.69
+Natan,Betis,Spanish La Liga,CB,Defender,BRA,24,12.45,180,2,6.22
+Nathan Aké,Manchester City,English Premier League,LB,Defender,NED,30,6.63,68,1,6.63
+Nathan Collins,Brentford,English Premier League,CB,Defender,IRL,24,12.62,180,2,6.31
+Nathan Ngoy,Lille,French Ligue 1,CB,Defender,BEL,22,12.95,180,2,6.48
+Nathan Tella,Leverkusen,German Bundesliga,AM,Forward,NGA,26,6.53,83,1,6.53
+Nayef Aguerd,West Ham,English Premier League,CB,Defender,MAR,29,13.49,180,2,6.74
+Neco Williams,Nott'ham Forest,English Premier League,LB,Defender,WAL,24,13.77,180,2,6.88
+Neil El Aynaoui,Roma,Italian Serie A,AM,Forward,FRA,24,6.39,30,1,6.39
+Nelson Weiper,Mainz 05,German Bundesliga,AM,Forward,GER,20,6.47,76,1,6.47
+Nemanja Gudelj,Sevilla,Spanish La Liga,DM,Midfielder,SRB,33,13.74,171,2,6.87
+Ngal'Ayel Mukau,Lille,French Ligue 1,DM,Forward,COD,20,11.54,143,2,5.77
+Nhoa Sangui,Paris FC,French Ligue 1,LB,Defender,FRA,19,12.31,172,2,6.15
+Nick Woltemade,Stuttgart,German Bundesliga,RW,Forward,GER,23,6.02,90,1,6.02
+Niclas Füllkrug,West Ham,English Premier League,AM,Forward,GER,32,12.91,135,2,6.46
+Nico Elvedi,Gladbach,German Bundesliga,CB,Defender,SUI,28,6.52,90,1,6.52
 Nico O’Reilly,Manchester City,English Premier League,LM,Midfielder,ENG,20,6.06,25,1,6.06
-Nico Williams,Athletic Club,Spanish La Liga,LW,Forward,ESP,23,7.57,82,1,7.57
-Nicolas Cozza,Nantes,French Ligue 1,LB,Defender,FRA,26,6.2,90,1,6.2
-Nicolas Pépé,Villarreal,Spanish La Liga,RM,Midfielder,CIV,30,7.53,81,1,7.53
-Nicolás González,Manchester City,English Premier League,CM,Midfielder,ESP,23,7.07,90,1,7.07
-Nikola Milenković,Nott'ham Forest,English Premier League,CB,Defender,SRB,27,5.85,90,1,5.85
-Noah Edjouma,Toulouse,French Ligue 1,RW,Forward,FRA,19,6.46,67,1,6.46
-Noah Sadiki,Sunderland,English Premier League,LM,Midfielder,COD,20,6.66,90,1,6.66
-Noni Madueke,Arsenal,English Premier League,LW,Forward,ENG,23,5.98,31,1,5.98
-Nuno Mendes,Paris S-G,French Ligue 1,LB,Defender,POR,23,6.54,30,1,6.54
-Núñez,Elche,Spanish La Liga,RB,Defender,ESP,25,6.88,90,1,6.88
-Oier Luengo,Oviedo,Spanish La Liga,CB,Defender,ESP,27,5.71,90,1,5.71
-Ola Aina,Nott'ham Forest,English Premier League,RB,Defender,NGA,28,7.39,90,1,7.39
-Oliver Sonne,Burnley,English Premier League,RB,Defender,PER,24,5.6,73,1,5.6
-Olivier Giroud,Lille,French Ligue 1,AM,Forward,FRA,38,6.44,90,1,6.44
-Ollie Watkins,Aston Villa,English Premier League,AM,Forward,ENG,29,6.62,90,1,6.62
-Omar Alderete,Sunderland,English Premier League,CB,Defender,PAR,28,6.81,38,1,6.81
-Omar El Hilali,Espanyol,Spanish La Liga,RB,Defender,MAR,21,7.23,90,1,7.23
-Omar Marmoush,Manchester City,English Premier League,LW,Forward,EGY,26,6.31,25,1,6.31
-Omar Mascarell,Mallorca,Spanish La Liga,CM,Midfielder,EQG,32,6.36,45,1,6.36
-Oriol Rey,Levante,Spanish La Liga,CM,Midfielder,ESP,27,6.73,90,1,6.73
-Orri Steinn Óskarsson,Real Sociedad,Spanish La Liga,AM,Forward,ISL,20,6.1,23,1,6.1
-Oscar Bobb,Manchester City,English Premier League,RW,Forward,NOR,22,7.13,90,1,7.13
-Ousmane Camara,Angers,French Ligue 1,CB,Defender,FRA,22,5.97,90,1,5.97
-Ousmane Dembélé,Paris S-G,French Ligue 1,RW,Forward,FRA,28,7.19,30,1,7.19
-Ousmane Toure,Lille,French Ligue 1,RB,Defender,FRA,20,6.86,51,1,6.86
-Pablo Barrios,Atlético Madrid,Spanish La Liga,DM,Midfielder,ESP,22,7.17,45,1,7.17
-Pablo Fornals,Betis,Spanish La Liga,DM,Midfielder,ESP,29,6.49,90,1,6.49
-Pablo Garcia,Betis,Spanish La Liga,RW,Forward,ESP,19,5.42,20,1,5.42
-Pablo Ibáñez,Alavés,Spanish La Liga,CM,Midfielder,ESP,26,6.53,76,1,6.53
-Pablo Martínez,Levante,Spanish La Liga,CM,Midfielder,ESP,27,6.11,84,1,6.11
-Pablo Marín,Real Sociedad,Spanish La Liga,DM,Midfielder,ESP,22,6.46,90,1,6.46
-Pablo Pagis,Lorient,French Ligue 1,LW,Forward,FRA,22,5.78,90,1,5.78
-Pablo Torre,Mallorca,Spanish La Liga,AM,Forward,ESP,22,5.85,45,1,5.85
-Panos Katseris,Lorient,French Ligue 1,RM,Midfielder,GRE,24,6.48,26,1,6.48
-Pape Gueye,Villarreal,Spanish La Liga,CM,Midfielder,SEN,26,7.75,69,1,7.75
-Pape Matar Sarr,Tottenham,English Premier League,RM,Midfielder,SEN,22,7.31,90,1,7.31
-Pascal Struijk,Leeds United,English Premier League,CB,Defender,NED,26,6.59,90,1,6.59
-Pathé Ciss,Rayo Vallecano,Spanish La Liga,DM,Midfielder,SEN,31,6.85,90,1,6.85
-Patrick Dorgu,Manchester Utd,English Premier League,WB,Midfielder,DEN,20,6.79,90,1,6.79
-Pau Cubarsí,Barcelona,Spanish La Liga,CB,Defender,ESP,18,6.35,68,1,6.35
-Pedri,Barcelona,Spanish La Liga,DM,Midfielder,ESP,22,7.67,90,1,7.67
-Pedro Bigas,Elche,Spanish La Liga,CB,Defender,ESP,34,6.68,90,1,6.68
-Pedro Díaz,Rayo Vallecano,Spanish La Liga,AM,Forward,ESP,27,6.61,69,1,6.61
-Pedro Neto,Chelsea,English Premier League,RW,Forward,POR,25,7.03,90,1,7.03
-Pedro Porro,Tottenham,English Premier League,RB,Defender,ESP,25,7.2,90,1,7.2
-Pelayo Fernandez,Rayo Vallecano,Spanish La Liga,CB,Defender,ESP,22,6.42,45,1,6.42
-Pep Chavarría,Rayo Vallecano,Spanish La Liga,LB,Defender,ESP,27,7.04,90,1,7.04
-Pierre Højbjerg,Marseille,French Ligue 1,DM,Midfielder,DEN,30,6.51,90,1,6.51
-Pierre Lees-Melou,Brest,French Ligue 1,CM,Midfielder,FRA,32,7.03,90,1,7.03
-Pierre-Emerick Aubameyang,Marseille,French Ligue 1,AM,Forward,GAB,36,6.05,28,1,6.05
-Pierre-Yves Hamel,Paris FC,French Ligue 1,AM,Forward,FRA,31,5.74,70,1,5.74
-Pol Lozano,Espanyol,Spanish La Liga,DM,Midfielder,ESP,25,6.49,90,1,6.49
-Portu,Girona,Spanish La Liga,AM,Forward,ESP,33,6.6,45,1,6.6
-Przemysław Frankowski,Rennes,French Ligue 1,RB,Defender,POL,30,6.32,84,1,6.32
-Quentin Merlin,Rennes,French Ligue 1,LB,Defender,FRA,23,6.97,90,1,6.97
-Quilindschy Hartman,Burnley,English Premier League,LB,Defender,NED,23,6.46,90,1,6.46
-Rafa Marín,Villarreal,Spanish La Liga,CB,Defender,ESP,23,5.92,90,1,5.92
-Rahim Bonkano,Oviedo,Spanish La Liga,LB,Defender,NIG,23,7.08,84,1,7.08
-Ramón Terrats,Espanyol,Spanish La Liga,AM,Forward,ESP,24,5.96,45,1,5.96
-Raphinha,Barcelona,Spanish La Liga,LW,Forward,BRA,28,7.39,76,1,7.39
-Rassoul Ndiaye,Le Havre,French Ligue 1,CM,Midfielder,SEN,23,6.3,78,1,6.3
-Rayan Aït-Nouri,Manchester City,English Premier League,LB,Defender,ALG,24,7.96,90,1,7.96
-Rayan Fofana,Lens,French Ligue 1,AM,Forward,FRA,19,6.13,56,1,6.13
-Raúl Jiménez,Fulham,English Premier League,AM,Forward,MEX,34,6.0,65,1,6.0
-Reece James,Chelsea,English Premier League,RB,Defender,ENG,25,7.2,78,1,7.2
-Reinildo Mandava,Sunderland,English Premier League,LB,Defender,MOZ,31,7.11,90,1,7.11
-Ricardo Rodríguez,Betis,Spanish La Liga,LB,Defender,SUI,32,6.08,90,1,6.08
-Riccardo Calafiori,Arsenal,English Premier League,LB,Defender,ITA,23,6.37,71,1,6.37
-Richarlison,Tottenham,English Premier League,AM,Forward,BRA,28,7.14,70,1,7.14
-Rico Henry,Brentford,English Premier League,LB,Defender,ENG,28,5.99,87,1,5.99
-Rico Lewis,Manchester City,English Premier League,RB,Defender,ENG,20,7.15,65,1,7.15
-Roberto Férnandez,Espanyol,Spanish La Liga,AM,Forward,ESP,23,6.06,73,1,6.06
-Roberto Navarro,Athletic Club,Spanish La Liga,AM,Forward,ESP,23,7.01,24,1,7.01
-Robin Le Normand,Atlético Madrid,Spanish La Liga,CB,Defender,ESP,28,6.89,90,1,6.89
-Rodrigo Bentancur,Tottenham,English Premier League,DM,Midfielder,URU,28,6.58,20,1,6.58
-Rodrigo Mendoza,Elche,Spanish La Liga,LW,Forward,ESP,20,6.7,90,1,6.7
-Rodrigo Muniz,Fulham,English Premier League,AM,Forward,BRA,24,6.48,25,1,6.48
-Rodrigo Riquelme,Betis,Spanish La Liga,LW,Forward,ESP,25,6.75,69,1,6.75
-Romain Del Castillo,Brest,French Ligue 1,RW,Forward,FRA,29,6.46,90,1,6.46
-Romain Perraud,Lille,French Ligue 1,LB,Defender,FRA,27,5.74,71,1,5.74
-Ronald Araújo,Barcelona,Spanish La Liga,CB,Defender,URU,26,6.12,90,1,6.12
-Ruben Aguilar,Lens,French Ligue 1,WB,Midfielder,FRA,32,6.65,85,1,6.65
-Rúben Dias,Manchester City,English Premier League,CB,Defender,POR,28,6.86,90,1,6.86
-Sadibou Sané,Metz,French Ligue 1,CB,Defender,SEN,21,6.49,90,1,6.49
-Sael Kumbedi,Lyon,French Ligue 1,RB,Defender,FRA,20,5.44,65,1,5.44
-Salomón Rondón,Oviedo,Spanish La Liga,AM,Forward,VEN,35,6.1,62,1,6.1
-Sambou Soumano,Lorient,French Ligue 1,AM,Forward,SEN,24,6.15,26,1,6.15
-Samir Chergui,Paris FC,French Ligue 1,RB,Defender,FRA,26,6.35,90,1,6.35
-Samir El Mourabet,Strasbourg,French Ligue 1,CM,Midfielder,MAR,19,6.81,71,1,6.81
-Samson Baidoo,Lens,French Ligue 1,CB,Defender,AUT,21,6.13,90,1,6.13
-Samuel Amo-Ameyaw,Strasbourg,French Ligue 1,RB,Defender,ENG,19,5.44,90,1,5.44
-Sander Berge,Fulham,English Premier League,DM,Midfielder,NOR,27,6.12,65,1,6.12
-Sandro Tonali,Newcastle Utd,English Premier League,CM,Midfielder,ITA,25,7.33,90,1,7.33
-Santi Comesaña,Villarreal,Spanish La Liga,CM,Midfielder,ESP,28,6.8,81,1,6.8
-Santiago Mouriño,Villarreal,Spanish La Liga,RB,Defender,URU,23,7.11,90,1,7.11
-Saša Lukić,Fulham,English Premier League,DM,Midfielder,SRB,29,5.88,90,1,5.88
-Seko Fofana,Rennes,French Ligue 1,CM,Midfielder,CIV,30,6.28,85,1,6.28
-Sepp van den Berg,Brentford,English Premier League,CB,Defender,NED,23,7.41,90,1,7.41
-Sergi Altimira,Betis,Spanish La Liga,DM,Midfielder,ESP,23,6.56,90,1,6.56
-Sergi Cardona,Villarreal,Spanish La Liga,LB,Defender,ESP,26,7.13,90,1,7.13
-Sergi Darder,Mallorca,Spanish La Liga,LW,Forward,ESP,31,6.07,82,1,6.07
-Sidiki Cherif,Angers,French Ligue 1,AM,Forward,FRA,18,6.21,61,1,6.21
-Simon Adingra,Sunderland,English Premier League,LW,Forward,CIV,23,6.21,75,1,6.21
-Simon Ebonog,Le Havre,French Ligue 1,CM,Midfielder,CMR,21,5.86,57,1,5.86
-Stanis Idumbo,Sevilla,Spanish La Liga,LM,Midfielder,BEL,20,6.83,45,1,6.83
-Tajon Buchanan,Villarreal,Spanish La Liga,RM,Midfielder,CAN,26,6.65,44,1,6.65
-Takefusa Kubo,Real Sociedad,Spanish La Liga,RW,Forward,JPN,24,6.69,79,1,6.69
-Takuma Asano,Mallorca,Spanish La Liga,RW,Forward,JPN,30,5.75,45,1,5.75
-Takumi Minamino,Monaco,French Ligue 1,AM,Forward,JPN,30,6.34,80,1,6.34
-Tanner Tessmann,Lyon,French Ligue 1,DM,Midfielder,USA,23,6.42,90,1,6.42
-Terem Moffi,Nice,French Ligue 1,AM,Forward,NGA,26,6.41,75,1,6.41
-Thiago,Brentford,English Premier League,AM,Forward,BRA,24,6.55,90,1,6.55
-Thiago Almada,Atlético Madrid,Spanish La Liga,LW,Forward,ARG,24,6.89,67,1,6.89
-Thomas Lemar,Girona,Spanish La Liga,CM,Midfielder,FRA,29,7.16,21,1,7.16
-Tijjani Reijnders,Manchester City,English Premier League,RM,Midfielder,NED,27,7.27,90,1,7.27
-Tim Iroegbunam,Everton,English Premier League,DM,Midfielder,ENG,22,6.09,70,1,6.09
-Timothy Weah,Marseille,French Ligue 1,RB,Defender,USA,25,6.62,45,1,6.62
-Timothée Kolodziejczak,Paris FC,French Ligue 1,CB,Defender,FRA,33,6.29,84,1,6.29
-Tom Cairney,Fulham,English Premier League,DM,Midfielder,SCO,34,5.99,25,1,5.99
-Tom Louchet,Nice,French Ligue 1,CM,Midfielder,FRA,22,6.22,75,1,6.22
-Tomáš Souček,West Ham,English Premier League,DM,Midfielder,CZE,30,6.04,20,1,6.04
-Toni Martínez,Alavés,Spanish La Liga,AM,Forward,ESP,28,7.19,90,1,7.19
-Tosin Aiyegun,Lorient,French Ligue 1,RW,Forward,BEN,27,6.2,90,1,6.2
-Toti Gomes,Wolves,English Premier League,CB,Defender,POR,26,6.29,90,1,6.29
-Trai Hume,Sunderland,English Premier League,RB,Defender,NIR,23,7.0,90,1,7.0
-Trevoh Chalobah,Chelsea,English Premier League,CB,Defender,ENG,26,6.86,90,1,6.86
-Tylel Tati,Nantes,French Ligue 1,CB,Defender,FRA,17,5.65,90,1,5.65
-Tyler Adams,Bournemouth,English Premier League,DM,Midfielder,USA,26,6.65,89,1,6.65
-Tyler Morton,Lyon,French Ligue 1,DM,Midfielder,ENG,22,6.28,90,1,6.28
-Tyrhys Dolan,Espanyol,Spanish La Liga,RW,Forward,ENG,23,6.54,45,1,6.54
-Tyrick Mitchell,Crystal Palace,English Premier League,WB,Midfielder,ENG,25,6.45,90,1,6.45
-Tyrone Mings,Aston Villa,English Premier League,CB,Defender,ENG,32,6.03,90,1,6.03
-Unai Elgezabal,Levante,Spanish La Liga,CB,Defender,ESP,32,6.43,90,1,6.43
-Unai López,Rayo Vallecano,Spanish La Liga,DM,Midfielder,ESP,29,7.2,80,1,7.2
-Valentin Rongier,Rennes,French Ligue 1,CM,Midfielder,FRA,30,5.98,90,1,5.98
-Valentino Livramento,Newcastle Utd,English Premier League,LB,Defender,ENG,22,7.28,90,1,7.28
-Valentín Barco,Strasbourg,French Ligue 1,CM,Midfielder,ARG,21,6.73,90,1,6.73
-Vanderson,Monaco,French Ligue 1,RB,Defender,BRA,24,6.73,28,1,6.73
-Vedat Muriqi,Mallorca,Spanish La Liga,AM,Forward,KVX,31,6.01,38,1,6.01
-Victor Parada,Alavés,Spanish La Liga,LB,Defender,ESP,23,6.09,89,1,6.09
-Viktor Gyökeres,Arsenal,English Premier League,AM,Forward,SWE,27,6.0,59,1,6.0
-Viktor Tsyhankov,Girona,Spanish La Liga,CM,Midfielder,UKR,27,6.48,90,1,6.48
-Vincent Marchetti,Paris FC,French Ligue 1,CM,Midfielder,FRA,28,6.68,30,1,6.68
-Virgil van Dijk,Liverpool,English Premier League,CB,Defender,NED,34,7.51,90,1,7.51
-Vitinha,Paris S-G,French Ligue 1,CM,Midfielder,POR,25,7.3,90,1,7.3
-Vitor Reis,Girona,Spanish La Liga,CB,Defender,BRA,19,6.07,33,1,6.07
-Víctor García,Levante,Spanish La Liga,RM,Midfielder,ESP,27,5.64,53,1,5.64
-Warren Kamanzi,Toulouse,French Ligue 1,RM,Midfielder,NOR,24,6.32,23,1,6.32
-Warren Zaïre-Emery,Paris S-G,French Ligue 1,RB,Defender,FRA,19,7.05,90,1,7.05
-Wataru Endo,Liverpool,English Premier League,CM,Midfielder,JPN,32,6.74,31,1,6.74
-Wesley Saïd,Lens,French Ligue 1,AM,Forward,FRA,30,6.5,85,1,6.5
-Wilfried Gnonto,Leeds United,English Premier League,LW,Forward,ITA,21,6.3,66,1,6.3
-Will Hughes,Crystal Palace,English Premier League,CM,Midfielder,ENG,30,5.97,69,1,5.97
-William Saliba,Arsenal,English Premier League,CB,Defender,FRA,24,6.62,90,1,6.62
-Williot Swedberg,Celta Vigo,Spanish La Liga,LW,Forward,SWE,21,5.81,56,1,5.81
-Yangel Herrera,Girona,Spanish La Liga,RM,Midfielder,VEN,27,6.33,69,1,6.33
-Yanis Zouaoui,Le Havre,French Ligue 1,LB,Defender,ALG,31,6.33,90,1,6.33
-Yankuba Minteh,Brighton,English Premier League,RW,Forward,GAM,21,6.38,68,1,6.38
-Yann Gboho,Toulouse,French Ligue 1,LW,Forward,FRA,24,6.88,90,1,6.88
+Nico Williams,Athletic Club,Spanish La Liga,LW,Forward,ESP,23,14.64,169,2,7.32
+Nicola Zalewski,Atalanta,Italian Serie A,WB,Midfielder,POL,23,7.16,90,1,7.16
+Nicolae Stanciu,Genoa,Italian Serie A,AM,Forward,ROU,32,6.51,86,1,6.51
+Nicolai Remberg,Hamburger SV,German Bundesliga,CM,Midfielder,GER,25,6.32,90,1,6.32
+Nicolas Cozza,Nantes,French Ligue 1,LB,Defender,FRA,26,12.66,180,2,6.33
+Nicolas Pépé,Villarreal,Spanish La Liga,AM,Forward,CIV,30,15.17,143,2,7.58
+Nicolas Seiwald,RB Leipzig,German Bundesliga,CM,Midfielder,AUT,24,6.52,87,1,6.52
+Nicolás Capaldo,Hamburger SV,German Bundesliga,CM,Midfielder,ARG,27,5.71,85,1,5.71
+Nicolás González,Manchester City,English Premier League,CM,Midfielder,ESP,23,13.89,164,2,6.94
+Nicolás Paz,Como,Italian Serie A,AM,Forward,ARG,20,7.61,78,1,7.61
+Nicolò Barella,Inter,Italian Serie A,CM,Midfielder,ITA,28,7.06,90,1,7.06
+Nicolò Bertola,Udinese,Italian Serie A,CB,Defender,ITA,22,6.03,90,1,6.03
+Nicolò Cambiaghi,Bologna,Italian Serie A,LW,Forward,ITA,24,5.9,90,1,5.9
+Nicolò Casale,Bologna,Italian Serie A,CB,Defender,ITA,27,5.97,45,1,5.97
+Nicolò Fagioli,Fiorentina,Italian Serie A,DM,Midfielder,ITA,24,6.85,90,1,6.85
+Nicolò Rovella,Lazio,Italian Serie A,CM,Midfielder,ITA,23,5.88,25,1,5.88
+Niklas Dorsch,Heidenheim,German Bundesliga,CM,Midfielder,GER,27,6.57,61,1,6.57
+Niklas Stark,Werder Bremen,German Bundesliga,CB,Defender,GER,30,6.48,77,1,6.48
+Nikola Milenković,Nott'ham Forest,English Premier League,CB,Defender,SRB,27,12.45,180,2,6.22
+Nikola Vlašić,Torino,Italian Serie A,LW,Forward,CRO,27,6.28,57,1,6.28
+Nnamdi Collins,Eint Frankfurt,German Bundesliga,CB,Defender,GER,21,5.84,90,1,5.84
+Noah Edjouma,Toulouse,French Ligue 1,RM,Forward,FRA,19,12.63,87,2,6.32
+Noah Okafor,Leeds United,English Premier League,LW,Forward,SUI,25,5.51,25,1,5.51
+Noah Sadiki,Sunderland,English Premier League,LM,Midfielder,COD,20,13.6,180,2,6.8
+Noni Madueke,Arsenal,English Premier League,LW,Forward,ENG,23,12.96,94,2,6.48
+Nuno Mendes,Paris S-G,French Ligue 1,LB,Defender,POR,23,12.74,120,2,6.37
+Nuno Tavares,Lazio,Italian Serie A,LB,Defender,POR,25,6.33,65,1,6.33
+Núñez,Elche,Spanish La Liga,RB,Defender,ESP,25,13.53,180,2,6.76
+Obite N'Dicka,Roma,Italian Serie A,CB,Defender,CIV,26,6.21,90,1,6.21
+Oier Luengo,Oviedo,Spanish La Liga,CB,Defender,ESP,27,12.16,135,2,6.08
+Oier Zarraga,Udinese,Italian Serie A,CM,Midfielder,ESP,26,5.72,30,1,5.72
+Oihan Sancet,Athletic Club,Spanish La Liga,AM,Forward,ESP,25,7.27,45,1,7.27
+Ola Aina,Nott'ham Forest,English Premier League,RB,Defender,NGA,28,14.57,180,2,7.28
+Oliver Jensen,Parma,Italian Serie A,AM,Forward,DEN,23,5.87,34,1,5.87
+Oliver Nielsen,Lazio,Italian Serie A,CB,Defender,DEN,22,6.31,90,1,6.31
+Oliver Sonne,Burnley,English Premier League,RB,Defender,PER,24,11.52,95,2,5.76
+Olivier Giroud,Lille,French Ligue 1,AM,Forward,FRA,38,13.2,180,2,6.6
+Ollie Watkins,Aston Villa,English Premier League,AM,Forward,ENG,29,13.53,180,2,6.76
+Omar Alderete,Sunderland,English Premier League,CB,Defender,PAR,28,14.02,128,2,7.01
+Omar El Hilali,Espanyol,Spanish La Liga,RB,Defender,MAR,21,14.16,180,2,7.08
+Omar Marmoush,Manchester City,English Premier League,LM,Forward,EGY,26,12.43,78,2,6.22
+Omar Mascarell,Mallorca,Spanish La Liga,CM,Midfielder,EQG,32,13.11,112,2,6.56
+Omar Traoré,Heidenheim,German Bundesliga,RB,Defender,GER,27,5.79,30,1,5.79
+Oriol Rey,Levante,Spanish La Liga,CM,Midfielder,ESP,27,13.2,180,2,6.6
+Orri Steinn Óskarsson,Real Sociedad,Spanish La Liga,AM,Forward,ISL,20,13.07,58,2,6.54
+Oscar Bobb,Manchester City,English Premier League,RM,Forward,NOR,22,14.06,164,2,7.03
+Otavio Ataide,Paris FC,French Ligue 1,CB,Defender,BRA,23,6.85,90,1,6.85
+Oumar Solet,Udinese,Italian Serie A,CB,Defender,FRA,25,6.61,90,1,6.61
+Ousmane Camara,Angers,French Ligue 1,CB,Defender,FRA,22,12.1,180,2,6.05
+Ousmane Dembélé,Paris S-G,French Ligue 1,AM,Forward,FRA,28,14.15,110,2,7.07
+Ousmane Toure,Lille,French Ligue 1,RB,Defender,FRA,20,6.92,51,1,6.92
+Pablo Barrios,Atlético Madrid,Spanish La Liga,CM,Midfielder,ESP,22,14.9,135,2,7.45
+Pablo Durán,Celta Vigo,Spanish La Liga,AM,Forward,ESP,24,6.21,89,1,6.21
+Pablo Fornals,Betis,Spanish La Liga,DM,Midfielder,ESP,29,13.4,180,2,6.7
+Pablo Garcia,Betis,Spanish La Liga,LW,Forward,ESP,19,12.14,53,2,6.07
+Pablo Ibáñez,Alavés,Spanish La Liga,CM,Midfielder,ESP,26,13.4,133,2,6.7
+Pablo Martínez,Levante,Spanish La Liga,CM,Midfielder,ESP,27,12.73,174,2,6.36
+Pablo Marí,Fiorentina,Italian Serie A,CB,Defender,ESP,31,5.53,29,1,5.53
+Pablo Marín,Real Sociedad,Spanish La Liga,CM,Midfielder,ESP,22,12.73,180,2,6.36
+Pablo Pagis,Lorient,French Ligue 1,LW,Forward,FRA,22,12.69,125,2,6.34
+Pablo Rosario,Nice,French Ligue 1,CM,Midfielder,DOM,28,6.66,28,1,6.66
+Pablo Torre,Mallorca,Spanish La Liga,AM,Forward,ESP,22,12.5,126,2,6.25
+Panos Katseris,Lorient,French Ligue 1,RM,Midfielder,GRE,24,13.46,116,2,6.73
+Pape Gueye,Villarreal,Spanish La Liga,CM,Midfielder,SEN,26,14.91,134,2,7.46
+Pape Matar Sarr,Tottenham,English Premier League,RM,Midfielder,SEN,22,13.9,180,2,6.95
+Pascal Groß,Dortmund,German Bundesliga,CM,Midfielder,GER,34,6.63,86,1,6.63
+Pascal Struijk,Leeds United,English Premier League,CB,Defender,NED,26,13.01,180,2,6.5
+Pathé Ciss,Rayo Vallecano,Spanish La Liga,CM,Midfielder,SEN,31,14.15,180,2,7.07
+Patrice Čović,Werder Bremen,German Bundesliga,DM,Midfielder,CRO,18,6.3,26,1,6.3
+Patrick Dorgu,Manchester Utd,English Premier League,WB,Midfielder,DEN,20,13.17,180,2,6.58
+Patrick Mainka,Heidenheim,German Bundesliga,CB,Defender,GER,30,6.34,90,1,6.34
+Patrick Roberts,Sunderland,English Premier League,RM,Midfielder,ENG,28,6.86,28,1,6.86
+Patrick Wimmer,Wolfsburg,German Bundesliga,LW,Forward,AUT,24,6.9,90,1,6.9
+Patrik Schick,Leverkusen,German Bundesliga,AM,Forward,CZE,29,5.7,90,1,5.7
+Patrizio Masini,Genoa,Italian Serie A,DM,Midfielder,ITA,24,6.44,90,1,6.44
+Pau Cubarsí,Barcelona,Spanish La Liga,CB,Defender,ESP,18,12.89,158,2,6.44
+Pau Torres,Aston Villa,English Premier League,CB,Defender,ESP,28,7.41,90,1,7.41
+Paul Nebel,Mainz 05,German Bundesliga,AM,Forward,GER,22,6.69,59,1,6.69
+Pavel Šulc,Lyon,French Ligue 1,RW,Forward,CZE,24,6.21,73,1,6.21
+Pedri,Barcelona,Spanish La Liga,DM,Midfielder,ESP,22,15.43,180,2,7.72
+Pedro,Lazio,Italian Serie A,RW,Forward,ESP,38,5.1,30,1,5.1
+Pedro Bigas,Elche,Spanish La Liga,CB,Defender,ESP,34,13.27,171,2,6.64
+Pedro Díaz,Rayo Vallecano,Spanish La Liga,AM,Forward,ESP,27,12.81,123,2,6.4
+Pedro Neto,Chelsea,English Premier League,LW,Forward,POR,25,14.2,180,2,7.1
+Pedro Porro,Tottenham,English Premier League,RB,Defender,ESP,25,13.88,180,2,6.94
+Pelayo Fernandez,Rayo Vallecano,Spanish La Liga,CB,Defender,ESP,22,6.5,45,1,6.5
+Pep Chavarría,Rayo Vallecano,Spanish La Liga,LB,Defender,ESP,27,14.09,171,2,7.04
+Peque,Sevilla,Spanish La Liga,AM,Forward,ESP,22,6.65,34,1,6.65
+Pere Milla,Espanyol,Spanish La Liga,AM,Forward,ESP,32,6.94,69,1,6.94
+Pervis Estupiñán,Milan,Italian Serie A,WB,Midfielder,ECU,27,6.02,45,1,6.02
+Petar Sucic,Inter,Italian Serie A,CM,Midfielder,CRO,21,6.98,90,1,6.98
+Philipp Lienhart,Freiburg,German Bundesliga,CB,Defender,AUT,29,6.54,90,1,6.54
+Philipp Sander,Gladbach,German Bundesliga,DM,Midfielder,GER,27,6.66,82,1,6.66
+Phillip Tietz,Augsburg,German Bundesliga,CM,Midfielder,GER,28,5.53,31,1,5.53
+Phillipp Mwene,Mainz 05,German Bundesliga,WB,Midfielder,AUT,31,6.34,90,1,6.34
+Piero Hincapié,Leverkusen,German Bundesliga,CB,Defender,ECU,23,6.2,90,1,6.2
+Pierre Højbjerg,Marseille,French Ligue 1,DM,Midfielder,DEN,30,13.14,180,2,6.57
+Pierre Kalulu,Juventus,Italian Serie A,WB,Midfielder,FRA,25,6.89,90,1,6.89
+Pierre Lees-Melou,Brest,French Ligue 1,CM,Midfielder,FRA,32,13.84,180,2,6.92
+Pierre-Emerick Aubameyang,Marseille,French Ligue 1,AM,Forward,GAB,36,12.78,101,2,6.39
+Pierre-Yves Hamel,Paris FC,French Ligue 1,AM,Forward,FRA,31,5.65,70,1,5.65
+Pierrick Capelle,Angers,French Ligue 1,CM,Midfielder,FRA,38,6.27,45,1,6.27
+Pietro Comuzzo,Fiorentina,Italian Serie A,CB,Defender,ITA,20,5.62,61,1,5.62
+Pol Lozano,Espanyol,Spanish La Liga,DM,Midfielder,ESP,25,12.91,159,2,6.46
+Pontus Almqvist,Parma,Italian Serie A,AM,Forward,SWE,26,6.33,79,1,6.33
+Portu,Girona,Spanish La Liga,AM,Forward,ESP,33,13.04,90,2,6.52
+Przemysław Frankowski,Rennes,French Ligue 1,RB,Defender,POL,30,6.39,84,1,6.39
+Quentin Merlin,Rennes,French Ligue 1,LB,Defender,FRA,23,13.17,180,2,6.58
+Quilindschy Hartman,Burnley,English Premier League,LB,Defender,NED,23,13.56,180,2,6.78
+Rafa Marín,Villarreal,Spanish La Liga,CB,Defender,ESP,23,13.06,180,2,6.53
+Rafa Mir,Elche,Spanish La Liga,AM,Forward,ESP,28,6.7,66,1,6.7
+Ragnar Ache,Köln,German Bundesliga,WB,Midfielder,GER,27,5.87,23,1,5.87
+Rahim Bonkano,Oviedo,Spanish La Liga,LB,Defender,NIG,23,14.12,174,2,7.06
+Ramy Bensebaini,Dortmund,German Bundesliga,CB,Defender,ALG,30,6.66,90,1,6.66
+Ramón Terrats,Espanyol,Spanish La Liga,AM,Forward,ESP,24,12.53,66,2,6.26
+Rani Khedira,Union Berlin,German Bundesliga,CM,Midfielder,GER,31,6.27,90,1,6.27
+Ransford Königsdörffer,Hamburger SV,German Bundesliga,AM,Forward,GHA,23,5.89,73,1,5.89
+Raoul Bellanova,Atalanta,Italian Serie A,WB,Midfielder,ITA,25,6.74,90,1,6.74
+Raphinha,Barcelona,Spanish La Liga,LW,Forward,BRA,28,14.46,166,2,7.23
+Rasmus Kristensen,Eint Frankfurt,German Bundesliga,RB,Defender,DEN,28,6.97,90,1,6.97
+Rasmus Nicolaisen,Toulouse,French Ligue 1,CB,Defender,DEN,28,5.86,21,1,5.86
+Rassoul Ndiaye,Le Havre,French Ligue 1,CM,Midfielder,SEN,23,12.0,140,2,6.0
+Rayan Aït-Nouri,Manchester City,English Premier League,LB,Defender,ALG,24,14.24,112,2,7.12
+Rayan Cherki,Manchester City,English Premier League,CM,Midfielder,FRA,22,7.38,53,1,7.38
+Rayan Fofana,Lens,French Ligue 1,AM,Forward,FRA,19,12.53,128,2,6.26
+Rayan Philippe,Hamburger SV,German Bundesliga,RW,Forward,FRA,24,6.05,25,1,6.05
+Raúl Jiménez,Fulham,English Premier League,AM,Forward,MEX,34,12.16,85,2,6.08
+Reece James,Chelsea,English Premier League,RB,Defender,ENG,25,14.15,100,2,7.07
+Reinildo Mandava,Sunderland,English Premier League,LB,Defender,MOZ,31,14.81,180,2,7.4
+Remo Freuler,Bologna,Italian Serie A,DM,Midfielder,SUI,33,6.0,79,1,6.0
+Renato Veiga,Villarreal,Spanish La Liga,CB,Defender,POR,22,6.33,45,1,6.33
+Ricardo Rodríguez,Betis,Spanish La Liga,LB,Defender,SUI,32,13.1,110,2,6.55
+Riccardo Calafiori,Arsenal,English Premier League,LB,Defender,ITA,23,12.87,134,2,6.44
+Riccardo Orsolini,Bologna,Italian Serie A,RW,Forward,ITA,28,6.42,90,1,6.42
+Riccardo Sottil,Lecce,Italian Serie A,LW,Forward,ITA,26,5.71,32,1,5.71
+Richarlison,Tottenham,English Premier League,AM,Forward,BRA,28,14.02,147,2,7.01
+Rico Henry,Brentford,English Premier League,LB,Defender,ENG,28,6.16,87,1,6.16
+Rico Lewis,Manchester City,English Premier League,RB,Defender,ENG,20,14.2,155,2,7.1
+Ridle Baku,RB Leipzig,German Bundesliga,RB,Defender,GER,27,6.96,90,1,6.96
+Ritsu Doan,Eint Frankfurt,German Bundesliga,RW,Forward,JPN,27,6.83,82,1,6.83
+Robert Andrich,Leverkusen,German Bundesliga,CM,Midfielder,GER,30,6.13,90,1,6.13
+Robert Skov,Union Berlin,German Bundesliga,LB,Defender,DEN,29,6.16,66,1,6.16
+Roberto Férnandez,Espanyol,Spanish La Liga,AM,Forward,ESP,23,12.96,142,2,6.48
+Roberto Navarro,Athletic Club,Spanish La Liga,AM,Forward,ESP,23,6.95,24,1,6.95
+Robin Fellhauer,Augsburg,German Bundesliga,CM,Midfielder,GER,27,5.29,86,1,5.29
+Robin Gosens,Fiorentina,Italian Serie A,WB,Midfielder,GER,31,5.85,76,1,5.85
+Robin Hack,Gladbach,German Bundesliga,LW,Forward,GER,26,6.88,90,1,6.88
+Robin Hranáč,Hoffenheim,German Bundesliga,CB,Defender,CZE,25,5.74,74,1,5.74
+Robin Koch,Eint Frankfurt,German Bundesliga,CB,Defender,GER,29,6.89,90,1,6.89
+Robin Le Normand,Atlético Madrid,Spanish La Liga,CB,Defender,ESP,28,14.0,180,2,7.0
+Rocco Reitz,Gladbach,German Bundesliga,DM,Midfielder,GER,23,6.83,90,1,6.83
+Rodrigo Bentancur,Tottenham,English Premier League,DM,Midfielder,URU,28,13.6,110,2,6.8
+Rodrigo Mendoza,Elche,Spanish La Liga,AM,Forward,ESP,20,12.79,157,2,6.4
+Rodrigo Muniz,Fulham,English Premier League,AM,Forward,BRA,24,12.9,95,2,6.45
+Rodrigo Riquelme,Betis,Spanish La Liga,LW,Forward,ESP,25,13.28,126,2,6.64
+Rodrygo,Real Madrid,Spanish La Liga,LW,Forward,BRA,24,7.01,62,1,7.01
+Rolando Mandragora,Fiorentina,Italian Serie A,DM,Midfielder,ITA,28,6.36,45,1,6.36
+Romain Del Castillo,Brest,French Ligue 1,RW,Forward,FRA,29,12.59,161,2,6.3
+Romain Esse,Crystal Palace,English Premier League,LW,Forward,ENG,20,6.34,25,1,6.34
+Romain Perraud,Lille,French Ligue 1,LB,Defender,FRA,27,12.69,161,2,6.35
+Romano Schmid,Werder Bremen,German Bundesliga,AM,Forward,AUT,25,6.82,90,1,6.82
+Ronald Araújo,Barcelona,Spanish La Liga,CB,Defender,URU,26,12.59,165,2,6.3
+Ruben Aguilar,Lens,French Ligue 1,WB,Midfielder,FRA,32,13.19,175,2,6.6
+Ruben Loftus-Cheek,Milan,Italian Serie A,CM,Midfielder,ENG,29,6.42,90,1,6.42
+Ruben Vargas,Sevilla,Spanish La Liga,AM,Forward,SUI,27,6.26,56,1,6.26
+Rubén García,Osasuna,Spanish La Liga,AM,Forward,ESP,32,12.46,94,2,6.23
+Ryan Christie,Bournemouth,English Premier League,CM,Midfielder,SCO,30,6.99,25,1,6.99
+Ryan Gravenberch,Liverpool,English Premier League,DM,Midfielder,NED,23,6.52,90,1,6.52
+Ryan Sessegnon,Fulham,English Premier League,LB,Defender,ENG,25,6.55,61,1,6.55
+Rômulo,RB Leipzig,German Bundesliga,AM,Forward,BRA,23,6.2,45,1,6.2
+Rúben Dias,Manchester City,English Premier League,CB,Defender,POR,28,13.61,180,2,6.8
+Sacha Boey,Bayern Munich,German Bundesliga,RB,Defender,FRA,24,6.21,22,1,6.21
+Sadibou Sané,Metz,French Ligue 1,CB,Defender,SEN,21,13.31,180,2,6.65
+Sael Kumbedi,Lyon,French Ligue 1,RB,Defender,FRA,20,5.52,65,1,5.52
+Said El Mala,Köln,German Bundesliga,CB,Defender,GER,18,5.53,23,1,5.53
+Salis Abdul Samed,Nice,French Ligue 1,CM,Midfielder,GHA,25,5.68,62,1,5.68
+Salomón Rondón,Oviedo,Spanish La Liga,AM,Forward,VEN,35,12.18,133,2,6.09
+Sambou Soumano,Lorient,French Ligue 1,AM,Forward,SEN,24,12.67,81,2,6.34
+Samir Chergui,Paris FC,French Ligue 1,RB,Defender,FRA,26,12.44,180,2,6.22
+Samir El Mourabet,Strasbourg,French Ligue 1,CM,Midfielder,MAR,19,13.19,135,2,6.6
+Samson Baidoo,Lens,French Ligue 1,CB,Defender,AUT,21,6.25,90,1,6.25
+Samuel Amo-Ameyaw,Strasbourg,French Ligue 1,RB,Defender,ENG,19,5.55,90,1,5.55
+Samuel Chukwueze,Milan,Italian Serie A,RW,Forward,NGA,26,6.76,26,1,6.76
+Samuel Mbangula,Werder Bremen,German Bundesliga,LW,Forward,BEL,21,6.11,64,1,6.11
+Samuele Angori,Pisa,Italian Serie A,WB,Midfielder,ITA,21,6.17,90,1,6.17
+Sander Berge,Fulham,English Premier League,DM,Midfielder,NOR,27,12.65,155,2,6.32
+Sandi Lovrić,Udinese,Italian Serie A,CM,Midfielder,SVN,27,7.06,60,1,7.06
+Sandro Tonali,Newcastle Utd,English Premier League,CM,Midfielder,ITA,25,13.98,155,2,6.99
+Santi Comesaña,Villarreal,Spanish La Liga,CM,Midfielder,ESP,28,13.6,126,2,6.8
+Santiago Bueno,Wolves,English Premier League,CB,Defender,URU,26,6.3,35,1,6.3
+Santiago Castro,Bologna,Italian Serie A,AM,Forward,ARG,20,6.13,61,1,6.13
+Santiago Giménez,Milan,Italian Serie A,AM,Forward,MEX,24,6.29,90,1,6.29
+Santiago Mouriño,Villarreal,Spanish La Liga,RB,Defender,URU,23,15.14,180,2,7.57
+Saúl Coco,Torino,Italian Serie A,CB,Defender,EQG,26,6.14,90,1,6.14
+Saša Lukić,Fulham,English Premier League,DM,Midfielder,SRB,29,12.71,180,2,6.36
+Scott McTominay,Napoli,Italian Serie A,LM,Midfielder,SCO,28,6.7,88,1,6.7
+Sean Longstaff,Leeds United,English Premier League,RM,Midfielder,ENG,27,5.75,33,1,5.75
+Sebastian Nanasi,Strasbourg,French Ligue 1,AM,Forward,SWE,23,6.13,45,1,6.13
+Sebastian Sebulonsen,Köln,German Bundesliga,WB,Midfielder,NOR,25,5.71,73,1,5.71
+Sebastian Walukiewicz,Sassuolo,Italian Serie A,RB,Defender,POL,25,6.08,90,1,6.08
+Sebastiano Esposito,Cagliari,Italian Serie A,AM,Forward,ITA,23,6.49,60,1,6.49
+Sebastiano Luperto,Cagliari,Italian Serie A,CB,Defender,ITA,28,5.94,90,1,5.94
+Seko Fofana,Rennes,French Ligue 1,CM,Midfielder,CIV,30,13.04,175,2,6.52
+Senne Lynen,Werder Bremen,German Bundesliga,DM,Midfielder,BEL,26,6.42,90,1,6.42
+Sepp van den Berg,Brentford,English Premier League,CB,Defender,NED,23,13.55,180,2,6.78
+Serge Gnabry,Bayern Munich,German Bundesliga,AM,Forward,GER,30,7.25,68,1,7.25
+Sergi Altimira,Betis,Spanish La Liga,DM,Midfielder,ESP,23,14.1,180,2,7.05
+Sergi Cardona,Villarreal,Spanish La Liga,LB,Defender,ESP,26,13.87,180,2,6.94
+Sergi Darder,Mallorca,Spanish La Liga,AM,Forward,ESP,31,12.77,172,2,6.38
+Sergio Carreira,Celta Vigo,Spanish La Liga,WB,Midfielder,ESP,24,6.85,90,1,6.85
+Sergio Gómez,Real Sociedad,Spanish La Liga,LB,Defender,ESP,24,7.19,70,1,7.19
+Serhou Guirassy,Dortmund,German Bundesliga,AM,Forward,GUI,29,6.8,90,1,6.8
+Sidiki Cherif,Angers,French Ligue 1,AM,Forward,FRA,18,12.31,122,2,6.15
+Silvan Widmer,Mainz 05,German Bundesliga,WB,Midfielder,SUI,32,6.22,26,1,6.22
+Simon Adingra,Sunderland,English Premier League,LW,Forward,CIV,23,12.5,137,2,6.25
+Simon Ebonog,Le Havre,French Ligue 1,CM,Midfielder,CMR,21,5.79,57,1,5.79
+Simon Sohm,Fiorentina,Italian Serie A,DM,Midfielder,SUI,24,6.18,90,1,6.18
+Simone Canestrelli,Pisa,Italian Serie A,CB,Defender,ITA,24,6.48,90,1,6.48
+Sofiane Diop,Nice,French Ligue 1,AM,Forward,FRA,25,6.94,28,1,6.94
+Stanis Idumbo,Sevilla,Spanish La Liga,LM,Midfielder,BEL,20,6.88,45,1,6.88
+Stanislav Lobotka,Napoli,Italian Serie A,DM,Midfielder,SVK,30,6.31,81,1,6.31
+Stefan Bell,Mainz 05,German Bundesliga,CB,Defender,GER,34,5.84,26,1,5.84
+Stefano Moreo,Pisa,Italian Serie A,AM,Forward,ITA,32,6.53,61,1,6.53
+Stephan El Shaarawy,Roma,Italian Serie A,AM,Forward,ITA,32,6.49,60,1,6.49
+Strahinja Pavlović,Milan,Italian Serie A,CB,Defender,SRB,24,6.96,90,1,6.96
+Suat Serdar,Hellas Verona,Italian Serie A,CM,Midfielder,GER,28,6.21,81,1,6.21
+Tajon Buchanan,Villarreal,Spanish La Liga,RM,Midfielder,CAN,26,14.15,134,2,7.08
+Takefusa Kubo,Real Sociedad,Spanish La Liga,RM,Forward,JPN,24,13.69,169,2,6.84
+Takuma Asano,Mallorca,Spanish La Liga,RW,Forward,JPN,30,11.92,112,2,5.96
+Takumi Minamino,Monaco,French Ligue 1,AM,Forward,JPN,30,12.11,153,2,6.06
+Tanner Tessmann,Lyon,French Ligue 1,DM,Midfielder,USA,23,13.37,180,2,6.68
+Tarik Muharemovic,Sassuolo,Italian Serie A,CB,Defender,BIH,22,6.3,90,1,6.3
+Terem Moffi,Nice,French Ligue 1,AM,Forward,NGA,26,6.42,75,1,6.42
+Tete Morente,Lecce,Italian Serie A,LW,Forward,ESP,28,6.28,90,1,6.28
+Teun Koopmeiners,Juventus,Italian Serie A,CM,Midfielder,NED,27,6.53,34,1,6.53
+Thiago,Brentford,English Premier League,AM,Forward,BRA,24,13.2,180,2,6.6
+Thiago Almada,Atlético Madrid,Spanish La Liga,LM,Forward,ARG,24,13.93,134,2,6.96
+Thierno Barry,Everton,English Premier League,AM,Forward,FRA,22,6.39,63,1,6.39
+Thomas Kristensen,Udinese,Italian Serie A,CB,Defender,DEN,23,6.89,90,1,6.89
+Thomas Lemar,Girona,Spanish La Liga,AM,Forward,FRA,29,13.58,66,2,6.79
+Thomas Meunier,Lille,French Ligue 1,RB,Defender,BEL,33,6.3,90,1,6.3
+Thomas Partey,Villarreal,Spanish La Liga,CM,Midfielder,GHA,32,6.64,45,1,6.64
+Théo Le Bris,Lorient,French Ligue 1,RW,Forward,FRA,22,6.54,25,1,6.54
+Tiago Gabriel,Lecce,Italian Serie A,CB,Defender,POR,20,6.03,90,1,6.03
+Tiago Tomás,Stuttgart,German Bundesliga,RW,Forward,POR,23,6.16,26,1,6.16
+Tijjani Reijnders,Manchester City,English Premier League,CM,Midfielder,NED,27,14.01,180,2,7.01
+Tim Iroegbunam,Everton,English Premier League,DM,Midfielder,ENG,22,12.37,140,2,6.18
+Tim Lemperle,Hoffenheim,German Bundesliga,AM,Forward,GER,23,6.27,74,1,6.27
+Tim Siersleben,Heidenheim,German Bundesliga,CB,Defender,GER,25,5.59,77,1,5.59
+Timo Hübers,Köln,German Bundesliga,CB,Defender,GER,29,6.37,90,1,6.37
+Timothy Castagne,Fulham,English Premier League,RW,Forward,BEL,29,6.47,61,1,6.47
+Timothy Weah,Marseille,French Ligue 1,LW,Defender,USA,25,12.17,107,2,6.08
+Timothée Kolodziejczak,Paris FC,French Ligue 1,CB,Defender,FRA,33,6.35,84,1,6.35
+Tom Cairney,Fulham,English Premier League,DM,Midfielder,SCO,34,5.96,25,1,5.96
+Tom Krauß,Köln,German Bundesliga,CB,Defender,GER,24,6.21,67,1,6.21
+Tom Louchet,Nice,French Ligue 1,CM,Midfielder,FRA,22,13.39,164,2,6.7
+Tom Rothe,Union Berlin,German Bundesliga,CB,Defender,GER,20,5.65,90,1,5.65
+Tommaso Pobega,Bologna,Italian Serie A,DM,Midfielder,ITA,26,5.66,90,1,5.66
+Tomáš Souček,West Ham,English Premier League,CM,Midfielder,CZE,30,12.26,89,2,6.13
+Toni Martínez,Alavés,Spanish La Liga,AM,Forward,ESP,28,12.91,147,2,6.46
+Tosin Adarabioyo,Chelsea,English Premier League,CB,Defender,ENG,27,7.11,90,1,7.11
+Tosin Aiyegun,Lorient,French Ligue 1,RW,Forward,BEN,27,13.33,155,2,6.66
+Toti Gomes,Wolves,English Premier League,CB,Defender,POR,26,12.32,138,2,6.16
+Trai Hume,Sunderland,English Premier League,RB,Defender,NIR,23,13.91,180,2,6.96
+Trent Alexander-Arnold,Real Madrid,Spanish La Liga,RB,Defender,ENG,26,6.07,67,1,6.07
+Trevoh Chalobah,Chelsea,English Premier League,CB,Defender,ENG,26,13.68,158,2,6.84
+Tylel Tati,Nantes,French Ligue 1,CB,Defender,FRA,17,12.21,180,2,6.1
+Tyler Adams,Bournemouth,English Premier League,DM,Midfielder,USA,26,13.36,176,2,6.68
+Tyler Morton,Lyon,French Ligue 1,DM,Midfielder,ENG,22,12.83,180,2,6.42
+Tyrhys Dolan,Espanyol,Spanish La Liga,RW,Forward,ENG,23,13.53,130,2,6.76
+Tyrick Mitchell,Crystal Palace,English Premier League,LM,Midfielder,ENG,25,13.73,180,2,6.86
+Tyrone Mings,Aston Villa,English Premier League,CB,Defender,ENG,32,13.14,180,2,6.57
+Ulisses Garcia,Marseille,French Ligue 1,LB,Defender,SUI,29,5.48,89,1,5.48
+Umut Tohumcu,Hoffenheim,German Bundesliga,RM,Midfielder,GER,21,6.35,45,1,6.35
+Unai Elgezabal,Levante,Spanish La Liga,CB,Defender,ESP,32,12.35,180,2,6.18
+Unai López,Rayo Vallecano,Spanish La Liga,CM,Midfielder,ESP,29,14.36,134,2,7.18
+Unai Núñez,Hellas Verona,Italian Serie A,CB,Defender,ESP,28,6.26,90,1,6.26
+Vakoun Issouf Bayo,Udinese,Italian Serie A,AM,Forward,CIV,28,6.03,30,1,6.03
+Valentin Carboni,Genoa,Italian Serie A,RW,Forward,ARG,20,5.8,72,1,5.8
+Valentin Rongier,Rennes,French Ligue 1,CM,Midfielder,FRA,30,12.54,180,2,6.27
+Valentin Rosier,Osasuna,Spanish La Liga,WB,Midfielder,FRA,29,14.68,180,2,7.34
+Valentino Lazaro,Torino,Italian Serie A,RB,Defender,AUT,29,6.55,78,1,6.55
+Valentino Livramento,Newcastle Utd,English Premier League,LB,Defender,ENG,22,13.76,180,2,6.88
+Valentín Barco,Strasbourg,French Ligue 1,CB,Defender,ARG,21,12.53,140,2,6.26
+Valentín Castellanos,Lazio,Italian Serie A,AM,Forward,ARG,26,5.78,90,1,5.78
+Vanderson,Monaco,French Ligue 1,RB,Defender,BRA,24,6.8,28,1,6.8
+Vedat Muriqi,Mallorca,Spanish La Liga,AM,Forward,KVX,31,6.09,38,1,6.09
+Victor Nelsson,Hellas Verona,Italian Serie A,CB,Defender,DEN,26,5.4,90,1,5.4
+Victor Parada,Alavés,Spanish La Liga,LB,Defender,ESP,23,12.56,165,2,6.28
+Viktor Gyökeres,Arsenal,English Premier League,AM,Forward,SWE,27,12.99,149,2,6.5
+Viktor Tsyhankov,Girona,Spanish La Liga,AM,Forward,UKR,27,13.02,167,2,6.51
+Vincent Marchetti,Paris FC,French Ligue 1,CM,Midfielder,FRA,28,12.69,112,2,6.35
+Vincenzo Grifo,Freiburg,German Bundesliga,LW,Forward,ITA,32,6.79,90,1,6.79
+Vinicius Júnior,Real Madrid,Spanish La Liga,LW,Forward,BRA,25,14.58,105,2,7.29
+Vinicius Souza,Wolfsburg,German Bundesliga,DM,Midfielder,BRA,26,5.93,90,1,5.93
+Virgil van Dijk,Liverpool,English Premier League,CB,Defender,NED,34,14.47,180,2,7.24
+Vitinha,Paris S-G,French Ligue 1,CM,Midfielder,POR,25,14.26,180,2,7.13
+Vitor Reis,Girona,Spanish La Liga,CB,Defender,BRA,19,13.39,123,2,6.7
+Vladimír Coufal,Hoffenheim,German Bundesliga,RB,Defender,CZE,33,6.33,87,1,6.33
+Víctor Chust,Elche,Spanish La Liga,CB,Defender,ESP,25,6.31,45,1,6.31
+Víctor García,Levante,Spanish La Liga,RM,Midfielder,ESP,27,5.57,53,1,5.57
+Víctor Muñoz,Osasuna,Spanish La Liga,AM,Forward,ESP,22,12.51,86,2,6.26
+Waldemar Anton,Dortmund,German Bundesliga,CB,Defender,GER,29,6.86,90,1,6.86
+Warmed Omari,Hamburger SV,German Bundesliga,CB,Defender,COM,25,6.02,90,1,6.02
+Warren Bondo,Cremonese,Italian Serie A,CM,Midfielder,FRA,21,6.14,35,1,6.14
+Warren Kamanzi,Toulouse,French Ligue 1,LB,Defender,NOR,24,12.45,54,2,6.22
+Warren Zaïre-Emery,Paris S-G,French Ligue 1,RB,Defender,FRA,19,13.69,115,2,6.84
+Wataru Endo,Liverpool,English Premier League,CM,Midfielder,JPN,32,6.8,31,1,6.8
+Wesley,Roma,Italian Serie A,WB,Midfielder,BRA,21,6.7,90,1,6.7
+Wesley Fofana,Chelsea,English Premier League,CB,Defender,FRA,24,5.68,22,1,5.68
+Wesley Saïd,Lens,French Ligue 1,AM,Forward,FRA,30,13.36,173,2,6.68
+Wilfried Gnonto,Leeds United,English Premier League,LW,Forward,ITA,21,11.84,131,2,5.92
+Will Hughes,Crystal Palace,English Premier League,CM,Midfielder,ENG,30,12.9,159,2,6.45
+Willem Geubbels,Paris FC,French Ligue 1,AM,Forward,FRA,24,5.67,63,1,5.67
+Willi Orban,RB Leipzig,German Bundesliga,CB,Defender,HUN,32,5.69,90,1,5.69
+William Saliba,Arsenal,English Premier League,CB,Defender,FRA,24,13.59,180,2,6.8
+Willian Pacho,Paris S-G,French Ligue 1,CB,Defender,ECU,23,5.95,90,1,5.95
+Williot Swedberg,Celta Vigo,Spanish La Liga,AM,Forward,SWE,21,12.77,84,2,6.38
+Wilson Isidor,Sunderland,English Premier League,AM,Forward,FRA,24,5.97,28,1,5.97
+Wouter Burger,Hoffenheim,German Bundesliga,RM,Midfielder,NED,24,6.56,45,1,6.56
+Xaver Schlager,RB Leipzig,German Bundesliga,RM,Midfielder,AUT,27,6.76,68,1,6.76
+Xavi Simons,RB Leipzig,German Bundesliga,LM,Midfielder,NED,22,6.59,90,1,6.59
+Yan Couto,Dortmund,German Bundesliga,WB,Midfielder,BRA,23,5.76,90,1,5.76
+Yan Diomandé,RB Leipzig,German Bundesliga,LW,Forward,CIV,18,5.86,45,1,5.86
+Yangel Herrera,Girona,Spanish La Liga,CM,Midfielder,VEN,27,12.95,110,2,6.48
+Yanis Zouaoui,Le Havre,French Ligue 1,LB,Defender,ALG,31,12.84,180,2,6.42
+Yankuba Minteh,Brighton,English Premier League,RW,Forward,GAM,21,13.33,158,2,6.66
+Yann Gboho,Toulouse,French Ligue 1,LW,Forward,FRA,24,13.15,160,2,6.58
 Yaser Asprilla,Girona,Spanish La Liga,LW,Forward,COL,21,5.81,45,1,5.81
-Yasin Ayari,Brighton,English Premier League,DM,Midfielder,SWE,21,6.77,90,1,6.77
-Yassin Belkhdim,Angers,French Ligue 1,CM,Midfielder,FRA,23,6.47,84,1,6.47
-Yassine Benhattab,Nantes,French Ligue 1,RM,Midfielder,FRA,22,6.39,58,1,6.39
-Yassine Kechta,Le Havre,French Ligue 1,LM,Midfielder,MAR,23,6.91,90,1,6.91
-Yehor Yarmoliuk,Brentford,English Premier League,DM,Midfielder,UKR,21,6.05,90,1,6.05
-Yeremi Pino,Villarreal,Spanish La Liga,LM,Midfielder,ESP,22,7.32,90,1,7.32
-Yoel Lago,Celta Vigo,Spanish La Liga,CB,Defender,ESP,21,6.51,81,1,6.51
-Younes Namli,Le Havre,French Ligue 1,RM,Midfielder,DEN,31,5.97,57,1,5.97
-Youri Tielemans,Aston Villa,English Premier League,AM,Forward,BEL,28,5.93,90,1,5.93
-Yuri Berchiche,Athletic Club,Spanish La Liga,LB,Defender,ESP,35,6.72,90,1,6.72
-Álex Berenguer,Athletic Club,Spanish La Liga,AM,Forward,ESP,30,6.99,66,1,6.99
-Álvaro García,Rayo Vallecano,Spanish La Liga,LW,Forward,ESP,32,6.4,84,1,6.4
-Álvaro Rodríguez,Elche,Spanish La Liga,AM,Forward,URU,21,6.75,64,1,6.75
-Óscar Mingueza,Celta Vigo,Spanish La Liga,RM,Midfielder,ESP,26,7.28,90,1,7.28
+Yasin Ayari,Brighton,English Premier League,DM,Midfielder,SWE,21,12.77,156,2,6.38
+Yassin Belkhdim,Angers,French Ligue 1,CM,Midfielder,FRA,23,12.47,170,2,6.24
+Yassine Benhattab,Nantes,French Ligue 1,RM,Midfielder,FRA,22,13.04,142,2,6.52
+Yassine Kechta,Le Havre,French Ligue 1,CM,Midfielder,MAR,23,13.52,173,2,6.76
+Yehor Yarmoliuk,Brentford,English Premier League,DM,Midfielder,UKR,21,12.44,168,2,6.22
+Yeremi Pino,Villarreal,Spanish La Liga,LM,Midfielder,ESP,22,14.32,159,2,7.16
+Yerry Mina,Cagliari,Italian Serie A,CB,Defender,COL,30,6.68,90,1,6.68
+Ylber Ramadani,Lecce,Italian Serie A,CM,Midfielder,ALB,29,5.77,90,1,5.77
+Yoel Lago,Celta Vigo,Spanish La Liga,CB,Defender,ESP,21,6.57,81,1,6.57
+Younes Namli,Le Havre,French Ligue 1,RM,Midfielder,DEN,31,12.95,85,2,6.48
+Youri Tielemans,Aston Villa,English Premier League,AM,Forward,BEL,28,12.92,180,2,6.46
+Youssouf Fofana,Milan,Italian Serie A,CM,Midfielder,FRA,26,6.46,90,1,6.46
+Yuito Suzuki,Freiburg,German Bundesliga,AM,Forward,JPN,23,6.63,69,1,6.63
+Yuri Berchiche,Athletic Club,Spanish La Liga,LB,Defender,ESP,35,13.93,180,2,6.96
+Zakaria Aboukhlal,Torino,Italian Serie A,LW,Forward,MAR,25,6.02,33,1,6.02
+Zito Luvumbo,Cagliari,Italian Serie A,AM,Forward,ANG,23,6.66,30,1,6.66
+Álex Berenguer,Athletic Club,Spanish La Liga,AM,Forward,ESP,30,13.54,152,2,6.77
+Álex Grimaldo,Leverkusen,German Bundesliga,WB,Midfielder,ESP,29,6.8,90,1,6.8
+Álex Moreno,Girona,Spanish La Liga,WB,Midfielder,ESP,32,7.11,45,1,7.11
+Álex Valle,Como,Italian Serie A,LB,Defender,ESP,21,6.38,90,1,6.38
+Álvaro Carreras,Real Madrid,Spanish La Liga,LB,Defender,ESP,22,13.33,180,2,6.66
+Álvaro García,Rayo Vallecano,Spanish La Liga,LM,Forward,ESP,32,13.43,174,2,6.72
+Álvaro Morata,Como,Italian Serie A,AM,Forward,ESP,32,6.16,21,1,6.16
+Álvaro Rodríguez,Elche,Spanish La Liga,AM,Forward,URU,21,13.61,154,2,6.8
+Éder Militão,Real Madrid,Spanish La Liga,CB,Defender,BRA,27,6.66,90,1,6.66
+Éderson,Atalanta,Italian Serie A,CM,Midfielder,BRA,26,6.52,20,1,6.52
+Ísak Jóhannesson,Köln,German Bundesliga,CM,Midfielder,ISL,22,5.95,79,1,5.95
+Óscar Mingueza,Celta Vigo,Spanish La Liga,RM,Midfielder,ESP,26,7.29,90,1,7.29

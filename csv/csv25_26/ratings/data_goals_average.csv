@@ -1,58 +1,101 @@
 Player,Team,League,Position,General Position,Nationality,Age,Rating,Minutes,Matches,Average Rating
-Aarón Escandell,Oviedo,Spanish La Liga,GK,Goalkeeper,ESP,29,6.73,90,1,6.73
-Alisson,Liverpool,English Premier League,GK,Goalkeeper,BRA,32,5.91,90,1,5.91
-Altay Bayındır,Manchester Utd,English Premier League,GK,Goalkeeper,TUR,27,6.73,90,1,6.73
-Anthony Lopes,Nantes,French Ligue 1,GK,Goalkeeper,POR,34,6.28,90,1,6.28
-Antonio Sivera,Alavés,Spanish La Liga,GK,Goalkeeper,ESP,29,6.53,90,1,6.53
-Augusto Batalla,Rayo Vallecano,Spanish La Liga,GK,Goalkeeper,ARG,29,6.38,90,1,6.38
-Bart Verbruggen,Brighton,English Premier League,GK,Goalkeeper,NED,22,6.09,90,1,6.09
-Berke Özer,Lille,French Ligue 1,GK,Goalkeeper,TUR,25,6.23,90,1,6.23
-Bernd Leno,Fulham,English Premier League,GK,Goalkeeper,GER,33,6.65,90,1,6.65
-Bingourou Kamara,Lorient,French Ligue 1,GK,Goalkeeper,SEN,28,6.22,90,1,6.22
-Brice Samba,Rennes,French Ligue 1,GK,Goalkeeper,FRA,31,6.86,90,1,6.86
-Caoimhín Kelleher,Brentford,English Premier League,GK,Goalkeeper,IRL,26,6.0,90,1,6.0
-David Raya,Arsenal,English Premier League,GK,Goalkeeper,ESP,29,7.14,90,1,7.14
-David Soria,Getafe,Spanish La Liga,GK,Goalkeeper,ESP,32,7.07,90,1,7.07
-Dean Henderson,Crystal Palace,English Premier League,GK,Goalkeeper,ENG,28,7.1,90,1,7.1
-Donovan Léon,Auxerre,French Ligue 1,GK,Goalkeeper,GUF,32,6.93,90,1,6.93
-Gerónimo Rulli,Marseille,French Ligue 1,GK,Goalkeeper,ARG,33,6.44,90,1,6.44
-Guglielmo Vicario,Tottenham,English Premier League,GK,Goalkeeper,ITA,28,7.02,90,1,7.02
-Guillaume Restes,Toulouse,French Ligue 1,GK,Goalkeeper,FRA,20,6.78,90,1,6.78
-Hervé Koffi,Angers,French Ligue 1,GK,Goalkeeper,BFA,28,7.37,90,1,7.37
-Ionuț Radu,Celta Vigo,Spanish La Liga,GK,Goalkeeper,ROU,28,5.85,90,1,5.85
-James Trafford,Manchester City,English Premier League,GK,Goalkeeper,ENG,22,7.02,90,1,7.02
-Jan Oblak,Atlético Madrid,Spanish La Liga,GK,Goalkeeper,SVN,32,6.01,90,1,6.01
-Joan García,Barcelona,Spanish La Liga,GK,Goalkeeper,ESP,24,6.8,90,1,6.8
-Jonathan Fischer,Metz,French Ligue 1,GK,Goalkeeper,DEN,23,6.3,90,1,6.3
-Jordan Pickford,Everton,English Premier League,GK,Goalkeeper,ENG,31,6.75,90,1,6.75
-José Sá,Wolves,English Premier League,GK,Goalkeeper,POR,32,5.23,90,1,5.23
-Julen Agirrezabala,Valencia,Spanish La Liga,GK,Goalkeeper,ESP,24,6.25,90,1,6.25
-Krapyvtsov Vladyslav,Girona,Spanish La Liga,GK,Goalkeeper,UKR,20,6.66,46,1,6.66
-Leo Román,Mallorca,Spanish La Liga,GK,Goalkeeper,ESP,25,6.4,90,1,6.4
-Lucas Chevalier,Paris S-G,French Ligue 1,GK,Goalkeeper,FRA,23,6.45,90,1,6.45
-Lucas Perri,Leeds United,English Premier League,GK,Goalkeeper,BRA,27,6.78,90,1,6.78
-Luiz Lúcio Reis Júnior,Villarreal,Spanish La Liga,GK,Goalkeeper,BRA,24,6.92,90,1,6.92
-Lukáš Hrádecký,Monaco,French Ligue 1,GK,Goalkeeper,FIN,35,6.4,90,1,6.4
-Mads Hermansen,West Ham,English Premier League,GK,Goalkeeper,DEN,25,5.98,90,1,5.98
-Marco Bizot,Aston Villa,English Premier League,GK,Goalkeeper,NED,34,7.68,90,1,7.68
-Marko Dmitrović,Espanyol,Spanish La Liga,GK,Goalkeeper,SRB,33,6.67,90,1,6.67
-Martin Dúbravka,Burnley,English Premier League,GK,Goalkeeper,SVK,36,6.27,90,1,6.27
-Matz Sels,Nott'ham Forest,English Premier League,GK,Goalkeeper,BEL,33,6.61,90,1,6.61
-Matías Dituro,Elche,Spanish La Liga,GK,Goalkeeper,ARG,38,6.95,90,1,6.95
-Mike Penders,Strasbourg,French Ligue 1,GK,Goalkeeper,BEL,20,6.5,90,1,6.5
-Mory Diaw,Le Havre,French Ligue 1,GK,Goalkeeper,SEN,32,5.48,90,1,5.48
-Nick Pope,Newcastle Utd,English Premier League,GK,Goalkeeper,ENG,33,6.84,90,1,6.84
-Obed Nkambadio,Paris FC,French Ligue 1,GK,Goalkeeper,FRA,22,5.86,90,1,5.86
-Pablo Cuñat,Levante,Spanish La Liga,GK,Goalkeeper,ESP,23,6.6,90,1,6.6
-Pau López,Betis,Spanish La Liga,GK,Goalkeeper,ESP,30,6.03,90,1,6.03
-Paulo Gazzaniga,Girona,Spanish La Liga,GK,Goalkeeper,ARG,33,5.62,42,1,5.62
-Radosław Majecki,Brest,French Ligue 1,GK,Goalkeeper,POL,25,5.8,90,1,5.8
-Robert Sánchez,Chelsea,English Premier League,GK,Goalkeeper,ESP,27,6.85,90,1,6.85
-Robin Risser,Lens,French Ligue 1,GK,Goalkeeper,FRA,20,6.55,90,1,6.55
-Robin Roefs,Sunderland,English Premier League,GK,Goalkeeper,NED,22,6.95,90,1,6.95
-Rémy Descamps,Lyon,French Ligue 1,GK,Goalkeeper,FRA,29,7.01,90,1,7.01
-Unai Simón,Athletic Club,Spanish La Liga,GK,Goalkeeper,ESP,28,6.37,90,1,6.37
-Yehvann Diouf,Nice,French Ligue 1,GK,Goalkeeper,SEN,25,5.87,90,1,5.87
-Álex Remiro,Real Sociedad,Spanish La Liga,GK,Goalkeeper,ESP,30,6.32,90,1,6.32
-Ørjan Nyland,Sevilla,Spanish La Liga,GK,Goalkeeper,NOR,34,5.83,90,1,5.83
-Đorđe Petrović,Bournemouth,English Premier League,GK,Goalkeeper,SRB,25,6.27,90,1,6.27
+Aarón Escandell,Oviedo,Spanish La Liga,GK,Goalkeeper,ESP,29,13.26,180,2,6.63
+Adrian Šemper,Pisa,Italian Serie A,GK,Goalkeeper,CRO,27,7.07,90,1,7.07
+Alex Meret,Napoli,Italian Serie A,GK,Goalkeeper,ITA,28,6.6,90,1,6.6
+Alexander Nübel,Stuttgart,German Bundesliga,GK,Goalkeeper,GER,28,5.41,90,1,5.41
+Alisson,Liverpool,English Premier League,GK,Goalkeeper,BRA,32,12.49,180,2,6.24
+Altay Bayındır,Manchester Utd,English Premier League,GK,Goalkeeper,TUR,27,13.47,180,2,6.74
+Anthony Lopes,Nantes,French Ligue 1,GK,Goalkeeper,POR,34,13.24,180,2,6.62
+Antonio Sivera,Alavés,Spanish La Liga,GK,Goalkeeper,ESP,29,13.66,180,2,6.83
+Augusto Batalla,Rayo Vallecano,Spanish La Liga,GK,Goalkeeper,ARG,29,13.43,180,2,6.72
+Bart Verbruggen,Brighton,English Premier League,GK,Goalkeeper,NED,23,12.1,180,2,6.05
+Berke Özer,Lille,French Ligue 1,GK,Goalkeeper,TUR,25,13.3,180,2,6.65
+Bernd Leno,Fulham,English Premier League,GK,Goalkeeper,GER,33,12.98,180,2,6.49
+Bingourou Kamara,Lorient,French Ligue 1,GK,Goalkeeper,SEN,28,12.78,180,2,6.39
+Brice Samba,Rennes,French Ligue 1,GK,Goalkeeper,FRA,31,13.34,180,2,6.67
+Caoimhín Kelleher,Brentford,English Premier League,GK,Goalkeeper,IRL,26,13.34,180,2,6.67
+Daniel Heuer Fernandes,Hamburger SV,German Bundesliga,GK,Goalkeeper,POR,32,7.35,90,1,7.35
+David Raya,Arsenal,English Premier League,GK,Goalkeeper,ESP,29,14.42,180,2,7.21
+David Soria,Getafe,Spanish La Liga,GK,Goalkeeper,ESP,32,13.71,180,2,6.86
+David de Gea,Fiorentina,Italian Serie A,GK,Goalkeeper,ESP,34,6.4,90,1,6.4
+Dean Henderson,Crystal Palace,English Premier League,GK,Goalkeeper,ENG,28,13.39,180,2,6.7
+Diant Ramaj,Heidenheim,German Bundesliga,GK,Goalkeeper,GER,23,6.29,90,1,6.29
+Donovan Léon,Auxerre,French Ligue 1,GK,Goalkeeper,GUF,32,12.92,134,2,6.46
+Elia Caprile,Cagliari,Italian Serie A,GK,Goalkeeper,ITA,23,6.2,90,1,6.2
+Emil Audero,Cremonese,Italian Serie A,GK,Goalkeeper,IDN,28,6.55,90,1,6.55
+Emiliano Martínez,Aston Villa,English Premier League,GK,Goalkeeper,ARG,32,6.43,90,1,6.43
+Finn Dahmen,Augsburg,German Bundesliga,GK,Goalkeeper,GER,27,7.03,90,1,7.03
+Franco Israel,Torino,Italian Serie A,GK,Goalkeeper,URU,25,5.86,90,1,5.86
+Frederik Rønnow,Union Berlin,German Bundesliga,GK,Goalkeeper,DEN,33,7.18,90,1,7.18
+Gerónimo Rulli,Marseille,French Ligue 1,GK,Goalkeeper,ARG,33,12.65,180,2,6.32
+Gregor Kobel,Dortmund,German Bundesliga,GK,Goalkeeper,SUI,27,6.09,90,1,6.09
+Guglielmo Vicario,Tottenham,English Premier League,GK,Goalkeeper,ITA,28,14.71,180,2,7.36
+Guillaume Restes,Toulouse,French Ligue 1,GK,Goalkeeper,FRA,20,13.76,180,2,6.88
+Hervé Koffi,Angers,French Ligue 1,GK,Goalkeeper,BFA,28,13.96,180,2,6.98
+Ionuț Radu,Celta Vigo,Spanish La Liga,GK,Goalkeeper,ROU,28,12.39,180,2,6.2
+Ivan Provedel,Lazio,Italian Serie A,GK,Goalkeeper,ITA,31,6.3,90,1,6.3
+James Trafford,Manchester City,English Premier League,GK,Goalkeeper,ENG,22,13.8,180,2,6.9
+Jan Oblak,Atlético Madrid,Spanish La Liga,GK,Goalkeeper,SVN,32,12.45,180,2,6.22
+Jean Butez,Como,Italian Serie A,GK,Goalkeeper,FRA,30,6.72,90,1,6.72
+Joan García,Barcelona,Spanish La Liga,GK,Goalkeeper,ESP,24,13.56,180,2,6.78
+Jonathan Fischer,Metz,French Ligue 1,GK,Goalkeeper,DEN,23,12.59,180,2,6.3
+Jordan Pickford,Everton,English Premier League,GK,Goalkeeper,ENG,31,14.33,180,2,7.16
+José Sá,Wolves,English Premier League,GK,Goalkeeper,POR,32,12.34,180,2,6.17
+Julen Agirrezabala,Valencia,Spanish La Liga,GK,Goalkeeper,ESP,24,12.72,180,2,6.36
+Kamil Grabara,Wolfsburg,German Bundesliga,GK,Goalkeeper,POL,26,6.18,90,1,6.18
+Karl-Johan Johnsson,Strasbourg,French Ligue 1,GK,Goalkeeper,SWE,35,7.02,90,1,7.02
+Krapyvtsov Vladyslav,Girona,Spanish La Liga,GK,Goalkeeper,UKR,20,12.21,136,2,6.1
+Leo Román,Mallorca,Spanish La Liga,GK,Goalkeeper,ESP,25,12.57,180,2,6.28
+Lorenzo Montipò,Hellas Verona,Italian Serie A,GK,Goalkeeper,ITA,29,6.38,90,1,6.38
+Lucas Chevalier,Paris S-G,French Ligue 1,GK,Goalkeeper,FRA,23,12.89,180,2,6.44
+Lucas Perri,Leeds United,English Premier League,GK,Goalkeeper,BRA,27,12.32,180,2,6.16
+Luiz Lúcio Reis Júnior,Villarreal,Spanish La Liga,GK,Goalkeeper,BRA,24,13.88,180,2,6.94
+Lukáš Hrádecký,Monaco,French Ligue 1,GK,Goalkeeper,FIN,35,12.66,180,2,6.33
+Mads Hermansen,West Ham,English Premier League,GK,Goalkeeper,DEN,25,12.49,180,2,6.24
+Manuel Neuer,Bayern Munich,German Bundesliga,GK,Goalkeeper,GER,39,6.55,90,1,6.55
+Marco Bizot,Aston Villa,English Premier League,GK,Goalkeeper,NED,34,7.64,90,1,7.64
+Marco Carnesecchi,Atalanta,Italian Serie A,GK,Goalkeeper,ITA,25,6.33,90,1,6.33
+Mark Flekken,Leverkusen,German Bundesliga,GK,Goalkeeper,NED,32,6.09,90,1,6.09
+Marko Dmitrović,Espanyol,Spanish La Liga,GK,Goalkeeper,SRB,33,13.32,180,2,6.66
+Martin Dúbravka,Burnley,English Premier League,GK,Goalkeeper,SVK,36,13.41,180,2,6.7
+Marvin Schwäbe,Köln,German Bundesliga,GK,Goalkeeper,GER,30,7.02,90,1,7.02
+Matz Sels,Nott'ham Forest,English Premier League,GK,Goalkeeper,BEL,33,13.2,180,2,6.6
+Matías Dituro,Elche,Spanish La Liga,GK,Goalkeeper,ARG,38,14.29,180,2,7.14
+Michael Zetterer,Eint Frankfurt,German Bundesliga,GK,Goalkeeper,GER,30,6.52,90,1,6.52
+Michele Di Gregorio,Juventus,Italian Serie A,GK,Goalkeeper,ITA,28,6.63,90,1,6.63
+Mike Maignan,Milan,Italian Serie A,GK,Goalkeeper,FRA,30,5.85,90,1,5.85
+Mike Penders,Strasbourg,French Ligue 1,GK,Goalkeeper,BEL,20,6.55,90,1,6.55
+Mile Svilar,Roma,Italian Serie A,GK,Goalkeeper,SRB,25,7.05,90,1,7.05
+Mio Backhaus,Werder Bremen,German Bundesliga,GK,Goalkeeper,GER,21,5.68,90,1,5.68
+Moritz Nicolas,Gladbach,German Bundesliga,GK,Goalkeeper,GER,27,6.82,90,1,6.82
+Mory Diaw,Le Havre,French Ligue 1,GK,Goalkeeper,SEN,32,12.0,180,2,6.0
+Nick Pope,Newcastle Utd,English Premier League,GK,Goalkeeper,ENG,33,12.9,180,2,6.45
+Nicola Leali,Genoa,Italian Serie A,GK,Goalkeeper,ITA,32,6.46,90,1,6.46
+Nikola Vasilj,St. Pauli,German Bundesliga,GK,Goalkeeper,BIH,29,6.01,90,1,6.01
+Noah Atubolu,Freiburg,German Bundesliga,GK,Goalkeeper,GER,23,6.11,90,1,6.11
+Obed Nkambadio,Paris FC,French Ligue 1,GK,Goalkeeper,FRA,22,11.31,180,2,5.65
+Oliver Baumann,Hoffenheim,German Bundesliga,GK,Goalkeeper,GER,35,6.81,90,1,6.81
+Pablo Cuñat,Levante,Spanish La Liga,GK,Goalkeeper,ESP,23,12.89,180,2,6.44
+Pau López,Betis,Spanish La Liga,GK,Goalkeeper,ESP,30,13.6,180,2,6.8
+Paulo Gazzaniga,Girona,Spanish La Liga,GK,Goalkeeper,ARG,33,5.78,42,1,5.78
+Péter Gulácsi,RB Leipzig,German Bundesliga,GK,Goalkeeper,HUN,35,5.55,90,1,5.55
+Radosław Majecki,Brest,French Ligue 1,GK,Goalkeeper,POL,25,11.83,180,2,5.92
+Razvan Sava,Udinese,Italian Serie A,GK,Goalkeeper,ROU,23,6.32,90,1,6.32
+Robert Sánchez,Chelsea,English Premier League,GK,Goalkeeper,ESP,27,13.46,180,2,6.73
+Robin Risser,Lens,French Ligue 1,GK,Goalkeeper,FRA,20,13.02,180,2,6.51
+Robin Roefs,Sunderland,English Premier League,GK,Goalkeeper,NED,22,13.43,180,2,6.72
+Robin Zentner,Mainz 05,German Bundesliga,GK,Goalkeeper,GER,30,6.46,90,1,6.46
+Rémy Descamps,Lyon,French Ligue 1,GK,Goalkeeper,FRA,29,14.19,180,2,7.1
+Sergio Herrera,Osasuna,Spanish La Liga,GK,Goalkeeper,ESP,32,13.58,180,2,6.79
+Stefano Turati,Sassuolo,Italian Serie A,GK,Goalkeeper,ITA,23,5.86,90,1,5.86
+Thibaut Courtois,Real Madrid,Spanish La Liga,GK,Goalkeeper,BEL,33,13.87,180,2,6.94
+Théo De Percin,Auxerre,French Ligue 1,GK,Goalkeeper,MTQ,24,6.56,46,1,6.56
+Unai Simón,Athletic Club,Spanish La Liga,GK,Goalkeeper,ESP,28,13.38,180,2,6.69
+Wladimiro Falcone,Lecce,Italian Serie A,GK,Goalkeeper,ITA,30,7.13,90,1,7.13
+Yann Sommer,Inter,Italian Serie A,GK,Goalkeeper,SUI,36,7.21,90,1,7.21
+Yehvann Diouf,Nice,French Ligue 1,GK,Goalkeeper,SEN,25,12.97,180,2,6.48
+Zion Suzuki,Parma,Italian Serie A,GK,Goalkeeper,JPN,23,6.6,90,1,6.6
+Álex Remiro,Real Sociedad,Spanish La Liga,GK,Goalkeeper,ESP,30,12.58,180,2,6.29
+Ørjan Nyland,Sevilla,Spanish La Liga,GK,Goalkeeper,NOR,34,12.09,180,2,6.04
+Đorđe Petrović,Bournemouth,English Premier League,GK,Goalkeeper,SRB,25,13.36,180,2,6.68
+Łukasz Skorupski,Bologna,Italian Serie A,GK,Goalkeeper,POL,34,6.65,90,1,6.65
