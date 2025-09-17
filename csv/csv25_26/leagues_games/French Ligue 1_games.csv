@@ -26,15 +26,15 @@ J3,Paris FC,Metz,3–2,,Stade Jean-Bouin,Gaël Angoula,2025-08-31,https://fbref.
 J3,Le Havre,Nice,3–1,,Stade Océane,Jérôme Brisard,2025-08-31,https://fbref.com/en/matches/d7190d58/Le-Havre-Nice-August-31-2025-Ligue-1
 J3,Monaco,Strasbourg,3–2,,Stade Louis II,Benoît Bastien,2025-08-31,https://fbref.com/en/matches/9fadc7e1/Monaco-Strasbourg-August-31-2025-Ligue-1
 J3,Lyon,Marseille,1–0,,Groupama Stadium,François Letexier,2025-08-31,https://fbref.com/en/matches/2e7d7c7d/Choc-des-Olympiques-Lyon-Marseille-August-31-2025-Ligue-1
-J4,Marseille,Lorient,,,Orange Vélodrome,,2025-09-12,https://fbref.com/en/stathead/matchup/teams/d2c87802/5725cc7b/Lorient-vs-Marseille-History
-J4,Nice,Nantes,,,Allianz Riviera,,2025-09-13,https://fbref.com/en/stathead/matchup/teams/d7a486cd/132ebc33/Nantes-vs-Nice-History
-J4,Auxerre,Monaco,,,Stade de l'Abbé Deschamps,,2025-09-13,https://fbref.com/en/stathead/matchup/teams/fd6114db/5ae09109/Monaco-vs-Auxerre-History
-J4,Lille,Toulouse,,,Decathlon Arena - Stade Pierre-Mauroy,,2025-09-14,https://fbref.com/en/stathead/matchup/teams/cb188c0c/3f8c4b5f/Lille-vs-Toulouse-History
-J4,Strasbourg,Le Havre,,,Stade de la Meinau,,2025-09-14,https://fbref.com/en/stathead/matchup/teams/c0d3eab4/5c2737db/Strasbourg-vs-Le-Havre-History
-J4,Metz,Angers,,,Stade Saint-Symphorien,,2025-09-14,https://fbref.com/en/stathead/matchup/teams/f83960ae/69236f98/Metz-vs-Angers-History
-J4,Paris S-G,Lens,,,Parc des Princes,,2025-09-14,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/e2d8892c/Lens-vs-Paris-Saint-Germain-History
-J4,Brest,Paris FC,,,Stade Francis-Le Blé,,2025-09-14,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/056a5a75/Brest-vs-Paris-FC-History
-J4,Rennes,Lyon,,,Roazhon Park,,2025-09-14,https://fbref.com/en/stathead/matchup/teams/d53c0b06/b3072e00/Lyon-vs-Rennes-History
+J4,Marseille,Lorient,4–0,,Orange Vélodrome,Thomas Léonard,2025-09-12,https://fbref.com/en/matches/eaff4ee4/Marseille-Lorient-September-12-2025-Ligue-1
+J4,Nice,Nantes,1–0,,Allianz Riviera,Guillaume Paradis,2025-09-13,https://fbref.com/en/matches/3bd330c7/Nice-Nantes-September-13-2025-Ligue-1
+J4,Auxerre,Monaco,1–2,"16,703",Stade de l'Abbé Deschamps,Romain Lissorgue,2025-09-13,https://fbref.com/en/matches/f3a8d388/Auxerre-Monaco-September-13-2025-Ligue-1
+J4,Lille,Toulouse,2–1,,Decathlon Arena - Stade Pierre-Mauroy,Jeremy Stinat,2025-09-14,https://fbref.com/en/matches/6c0057cb/Lille-Toulouse-September-14-2025-Ligue-1
+J4,Strasbourg,Le Havre,1–0,"26,000",Stade de la Meinau,Willy Delajod,2025-09-14,https://fbref.com/en/matches/78ee6527/Strasbourg-Le-Havre-September-14-2025-Ligue-1
+J4,Metz,Angers,1–1,,Stade Saint-Symphorien,Benoît Millot,2025-09-14,https://fbref.com/en/matches/80b1df7f/Metz-Angers-September-14-2025-Ligue-1
+J4,Paris S-G,Lens,2–0,,Parc des Princes,Jérémie Pignard,2025-09-14,https://fbref.com/en/matches/e8f63a9b/Paris-Saint-Germain-Lens-September-14-2025-Ligue-1
+J4,Brest,Paris FC,1–2,,Stade Francis-Le Blé,Bastien Dechepy,2025-09-14,https://fbref.com/en/matches/52e5e5bd/Brest-Paris-FC-September-14-2025-Ligue-1
+J4,Rennes,Lyon,3–1,,Roazhon Park,Ruddy Buquet,2025-09-14,https://fbref.com/en/matches/e8a7d6a7/Rennes-Lyon-September-14-2025-Ligue-1
 J5,Lyon,Angers,,,Groupama Stadium,,2025-09-19,https://fbref.com/en/stathead/matchup/teams/d53c0b06/69236f98/Lyon-vs-Angers-History
 J5,Nantes,Rennes,,,Stade de la Beaujoire - Louis Fonteneau,,2025-09-20,https://fbref.com/en/stathead/matchup/teams/d7a486cd/b3072e00/Nantes-vs-Rennes-History
 J5,Brest,Nice,,,Stade Francis-Le Blé,,2025-09-20,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/132ebc33/Brest-vs-Nice-History
@@ -98,48 +98,48 @@ J11,Lille,Angers,,,Decathlon Arena - Stade Pierre-Mauroy,,2025-11-02,https://fbr
 J11,Lens,Lorient,,,Stade Bollaert-Delelis,,2025-11-02,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/d2c87802/Lens-vs-Lorient-History
 J11,Toulouse,Le Havre,,,Stadium de Toulouse,,2025-11-02,https://fbref.com/en/stathead/matchup/teams/5c2737db/3f8c4b5f/Le-Havre-vs-Toulouse-History
 J11,Brest,Lyon,,,Stade Francis-Le Blé,,2025-11-02,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/d53c0b06/Brest-vs-Lyon-History
+J12,Paris FC,Rennes,,,Stade Jean-Bouin,,2025-11-07,https://fbref.com/en/stathead/matchup/teams/b3072e00/056a5a75/Rennes-vs-Paris-FC-History
+J12,Marseille,Brest,,,Orange Vélodrome,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/5725cc7b/Brest-vs-Marseille-History
+J12,Le Havre,Nantes,,,Stade Océane,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/d7a486cd/5c2737db/Nantes-vs-Le-Havre-History
+J12,Monaco,Lens,,,Stade Louis II,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/fd6114db/fd4e0f7d/Monaco-vs-Lens-History
 J12,Lorient,Toulouse,,,Stade Yves Allainmat,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/d2c87802/3f8c4b5f/Lorient-vs-Toulouse-History
-J12,Lyon,Paris S-G,,,Groupama Stadium,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/e2d8892c/d53c0b06/Paris-Saint-Germain-vs-Lyon-History
-J12,Monaco,Lens,,,Stade Louis II,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/fd6114db/fd4e0f7d/Monaco-vs-Lens-History
-J12,Paris FC,Rennes,,,Stade Jean-Bouin,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/b3072e00/056a5a75/Rennes-vs-Paris-FC-History
-J12,Angers,Auxerre,,,Stade Raymond Kopa,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/69236f98/5ae09109/Angers-vs-Auxerre-History
-J12,Metz,Nice,,,Stade Saint-Symphorien,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/f83960ae/132ebc33/Metz-vs-Nice-History
-J12,Le Havre,Nantes,,,Stade Océane,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/d7a486cd/5c2737db/Nantes-vs-Le-Havre-History
-J12,Marseille,Brest,,,Orange Vélodrome,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/5725cc7b/Brest-vs-Marseille-History
 J12,Strasbourg,Lille,,,Stade de la Meinau,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/cb188c0c/c0d3eab4/Lille-vs-Strasbourg-History
-J13,Lens,Strasbourg,,,Stade Bollaert-Delelis,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/c0d3eab4/Lens-vs-Strasbourg-History
-J13,Rennes,Monaco,,,Roazhon Park,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/fd6114db/b3072e00/Monaco-vs-Rennes-History
-J13,Nice,Marseille,,,Allianz Riviera,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/5725cc7b/132ebc33/Marseille-vs-Nice-History
-J13,Nantes,Lorient,,,Stade de la Beaujoire - Louis Fonteneau,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/d7a486cd/d2c87802/Nantes-vs-Lorient-History
-J13,Toulouse,Angers,,,Stadium de Toulouse,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/69236f98/3f8c4b5f/Angers-vs-Toulouse-History
+J12,Metz,Nice,,,Stade Saint-Symphorien,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/f83960ae/132ebc33/Metz-vs-Nice-History
+J12,Angers,Auxerre,,,Stade Raymond Kopa,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/69236f98/5ae09109/Angers-vs-Auxerre-History
+J12,Lyon,Paris S-G,,,Groupama Stadium,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/e2d8892c/d53c0b06/Paris-Saint-Germain-vs-Lyon-History
+J13,Lille,Paris FC,,,Decathlon Arena - Stade Pierre-Mauroy,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/cb188c0c/056a5a75/Lille-vs-Paris-FC-History
 J13,Auxerre,Lyon,,,Stade de l'Abbé Deschamps,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/d53c0b06/5ae09109/Lyon-vs-Auxerre-History
 J13,Brest,Metz,,,Stade Francis-Le Blé,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/f83960ae/Brest-vs-Metz-History
-J13,Lille,Paris FC,,,Decathlon Arena - Stade Pierre-Mauroy,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/cb188c0c/056a5a75/Lille-vs-Paris-FC-History
+J13,Rennes,Monaco,,,Roazhon Park,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/fd6114db/b3072e00/Monaco-vs-Rennes-History
+J13,Nantes,Lorient,,,Stade de la Beaujoire - Louis Fonteneau,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/d7a486cd/d2c87802/Nantes-vs-Lorient-History
 J13,Paris S-G,Le Havre,,,Parc des Princes,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/e2d8892c/5c2737db/Paris-Saint-Germain-vs-Le-Havre-History
-J14,Lorient,Nice,,,Stade Yves Allainmat,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/d2c87802/132ebc33/Lorient-vs-Nice-History
-J14,Angers,Lens,,,Stade Raymond Kopa,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/69236f98/Lens-vs-Angers-History
-J14,Le Havre,Lille,,,Stade Océane,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/cb188c0c/5c2737db/Lille-vs-Le-Havre-History
-J14,Marseille,Toulouse,,,Orange Vélodrome,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/5725cc7b/3f8c4b5f/Marseille-vs-Toulouse-History
+J13,Nice,Marseille,,,Allianz Riviera,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/5725cc7b/132ebc33/Marseille-vs-Nice-History
+J13,Toulouse,Angers,,,Stadium de Toulouse,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/69236f98/3f8c4b5f/Angers-vs-Toulouse-History
+J13,Lens,Strasbourg,,,Stade Bollaert-Delelis,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/c0d3eab4/Lens-vs-Strasbourg-History
 J14,Paris FC,Auxerre,,,Stade Jean-Bouin,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/5ae09109/056a5a75/Auxerre-vs-Paris-FC-History
-J14,Lyon,Nantes,,,Groupama Stadium,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/d7a486cd/d53c0b06/Nantes-vs-Lyon-History
-J14,Monaco,Paris S-G,,,Stade Louis II,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/fd6114db/e2d8892c/Monaco-vs-Paris-Saint-Germain-History
 J14,Metz,Rennes,,,Stade Saint-Symphorien,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/f83960ae/b3072e00/Metz-vs-Rennes-History
+J14,Marseille,Toulouse,,,Orange Vélodrome,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/5725cc7b/3f8c4b5f/Marseille-vs-Toulouse-History
+J14,Monaco,Paris S-G,,,Stade Louis II,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/fd6114db/e2d8892c/Monaco-vs-Paris-Saint-Germain-History
+J14,Le Havre,Lille,,,Stade Océane,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/cb188c0c/5c2737db/Lille-vs-Le-Havre-History
+J14,Lyon,Nantes,,,Groupama Stadium,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/d7a486cd/d53c0b06/Nantes-vs-Lyon-History
+J14,Angers,Lens,,,Stade Raymond Kopa,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/69236f98/Lens-vs-Angers-History
+J14,Lorient,Nice,,,Stade Yves Allainmat,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/d2c87802/132ebc33/Lorient-vs-Nice-History
 J14,Strasbourg,Brest,,,Stade de la Meinau,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/c0d3eab4/Brest-vs-Strasbourg-History
-J15,Auxerre,Metz,,,Stade de l'Abbé Deschamps,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/f83960ae/5ae09109/Metz-vs-Auxerre-History
-J15,Paris S-G,Rennes,,,Parc des Princes,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/e2d8892c/b3072e00/Paris-Saint-Germain-vs-Rennes-History
 J15,Lille,Marseille,,,Decathlon Arena - Stade Pierre-Mauroy,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/cb188c0c/5725cc7b/Lille-vs-Marseille-History
-J15,Le Havre,Paris FC,,,Stade Océane,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/5c2737db/056a5a75/Le-Havre-vs-Paris-FC-History
 J15,Lorient,Lyon,,,Stade Yves Allainmat,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/d53c0b06/d2c87802/Lyon-vs-Lorient-History
-J15,Brest,Monaco,,,Stade Francis-Le Blé,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/fd6114db/fb08dbb3/Monaco-vs-Brest-History
-J15,Nice,Angers,,,Allianz Riviera,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/69236f98/132ebc33/Angers-vs-Nice-History
-J15,Toulouse,Strasbourg,,,Stadium de Toulouse,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/c0d3eab4/3f8c4b5f/Strasbourg-vs-Toulouse-History
+J15,Auxerre,Metz,,,Stade de l'Abbé Deschamps,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/f83960ae/5ae09109/Metz-vs-Auxerre-History
+J15,Le Havre,Paris FC,,,Stade Océane,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/5c2737db/056a5a75/Le-Havre-vs-Paris-FC-History
 J15,Nantes,Lens,,,Stade de la Beaujoire - Louis Fonteneau,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/d7a486cd/Lens-vs-Nantes-History
+J15,Toulouse,Strasbourg,,,Stadium de Toulouse,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/c0d3eab4/3f8c4b5f/Strasbourg-vs-Toulouse-History
+J15,Paris S-G,Rennes,,,Parc des Princes,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/e2d8892c/b3072e00/Paris-Saint-Germain-vs-Rennes-History
+J15,Nice,Angers,,,Allianz Riviera,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/69236f98/132ebc33/Angers-vs-Nice-History
+J15,Brest,Monaco,,,Stade Francis-Le Blé,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/fd6114db/fb08dbb3/Monaco-vs-Brest-History
 J16,Paris FC,Toulouse,,,Stade Jean-Bouin,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/3f8c4b5f/056a5a75/Toulouse-vs-Paris-FC-History
-J16,Strasbourg,Lorient,,,Stade de la Meinau,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/d2c87802/c0d3eab4/Lorient-vs-Strasbourg-History
 J16,Marseille,Monaco,,,Orange Vélodrome,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/fd6114db/5725cc7b/Monaco-vs-Marseille-History
 J16,Lens,Nice,,,Stade Bollaert-Delelis,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/fd4e0f7d/132ebc33/Lens-vs-Nice-History
-J16,Lyon,Le Havre,,,Groupama Stadium,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/d53c0b06/5c2737db/Lyon-vs-Le-Havre-History
 J16,Auxerre,Lille,,,Stade de l'Abbé Deschamps,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/cb188c0c/5ae09109/Lille-vs-Auxerre-History
+J16,Lyon,Le Havre,,,Groupama Stadium,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/d53c0b06/5c2737db/Lyon-vs-Le-Havre-History
+J16,Strasbourg,Lorient,,,Stade de la Meinau,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/d2c87802/c0d3eab4/Lorient-vs-Strasbourg-History
 J16,Angers,Nantes,,,Stade Raymond Kopa,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/d7a486cd/69236f98/Nantes-vs-Angers-History
 J16,Rennes,Brest,,,Roazhon Park,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/fb08dbb3/b3072e00/Brest-vs-Rennes-History
 J16,Metz,Paris S-G,,,Stade Saint-Symphorien,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/f83960ae/e2d8892c/Metz-vs-Paris-Saint-Germain-History

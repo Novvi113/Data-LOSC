@@ -1,4 +1,4 @@
-# streamlit run "/Users/matteolemesre/Desktop/Data LOSC/Github/Introduction.py"
+# streamlit run "/Users/matteolemesre/Desktop/Data Project/Data LOSC/Github/Introduction.py"
 import streamlit as st
 
 st.set_page_config(page_title="Data LOSC")
