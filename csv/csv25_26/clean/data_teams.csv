@@ -199,6 +199,24 @@ Elche,Spanish La Liga,J5,60%,556 of 634 — 88%,5 of 15 — 33%,4 of 4 —�
 Oviedo,Spanish La Liga,J5,40%,80% — 335 of 418,33% — 4 of 12,80% — 4 of 5
 Barcelona,Spanish La Liga,J5,70%,693 of 775 — 89%,7 of 16 — 44%,2 of 2 — 100%
 Getafe,Spanish La Liga,J5,30%,68% — 226 of 332,67% — 2 of 3,57% — 4 of 7
+Espanyol,Spanish La Liga,J6,56%,401 of 517 — 78%,8 of 21 — 38%,0 of 2 — 0%
+Valencia,Spanish La Liga,J6,44%,76% — 307 of 402,40% — 2 of 5,75% — 6 of 8
+Athletic Club,Spanish La Liga,J6,66%,557 of 668 — 83%,5 of 17 — 29%,2 of 3 — 66%
+Girona,Spanish La Liga,J6,34%,73% — 248 of 338,50% — 3 of 6,80% — 4 of 5
+Levante,Spanish La Liga,J6,38%,382 of 439 — 87%,2 of 11 — 18%,6 of 9 — 66%
+Real Madrid,Spanish La Liga,J6,62%,90% — 654 of 725,39% — 9 of 23,50% — 1 of 2
+Sevilla,Spanish La Liga,J6,65%,557 of 651 — 86%,2 of 16 — 13%,3 of 5 — 60%
+Villarreal,Spanish La Liga,J6,35%,79% — 280 of 355,42% — 5 of 12,50% — 1 of 2
+Getafe,Spanish La Liga,J6,46%,234 of 344 — 68%,1 of 7 — 14%,3 of 4 — 75%
+Alavés,Spanish La Liga,J6,54%,71% — 284 of 402,40% — 4 of 10,0% — 0 of 1
+Atlético Madrid,Spanish La Liga,J6,61%,543 of 633 — 86%,8 of 20 — 40%,1 of 3 — 33%
+Rayo Vallecano,Spanish La Liga,J6,39%,78% — 322 of 412,33% — 3 of 9,62% — 5 of 8
+Real Sociedad,Spanish La Liga,J6,63%,470 of 598 — 79%,3 of 17 — 18%,3 of 3 — 100%
+Mallorca,Spanish La Liga,J6,37%,72% — 249 of 344,43% — 3 of 7,66% — 2 of 3
+Osasuna,Spanish La Liga,J6,40%,311 of 410 — 76%,2 of 9 — 22%,3 of 4 — 75%
+Elche,Spanish La Liga,J6,60%,84% — 523 of 623,33% — 4 of 12,50% — 1 of 2
+Oviedo,Spanish La Liga,J6,22%,147 of 232 — 63%,3 of 7 — 43%,7 of 10 — 70%
+Barcelona,Spanish La Liga,J6,78%,90% — 749 of 833,45% — 10 of 22,66% — 2 of 3
 Napoli,Italian Serie A,J2,68%,587 of 684 — 86%,6 of 20 — 30%,1 of 1 — 100%
 Cagliari,Italian Serie A,J2,32%,81% — 266 of 327,10% — 1 of 10,83% — 5 of 6
 Pisa,Italian Serie A,J2,32%,197 of 299 — 66%,3 of 7 — 43%,4 of 5 — 80%
@@ -243,8 +261,44 @@ Eint Frankfurt,UEFA Champions League,J1,39%,277 of 379 — 73%,5 of 11 — 4
 Galatasaray,UEFA Champions League,J1,61%,85% — 502 of 593,36% — 5 of 14,40% — 2 of 5
 Torino,Italian Serie A,J2,46%,251 of 336 — 75%,4 of 7 — 57%,3 of 3 — 100%
 Fiorentina,Italian Serie A,J2,54%,82% — 324 of 397,19% — 3 of 16,100% — 4 of 4
+Midtjylland,UEFA Europa League,J1,52%,344 of 448 — 77%,5 of 7 — 71%,4 of 4 — 100%
+Sturm Graz,UEFA Europa League,J1,48%,73% — 301 of 410,36% — 4 of 11,80% — 4 of 5
+PAOK,UEFA Europa League,J1,55%,383 of 470 — 81%,4 of 18 — 22%,3 of 3 — 100%
+Maccabi Tel Aviv,UEFA Europa League,J1,45%,84% — 318 of 378,33% — 3 of 9,100% — 4 of 4
+Braga,UEFA Europa League,J1,45%,333 of 424 — 79%,2 of 8 — 25%,1 of 1 — 100%
+Feyenoord,UEFA Europa League,J1,55%,79% — 413 of 524,20% — 1 of 5,50% — 1 of 2
 Inter,Italian Serie A,J2,67%,459 of 567 — 81%,3 of 16 — 19%,3 of 4 — 75%
 Udinese,Italian Serie A,J2,33%,71% — 197 of 279,44% — 4 of 9,66% — 2 of 3
+Freiburg,UEFA Europa League,J1,48%,336 of 439 — 77%,5 of 15 — 33%,3 of 4 — 75%
+Basel,UEFA Europa League,J1,52%,81% — 383 of 475,27% — 4 of 15,60% — 3 of 5
+Red Star,UEFA Europa League,J1,47%,370 of 472 — 78%,4 of 16 — 25%,5 of 6 — 83%
+Celtic,UEFA Europa League,J1,53%,84% — 445 of 530,75% — 6 of 8,75% — 3 of 4
+Nice,UEFA Europa League,J1,43%,369 of 478 — 77%,1 of 6 — 17%,2 of 4 — 50%
+Roma,UEFA Europa League,J1,57%,82% — 518 of 630,33% — 4 of 12,100% — 1 of 1
+Betis,UEFA Europa League,J1,56%,505 of 562 — 90%,4 of 9 — 44%,4 of 6 — 66%
+Nott'ham Forest,UEFA Europa League,J1,44%,84% — 374 of 443,38% — 6 of 16,50% — 2 of 4
+Malmö,UEFA Europa League,J1,60%,531 of 630 — 84%,5 of 10 — 50%,7 of 8 — 87%
+Ludogorets,UEFA Europa League,J1,40%,78% — 330 of 424,40% — 8 of 20,80% — 4 of 5
+Dinamo Zagreb,UEFA Europa League,J1,42%,317 of 417 — 76%,3 of 11 — 27%,1 of 2 — 50%
+Fenerbahçe,UEFA Europa League,J1,58%,80% — 456 of 568,33% — 2 of 6,0% — 0 of 3
+Lille,UEFA Europa League,J1,55%,454 of 564 — 80%,4 of 17 — 24%,2 of 3 — 66%
+Brann,UEFA Europa League,J1,45%,78% — 365 of 465,25% — 3 of 12,50% — 2 of 4
+Go Ahead Eag,UEFA Europa League,J1,72%,573 of 672 — 85%,7 of 17 — 41%,5 of 6 — 83%
+FCSB,UEFA Europa League,J1,28%,71% — 180 of 255,75% — 6 of 8,100% — 7 of 7
+Aston Villa,UEFA Europa League,J1,46%,284 of 371 — 77%,3 of 11 — 27%,7 of 7 — 100%
+Bologna,UEFA Europa League,J1,54%,78% — 333 of 429,41% — 7 of 17,66% — 2 of 3
+Rangers,UEFA Europa League,J1,53%,442 of 519 — 85%,1 of 11 — 9%,2 of 3 — 66%
+Genk,UEFA Europa League,J1,47%,88% — 407 of 462,18% — 3 of 17,100% — 1 of 1
+Stuttgart,UEFA Europa League,J1,59%,548 of 636 — 86%,6 of 19 — 32%,0 of 1 — 0%
+Celta Vigo,UEFA Europa League,J1,41%,82% — 369 of 449,13% — 1 of 8,66% — 4 of 6
+Young Boys,UEFA Europa League,J1,58%,452 of 536 — 84%,3 of 19 — 16%,2 of 6 — 33%
+Panathinaikos,UEFA Europa League,J1,42%,80% — 304 of 381,33% — 6 of 18,66% — 2 of 3
+RB Salzburg,UEFA Europa League,J1,43%,306 of 391 — 78%,3 of 15 — 20%,2 of 3 — 66%
+Porto,UEFA Europa League,J1,57%,83% — 440 of 528,20% — 3 of 15,100% — 3 of 3
+Ferencváros,UEFA Europa League,J1,53%,346 of 449 — 77%,2 of 10 — 20%,2 of 3 — 66%
+Viktoria Plzeň,UEFA Europa League,J1,47%,78% — 304 of 392,33% — 3 of 9,50% — 1 of 2
+Utrecht,UEFA Europa League,J1,38%,227 of 336 — 68%,2 of 11 — 18%,3 of 4 — 75%
+Lyon,UEFA Europa League,J1,62%,83% — 450 of 545,33% — 4 of 12,100% — 2 of 2
 Genoa,Italian Serie A,J1,57%,349 of 468 — 75%,2 of 5 — 40%,0 of 0 — %
 Lecce,Italian Serie A,J1,43%,67% — 232 of 346,0% — 0 of 7,100% — 2 of 2
 Lazio,Italian Serie A,J2,70%,666 of 741 — 90%,6 of 22 — 27%,4 of 4 — 100%
