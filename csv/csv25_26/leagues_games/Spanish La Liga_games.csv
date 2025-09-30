@@ -2,7 +2,7 @@ Game Week,Home Team,Away Team,Score,Attendance,Venue,Referee,Date,URL
 J1,Girona,Rayo Vallecano,1–3,"12,403",Estadi Municipal de Montilivi,Javier Alberola,2025-08-15,https://fbref.com/en/matches/12c8079e/Girona-Rayo-Vallecano-August-15-2025-La-Liga
 J1,Villarreal,Oviedo,2–0,"18,333",Estadio de la Cerámica,Alejandro Muñíz,2025-08-15,https://fbref.com/en/matches/094ea75e/Villarreal-Oviedo-August-15-2025-La-Liga
 J1,Mallorca,Barcelona,0–3,"23,318",Estadi Mallorca Son Moix,José Luis Munuera,2025-08-16,https://fbref.com/en/matches/64fa5074/Mallorca-Barcelona-August-16-2025-La-Liga
-J1,Alavés,Levante,2–1,,Estadio de Mendizorroza,Miguel Sesma,2025-08-16,https://fbref.com/en/matches/a0d1ca80/Alaves-Levante-August-16-2025-La-Liga
+J1,Alavés,Levante,2–1,"12,837",Estadio de Mendizorroza,Miguel Sesma,2025-08-16,https://fbref.com/en/matches/a0d1ca80/Alaves-Levante-August-16-2025-La-Liga
 J1,Valencia,Real Sociedad,1–1,"45,333",Estadio de Mestalla,Jose Maria Sánchez,2025-08-16,https://fbref.com/en/matches/06f5a9d0/Valencia-Real-Sociedad-August-16-2025-La-Liga
 J1,Celta Vigo,Getafe,0–2,"20,530",Estadio Abanca Balaídos,Iosu Galech,2025-08-17,https://fbref.com/en/matches/16d1156b/Celta-Vigo-Getafe-August-17-2025-La-Liga
 J1,Athletic Club,Sevilla,3–2,"49,134",San Mamés,Francisco Hernández,2025-08-17,https://fbref.com/en/matches/74a1258d/Athletic-Club-Sevilla-August-17-2025-La-Liga
@@ -23,7 +23,7 @@ J6,Celta Vigo,Betis,1–1,"20,302",Estadio Abanca Balaídos,Jesús Gil,2025-08-2
 J3,Elche,Levante,2–0,"26,936",Estadio Manuel Martínez Valero,Iosu Galech,2025-08-29,https://fbref.com/en/matches/1b1ae5a7/Elche-Levante-August-29-2025-La-Liga
 J3,Valencia,Getafe,3–0,"45,449",Estadio de Mestalla,Francisco Hernández,2025-08-29,https://fbref.com/en/matches/abb1b26b/Valencia-Getafe-August-29-2025-La-Liga
 J3,Alavés,Atlético Madrid,1–1,"18,042",Estadio de Mendizorroza,Víctor García,2025-08-30,https://fbref.com/en/matches/74cf6cb4/Alaves-Atletico-Madrid-August-30-2025-La-Liga
-J3,Oviedo,Real Sociedad,1–0,,Estadio Nuevo Carlos Tartiere,Adrián Cordero,2025-08-30,https://fbref.com/en/matches/a87f3bf5/Oviedo-Real-Sociedad-August-30-2025-La-Liga
+J3,Oviedo,Real Sociedad,1–0,"25,688",Estadio Nuevo Carlos Tartiere,Adrián Cordero,2025-08-30,https://fbref.com/en/matches/a87f3bf5/Oviedo-Real-Sociedad-August-30-2025-La-Liga
 J3,Girona,Sevilla,0–2,"11,305",Estadi Municipal de Montilivi,Miguel Ángel Ortiz Arias,2025-08-30,https://fbref.com/en/matches/9bf5115e/Girona-Sevilla-August-30-2025-La-Liga
 J3,Real Madrid,Mallorca,2–1,"72,699",Estadio Santiago Bernabéu,Jose Maria Sánchez,2025-08-30,https://fbref.com/en/matches/9c0a49c5/Real-Madrid-Mallorca-August-30-2025-La-Liga
 J3,Celta Vigo,Villarreal,1–1,"20,172",Estadio Abanca Balaídos,Alejandro Quintero,2025-08-31,https://fbref.com/en/matches/5b403787/Celta-Vigo-Villarreal-August-31-2025-La-Liga
@@ -59,16 +59,16 @@ J6,Atlético Madrid,Rayo Vallecano,3–2,"54,098",Riyadh Air Metropolitan Stadiu
 J6,Real Sociedad,Mallorca,1–0,"22,442",Reale Arena,Iosu Galech,2025-09-24,https://fbref.com/en/matches/7c305a21/Real-Sociedad-Mallorca-September-24-2025-La-Liga
 J6,Osasuna,Elche,1–1,"19,475",Estadio El Sadar,Adrián Cordero,2025-09-25,https://fbref.com/en/matches/f9d04c1d/Osasuna-Elche-September-25-2025-La-Liga
 J6,Oviedo,Barcelona,1–3,"29,850",Estadio Nuevo Carlos Tartiere,Miguel Ángel Ortiz Arias,2025-09-25,https://fbref.com/en/matches/fa8efe81/Oviedo-Barcelona-September-25-2025-La-Liga
-J7,Girona,Espanyol,,,Estadi Municipal de Montilivi,,2025-09-26,https://fbref.com/en/stathead/matchup/teams/a8661628/9024a00a/Espanyol-vs-Girona-History
-J7,Getafe,Levante,,,Coliseum Alfonso Pérez,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/9800b6a1/7848bd64/Levante-vs-Getafe-History
-J7,Atlético Madrid,Real Madrid,,,Riyadh Air Metropolitan Stadium,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/db3b9613/53a2f082/El-Derbi-Madrileno-Atletico-Madrid-vs-Real-Madrid-History
-J7,Mallorca,Alavés,,,Estadi Mallorca Son Moix,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/8d6fd021/2aa12281/Alaves-vs-Mallorca-History
-J7,Villarreal,Athletic Club,,,Estadio de la Cerámica,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/2b390eca/2a8183b3/Athletic-Club-vs-Villarreal-History
-J7,Rayo Vallecano,Sevilla,,,Campo de Fútbol de Vallecas,,2025-09-28,https://fbref.com/en/stathead/matchup/teams/ad2be733/98e8af82/Sevilla-vs-Rayo-Vallecano-History
-J7,Elche,Celta Vigo,,,Estadio Manuel Martínez Valero,,2025-09-28,https://fbref.com/en/stathead/matchup/teams/f25da7fb/6c8b07df/Celta-Vigo-vs-Elche-History
-J7,Barcelona,Real Sociedad,,,Estadi Olímpic Lluís Companys,,2025-09-28,https://fbref.com/en/stathead/matchup/teams/e31d1cd9/206d90db/Real-Sociedad-vs-Barcelona-History
-J7,Betis,Osasuna,,,Estadio La Cartuja de Sevilla,,2025-09-28,https://fbref.com/en/stathead/matchup/teams/fc536746/03c57e2b/Real-Betis-vs-Osasuna-History
-J7,Valencia,Oviedo,,,Estadio de Mestalla,,2025-09-29,https://fbref.com/en/stathead/matchup/teams/dcc91a7b/ab358912/Valencia-vs-Oviedo-History
+J7,Girona,Espanyol,0–0,"11,488",Estadi Municipal de Montilivi,Francisco Hernández,2025-09-26,https://fbref.com/en/matches/c3953d4e/Girona-Espanyol-September-26-2025-La-Liga
+J7,Getafe,Levante,1–1,"7,749",Coliseum Alfonso Pérez,Mateo Busquets,2025-09-27,https://fbref.com/en/matches/8093d85d/Getafe-Levante-September-27-2025-La-Liga
+J7,Atlético Madrid,Real Madrid,5–2,"69,167",Riyadh Air Metropolitan Stadium,Javier Alberola,2025-09-27,https://fbref.com/en/matches/33523b09/El-Derbi-Madrileno-Atletico-Madrid-Real-Madrid-September-27-2025-La-Liga
+J7,Mallorca,Alavés,1–0,"16,275",Estadi Mallorca Son Moix,Adrián Cordero,2025-09-27,https://fbref.com/en/matches/61231d2f/Mallorca-Alaves-September-27-2025-La-Liga
+J7,Villarreal,Athletic Club,1–0,"18,908",Estadio de la Cerámica,Miguel Sesma,2025-09-27,https://fbref.com/en/matches/69831ee1/Villarreal-Athletic-Club-September-27-2025-La-Liga
+J7,Rayo Vallecano,Sevilla,0–1,"13,080",Campo de Fútbol de Vallecas,Jesús Gil,2025-09-28,https://fbref.com/en/matches/01a13602/Rayo-Vallecano-Sevilla-September-28-2025-La-Liga
+J7,Elche,Celta Vigo,2–1,"26,708",Estadio Manuel Martínez Valero,Guillermo Cuadra,2025-09-28,https://fbref.com/en/matches/fdaa9b8b/Elche-Celta-Vigo-September-28-2025-La-Liga
+J7,Barcelona,Real Sociedad,2–1,"50,103",Estadi Olímpic Lluís Companys,Alejandro Hernández,2025-09-28,https://fbref.com/en/matches/65ee8953/Barcelona-Real-Sociedad-September-28-2025-La-Liga
+J7,Betis,Osasuna,2–0,"50,034",Estadio La Cartuja de Sevilla,Víctor García,2025-09-28,https://fbref.com/en/matches/a54a3fcb/Real-Betis-Osasuna-September-28-2025-La-Liga
+J7,Valencia,Oviedo,,,Estadio de Mestalla,,2025-09-30,https://fbref.com/en/stathead/matchup/teams/dcc91a7b/ab358912/Valencia-vs-Oviedo-History
 J8,Osasuna,Getafe,,,Estadio El Sadar,,2025-10-03,https://fbref.com/en/stathead/matchup/teams/7848bd64/03c57e2b/Getafe-vs-Osasuna-History
 J8,Oviedo,Levante,,,Estadio Nuevo Carlos Tartiere,,2025-10-04,https://fbref.com/en/stathead/matchup/teams/ab358912/9800b6a1/Oviedo-vs-Levante-History
 J8,Girona,Valencia,,,Estadi Municipal de Montilivi,,2025-10-04,https://fbref.com/en/stathead/matchup/teams/dcc91a7b/9024a00a/Valencia-vs-Girona-History

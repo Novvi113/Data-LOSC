@@ -1,5 +1,5 @@
 Game Week,Home Team,Away Team,Score,Attendance,Venue,Referee,Date,URL
-J1,Bayern Munich,RB Leipzig,6–0,,Allianz Arena,Florian Badstübner,2025-08-22,https://fbref.com/en/matches/8eb0f477/Bayern-Munich-RB-Leipzig-August-22-2025-Bundesliga
+J1,Bayern Munich,RB Leipzig,6–0,"75,000",Allianz Arena,Florian Badstübner,2025-08-22,https://fbref.com/en/matches/8eb0f477/Bayern-Munich-RB-Leipzig-August-22-2025-Bundesliga
 J1,Eint Frankfurt,Werder Bremen,4–1,"59,500",Deutsche Bank Park,Harm Osmers,2025-08-23,https://fbref.com/en/matches/c5a0f8ab/Eintracht-Frankfurt-Werder-Bremen-August-23-2025-Bundesliga
 J1,Freiburg,Augsburg,1–3,"33,600",Europa-Park Stadion,Felix Zwayer,2025-08-23,https://fbref.com/en/matches/88a38ef6/Freiburg-Augsburg-August-23-2025-Bundesliga
 J1,Union Berlin,Stuttgart,2–1,"22,012",Stadion An der Alten Försterei,Robert Hartmann,2025-08-23,https://fbref.com/en/matches/b7adc246/Union-Berlin-Stuttgart-August-23-2025-Bundesliga
@@ -8,7 +8,7 @@ J1,Leverkusen,Hoffenheim,1–2,"29,390",BayArena,Daniel Siebert,2025-08-23,https
 J1,St. Pauli,Dortmund,3–3,"29,546",Millerntor-Stadion,Matthias Jöllenbeck,2025-08-23,https://fbref.com/en/matches/243e124a/St-Pauli-Dortmund-August-23-2025-Bundesliga
 J1,Mainz 05,Köln,0–1,"33,305",Mewa Arena,Tobias Stieler,2025-08-24,https://fbref.com/en/matches/1118532c/Mainz-05-Koln-August-24-2025-Bundesliga
 J1,Gladbach,Hamburger SV,0–0,"54,042",Stadion im Borussia-Park,Sascha Stegemann,2025-08-24,https://fbref.com/en/matches/fd0e77f1/Monchengladbach-Hamburger-SV-August-24-2025-Bundesliga
-J2,Hamburger SV,St. Pauli,0–2,,Volksparkstadion,Christian Dingert,2025-08-29,https://fbref.com/en/matches/c2913887/Hamburger-SV-St-Pauli-August-29-2025-Bundesliga
+J2,Hamburger SV,St. Pauli,0–2,"57,000",Volksparkstadion,Christian Dingert,2025-08-29,https://fbref.com/en/matches/c2913887/Hamburger-SV-St-Pauli-August-29-2025-Bundesliga
 J2,Werder Bremen,Leverkusen,3–3,"42,100",Weserstadion,Robin Braun,2025-08-30,https://fbref.com/en/matches/8d20b088/Werder-Bremen-Bayer-Leverkusen-August-30-2025-Bundesliga
 J2,Stuttgart,Gladbach,1–0,"60,000",MHPArena,Sven Jablonski,2025-08-30,https://fbref.com/en/matches/cc790c96/Stuttgart-Monchengladbach-August-30-2025-Bundesliga
 J2,Hoffenheim,Eint Frankfurt,1–3,"30,150",PreZero Arena,Timo Gerach,2025-08-30,https://fbref.com/en/matches/3dd41a40/Hoffenheim-Eintracht-Frankfurt-August-30-2025-Bundesliga
@@ -16,17 +16,17 @@ J2,RB Leipzig,Heidenheim,2–0,"43,495",Red Bull Arena,Frank Willenborg,2025-08-
 J2,Augsburg,Bayern Munich,2–3,"30,660",WWK Arena,Florian Exner,2025-08-30,https://fbref.com/en/matches/ea3ae751/Augsburg-Bayern-Munich-August-30-2025-Bundesliga
 J2,Wolfsburg,Mainz 05,1–1,"21,893",Volkswagen Arena,Sören Storks,2025-08-31,https://fbref.com/en/matches/e8d01789/Wolfsburg-Mainz-05-August-31-2025-Bundesliga
 J2,Dortmund,Union Berlin,3–0,"81,365",Signal Iduna Park,Daniel Schlager,2025-08-31,https://fbref.com/en/matches/217ef044/Dortmund-Union-Berlin-August-31-2025-Bundesliga
-J2,Köln,Freiburg,4–1,,RheinEnergieSTADION,Tobias Reichel,2025-08-31,https://fbref.com/en/matches/4291408f/Koln-Freiburg-August-31-2025-Bundesliga
-J3,Leverkusen,Eint Frankfurt,3–1,,BayArena,Deniz Aytekin,2025-09-12,https://fbref.com/en/matches/09882b39/Bayer-Leverkusen-Eintracht-Frankfurt-September-12-2025-Bundesliga
+J2,Köln,Freiburg,4–1,"50,000",RheinEnergieSTADION,Tobias Reichel,2025-08-31,https://fbref.com/en/matches/4291408f/Koln-Freiburg-August-31-2025-Bundesliga
+J3,Leverkusen,Eint Frankfurt,3–1,"30,210",BayArena,Deniz Aytekin,2025-09-12,https://fbref.com/en/matches/09882b39/Bayer-Leverkusen-Eintracht-Frankfurt-September-12-2025-Bundesliga
 J3,Union Berlin,Hoffenheim,2–4,"21,732",Stadion An der Alten Försterei,Tobias Welz,2025-09-13,https://fbref.com/en/matches/09242157/Union-Berlin-Hoffenheim-September-13-2025-Bundesliga
 J3,Freiburg,Stuttgart,3–1,"34,700",Europa-Park Stadion,Daniel Siebert,2025-09-13,https://fbref.com/en/matches/47deb66f/Freiburg-Stuttgart-September-13-2025-Bundesliga
 J3,Wolfsburg,Köln,3–3,"28,917",Volkswagen Arena,Bastian Dankert,2025-09-13,https://fbref.com/en/matches/a7819671/Wolfsburg-Koln-September-13-2025-Bundesliga
 J3,Mainz 05,RB Leipzig,0–1,"30,000",Mewa Arena,Sven Jablonski,2025-09-13,https://fbref.com/en/matches/f99e3c2d/Mainz-05-RB-Leipzig-September-13-2025-Bundesliga
 J3,Heidenheim,Dortmund,0–2,"15,000",Voith-Arena,Felix Zwayer,2025-09-13,https://fbref.com/en/matches/906ce9a1/Heidenheim-Dortmund-September-13-2025-Bundesliga
 J3,Bayern Munich,Hamburger SV,5–0,"75,000",Allianz Arena,Tobias Stieler,2025-09-13,https://fbref.com/en/matches/91e6a499/Bayern-Munich-Hamburger-SV-September-13-2025-Bundesliga
-J3,St. Pauli,Augsburg,2–1,,Millerntor-Stadion,Harm Osmers,2025-09-14,https://fbref.com/en/matches/940c2e4e/St-Pauli-Augsburg-September-14-2025-Bundesliga
+J3,St. Pauli,Augsburg,2–1,"29,546",Millerntor-Stadion,Harm Osmers,2025-09-14,https://fbref.com/en/matches/940c2e4e/St-Pauli-Augsburg-September-14-2025-Bundesliga
 J3,Gladbach,Werder Bremen,0–4,"52,653",Stadion im Borussia-Park,Matthias Jöllenbeck,2025-09-14,https://fbref.com/en/matches/3b5873a4/Monchengladbach-Werder-Bremen-September-14-2025-Bundesliga
-J4,Stuttgart,St. Pauli,2–0,,MHPArena,Sascha Stegemann,2025-09-19,https://fbref.com/en/matches/44d66179/Stuttgart-St-Pauli-September-19-2025-Bundesliga
+J4,Stuttgart,St. Pauli,2–0,"60,000",MHPArena,Sascha Stegemann,2025-09-19,https://fbref.com/en/matches/44d66179/Stuttgart-St-Pauli-September-19-2025-Bundesliga
 J4,Werder Bremen,Freiburg,0–3,"40,500",Weserstadion,Timo Gerach,2025-09-20,https://fbref.com/en/matches/a7e96019/Werder-Bremen-Freiburg-September-20-2025-Bundesliga
 J4,Augsburg,Mainz 05,1–4,"29,162",WWK Arena,Daniel Schlager,2025-09-20,https://fbref.com/en/matches/a959bbb1/Augsburg-Mainz-05-September-20-2025-Bundesliga
 J4,Hoffenheim,Bayern Munich,1–4,"30,150",PreZero Arena,Robert Hartmann,2025-09-20,https://fbref.com/en/matches/f7a59cca/Hoffenheim-Bayern-Munich-September-20-2025-Bundesliga
@@ -35,15 +35,15 @@ J4,RB Leipzig,Köln,3–1,"47,117",Red Bull Arena,Benjamin Brand,2025-09-20,http
 J4,Eint Frankfurt,Union Berlin,3–4,"59,500",Deutsche Bank Park,Sven Jablonski,2025-09-21,https://fbref.com/en/matches/448ea72f/Eintracht-Frankfurt-Union-Berlin-September-21-2025-Bundesliga
 J4,Leverkusen,Gladbach,1–1,"30,210",BayArena,Felix Zwayer,2025-09-21,https://fbref.com/en/matches/9d5112e8/Bayer-Leverkusen-Monchengladbach-September-21-2025-Bundesliga
 J4,Dortmund,Wolfsburg,1–0,"81,365",Signal Iduna Park,Daniel Siebert,2025-09-21,https://fbref.com/en/matches/d3e98705/Dortmund-Wolfsburg-September-21-2025-Bundesliga
-J5,Bayern Munich,Werder Bremen,,,Allianz Arena,,2025-09-26,https://fbref.com/en/stathead/matchup/teams/62add3bf/054efa67/Werder-Bremen-vs-Bayern-Munich-History
-J5,Mainz 05,Dortmund,,,Mewa Arena,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/add600ae/a224b06a/Dortmund-vs-Mainz-05-History
-J5,St. Pauli,Leverkusen,,,Millerntor-Stadion,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/c7a9f859/54864664/Leverkusen-vs-St-Pauli-History
-J5,Wolfsburg,RB Leipzig,,,Volkswagen Arena,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/acbb6a5b/4eaa11d7/RB-Leipzig-vs-Wolfsburg-History
-J5,Heidenheim,Augsburg,,,Voith-Arena,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/18d9d2a7/0cdc4311/Heidenheim-vs-Augsburg-History
-J5,Gladbach,Eint Frankfurt,,,Stadion im Borussia-Park,,2025-09-27,https://fbref.com/en/stathead/matchup/teams/f0ac8ee6/32f3ee20/Eintracht-Frankfurt-vs-Monchengladbach-History
-J5,Freiburg,Hoffenheim,,,Europa-Park Stadion,,2025-09-28,https://fbref.com/en/stathead/matchup/teams/a486e511/033ea6b8/Freiburg-vs-Hoffenheim-History
-J5,Köln,Stuttgart,,,RheinEnergieSTADION,,2025-09-28,https://fbref.com/en/stathead/matchup/teams/bc357bf7/598bc722/Koln-vs-Stuttgart-History
-J5,Union Berlin,Hamburger SV,,,Stadion An der Alten Försterei,,2025-09-28,https://fbref.com/en/stathead/matchup/teams/7a41008f/26790c6a/Union-Berlin-vs-Hamburger-SV-History
+J5,Bayern Munich,Werder Bremen,4–0,"75,000",Allianz Arena,Frank Willenborg,2025-09-26,https://fbref.com/en/matches/a50ce74d/Bayern-Munich-Werder-Bremen-September-26-2025-Bundesliga
+J5,Mainz 05,Dortmund,0–2,"33,305",Mewa Arena,Tobias Reichel,2025-09-27,https://fbref.com/en/matches/92fc78f1/Mainz-05-Dortmund-September-27-2025-Bundesliga
+J5,St. Pauli,Leverkusen,1–2,"29,546",Millerntor-Stadion,Martin Petersen,2025-09-27,https://fbref.com/en/matches/a35c04e4/St-Pauli-Bayer-Leverkusen-September-27-2025-Bundesliga
+J5,Wolfsburg,RB Leipzig,0–1,"23,236",Volkswagen Arena,Robin Braun,2025-09-27,https://fbref.com/en/matches/914fabb2/Wolfsburg-RB-Leipzig-September-27-2025-Bundesliga
+J5,Heidenheim,Augsburg,2–1,"15,000",Voith-Arena,Tobias Welz,2025-09-27,https://fbref.com/en/matches/d445268d/Heidenheim-Augsburg-September-27-2025-Bundesliga
+J5,Gladbach,Eint Frankfurt,4–6,"54,042",Stadion im Borussia-Park,Florian Exner,2025-09-27,https://fbref.com/en/matches/5212aa89/Monchengladbach-Eintracht-Frankfurt-September-27-2025-Bundesliga
+J5,Freiburg,Hoffenheim,1–1,"33,700",Europa-Park Stadion,Bastian Dankert,2025-09-28,https://fbref.com/en/matches/a20222e0/Freiburg-Hoffenheim-September-28-2025-Bundesliga
+J5,Köln,Stuttgart,1–2,"50,000",RheinEnergieSTADION,Matthias Jöllenbeck,2025-09-28,https://fbref.com/en/matches/00e4ff0d/Koln-Stuttgart-September-28-2025-Bundesliga
+J5,Union Berlin,Hamburger SV,0–0,"22,012",Stadion An der Alten Försterei,Deniz Aytekin,2025-09-28,https://fbref.com/en/matches/1c8580bc/Union-Berlin-Hamburger-SV-September-28-2025-Bundesliga
 J6,Hoffenheim,Köln,,,PreZero Arena,,2025-10-03,https://fbref.com/en/stathead/matchup/teams/bc357bf7/033ea6b8/Koln-vs-Hoffenheim-History
 J6,Dortmund,RB Leipzig,,,Signal Iduna Park,,2025-10-04,https://fbref.com/en/stathead/matchup/teams/add600ae/acbb6a5b/Dortmund-vs-RB-Leipzig-History
 J6,Augsburg,Wolfsburg,,,WWK Arena,,2025-10-04,https://fbref.com/en/stathead/matchup/teams/4eaa11d7/0cdc4311/Wolfsburg-vs-Augsburg-History
