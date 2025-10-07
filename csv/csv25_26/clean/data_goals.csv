@@ -285,6 +285,20 @@ Aarón Escandell,J8,Oviedo,Spanish La Liga,ESP,GK,Goalkeeper,30,90,5.0,2.0,3.0,2
 Mathew Ryan,J8,Levante,Spanish La Liga,AUS,GK,Goalkeeper,33,90,2.0,0.0,2.0,0.5,0.5,1,8.0,20,32.0,4.0,1184.0,10.0,434.0,24,0.0,0.0,0.0
 Paulo Gazzaniga,J8,Girona,Spanish La Liga,ARG,GK,Goalkeeper,33,90,6.0,1.0,5.0,1.0,0.0,0,4.0,16,28.0,3.0,1005.2,6.0,400.8,15,0.0,2.0,47.0
 Julen Agirrezabala,J8,Valencia,Spanish La Liga,ESP,GK,Goalkeeper,24,90,4.0,2.0,2.0,1.8,-0.2,0,1.0,6,26.0,5.0,689.0,3.0,102.0,8,0.0,0.0,0.0
+Unai Simón,J8,Athletic Club,Spanish La Liga,ESP,GK,Goalkeeper,28,90,2.0,1.0,1.0,0.2,-0.8,0,6.0,11,20.0,1.0,704.0,4.0,269.2,13,0.0,5.0,136.0
+Leo Román,J8,Mallorca,Spanish La Liga,ESP,GK,Goalkeeper,25,90,5.0,2.0,3.0,1.7,-0.3,0,6.0,12,26.0,6.0,928.2,5.0,229.0,28,3.0,0.0,0.0
+Thibaut Courtois,J8,Real Madrid,Spanish La Liga,BEL,GK,Goalkeeper,33,90,2.0,1.0,1.0,1.0,0.0,0,2.0,5,16.0,3.0,492.8,4.0,90.0,4,0.0,0.0,0.0
+Arnau Tenas,J8,Villarreal,Spanish La Liga,ESP,GK,Goalkeeper,24,90,7.0,3.0,4.0,2.6,-0.4,0,5.0,18,18.0,0.0,739.8,13.0,716.3,8,0.0,1.0,23.0
+Antonio Sivera,J8,Alavés,Spanish La Liga,ESP,GK,Goalkeeper,29,90,3.0,1.0,2.0,0.2,-0.8,0,3.0,5,17.0,2.0,501.5,0.0,0.0,9,0.0,0.0,0.0
+Iñaki Peña,J8,Elche,Spanish La Liga,ESP,GK,Goalkeeper,26,90,5.0,3.0,2.0,2.6,-0.4,0,4.0,13,41.0,5.0,1066.0,6.0,307.8,27,0.0,1.0,12.7
+Odysseas Vlachodimos,J8,Sevilla,Spanish La Liga,GRE,GK,Goalkeeper,31,90,8.0,1.0,7.0,2.4,1.4,0,11.0,24,31.0,4.0,1336.1,8.0,376.0,13,0.0,0.0,0.0
+Wojciech Szczęsny,J8,Barcelona,Spanish La Liga,POL,GK,Goalkeeper,35,90,5.0,4.0,1.0,3.2,-0.8,0,0.0,6,33.0,3.0,815.1,4.0,71.2,10,0.0,2.0,37.6
+Álex Remiro,J8,Real Sociedad,Spanish La Liga,ESP,GK,Goalkeeper,30,90,2.0,1.0,1.0,0.6,-0.4,0,13.0,19,41.0,7.0,1426.8,4.0,95.2,10,1.0,2.0,25.6
+Augusto Batalla,J8,Rayo Vallecano,Spanish La Liga,ARG,GK,Goalkeeper,29,90,3.0,0.0,3.0,1.0,1.0,1,9.0,20,35.0,4.0,1393.0,4.0,176.0,16,4.0,0.0,0.0
+Marko Dmitrović,J8,Espanyol,Spanish La Liga,SRB,GK,Goalkeeper,33,90,3.0,2.0,1.0,1.5,-0.5,0,4.0,13,24.0,4.0,996.0,4.0,161.2,15,2.0,3.0,53.7
+Pau López,J8,Betis,Spanish La Liga,ESP,GK,Goalkeeper,30,90,5.0,1.0,3.0,2.4,1.4,0,5.0,13,25.0,4.0,865.0,11.0,583.0,28,0.0,0.0,0.0
+Ionuț Radu,J8,Celta Vigo,Spanish La Liga,ROU,GK,Goalkeeper,28,90,1.0,1.0,1.0,0.2,-0.8,0,1.0,2,12.0,1.0,327.6,5.0,107.0,7,0.0,0.0,0.0
+Jan Oblak,J8,Atlético Madrid,Spanish La Liga,SVN,GK,Goalkeeper,32,90,4.0,1.0,3.0,1.3,0.3,0,13.0,20,33.0,2.0,1089.0,11.0,652.3,15,1.0,4.0,84.8
 Alex Meret,J2,Napoli,Italian Serie A,ITA,GK,Goalkeeper,28,90,1.0,0.0,1.0,0.0,0.0,1,0.0,0,16.0,3.0,300.8,9.0,204.3,3,0.0,1.0,21.0
 Elia Caprile,J2,Cagliari,Italian Serie A,ITA,GK,Goalkeeper,24,90,6.0,1.0,5.0,1.0,0.0,0,7.0,19,35.0,5.0,1379.0,5.0,206.0,38,4.0,0.0,0.0
 Adrian Šemper,J2,Pisa,Italian Serie A,CRO,GK,Goalkeeper,27,90,5.0,1.0,4.0,0.9,-0.1,0,9.0,23,34.0,1.0,1526.6,0.0,0.0,20,0.0,0.0,0.0
@@ -479,6 +493,8 @@ Kacper Trelowski,J1,Raków,UEFA Europa Conference League,POL,GK,Goalkeeper,22,90
 Pavlo Isenko,J1,CS U Craiova,UEFA Europa Conference League,UKR,GK,Goalkeeper,22,90,10.0,2.0,8.0,1.3,-0.7,0,4.0,9,30.0,4.0,954.0,10.0,167.0,21,0.0,0.0,0.0
 Dominik Takáč,J1,Slovan Bratislava,UEFA Europa Conference League,SVK,GK,Goalkeeper,26,90,4.0,2.0,3.0,1.2,-0.8,0,3.0,9,31.0,1.0,992.0,3.0,71.1,2,0.0,4.0,82.0
 Mike Penders,J1,Strasbourg,UEFA Europa Conference League,BEL,GK,Goalkeeper,20,90,5.0,1.0,4.0,0.7,-0.3,0,5.0,11,62.0,0.0,1574.8,2.0,123.0,22,0.0,1.0,12.2
+Žan Leban,J1,NK Celje,UEFA Europa Conference League,SVN,GK,Goalkeeper,23,90,5.0,1.0,4.0,1.1,0.1,0,1.0,6,31.0,4.0,781.2,3.0,123.9,10,0.0,3.0,53.4
+Thomas Strakosha,J1,AEK Athens,UEFA Europa Conference League,ALB,GK,Goalkeeper,30,90,9.0,3.0,6.0,4.3,1.3,0,1.0,4,13.0,4.0,361.4,3.0,60.9,16,3.0,0.0,0.0
 Zlatan Alomerović,J1,AÉK Lárnaka,UEFA Europa Conference League,GER,GK,Goalkeeper,34,90,2.0,0.0,2.0,0.1,0.1,1,1.0,3,18.0,2.0,459.0,3.0,107.1,5,0.0,2.0,33.4
 Rome-Jayden Owusu-Oduro,J1,AZ Alkmaar,UEFA Europa Conference League,NED,GK,Goalkeeper,21,90,10.0,4.0,6.0,4.2,0.2,0,7.0,21,18.0,2.0,707.4,11.0,752.4,29,1.0,0.0,0.0
 Michele Di Gregorio,J3,Juventus,Italian Serie A,ITA,GK,Goalkeeper,28,90,4.0,3.0,1.0,1.1,-1.9,0,0.0,5,24.0,6.0,722.4,4.0,122.0,30,1.0,0.0,0.0
