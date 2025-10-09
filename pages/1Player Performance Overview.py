@@ -179,19 +179,25 @@ if season_code:
                     df_metrics = df_metrics[[col for col in df_metrics.columns if col.endswith("Index")]]
                     st.dataframe(df_metrics.T)
                     
-                st.subheader("🧮 Adjusted Stats + Percentiles (All Features)")
+                st.subheader("🧮 Adjusted Stats + Percentiles + Aggregated Totals (All Features)")
+
                 for player in selected_players:
                     file_name = "data_goals_adjusted.csv" if 'Goalkeeper' in positions else "data_players_adjusted.csv"
                     df_adj_path = os.path.join(path_folder, f"centiles/{file_name}")
                     df_adj = pd.read_csv(df_adj_path)
 
                     stats_absolute = df_adj[
-                        (df_adj["Player"] == player) & 
+                        (df_adj["Player"] == player) &
                         (df_adj['General Position'].isin(positions))
                     ]
 
                     stats_percentiles = df_radar[
                         (df_radar["Player"] == player)
+                    ]
+
+                    stats_aggregated = df_global[
+                        (df_global["Player"] == player) &
+                        (df_global['General Position'].isin(positions))
                     ]
 
                     df_merged = pd.merge(
@@ -201,8 +207,15 @@ if season_code:
                         suffixes=("_abs", "_pct")
                     )
 
-                    deleted_stats = ['Matches', 'Minutes', 'Age', 'Nationality', 'Born', 'Squad', 'Team', 'Starts', 'Team(s)', 'League(s)', 'League', 'General Position', 'Position']
-                    common_stats = [col.replace("_abs", "") for col in df_merged.columns if col.endswith("_abs") and col.replace("_abs", "") not in deleted_stats]
+                    deleted_stats = [
+                        'Matches', 'Minutes', 'Age', 'Nationality', 'Born', 'Squad', 'Team', 'Starts',
+                        'Team(s)', 'League(s)', 'League', 'General Position', 'Position'
+                    ]
+
+                    common_stats = [
+                        col.replace("_abs", "") for col in df_merged.columns
+                        if col.endswith("_abs") and col.replace("_abs", "") not in deleted_stats
+                    ]
 
                     valid_stats = []
                     for stat in common_stats:
@@ -210,11 +223,20 @@ if season_code:
                         if not (abs_val.isnull().all() or abs_val.sum() == 0):
                             valid_stats.append(stat)
 
+                    aggregated_values = []
+                    for stat in valid_stats:
+                        if stat in stats_aggregated.columns:
+                            aggregated_values.append(stats_aggregated[stat].values[0])
+                        else:
+                            aggregated_values.append(np.nan)
+
                     df_combined = pd.DataFrame({
                         "Stat": valid_stats,
                         "Per 90 min or Percentage": [df_merged[f"{stat}_abs"].values[0] for stat in valid_stats],
+                        "Aggregated (Total)": aggregated_values,
                         "Percentile": [df_merged[f"{stat}_pct"].values[0] for stat in valid_stats]
                     }).set_index("Stat")
 
                     st.markdown(f"### 🔎 {player}")
                     st.dataframe(df_combined.sort_index(), use_container_width=True)
+
