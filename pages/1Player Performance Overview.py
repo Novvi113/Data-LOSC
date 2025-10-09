@@ -179,7 +179,7 @@ if season_code:
                     df_metrics = df_metrics[[col for col in df_metrics.columns if col.endswith("Index")]]
                     st.dataframe(df_metrics.T)
                     
-                st.subheader("🧮 Adjusted Stats + Percentiles + Aggregated Totals (All Features)")
+                st.subheader("🧮 Adjusted Stats + Aggregated Totals + Percentiles (All Features)")
 
                 for player in selected_players:
                     file_name = "data_goals_adjusted.csv" if 'Goalkeeper' in positions else "data_players_adjusted.csv"
