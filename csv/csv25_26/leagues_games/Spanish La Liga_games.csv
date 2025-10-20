@@ -79,15 +79,15 @@ J8,Sevilla,Barcelona,4–1,"41,040",Estadio Ramón Sánchez Pizjuán,Alejandro M
 J8,Real Sociedad,Rayo Vallecano,0–1,"31,189",Reale Arena,José Guzmán,2025-10-05,https://fbref.com/en/matches/301cda5f/Real-Sociedad-Rayo-Vallecano-October-5-2025-La-Liga
 J8,Espanyol,Betis,1–2,"32,778",RCDE Stadium,Iosu Galech,2025-10-05,https://fbref.com/en/matches/a8f0fd7e/Espanyol-Real-Betis-October-5-2025-La-Liga
 J8,Celta Vigo,Atlético Madrid,1–1,"20,877",Estadio Abanca Balaídos,César Soto,2025-10-05,https://fbref.com/en/matches/07058ac6/Celta-Vigo-Atletico-Madrid-October-5-2025-La-Liga
-J9,Oviedo,Espanyol,,,Estadio Nuevo Carlos Tartiere,,2025-10-17,https://fbref.com/en/stathead/matchup/teams/ab358912/a8661628/Oviedo-vs-Espanyol-History
-J9,Sevilla,Mallorca,,,Estadio Ramón Sánchez Pizjuán,,2025-10-18,https://fbref.com/en/stathead/matchup/teams/ad2be733/2aa12281/Sevilla-vs-Mallorca-History
-J9,Barcelona,Girona,,,Spotify Camp Nou,,2025-10-18,https://fbref.com/en/stathead/matchup/teams/9024a00a/206d90db/Girona-vs-Barcelona-History
-J9,Villarreal,Betis,,,Estadio de la Cerámica,,2025-10-18,https://fbref.com/en/stathead/matchup/teams/fc536746/2a8183b3/Real-Betis-vs-Villarreal-History
-J9,Atlético Madrid,Osasuna,,,Riyadh Air Metropolitan Stadium,,2025-10-18,https://fbref.com/en/stathead/matchup/teams/db3b9613/03c57e2b/Atletico-Madrid-vs-Osasuna-History
-J9,Elche,Athletic Club,,,Estadio Manuel Martínez Valero,,2025-10-19,https://fbref.com/en/stathead/matchup/teams/6c8b07df/2b390eca/Elche-vs-Athletic-Club-History
-J9,Celta Vigo,Real Sociedad,,,Estadio Abanca Balaídos,,2025-10-19,https://fbref.com/en/stathead/matchup/teams/f25da7fb/e31d1cd9/Celta-Vigo-vs-Real-Sociedad-History
-J9,Levante,Rayo Vallecano,,,Estadio Ciudad de Valencia,,2025-10-19,https://fbref.com/en/stathead/matchup/teams/98e8af82/9800b6a1/Rayo-Vallecano-vs-Levante-History
-J9,Getafe,Real Madrid,,,Coliseum Alfonso Pérez,,2025-10-19,https://fbref.com/en/stathead/matchup/teams/7848bd64/53a2f082/Getafe-vs-Real-Madrid-History
+J9,Oviedo,Espanyol,0–2,"25,625",Estadio Nuevo Carlos Tartiere,Mateo Busquets,2025-10-17,https://fbref.com/en/matches/8dcc7a17/Oviedo-Espanyol-October-17-2025-La-Liga
+J9,Sevilla,Mallorca,1–3,"37,008",Estadio Ramón Sánchez Pizjuán,Víctor García,2025-10-18,https://fbref.com/en/matches/feb28348/Sevilla-Mallorca-October-18-2025-La-Liga
+J9,Barcelona,Girona,2–1,"43,172",Estadi Olímpic Lluís Companys,Jesús Gil,2025-10-18,https://fbref.com/en/matches/e1d1e807/Barcelona-Girona-October-18-2025-La-Liga
+J9,Villarreal,Betis,2–2,"19,238",Estadio de la Cerámica,Francisco Hernández,2025-10-18,https://fbref.com/en/matches/2cb774e5/Villarreal-Real-Betis-October-18-2025-La-Liga
+J9,Atlético Madrid,Osasuna,1–0,"62,884",Riyadh Air Metropolitan Stadium,Ricardo de Burgos,2025-10-18,https://fbref.com/en/matches/d8332af4/Atletico-Madrid-Osasuna-October-18-2025-La-Liga
+J9,Elche,Athletic Club,0–0,"29,043",Estadio Manuel Martínez Valero,José Guzmán,2025-10-19,https://fbref.com/en/matches/f76197a8/Elche-Athletic-Club-October-19-2025-La-Liga
+J9,Celta Vigo,Real Sociedad,1–1,"19,102",Estadio Abanca Balaídos,Juan Martínez,2025-10-19,https://fbref.com/en/matches/80c28734/Celta-Vigo-Real-Sociedad-October-19-2025-La-Liga
+J9,Levante,Rayo Vallecano,0–3,"20,312",Estadio Ciudad de Valencia,Miguel Sesma,2025-10-19,https://fbref.com/en/matches/f38a8a8a/Levante-Rayo-Vallecano-October-19-2025-La-Liga
+J9,Getafe,Real Madrid,0–1,"10,090",Coliseum Alfonso Pérez,José Luis Munuera,2025-10-19,https://fbref.com/en/matches/cc0d078a/Getafe-Real-Madrid-October-19-2025-La-Liga
 J9,Alavés,Valencia,,,Estadio de Mendizorroza,,2025-10-20,https://fbref.com/en/stathead/matchup/teams/dcc91a7b/8d6fd021/Valencia-vs-Alaves-History
 J10,Real Sociedad,Sevilla,,,Reale Arena,,2025-10-24,https://fbref.com/en/stathead/matchup/teams/e31d1cd9/ad2be733/Real-Sociedad-vs-Sevilla-History
 J10,Girona,Oviedo,,,Estadi Municipal de Montilivi,,2025-10-25,https://fbref.com/en/stathead/matchup/teams/ab358912/9024a00a/Oviedo-vs-Girona-History
@@ -109,35 +109,35 @@ J11,Alavés,Espanyol,,,Estadio de Mendizorroza,,2025-11-02,https://fbref.com/en/
 J11,Barcelona,Elche,,,Spotify Camp Nou,,2025-11-02,https://fbref.com/en/stathead/matchup/teams/6c8b07df/206d90db/Elche-vs-Barcelona-History
 J11,Betis,Mallorca,,,Estadio La Cartuja de Sevilla,,2025-11-02,https://fbref.com/en/stathead/matchup/teams/fc536746/2aa12281/Real-Betis-vs-Mallorca-History
 J11,Oviedo,Osasuna,,,Estadio Nuevo Carlos Tartiere,,2025-11-03,https://fbref.com/en/stathead/matchup/teams/ab358912/03c57e2b/Oviedo-vs-Osasuna-History
+J12,Elche,Real Sociedad,,,Estadio Manuel Martínez Valero,,2025-11-07,https://fbref.com/en/stathead/matchup/teams/e31d1cd9/6c8b07df/Real-Sociedad-vs-Elche-History
+J12,Girona,Alavés,,,Estadi Municipal de Montilivi,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/9024a00a/8d6fd021/Girona-vs-Alaves-History
+J12,Sevilla,Osasuna,,,Estadio Ramón Sánchez Pizjuán,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/ad2be733/03c57e2b/Sevilla-vs-Osasuna-History
+J12,Atlético Madrid,Levante,,,Riyadh Air Metropolitan Stadium,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/db3b9613/9800b6a1/Atletico-Madrid-vs-Levante-History
+J12,Espanyol,Villarreal,,,RCDE Stadium,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/a8661628/2a8183b3/Espanyol-vs-Villarreal-History
 J12,Athletic Club,Oviedo,,,San Mamés,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/ab358912/2b390eca/Oviedo-vs-Athletic-Club-History
-J12,Atlético Madrid,Levante,,,Riyadh Air Metropolitan Stadium,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/db3b9613/9800b6a1/Atletico-Madrid-vs-Levante-History
-J12,Celta Vigo,Barcelona,,,Estadio Abanca Balaídos,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/f25da7fb/206d90db/Celta-Vigo-vs-Barcelona-History
-J12,Elche,Real Sociedad,,,Estadio Manuel Martínez Valero,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/e31d1cd9/6c8b07df/Real-Sociedad-vs-Elche-History
-J12,Valencia,Betis,,,Estadio de Mestalla,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/fc536746/dcc91a7b/Real-Betis-vs-Valencia-History
-J12,Mallorca,Getafe,,,Estadi Mallorca Son Moix,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/7848bd64/2aa12281/Getafe-vs-Mallorca-History
 J12,Rayo Vallecano,Real Madrid,,,Campo de Fútbol de Vallecas,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/98e8af82/53a2f082/Rayo-Vallecano-vs-Real-Madrid-History
-J12,Girona,Alavés,,,Estadi Municipal de Montilivi,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/9024a00a/8d6fd021/Girona-vs-Alaves-History
-J12,Sevilla,Osasuna,,,Estadio Ramón Sánchez Pizjuán,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/ad2be733/03c57e2b/Sevilla-vs-Osasuna-History
-J12,Espanyol,Villarreal,,,RCDE Stadium,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/a8661628/2a8183b3/Espanyol-vs-Villarreal-History
-J13,Getafe,Atlético Madrid,,,Coliseum Alfonso Pérez,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/db3b9613/7848bd64/Atletico-Madrid-vs-Getafe-History
+J12,Mallorca,Getafe,,,Estadi Mallorca Son Moix,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/7848bd64/2aa12281/Getafe-vs-Mallorca-History
+J12,Valencia,Betis,,,Estadio de Mestalla,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/fc536746/dcc91a7b/Real-Betis-vs-Valencia-History
+J12,Celta Vigo,Barcelona,,,Estadio Abanca Balaídos,,2025-11-09,https://fbref.com/en/stathead/matchup/teams/f25da7fb/206d90db/Celta-Vigo-vs-Barcelona-History
+J13,Barcelona,Athletic Club,,,Spotify Camp Nou,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/2b390eca/206d90db/Athletic-Club-vs-Barcelona-History
 J13,Alavés,Celta Vigo,,,Estadio de Mendizorroza,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/f25da7fb/8d6fd021/Celta-Vigo-vs-Alaves-History
 J13,Oviedo,Rayo Vallecano,,,Estadio Nuevo Carlos Tartiere,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/ab358912/98e8af82/Oviedo-vs-Rayo-Vallecano-History
 J13,Osasuna,Real Sociedad,,,Estadio El Sadar,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/e31d1cd9/03c57e2b/Real-Sociedad-vs-Osasuna-History
 J13,Elche,Real Madrid,,,Estadio Manuel Martínez Valero,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/6c8b07df/53a2f082/Elche-vs-Real-Madrid-History
 J13,Espanyol,Sevilla,,,RCDE Stadium,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/ad2be733/a8661628/Sevilla-vs-Espanyol-History
-J13,Barcelona,Athletic Club,,,Spotify Camp Nou,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/2b390eca/206d90db/Athletic-Club-vs-Barcelona-History
+J13,Getafe,Atlético Madrid,,,Coliseum Alfonso Pérez,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/db3b9613/7848bd64/Atletico-Madrid-vs-Getafe-History
 J13,Villarreal,Mallorca,,,Estadio de la Cerámica,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/2aa12281/2a8183b3/Mallorca-vs-Villarreal-History
 J13,Valencia,Levante,,,Estadio de Mestalla,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/dcc91a7b/9800b6a1/Valencia-vs-Levante-History
 J13,Betis,Girona,,,Estadio La Cartuja de Sevilla,,2025-11-23,https://fbref.com/en/stathead/matchup/teams/fc536746/9024a00a/Real-Betis-vs-Girona-History
-J14,Levante,Athletic Club,,,Estadio Ciudad de Valencia,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/9800b6a1/2b390eca/Levante-vs-Athletic-Club-History
+J14,Celta Vigo,Espanyol,,,Estadio Abanca Balaídos,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/f25da7fb/a8661628/Celta-Vigo-vs-Espanyol-History
 J14,Rayo Vallecano,Valencia,,,Campo de Fútbol de Vallecas,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/dcc91a7b/98e8af82/Valencia-vs-Rayo-Vallecano-History
 J14,Barcelona,Alavés,,,Spotify Camp Nou,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/8d6fd021/206d90db/Alaves-vs-Barcelona-History
 J14,Real Sociedad,Villarreal,,,Reale Arena,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/e31d1cd9/2a8183b3/Real-Sociedad-vs-Villarreal-History
 J14,Mallorca,Osasuna,,,Estadi Mallorca Son Moix,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/2aa12281/03c57e2b/Mallorca-vs-Osasuna-History
 J14,Atlético Madrid,Oviedo,,,Riyadh Air Metropolitan Stadium,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/db3b9613/ab358912/Atletico-Madrid-vs-Oviedo-History
-J14,Celta Vigo,Espanyol,,,Estadio Abanca Balaídos,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/f25da7fb/a8661628/Celta-Vigo-vs-Espanyol-History
 J14,Girona,Real Madrid,,,Estadi Municipal de Montilivi,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/9024a00a/53a2f082/Girona-vs-Real-Madrid-History
 J14,Sevilla,Betis,,,Estadio Ramón Sánchez Pizjuán,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/fc536746/ad2be733/Real-Betis-vs-Sevilla-History
+J14,Levante,Athletic Club,,,Estadio Ciudad de Valencia,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/9800b6a1/2b390eca/Levante-vs-Athletic-Club-History
 J14,Getafe,Elche,,,Coliseum Alfonso Pérez,,2025-11-30,https://fbref.com/en/stathead/matchup/teams/7848bd64/6c8b07df/Getafe-vs-Elche-History
 J15,Oviedo,Mallorca,,,Estadio Nuevo Carlos Tartiere,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/ab358912/2aa12281/Oviedo-vs-Mallorca-History
 J15,Real Madrid,Celta Vigo,,,Estadio Santiago Bernabéu,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/f25da7fb/53a2f082/Celta-Vigo-vs-Real-Madrid-History
