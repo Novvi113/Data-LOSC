@@ -87,18 +87,20 @@ if selected_teams:
         df_radar_percentiles = df_centiles[df_centiles['Team'].isin(selected_teams)][["Team"] + selected_features]
         st.dataframe(df_radar_percentiles.set_index("Team").T)
 
-    st.subheader("🧮 Adjusted Stats + Percentiles")
+    st.subheader("🧮 Adjusted Stats + Aggregated Totals + Percentiles (All Features)")
     for team in selected_teams:
         df_abs = df_adjusted[df_adjusted["Team"] == team]
         df_pct = df_centiles[df_centiles["Team"] == team]
+        df_total = df_agg[df_agg["Team"] == team]
 
         common_stats = [col for col in df_pct.columns if col in df_abs.columns and col not in ['Team', 'Matches Played']]
-        deleted = ['Age', 'Nation', 'Yellow Cards', 'Red Cards'] 
+        deleted = ['Age', 'Nation', 'Yellow Cards', 'Red Cards']
         valid_stats = [stat for stat in common_stats if stat not in deleted]
 
         df_combined = pd.DataFrame({
             "Stat": valid_stats,
             "Per 90 min or Percentage": [df_abs[stat].values[0] for stat in valid_stats],
+            "Aggregated (Total)": [df_total[stat].values[0] if stat in df_total.columns else np.nan for stat in valid_stats],
             "Percentile": [df_pct[stat].values[0] for stat in valid_stats]
         }).set_index("Stat")
 

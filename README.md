@@ -7,8 +7,8 @@ It showcases a full **end-to-end workflow**, including:
 - **Advanced data analysis**: selecting key metrics by position, filtering noise, and identifying trends and patterns.
 - **Custom rating algorithm**: a performance index I personally designed, combining weighted metrics by **position** and **playing time**, to deliver a **match-by-match rating**.
 - **Percentile-based comparison system**: allows benchmarking players against their peers to highlight relative strengths.
-- **Scouting features**: includes metrics and comparisons for players in **minor leagues**.
 - **Team analysis**: additional pages to explore club-level performance, built from scraped and processed team data.
+- **Scouting features**: includes metrics and comparisons for players in **minor leagues**.
 
 This dashboard brings together **statistics**, **visuals**, and **contextual insights**, all tailored for **football analysis** from a **data-driven perspective**.
 
