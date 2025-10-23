@@ -17,6 +17,7 @@ Pages overview:
 - **Top Match Performances:** Highlight the best single-match outputs by stat (e.g., assists, interceptions, saves).
 - **Top Season Performances:** Rank seasonal outputs by stat, with totals or per-90 metrics.
 - **Team Performances:** Compare team performances across leagues using percentile charts and key performance indicators.
+- **UEFA Leagues Simulation**: Simulate and visualize qualification, play-off, and elimination chances for teams, based on matches played.
 
 Note: 
 - **Big Leagues:** Top 5 European leagues, UCL, UEL and UECL — over 2,100 matches per season

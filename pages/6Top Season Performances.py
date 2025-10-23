@@ -37,10 +37,11 @@ def get_goalkeeper_stats():
 # ----------------------- Streamlit UI ------------------------
 st.set_page_config(page_title="Top Season Performances")
 st.title("Top Season Performances")
-st.write(
-    "- Rank the best seasonal outputs by total or per-90 stats for players and goalkeepers.\n"
-    "- Filter by position, minutes, and age to highlight standout performers."
-)
+#st.write(
+#    "- Rank the best seasonal outputs by total or per-90 stats for players and goalkeepers.\n"
+#    "- Filter by position, minutes, and age to highlight standout performers."
+#)
+
 # ----------------------- Sidebar ------------------------
 st.sidebar.title("Select Parameters")
 

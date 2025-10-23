@@ -75,10 +75,10 @@ df_top.set_index("Player", inplace=True)
 
 # --------- Display ---------
 st.title("Top Player Rankings")
-st.write(
-    "- Rank the top players by average rating with customizable filters. \n"
-    "- Filter by league, position, age, and number of matches played."
-)
+#st.write(
+#    "- Rank the top players by average rating with customizable filters. \n"
+#    "- Filter by league, position, age, and number of matches played."
+#)
 
 if all_leagues or len(selected_leagues) > 1:
     cols_to_display = ["Average Rating", "Position", "Age", "Nationality", "Matches", "Minutes", "Team", "League"]
