@@ -19,6 +19,8 @@ def compute_points(Matches, matches_played):
     df = Matches[:matches_played * 18].dropna(subset=["Score"])
     teams = sorted(set(Matches["Home Team"]).union(set(Matches["Away Team"])))
     points = {team: 0 for team in teams}
+    goals_for = {team: 0 for team in teams}
+    goals_against = {team: 0 for team in teams}
     
     if not df.empty:
         for _, row in df.iterrows():
@@ -29,6 +31,12 @@ def compute_points(Matches, matches_played):
                 home_goals, away_goals = [int(x.strip()) for x in score.replace('–', '-').split('-')]
             except:
                 continue
+
+            goals_for[home] += home_goals
+            goals_against[home] += away_goals
+            goals_for[away] += away_goals
+            goals_against[away] += home_goals
+
             if home_goals > away_goals:
                 points[home] += 3
             elif home_goals < away_goals:
@@ -36,8 +44,15 @@ def compute_points(Matches, matches_played):
             else:
                 points[home] += 1
                 points[away] += 1
-                
-    df_points = pd.DataFrame(list(points.items()), columns=["Team", "Pts"])
+
+    df_points = pd.DataFrame({
+        "Team": list(points.keys()),
+        "Pts": list(points.values()),
+        "Goals For": [goals_for[t] for t in points.keys()],
+        "Goals Against": [goals_against[t] for t in points.keys()],
+    })
+    
+    df_points["Goal Diff"] = df_points["Goals For"] - df_points["Goals Against"]
     return df_points
 
 def simulate_match(team1, team2, points_teams, UEFAcoeff, proba_draw):
@@ -164,7 +179,10 @@ with st.spinner("Simulating matches... This may take a few minutes."):
 # ------------------------- Visualization -------------------------
 st.subheader("Standing")
 df_standing = Standing.copy()
-df_standing = df_standing.sort_values(by="Pts", ascending=False).reset_index(drop=True)
+df_standing = df_standing.sort_values(
+        by=["Pts", "Goal Diff", "Goals For"],
+        ascending=[False, False, False]
+    ).reset_index(drop=True)
 df_standing["Pts"] = df_standing["Pts"].astype(int)
 df_standing.index = df_standing.index + 1
 df_standing.index.name = "Rank"
@@ -202,6 +220,8 @@ st.subheader("Average Points Ranking")
 expected_points = {team: sum(points) / len(points) for team, points in total_team_points.items()}
 df_expected = pd.DataFrame(sorted(expected_points.items(), key=lambda x: x[1], reverse=True), columns=["Team", "Expected Points"])
 df_expected["Expected Points"] = df_expected["Expected Points"].map("{:.2f}".format)
+df_expected.index = df_expected.index + 1
+df_expected.index.name = "Rank"
 st.table(df_expected)
 
 st.subheader("Qualification Probabilities per Team")
@@ -217,4 +237,5 @@ df_results = pd.DataFrame(results, columns=["Team","Qualification %","Play-off %
 df_results["Qualification %"] = df_results["Qualification %"].map("{:.2f}".format)
 df_results["Play-off %"] = df_results["Play-off %"].map("{:.2f}".format)
 df_results["Elimination %"] = df_results["Elimination %"].map("{:.2f}".format)
-st.table(df_results)
+df_results.index = df_results['Team'] 
+st.table(df_results[["Qualification %", "Play-off %", "Elimination %"]])
