@@ -29,7 +29,7 @@ elif selected_season == "2024-2025":
 elif selected_season == "2025-2026":
     season_code = "25_26"
 
-base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "csv", f"csv{season_code}"))
+base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "csv", f"csv{season_code}", "players"))
 paths = {
     "metrics_players": os.path.join(base_path, "metrics", f"data_players_metrics.csv"),
     "metrics_gk": os.path.join(base_path, "metrics", f"data_goals_metrics.csv"),

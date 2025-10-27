@@ -48,11 +48,11 @@ def compute_points(Matches, matches_played):
     df_points = pd.DataFrame({
         "Team": list(points.keys()),
         "Pts": list(points.values()),
-        "Goals For": [goals_for[t] for t in points.keys()],
+        "Goals": [goals_for[t] for t in points.keys()],
         "Goals Against": [goals_against[t] for t in points.keys()],
     })
     
-    df_points["Goal Diff"] = df_points["Goals For"] - df_points["Goals Against"]
+    df_points["Goal Diff"] = df_points["Goals"] - df_points["Goals Against"]
     return df_points
 
 def simulate_match(team1, team2, points_teams, UEFAcoeff, proba_draw):
@@ -180,7 +180,7 @@ with st.spinner("Simulating matches... This may take a few minutes."):
 st.subheader("Standing")
 df_standing = Standing.copy()
 df_standing = df_standing.sort_values(
-        by=["Pts", "Goal Diff", "Goals For"],
+        by=["Pts", "Goal Diff", "Goals"],
         ascending=[False, False, False]
     ).reset_index(drop=True)
 df_standing["Pts"] = df_standing["Pts"].astype(int)

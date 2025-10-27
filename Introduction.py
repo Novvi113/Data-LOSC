@@ -10,14 +10,16 @@ I'm passionate about data analysis, data science, and football — especially as
 This dashboard is a personal end-to-end project designed to analyze, compare, and visualize football player and team performances, using data scraped from [FBref.com](https://fbref.com).
 
 Pages overview:
-- **Player Performance Overview:** Compare individual performances in attack, passing, defense, and possession, with radar charts and average ratings.
-- **Matchday Player Report:** Dive into match-specific ratings and stats by league, week, and team.
 - **Top Player Rankings:** Rank top players by average rating, filtered by league, position, age, and matches played.
+- **Matchday Player Report:** Dive into match-specific ratings and stats by league, week, and team.
+- **Player Performance Overview:** Compare individual performances in attack, passing, defense, and possession, with radar charts and average ratings.
 - **Player Performance Indices:** Explore custom indices by role and minutes played, displayed on a percentile scale for advanced comparisons.
+- **Team Performances:** Compare team performances across leagues using percentile charts and key performance indicators.
 - **Top Match Performances:** Highlight the best single-match outputs by stat (e.g., assists, interceptions, saves).
 - **Top Season Performances:** Rank seasonal outputs by stat, with totals or per-90 metrics.
-- **Team Performances:** Compare team performances across leagues using percentile charts and key performance indicators.
 - **UEFA Leagues Simulation**: Simulate and visualize qualification, play-off, and elimination chances for teams, based on matches played.
+- **Leagues Summary**: Display the current league standing and the average opponent ranking — the lower the score, the tougher the opponents faced.
+- **Scouting:** Access detailed metrics and radar charts for players from the Minor Leagues.
 
 Note: 
 - **Big Leagues:** Top 5 European leagues, UCL, UEL and UECL — over 2,100 matches per season
@@ -27,4 +29,4 @@ Note:
 
 > Use the **sidebar on the left** to start exploring the data!
 """)
-#- **Scouting:** Access detailed metrics and radar charts for players from outside the Big Leagues.
+

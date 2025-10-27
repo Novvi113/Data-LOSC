@@ -1,0 +1,221 @@
+Player,Team,League,Position,General Position,Nationality,Age,Minutes,Shots on Target Against,Goals Against,Saves,Post-Shot Expected Goals (PSxG),Save Efficiency,Clean Sheets,Completed Long Passes,Attempted Long Passes,Attempted Passes (excluding GK),Attempted Throws,Pass Length (Total),Attempted Goal Kicks,Goal Kick Length (Total),Crosses Faced,Crosses Stopped,Defensive Actions Outside Penalty Area,Distance of Defensive Actions (Total)
+Aarón Escandell,Oviedo,Spanish La Liga,GK,Goalkeeper,ESP,30,900,70.0,19.0,50.0,22.3,3.3,1,56.0,142,297.0,33.0,10252.9,57.0,2219.9,161,4.0,22.0,409.3
+Adrian Šemper,Pisa,Italian Serie A,GK,Goalkeeper,CRO,27,720,39.0,12.0,27.0,10.1,-1.9,2,55.0,128,213.0,34.0,8415.0,41.0,1940.5,127,9.0,0.0,0.0
+Alban Lafont,Panathinaikos,UEFA Europa League,GK,Goalkeeper,FRA,26,180,7.0,3.0,4.0,2.7,-0.3,0,7.0,26,58.0,6.0,2087.6,7.0,438.8,37,1.0,1.0,12.3
+Alberto Paleari,Torino,Italian Serie A,GK,Goalkeeper,ITA,33,90,3.0,1.0,2.0,0.9,-0.1,0,5.0,12,21.0,3.0,640.5,10.0,471.0,12,0.0,1.0,21.0
+Alex Meret,Napoli,Italian Serie A,GK,Goalkeeper,ITA,28,360,12.0,4.0,8.0,3.7,-0.3,2,5.0,14,85.0,12.0,2191.4,24.0,569.3,20,1.0,6.0,124.9
+Alexander Nübel,Stuttgart,"German Bundesliga, UEFA Europa League",GK,Goalkeeper,GER,29,990,39.0,11.0,28.0,10.0,-1.0,4,65.0,137,380.0,51.0,11940.1,54.0,2216.3,146,11.0,16.0,275.9
+Alexander Schlager,RB Salzburg,UEFA Europa League,GK,Goalkeeper,AUT,29,270,15.0,6.0,7.0,6.0,0.0,0,20.0,50,107.0,15.0,3750.9,16.0,870.5,42,1.0,0.0,0.0
+Alexandros Paschalakis,Olympiacos,UEFA Champions League,GK,Goalkeeper,GRE,36,90,1.0,0.0,1.0,0.1,0.1,1,2.0,3,14.0,1.0,379.4,8.0,246.4,1,0.0,4.0,84.8
+Alisson,Liverpool,"English Premier League, UEFA Champions League",GK,Goalkeeper,BRA,32,685,24.0,10.0,14.0,9.7,-0.3,2,25.0,69,289.0,37.0,8509.5,23.0,663.9,98,6.0,12.0,225.7
+Alphonse Areola,West Ham,English Premier League,GK,Goalkeeper,FRA,32,450,25.0,9.0,16.0,7.2,-1.8,0,22.0,81,133.0,27.0,4766.8,38.0,1821.9,77,4.0,1.0,31.0
+Altay Bayındır,Manchester Utd,English Premier League,GK,Goalkeeper,TUR,27,540,23.0,11.0,12.0,9.2,-1.8,0,29.0,94,173.0,17.0,6473.6,18.0,876.0,62,4.0,7.0,131.7
+Anatolii Trubin,Benfica,UEFA Champions League,GK,Goalkeeper,UKR,24,270,18.0,7.0,12.0,7.7,0.7,0,4.0,27,68.0,11.0,2105.2,17.0,460.2,36,3.0,1.0,16.3
+Anthony Lopes,Nantes,French Ligue 1,GK,Goalkeeper,POR,35,810,44.0,10.0,34.0,11.1,1.1,2,47.0,119,346.0,43.0,11262.8,35.0,1147.0,166,8.0,13.0,240.4
+Anton Ari Einarsson,Breiðablik,UEFA Europa Conference League,GK,Goalkeeper,ISL,31,180,10.0,3.0,7.0,2.9,-0.1,1,7.0,13,76.0,14.0,2161.0,3.0,86.1,20,1.0,0.0,0.0
+Antonio Sivera,Alavés,Spanish La Liga,GK,Goalkeeper,ESP,29,900,33.0,9.0,24.0,9.1,0.1,2,81.0,179,190.0,24.0,8479.9,73.0,4548.0,125,4.0,3.0,46.1
+Antonis Tsiftsis,PAOK,UEFA Europa League,GK,Goalkeeper,GRE,26,90,11.0,3.0,8.0,3.4,0.4,0,5.0,19,26.0,3.0,1089.4,7.0,452.2,28,1.0,0.0,0.0
+Arijanet Muric,Sassuolo,Italian Serie A,GK,Goalkeeper,KVX,26,630,39.0,7.0,33.0,10.3,3.3,3,48.0,126,225.0,34.0,7921.1,48.0,2413.5,99,13.0,1.0,18.0
+Arnau Tenas,Villarreal,"Spanish La Liga, UEFA Champions League",GK,Goalkeeper,ESP,24,360,16.0,8.0,8.0,4.8,-3.2,0,14.0,69,94.0,7.0,3470.4,34.0,2002.7,66,3.0,5.0,78.4
+Arnaud Bodart,Lille,French Ligue 1,GK,Goalkeeper,BEL,27,90,2.0,1.0,1.0,1.6,0.6,0,8.0,14,28.0,2.0,974.4,5.0,185.0,9,0.0,1.0,13.5
+Augusto Batalla,Rayo Vallecano,"Spanish La Liga, UEFA Europa Conference League",GK,Goalkeeper,ARG,29,1080,44.0,12.0,32.0,14.0,2.0,4,70.0,196,392.0,48.0,15341.7,48.0,2355.5,149,12.0,24.0,475.0
+Baboucarr Gaye,Shkëndija 79,UEFA Europa Conference League,GK,Goalkeeper,GAM,27,270,13.0,2.0,11.0,2.3,0.3,2,8.0,23,61.0,11.0,1864.1,17.0,590.8,46,0.0,0.0,0.0
+Bart Verbruggen,Brighton,English Premier League,GK,Goalkeeper,NED,23,810,34.0,15.0,21.0,12.7,-2.3,0,24.0,110,322.0,39.0,10347.7,23.0,1173.0,112,4.0,8.0,132.8
+Bartosz Mrozek,Lech Poznań,UEFA Europa Conference League,GK,Goalkeeper,POL,25,180,5.0,3.0,2.0,1.1,-1.9,0,6.0,14,46.0,12.0,1305.6,8.0,344.1,29,0.0,0.0,0.0
+Bartłomiej Drągowski,Panathinaikos,UEFA Europa League,GK,Goalkeeper,POL,28,90,8.0,3.0,5.0,3.7,0.7,0,6.0,20,39.0,6.0,1657.5,3.0,156.9,13,0.0,0.0,0.0
+Berke Özer,Lille,"French Ligue 1, UEFA Europa League",GK,Goalkeeper,TUR,25,990,44.0,15.0,26.0,19.9,4.9,3,46.0,127,386.0,33.0,11669.5,45.0,1683.2,139,5.0,14.0,242.6
+Bernd Leno,Fulham,English Premier League,GK,Goalkeeper,GER,33,810,41.0,14.0,28.0,12.3,-1.7,1,31.0,113,307.0,46.0,9316.6,49.0,2409.8,114,8.0,9.0,154.7
+Bingourou Kamara,Lorient,French Ligue 1,GK,Goalkeeper,SEN,28,270,15.0,8.0,7.0,4.8,-3.2,1,12.0,22,65.0,7.0,1948.9,9.0,279.3,27,2.0,5.0,111.0
+Brice Samba,Rennes,French Ligue 1,GK,Goalkeeper,FRA,31,810,36.0,14.0,21.0,15.0,1.0,2,35.0,116,342.0,40.0,11045.8,47.0,1524.8,131,8.0,11.0,284.0
+Caoimhín Kelleher,Brentford,English Premier League,GK,Goalkeeper,IRL,26,810,35.0,14.0,21.0,11.4,-2.6,2,63.0,150,283.0,48.0,9742.3,45.0,2711.2,123,8.0,6.0,106.2
+Daniel Heuer Fernandes,Hamburger SV,German Bundesliga,GK,Goalkeeper,POR,32,720,41.0,11.0,29.0,10.6,-0.4,3,40.0,112,351.0,24.0,10166.0,44.0,1789.1,107,3.0,5.0,81.9
+David Raya,Arsenal,"English Premier League, UEFA Champions League",GK,Goalkeeper,ESP,30,1080,25.0,3.0,22.0,4.6,1.6,9,61.0,177,405.0,59.0,13931.4,45.0,2256.3,120,11.0,28.0,659.0
+David Soria,Getafe,Spanish La Liga,GK,Goalkeeper,ESP,32,900,42.0,12.0,31.0,10.1,-1.9,3,80.0,246,211.0,11.0,11035.0,76.0,4635.8,112,4.0,10.0,215.4
+David de Gea,Fiorentina,"Italian Serie A, UEFA Europa Conference League",GK,Goalkeeper,ESP,34,900,42.0,12.0,30.0,13.2,1.2,4,46.0,132,284.0,38.0,9770.4,35.0,1664.7,117,4.0,8.0,140.7
+Dean Henderson,Crystal Palace,"English Premier League, UEFA Europa Conference League",GK,Goalkeeper,ENG,28,990,32.0,10.0,22.0,13.2,3.2,4,56.0,177,288.0,38.0,10971.8,78.0,3644.5,164,9.0,6.0,144.2
+Diant Ramaj,Heidenheim,German Bundesliga,GK,Goalkeeper,GER,24,720,46.0,16.0,30.0,16.5,0.5,0,68.0,193,392.0,39.0,15254.8,63.0,3146.4,115,13.0,10.0,133.1
+Dimitar Mitov,Aberdeen,UEFA Europa Conference League,GK,Goalkeeper,BUL,28,180,13.0,9.0,4.0,6.4,-2.6,0,11.0,39,55.0,9.0,2146.6,13.0,772.6,26,0.0,2.0,34.0
+Diogo Costa,Porto,UEFA Europa League,GK,Goalkeeper,POR,26,270,8.0,3.0,5.0,2.2,-0.8,1,8.0,24,92.0,21.0,2459.3,14.0,458.3,33,2.0,8.0,139.9
+Dmytro Riznyk,Shakhtar,UEFA Europa Conference League,GK,Goalkeeper,UKR,26,90,5.0,2.0,3.0,2.0,0.0,0,2.0,7,31.0,3.0,849.4,3.0,50.1,12,1.0,2.0,48.0
+Dominik Greif,Lyon,"French Ligue 1, UEFA Europa League",GK,Goalkeeper,SVK,28,720,25.0,6.0,19.0,6.8,0.8,5,25.0,61,284.0,26.0,7372.4,24.0,900.1,89,7.0,15.0,285.5
+Dominik Kotarski,FC Copenhagen,UEFA Champions League,GK,Goalkeeper,CRO,25,270,15.0,8.0,8.0,4.8,-3.2,0,15.0,43,66.0,7.0,2647.8,14.0,680.9,32,0.0,3.0,36.6
+Dominik Takáč,Slovan Bratislava,UEFA Europa Conference League,GK,Goalkeeper,SVK,26,180,14.0,3.0,11.0,4.1,1.1,0,9.0,22,57.0,4.0,1696.6,13.0,497.1,25,0.0,5.0,92.0
+Donovan Léon,Auxerre,French Ligue 1,GK,Goalkeeper,GUF,32,584,30.0,9.0,21.0,10.1,1.1,2,38.0,133,178.0,20.0,7702.6,37.0,2320.1,65,3.0,10.0,203.2
+Dénes Dibusz,Ferencváros,UEFA Europa League,GK,Goalkeeper,HUN,34,270,10.0,3.0,7.0,2.1,-0.9,1,29.0,54,85.0,13.0,3088.9,21.0,1056.1,63,2.0,2.0,30.4
+Ed McGinty,"Shamrock Rov, Shamrock Rovers",UEFA Europa Conference League,GK,Goalkeeper,IRL,26,180,12.0,6.0,6.0,5.5,-0.5,0,7.0,28,36.0,5.0,1419.3,14.0,579.6,21,0.0,0.0,0.0
+Ederson,Fenerbahçe,UEFA Europa League,GK,Goalkeeper,BRA,32,270,8.0,4.0,4.0,2.9,-1.1,1,17.0,48,95.0,10.0,3410.4,23.0,1089.9,44,3.0,8.0,212.0
+Elia Caprile,Cagliari,Italian Serie A,GK,Goalkeeper,ITA,24,720,39.0,10.0,29.0,12.1,2.1,1,44.0,119,216.0,40.0,8085.6,58.0,2068.1,124,17.0,12.0,242.7
+Elías Rafn Ólafsson,Midtjylland,UEFA Europa League,GK,Goalkeeper,ISL,25,270,16.0,2.0,14.0,2.9,0.9,2,13.0,46,104.0,27.0,3478.4,21.0,1069.2,54,4.0,6.0,102.2
+Emil Audero,Cremonese,Italian Serie A,GK,Goalkeeper,IDN,28,360,23.0,3.0,20.0,5.0,2.0,2,18.0,72,151.0,26.0,5367.3,21.0,997.1,66,8.0,0.0,0.0
+Emiliano Martínez,Aston Villa,"English Premier League, UEFA Europa League",GK,Goalkeeper,ARG,33,720,22.0,7.0,15.0,5.3,-1.7,2,30.0,90,285.0,33.0,8591.6,27.0,1347.2,107,7.0,11.0,204.2
+Etrit Berisha,Häcken,UEFA Europa Conference League,GK,Goalkeeper,ALB,36,180,5.0,2.0,3.0,2.1,0.1,1,9.0,26,63.0,10.0,1942.2,8.0,492.3,22,2.0,4.0,84.5
+Fabiano,AC Omonia,UEFA Europa Conference League,GK,Goalkeeper,CYP,37,90,2.0,1.0,1.0,0.3,-0.7,0,0.0,0,12.0,4.0,266.4,4.0,89.2,14,0.0,0.0,0.0
+Faton Maloku,KF Drita,UEFA Europa Conference League,GK,Goalkeeper,KVX,34,180,8.0,2.0,6.0,1.8,-0.2,0,5.0,18,51.0,13.0,1517.4,15.0,486.9,35,4.0,0.0,0.0
+Federico Ravaglia,Bologna,Italian Serie A,GK,Goalkeeper,ITA,25,90,3.0,0.0,3.0,0.2,0.2,1,7.0,18,50.0,5.0,1700.0,4.0,191.2,11,0.0,5.0,110.0
+Filip Jørgensen,Chelsea,"English Premier League, UEFA Champions League",GK,Goalkeeper,DEN,23,173,4.0,3.0,1.0,2.3,-0.7,0,3.0,11,42.0,3.0,1037.8,7.0,256.0,23,0.0,4.0,73.5
+Finn Dahmen,Augsburg,German Bundesliga,GK,Goalkeeper,GER,27,720,44.0,20.0,23.0,18.2,-1.8,0,46.0,138,281.0,24.0,9827.1,53.0,2671.6,98,7.0,20.0,348.2
+Francis Uzoho,AC Omonia,UEFA Europa Conference League,GK,Goalkeeper,NGA,26,90,2.0,1.0,1.0,0.9,-0.1,0,3.0,11,25.0,7.0,845.0,5.0,239.0,16,1.0,1.0,13.7
+Franco Israel,Torino,Italian Serie A,GK,Goalkeeper,URU,25,630,33.0,13.0,20.0,9.6,-3.4,3,47.0,136,227.0,25.0,8884.8,33.0,1760.4,93,5.0,5.0,110.4
+Frederik Rønnow,Union Berlin,German Bundesliga,GK,Goalkeeper,DEN,33,720,44.0,15.0,29.0,16.3,1.3,1,51.0,166,209.0,27.0,8399.6,56.0,3371.7,127,12.0,6.0,96.1
+Gerónimo Rulli,Marseille,"French Ligue 1, UEFA Champions League",GK,Goalkeeper,ARG,33,900,49.0,11.0,40.0,13.2,2.2,3,43.0,118,352.0,46.0,10781.9,36.0,1630.6,116,21.0,24.0,488.8
+Gianluigi Donnarumma,Manchester City,"English Premier League, UEFA Champions League",GK,Goalkeeper,ITA,26,810,18.0,5.0,13.0,5.3,0.3,5,17.0,56,214.0,31.0,5584.3,22.0,956.0,98,8.0,2.0,27.8
+Giorgi Mamardashvili,Liverpool,"English Premier League, UEFA Champions League",GK,Goalkeeper,GEO,25,395,19.0,8.0,11.0,4.9,-3.1,1,18.0,54,167.0,26.0,5093.1,17.0,617.1,45,2.0,12.0,283.8
+Goran Karaćić,Zrinjski Mostar,UEFA Europa Conference League,GK,Goalkeeper,BIH,29,180,2.0,1.0,1.0,1.1,0.1,1,12.0,32,55.0,11.0,1839.5,17.0,931.4,32,1.0,0.0,0.0
+Gregor Kobel,Dortmund,"German Bundesliga, UEFA Champions League",GK,Goalkeeper,SUI,27,990,37.0,13.0,25.0,12.5,-0.5,5,31.0,96,308.0,44.0,9522.3,47.0,1514.9,130,4.0,10.0,177.2
+Grégoire Coudert,Brest,French Ligue 1,GK,Goalkeeper,FRA,26,212,15.0,6.0,9.0,6.0,0.0,0,20.0,51,66.0,12.0,2765.4,17.0,1040.1,43,3.0,1.0,12.0
+Guglielmo Vicario,Tottenham,"English Premier League, UEFA Champions League",GK,Goalkeeper,ITA,29,1080,45.0,9.0,36.0,13.0,4.0,6,48.0,134,447.0,53.0,13253.1,67.0,2313.2,147,6.0,20.0,387.3
+Guillaume Restes,Toulouse,French Ligue 1,GK,Goalkeeper,FRA,20,810,30.0,13.0,17.0,12.5,-0.5,3,44.0,116,203.0,23.0,7643.4,36.0,1632.8,109,8.0,9.0,138.8
+Hendrik Bonmann,Ludogorets,UEFA Europa League,GK,Goalkeeper,GER,31,90,6.0,3.0,3.0,3.1,0.1,0,8.0,24,38.0,3.0,1447.8,9.0,384.3,16,2.0,0.0,0.0
+Hendrik Van Crombrugge,Genk,UEFA Europa League,GK,Goalkeeper,BEL,32,270,9.0,1.0,7.0,2.3,1.3,2,13.0,30,90.0,7.0,2799.4,10.0,342.2,37,1.0,1.0,15.4
+Henry Bonello,Ħamrun Spartans FC,UEFA Europa Conference League,GK,Goalkeeper,MLT,37,180,12.0,2.0,10.0,2.9,0.9,0,7.0,30,57.0,10.0,2178.0,15.0,578.0,27,2.0,2.0,42.0
+Hervé Koffi,Angers,French Ligue 1,GK,Goalkeeper,BFA,29,810,51.0,12.0,37.0,17.0,5.0,2,37.0,109,233.0,46.0,8113.3,58.0,2049.1,142,17.0,5.0,65.4
+Ionuț Radu,Celta Vigo,"Spanish La Liga, UEFA Europa League",GK,Goalkeeper,ROU,28,1170,58.0,17.0,41.0,16.2,-0.8,0,36.0,117,295.0,73.0,9151.6,89.0,3342.4,170,10.0,8.0,130.8
+Ivan Nevistić,Dinamo Zagreb,UEFA Europa League,GK,Goalkeeper,CRO,27,270,9.0,3.0,6.0,2.0,-1.0,0,15.0,40,136.0,10.0,3611.8,15.0,632.3,42,2.0,6.0,112.7
+Ivan Provedel,Lazio,Italian Serie A,GK,Goalkeeper,ITA,31,720,43.0,7.0,36.0,12.3,5.3,4,32.0,105,232.0,30.0,8269.0,43.0,1730.6,117,8.0,2.0,38.4
+Iñaki Peña,Elche,Spanish La Liga,GK,Goalkeeper,ESP,26,450,19.0,5.0,14.0,6.0,1.0,2,18.0,83,320.0,23.0,8792.4,22.0,769.9,81,3.0,11.0,192.9
+Jack Butland,Rangers,UEFA Europa League,GK,Goalkeeper,ENG,32,270,17.0,6.0,10.0,5.6,-0.4,0,23.0,46,90.0,15.0,3131.6,14.0,662.1,27,2.0,8.0,161.8
+Jakub Markovič,Slavia Prague,UEFA Champions League,GK,Goalkeeper,CZE,24,90,5.0,0.0,5.0,2.2,2.2,1,12.0,26,24.0,2.0,1104.0,9.0,573.3,8,1.0,2.0,32.2
+James Trafford,Manchester City,English Premier League,GK,Goalkeeper,ENG,22,270,15.0,4.0,11.0,5.9,1.9,1,10.0,36,103.0,11.0,3046.5,15.0,674.7,26,2.0,14.0,280.5
+Jan Koutny,Sigma Olomouc,UEFA Europa Conference League,GK,Goalkeeper,CZE,21,180,10.0,3.0,7.0,3.5,0.5,0,12.0,36,61.0,6.0,2248.3,17.0,831.3,26,0.0,1.0,16.7
+Jan Oblak,Atlético Madrid,"Spanish La Liga, UEFA Champions League",GK,Goalkeeper,SVN,32,1080,40.0,18.0,22.0,14.6,-3.4,2,63.0,141,299.0,42.0,9841.9,77.0,3541.0,149,6.0,10.0,188.3
+Jari De Busser,Go Ahead Eag,UEFA Europa League,GK,Goalkeeper,BEL,26,270,22.0,3.0,19.0,5.6,2.6,0,7.0,36,88.0,12.0,2778.8,21.0,1216.5,62,2.0,1.0,18.5
+Jaylan Hankins,Red Imps,UEFA Europa Conference League,GK,Goalkeeper,GIB,24,90,5.0,1.0,4.0,1.4,0.4,0,9.0,26,31.0,5.0,1444.6,9.0,466.2,20,0.0,0.0,0.0
+Jean Butez,Como,Italian Serie A,GK,Goalkeeper,FRA,30,720,19.0,5.0,14.0,5.2,0.2,3,48.0,92,293.0,33.0,8586.2,27.0,1146.2,86,9.0,21.0,435.9
+Jeffrey De Lange,Marseille,French Ligue 1,GK,Goalkeeper,NED,27,180,4.0,2.0,2.0,1.6,-0.4,1,0.0,1,30.0,0.0,500.2,2.0,33.0,11,0.0,2.0,35.5
+Jindřich Staněk,Slavia Prague,UEFA Champions League,GK,Goalkeeper,CZE,29,180,14.0,5.0,8.0,5.7,0.7,0,13.0,29,65.0,8.0,2111.9,13.0,592.9,22,0.0,1.0,14.8
+Jiří Pavlenka,PAOK,UEFA Europa League,GK,Goalkeeper,CZE,33,180,12.0,3.0,9.0,4.3,1.3,1,6.0,18,60.0,5.0,2058.2,10.0,387.9,19,1.0,6.0,111.5
+Joan García,Barcelona,"Spanish La Liga, UEFA Champions League",GK,Goalkeeper,ESP,24,630,24.0,5.0,19.0,7.9,2.9,3,13.0,26,202.0,56.0,5356.8,17.0,534.5,68,6.0,28.0,633.3
+Johannes Kreidl,KuPS,UEFA Europa Conference League,GK,Goalkeeper,AUT,29,180,7.0,1.0,6.0,1.5,0.5,1,16.0,32,105.0,8.0,2953.5,14.0,510.4,38,3.0,1.0,13.4
+Jonas Urbig,Bayern Munich,German Bundesliga,GK,Goalkeeper,GER,22,90,0.0,0.0,0.0,0.0,0.0,1,1.0,2,27.0,4.0,594.0,0.0,0.0,3,1.0,6.0,135.0
+Jonathan Fischer,Metz,French Ligue 1,GK,Goalkeeper,DEN,23,734,52.0,22.0,31.0,21.4,-0.6,1,24.0,60,327.0,35.0,8341.0,24.0,822.6,110,5.0,10.0,175.1
+Jordan Pickford,Everton,English Premier League,GK,Goalkeeper,ENG,31,810,35.0,12.0,22.0,12.6,0.6,2,74.0,202,321.0,30.0,13027.0,47.0,2628.3,108,4.0,23.0,445.0
+Josep Martinez,Inter,Italian Serie A,GK,Goalkeeper,ESP,27,180,5.0,1.0,4.0,1.4,0.4,1,6.0,21,61.0,7.0,1672.4,9.0,433.8,21,0.0,4.0,84.8
+José Sá,Wolves,English Premier League,GK,Goalkeeper,POR,32,360,16.0,11.0,5.0,7.2,-3.8,0,24.0,60,108.0,14.0,3999.8,23.0,1225.6,46,4.0,4.0,63.8
+João Virgínia,Sporting CP,UEFA Champions League,GK,Goalkeeper,POR,25,90,4.0,1.0,3.0,0.8,-0.2,0,1.0,6,22.0,7.0,695.2,5.0,190.0,7,1.0,1.0,16.5
+Julen Agirrezabala,Valencia,Spanish La Liga,GK,Goalkeeper,ESP,24,900,47.0,16.0,31.0,12.6,-3.4,3,38.0,126,271.0,43.0,8799.6,65.0,3147.9,139,12.0,21.0,420.5
+Kacper Tobiasz,Legia Warsaw,UEFA Europa Conference League,GK,Goalkeeper,POL,22,180,4.0,2.0,2.0,1.2,-0.8,0,9.0,27,53.0,3.0,1900.2,9.0,414.0,13,0.0,3.0,69.0
+Kacper Trelowski,Raków,UEFA Europa Conference League,GK,Goalkeeper,POL,22,180,1.0,1.0,0.0,0.1,-0.9,1,10.0,21,56.0,4.0,1587.9,11.0,577.6,18,1.0,4.0,79.4
+Kamil Grabara,Wolfsburg,German Bundesliga,GK,Goalkeeper,POL,26,720,41.0,13.0,27.0,14.7,1.7,1,31.0,112,281.0,50.0,8893.9,47.0,2722.3,174,7.0,6.0,86.2
+Karl Darlow,Leeds United,English Premier League,GK,Goalkeeper,WAL,35,450,20.0,8.0,13.0,5.1,-2.9,0,30.0,101,181.0,27.0,6848.4,26.0,1486.5,82,5.0,4.0,53.9
+Karl Jakob Hein,Werder Bremen,German Bundesliga,GK,Goalkeeper,EST,23,180,15.0,4.0,11.0,4.7,0.7,1,15.0,36,111.0,11.0,3301.8,10.0,587.0,28,2.0,6.0,111.3
+Karl-Johan Johnsson,Strasbourg,French Ligue 1,GK,Goalkeeper,SWE,35,90,2.0,0.0,2.0,0.3,0.3,1,3.0,10,32.0,2.0,947.2,2.0,91.0,13,1.0,3.0,56.7
+Karlo Letica,Lausanne-Sport,UEFA Europa Conference League,GK,Goalkeeper,CRO,28,180,3.0,0.0,3.0,1.6,1.6,2,9.0,27,41.0,9.0,1483.3,20.0,783.7,32,1.0,0.0,0.0
+Kasper Schmeichel,Celtic,UEFA Europa League,GK,Goalkeeper,DEN,38,270,11.0,4.0,7.0,2.9,-1.1,0,7.0,20,109.0,9.0,2746.2,20.0,723.6,36,1.0,6.0,119.0
+Kauã Santos,Eint Frankfurt,"German Bundesliga, UEFA Champions League",GK,Goalkeeper,BRA,22,450,33.0,18.0,15.0,14.3,-3.7,0,12.0,70,185.0,24.0,6063.0,22.0,886.9,52,3.0,5.0,165.8
+Kevin Trapp,Paris FC,French Ligue 1,GK,Goalkeeper,GER,35,90,2.0,2.0,0.0,1.5,-0.5,0,1.0,8,28.0,4.0,904.4,7.0,160.3,13,1.0,3.0,66.0
+Kiril Fesiun,Shakhtar,UEFA Europa Conference League,GK,Goalkeeper,UKR,23,90,3.0,2.0,1.0,1.7,-0.3,0,2.0,3,52.0,3.0,1170.0,4.0,70.0,10,0.0,1.0,16.2
+Kjell Scherpen,Union SG,UEFA Champions League,GK,Goalkeeper,NED,25,270,16.0,9.0,7.0,7.0,-2.0,0,9.0,32,55.0,9.0,2066.5,23.0,1101.5,52,3.0,2.0,22.8
+Kostas Tzolakis,Olympiacos,UEFA Champions League,GK,Goalkeeper,GRE,22,180,11.0,8.0,3.0,5.8,-2.2,0,9.0,45,47.0,8.0,2416.5,11.0,680.2,20,4.0,2.0,28.6
+Krapyvtsov Vladyslav,Girona,Spanish La Liga,GK,Goalkeeper,UKR,20,136,9.0,6.0,3.0,3.4,-2.6,0,6.0,20,36.0,8.0,1096.0,11.0,600.2,22,0.0,0.0,0.0
+Lasse Rieß,Mainz 05,German Bundesliga,GK,Goalkeeper,GER,24,202,17.0,8.0,9.0,5.8,-2.2,1,8.0,26,58.0,6.0,2091.9,13.0,393.3,11,0.0,4.0,74.6
+Leo Román,Mallorca,Spanish La Liga,GK,Goalkeeper,ESP,25,900,47.0,15.0,31.0,17.1,2.1,1,58.0,162,277.0,31.0,10636.5,58.0,2727.9,145,7.0,5.0,59.3
+Lorenzo Montipò,Hellas Verona,Italian Serie A,GK,Goalkeeper,ITA,29,720,27.0,11.0,15.0,9.6,-1.4,2,51.0,149,176.0,27.0,7257.8,57.0,3517.5,94,6.0,6.0,115.2
+Lucas Chevalier,Paris S-G,"French Ligue 1, UEFA Champions League",GK,Goalkeeper,FRA,23,1080,31.0,11.0,19.0,10.3,-0.7,6,16.0,40,309.0,40.0,7445.4,35.0,1228.6,79,2.0,5.0,100.5
+Lucas Perri,Leeds United,English Premier League,GK,Goalkeeper,BRA,27,360,11.0,6.0,5.0,4.2,-1.8,2,29.0,98,131.0,16.0,5526.2,27.0,1680.0,54,3.0,2.0,35.6
+Luiz Lúcio Reis Júnior,Villarreal,"Spanish La Liga, UEFA Champions League",GK,Goalkeeper,BRA,24,810,28.0,7.0,21.0,9.1,2.1,4,10.0,52,167.0,39.0,4904.3,37.0,1033.8,92,9.0,17.0,292.1
+Lukáš Horníček,Braga,UEFA Europa League,GK,Goalkeeper,CZE,23,270,7.0,0.0,7.0,1.1,1.1,3,10.0,40,104.0,13.0,3649.0,9.0,296.0,40,2.0,5.0,93.6
+Lukáš Hrádecký,Monaco,French Ligue 1,GK,Goalkeeper,FIN,35,258,8.0,4.0,4.0,3.2,-0.8,0,10.0,34,92.0,7.0,2818.4,13.0,468.3,42,2.0,4.0,105.4
+Mads Hermansen,West Ham,English Premier League,GK,Goalkeeper,DEN,25,360,20.0,11.0,9.0,9.2,-1.8,1,19.0,72,141.0,19.0,4778.9,16.0,981.1,72,5.0,1.0,10.4
+Maduka Okoye,Udinese,Italian Serie A,GK,Goalkeeper,NGA,26,180,6.0,3.0,3.0,1.4,-1.6,0,23.0,47,55.0,3.0,2298.3,15.0,912.3,27,3.0,3.0,43.4
+Manuel Neuer,Bayern Munich,"German Bundesliga, UEFA Champions League",GK,Goalkeeper,GER,39,900,21.0,6.0,15.0,5.6,-0.4,5,42.0,100,392.0,44.0,11477.5,37.0,1179.0,91,2.0,39.0,959.0
+Marco Bizot,Aston Villa,"English Premier League, UEFA Europa League",GK,Goalkeeper,NED,34,360,22.0,3.0,19.0,5.3,2.3,3,20.0,57,143.0,16.0,4620.7,21.0,1013.8,71,4.0,12.0,245.8
+Marco Carnesecchi,Atalanta,"Italian Serie A, UEFA Champions League",GK,Goalkeeper,ITA,25,990,52.0,11.0,40.0,13.5,2.5,3,66.0,165,351.0,52.0,11466.1,63.0,3591.5,131,7.0,19.0,353.4
+Marco Silvestri,Cremonese,Italian Serie A,GK,Goalkeeper,ITA,34,360,22.0,7.0,15.0,7.4,0.4,0,20.0,71,112.0,17.0,4111.8,44.0,1913.6,71,2.0,3.0,51.4
+Mark Flekken,Leverkusen,"German Bundesliga, UEFA Champions League",GK,Goalkeeper,NED,32,990,50.0,21.0,29.0,17.2,-3.8,2,36.0,114,311.0,37.0,9401.8,57.0,2784.6,127,5.0,11.0,198.6
+Marko Dmitrović,Espanyol,Spanish La Liga,GK,Goalkeeper,SRB,33,900,45.0,11.0,34.0,11.4,0.4,4,51.0,162,256.0,44.0,10368.1,54.0,2657.1,150,9.0,11.0,198.7
+Martin Dúbravka,Burnley,English Premier League,GK,Goalkeeper,SVK,36,810,51.0,17.0,37.0,15.2,-1.8,2,58.0,198,212.0,42.0,7744.1,106.0,6925.6,208,9.0,3.0,35.8
+Martin Jedlička,Viktoria Plzeň,UEFA Europa League,GK,Goalkeeper,CZE,27,270,11.0,2.0,9.0,4.0,2.0,1,16.0,51,74.0,13.0,2965.8,18.0,1040.1,48,2.0,0.0,0.0
+Martin Zlomislić,Rijeka,UEFA Europa Conference League,GK,Goalkeeper,BIH,27,90,3.0,1.0,2.0,0.2,-0.8,0,6.0,22,45.0,8.0,1638.0,5.0,299.0,9,2.0,1.0,11.0
+Marvin Keller,Young Boys,UEFA Europa League,GK,Goalkeeper,SUI,23,270,13.0,6.0,7.0,2.7,-3.3,1,10.0,34,94.0,12.0,2992.0,31.0,1134.8,37,0.0,6.0,118.7
+Marvin Schwäbe,Köln,German Bundesliga,GK,Goalkeeper,GER,30,720,40.0,11.0,29.0,12.7,1.7,2,76.0,189,302.0,24.0,11088.2,81.0,4733.3,163,2.0,6.0,104.9
+Marwin Hitz,Basel,UEFA Europa League,GK,Goalkeeper,SUI,38,180,13.0,2.0,10.0,4.0,2.0,1,17.0,41,72.0,8.0,2696.7,9.0,419.1,32,5.0,0.0,0.0
+Matej Kovar,PSV Eindhoven,UEFA Champions League,GK,Goalkeeper,CZE,25,270,13.0,6.0,7.0,6.5,0.5,0,19.0,55,128.0,10.0,4641.8,12.0,568.2,37,2.0,3.0,50.9
+Mateusz Kochalski,Qarabağ,UEFA Champions League,GK,Goalkeeper,POL,25,270,12.0,5.0,7.0,3.6,-1.4,1,19.0,64,101.0,10.0,3601.6,34.0,1912.7,46,1.0,5.0,109.5
+Matheus,Red Star,UEFA Europa League,GK,Goalkeeper,BRA,33,270,14.0,5.0,9.0,6.0,1.0,0,13.0,37,106.0,9.0,3066.2,18.0,573.9,41,3.0,6.0,96.8
+Mathew Ryan,Levante,Spanish La Liga,GK,Goalkeeper,AUS,33,720,39.0,13.0,26.0,12.2,-0.8,2,42.0,112,194.0,29.0,7209.8,67.0,3068.3,129,4.0,8.0,117.0
+Mathias Dyngeland,Brann,UEFA Europa League,GK,Goalkeeper,NOR,30,270,7.0,2.0,5.0,2.7,0.7,2,17.0,52,147.0,7.0,4772.4,9.0,351.1,50,2.0,7.0,117.1
+Matteo Bignetti,Sturm Graz,UEFA Europa League,GK,Goalkeeper,AUT,21,90,6.0,2.0,4.0,2.6,0.6,0,3.0,17,25.0,2.0,910.0,12.0,519.6,18,0.0,1.0,10.0
+Mattia Perin,Juventus,"Italian Serie A, UEFA Champions League",GK,Goalkeeper,ITA,32,180,9.0,3.0,6.0,1.9,-1.1,0,4.0,10,33.0,6.0,994.4,11.0,423.8,14,0.0,1.0,36.0
+Matz Sels,Nott'ham Forest,"English Premier League, UEFA Europa League",GK,Goalkeeper,BEL,33,1080,57.0,22.0,35.0,20.0,-2.0,1,43.0,140,274.0,43.0,10130.1,63.0,1895.3,160,3.0,11.0,194.4
+Matías Dituro,Elche,Spanish La Liga,GK,Goalkeeper,ARG,38,450,16.0,5.0,11.0,4.3,-0.7,1,40.0,99,286.0,18.0,8823.2,22.0,1053.2,64,8.0,13.0,220.2
+Melker Ellborg,Malmö,UEFA Europa League,GK,Goalkeeper,SWE,22,90,5.0,1.0,4.0,2.4,1.4,0,3.0,24,26.0,5.0,1170.0,10.0,607.0,34,1.0,0.0,0.0
+Michael Zetterer,Eint Frankfurt,"German Bundesliga, UEFA Champions League",GK,Goalkeeper,GER,30,540,37.0,11.0,26.0,10.6,-0.4,1,24.0,75,224.0,44.0,7106.3,23.0,975.5,81,4.0,8.0,120.8
+Michele Di Gregorio,Juventus,"Italian Serie A, UEFA Champions League",GK,Goalkeeper,ITA,28,810,36.0,12.0,24.0,11.5,-0.5,3,29.0,72,247.0,36.0,7413.1,31.0,1253.1,112,7.0,3.0,56.8
+Mike Maignan,Milan,Italian Serie A,GK,Goalkeeper,FRA,30,595,18.0,6.0,12.0,7.8,1.8,2,15.0,55,212.0,30.0,6618.0,24.0,973.8,98,10.0,3.0,63.4
+Mike Penders,Strasbourg,"French Ligue 1, UEFA Europa Conference League",GK,Goalkeeper,BEL,20,900,40.0,14.0,26.0,13.3,-0.7,3,31.0,85,427.0,26.0,10671.3,26.0,1159.2,139,11.0,12.0,191.5
+Mile Svilar,Roma,"Italian Serie A, UEFA Europa League",GK,Goalkeeper,SRB,26,990,30.0,7.0,23.0,8.5,1.5,5,57.0,173,373.0,63.0,12640.2,83.0,3971.0,117,9.0,8.0,140.0
+Mio Backhaus,Werder Bremen,German Bundesliga,GK,Goalkeeper,GER,21,540,29.0,12.0,18.0,10.0,-2.0,2,13.0,35,197.0,37.0,5128.5,24.0,911.7,102,10.0,8.0,127.3
+Mirko Salvi,Basel,UEFA Europa League,GK,Goalkeeper,SUI,31,90,5.0,2.0,3.0,1.7,-0.3,0,1.0,3,20.0,4.0,572.0,2.0,66.0,13,0.0,2.0,63.0
+Miłosz Piekutowski,Jagiellonia,UEFA Europa Conference League,GK,Goalkeeper,POL,19,90,6.0,1.0,5.0,2.3,1.3,0,6.0,16,34.0,1.0,1064.2,5.0,265.0,24,2.0,0.0,0.0
+Moritz Nicolas,Gladbach,German Bundesliga,GK,Goalkeeper,GER,28,720,44.0,18.0,26.0,15.6,-2.4,2,33.0,82,223.0,30.0,6554.2,32.0,1481.5,108,6.0,12.0,233.8
+Mory Diaw,Le Havre,French Ligue 1,GK,Goalkeeper,SEN,32,810,36.0,16.0,20.0,12.3,-3.7,2,44.0,117,293.0,49.0,9006.2,64.0,2506.8,145,19.0,11.0,161.4
+Nauzet García,Red Imps,UEFA Europa Conference League,GK,Goalkeeper,ESP,31,90,10.0,5.0,5.0,4.1,-0.9,0,5.0,14,29.0,2.0,1070.1,4.0,140.0,17,1.0,2.0,29.6
+Neofytos Michael,Pafos FC,UEFA Champions League,GK,Goalkeeper,CYP,31,270,20.0,5.0,15.0,5.8,0.8,2,9.0,59,93.0,16.0,3302.1,34.0,1932.6,69,1.0,3.0,51.0
+Nick Pope,Newcastle Utd,"English Premier League, UEFA Champions League",GK,Goalkeeper,ENG,33,1080,47.0,10.0,37.0,11.8,1.8,7,32.0,132,271.0,87.0,8722.4,75.0,3818.9,140,21.0,29.0,584.6
+Nicola Leali,Genoa,Italian Serie A,GK,Goalkeeper,ITA,32,720,29.0,11.0,19.0,10.0,-1.0,2,28.0,100,187.0,18.0,6693.7,35.0,1491.1,98,3.0,8.0,174.0
+Nikita Haikin,Bodø/Glimt,UEFA Champions League,GK,Goalkeeper,RUS,30,270,24.0,7.0,18.0,9.8,2.8,0,9.0,36,93.0,12.0,3057.0,9.0,455.1,60,4.0,0.0,0.0
+Niklas Hedl,Rapid Wien,UEFA Europa Conference League,GK,Goalkeeper,AUT,24,180,14.0,7.0,6.0,5.9,-1.1,0,9.0,24,32.0,5.0,1195.7,14.0,797.2,21,1.0,4.0,78.8
+Nikola Vasilj,St. Pauli,German Bundesliga,GK,Goalkeeper,BIH,29,720,42.0,14.0,26.0,15.2,1.2,1,21.0,71,310.0,30.0,8726.5,6.0,152.0,50,7.0,11.0,173.9
+Noah Atubolu,Freiburg,"German Bundesliga, UEFA Europa League",GK,Goalkeeper,GER,23,990,43.0,15.0,27.0,14.0,-1.0,3,95.0,260,451.0,28.0,17164.7,64.0,3895.6,144,6.0,11.0,226.3
+Nordin Jackers,Club Brugge,UEFA Champions League,GK,Goalkeeper,BEL,28,252,17.0,7.0,10.0,4.6,-2.4,0,20.0,61,125.0,15.0,4754.9,5.0,267.1,43,3.0,3.0,48.9
+Obed Nkambadio,Paris FC,French Ligue 1,GK,Goalkeeper,FRA,22,720,33.0,15.0,17.0,11.5,-3.5,1,25.0,85,290.0,37.0,8404.5,54.0,1647.0,108,3.0,10.0,167.6
+Odysseas Vlachodimos,Sevilla,Spanish La Liga,GK,Goalkeeper,GRE,31,540,33.0,9.0,24.0,10.5,1.5,1,35.0,87,183.0,33.0,6302.4,35.0,1607.0,77,3.0,5.0,61.8
+Okan Kocuk,Samsunspor,UEFA Europa Conference League,GK,Goalkeeper,TUR,30,180,2.0,0.0,2.0,0.8,0.8,2,10.0,29,51.0,11.0,1594.9,16.0,881.3,38,3.0,0.0,0.0
+Oliver Baumann,Hoffenheim,German Bundesliga,GK,Goalkeeper,GER,35,720,34.0,13.0,21.0,11.2,-1.8,1,34.0,102,266.0,26.0,8521.9,33.0,1248.1,129,5.0,27.0,538.0
+Oliver Christensen,Sturm Graz,UEFA Europa League,GK,Goalkeeper,DEN,26,180,15.0,3.0,13.0,3.4,0.4,0,7.0,24,47.0,8.0,1780.3,7.0,324.0,34,0.0,2.0,31.6
+Pablo Cuñat,Levante,Spanish La Liga,GK,Goalkeeper,ESP,23,180,14.0,5.0,10.0,4.7,-0.3,0,11.0,37,45.0,14.0,1878.9,26.0,1250.8,46,2.0,1.0,9.9
+Pape Mamadou Sy,Metz,French Ligue 1,GK,Goalkeeper,SEN,28,76,8.0,4.0,4.0,2.9,-1.1,0,6.0,19,21.0,2.0,867.3,8.0,447.2,10,1.0,1.0,17.0
+Pau López,Betis,"Spanish La Liga, UEFA Europa League",GK,Goalkeeper,ESP,30,630,27.0,7.0,19.0,7.4,0.4,2,26.0,75,179.0,28.0,5713.2,46.0,2228.4,105,4.0,5.0,110.9
+Paulo Gazzaniga,Girona,Spanish La Liga,GK,Goalkeeper,ARG,33,762,49.0,16.0,33.0,18.2,2.2,1,25.0,112,259.0,38.0,8501.2,44.0,2245.6,139,3.0,12.0,227.0
+Pavlo Isenko,CS U Craiova,UEFA Europa Conference League,GK,Goalkeeper,UKR,22,180,14.0,3.0,11.0,2.6,-0.4,0,7.0,16,48.0,5.0,1470.6,18.0,411.8,35,0.0,2.0,40.6
+Peter Vindahl Jensen,Sparta Prague,UEFA Europa Conference League,GK,Goalkeeper,DEN,27,90,1.0,1.0,0.0,0.5,-0.5,0,3.0,3,44.0,2.0,1086.8,1.0,18.0,6,0.0,1.0,13.6
+Philipp Köhn,Monaco,"French Ligue 1, UEFA Champions League",GK,Goalkeeper,SUI,27,822,39.0,15.0,25.0,13.6,-1.4,3,24.0,56,201.0,40.0,5542.7,47.0,1414.6,114,10.0,14.0,228.2
+Pietro Terracciano,Milan,Italian Serie A,GK,Goalkeeper,ITA,35,125,4.0,0.0,4.0,0.2,0.2,2,7.0,9,30.0,5.0,919.2,6.0,260.0,19,1.0,0.0,0.0
+Péter Gulácsi,RB Leipzig,German Bundesliga,GK,Goalkeeper,HUN,35,720,27.0,9.0,18.0,9.0,0.0,4,24.0,79,267.0,35.0,7858.1,47.0,1987.0,125,8.0,13.0,225.1
+Radosław Majecki,Brest,French Ligue 1,GK,Goalkeeper,POL,25,594,29.0,11.0,18.0,8.5,-3.8,2,53.0,123,178.0,25.0,7156.8,44.0,2616.2,97,7.0,2.0,32.8
+Razvan Sava,Udinese,Italian Serie A,GK,Goalkeeper,ROU,23,540,21.0,9.0,12.0,6.9,-2.1,1,14.0,48,141.0,20.0,4172.9,31.0,1153.6,71,1.0,6.0,129.8
+Remko Pasveer,Ajax,UEFA Champions League,GK,Goalkeeper,NED,41,90,10.0,5.0,5.0,3.4,-1.6,0,6.0,27,51.0,9.0,2055.3,7.0,399.7,17,1.0,0.0,0.0
+Robert Sánchez,Chelsea,"English Premier League, UEFA Champions League",GK,Goalkeeper,ESP,27,904,33.0,12.0,22.0,11.3,-0.9,4,39.0,151,377.0,46.0,12762.5,42.0,2158.6,110,14.0,6.0,82.9
+Robin Olsen,Malmö,UEFA Europa League,GK,Goalkeeper,SWE,35,180,14.0,5.0,9.0,4.3,-0.7,0,9.0,22,42.0,6.0,1672.2,12.0,417.2,26,0.0,0.0,0.0
+Robin Risser,Lens,French Ligue 1,GK,Goalkeeper,FRA,20,810,30.0,8.0,22.0,8.4,0.4,2,36.0,97,227.0,29.0,7680.0,52.0,2168.9,127,7.0,7.0,146.3
+Robin Roefs,Sunderland,English Premier League,GK,Goalkeeper,NED,22,810,39.0,7.0,31.0,10.1,3.1,4,45.0,169,292.0,29.0,10965.6,54.0,3571.9,162,16.0,11.0,206.2
+Robin Zentner,Mainz 05,"German Bundesliga, UEFA Europa Conference League",GK,Goalkeeper,GER,30,696,27.0,8.0,19.0,7.2,-0.8,2,43.0,150,235.0,19.0,9721.1,52.0,2703.2,91,8.0,11.0,189.6
+Roei Mashpati,Maccabi Tel Aviv,UEFA Europa League,GK,Goalkeeper,ISR,32,270,13.0,6.0,7.0,4.5,-1.5,1,8.0,17,117.0,11.0,2702.7,2.0,63.0,37,2.0,1.0,11.0
+Rome-Jayden Owusu-Oduro,AZ Alkmaar,UEFA Europa Conference League,GK,Goalkeeper,NED,21,180,11.0,4.0,7.0,4.4,0.4,1,13.0,32,40.0,4.0,1547.8,12.0,835.4,31,1.0,1.0,14.3
+Rui Silva,Sporting CP,UEFA Champions League,GK,Goalkeeper,POR,31,180,6.0,3.0,3.0,1.8,-1.2,0,4.0,13,58.0,9.0,1502.2,6.0,149.0,15,2.0,3.0,51.9
+Ruslan Neshcheret,Dynamo Kyiv,UEFA Europa Conference League,GK,Goalkeeper,UKR,23,180,12.0,5.0,7.0,3.6,-1.4,0,9.0,22,68.0,8.0,2095.2,11.0,532.2,21,1.0,2.0,28.4
+Rémy Descamps,Lyon,French Ligue 1,GK,Goalkeeper,FRA,29,360,12.0,3.0,10.0,4.9,1.9,3,5.0,27,112.0,15.0,3177.3,13.0,503.0,59,2.0,3.0,47.2
+Sam Johnstone,Wolves,English Premier League,GK,Goalkeeper,ENG,32,450,22.0,8.0,15.0,6.8,-1.2,0,42.0,118,186.0,33.0,7230.5,35.0,1704.7,95,4.0,9.0,154.2
+Senne Lammens,Manchester Utd,English Premier League,GK,Goalkeeper,BEL,23,270,14.0,3.0,11.0,4.7,1.7,1,29.0,112,109.0,5.0,5303.2,34.0,2243.4,58,5.0,3.0,50.4
+Sergio Herrera,Osasuna,Spanish La Liga,GK,Goalkeeper,ESP,32,900,50.0,12.0,38.0,15.8,3.8,2,65.0,141,245.0,50.0,8296.9,89.0,3932.4,144,6.0,22.0,504.8
+Sergio Padt,Ludogorets,UEFA Europa League,GK,Goalkeeper,NED,35,180,7.0,3.0,5.0,1.6,-1.4,0,7.0,24,71.0,6.0,2246.2,5.0,129.9,27,3.0,3.0,44.9
+Sherhan Kalmurza,Qaırat Almaty,UEFA Champions League,GK,Goalkeeper,KAZ,18,180,20.0,9.0,10.0,7.9,-1.1,0,9.0,28,41.0,10.0,1428.6,21.0,1020.1,24,2.0,2.0,30.0
+Simon Mignolet,Club Brugge,UEFA Champions League,GK,Goalkeeper,BEL,37,18,1.0,0.0,0.0,0.7,0.0,0,3.0,5,0.0,1.0,0.0,0.0,0.0,2,0.0,0.0,0.0
+Stefan Târnovanu,FCSB,UEFA Europa League,GK,Goalkeeper,ROU,25,270,23.0,4.0,19.0,5.1,1.1,1,23.0,54,73.0,16.0,2761.3,26.0,1445.3,54,2.0,1.0,12.3
+Stefano Turati,Sassuolo,Italian Serie A,GK,Goalkeeper,ITA,23,90,4.0,2.0,2.0,1.2,-0.8,0,0.0,16,23.0,4.0,936.1,3.0,201.9,9,1.0,1.0,10.0
+Sławomir Abramowicz,Jagiellonia,UEFA Europa Conference League,GK,Goalkeeper,POL,21,90,3.0,0.0,3.0,0.9,0.9,1,2.0,3,15.0,5.0,346.5,3.0,107.1,10,0.0,0.0,0.0
+Temirlan Anarbekov,Qaırat Almaty,UEFA Champions League,GK,Goalkeeper,KAZ,22,90,5.0,0.0,5.0,2.3,2.3,1,3.0,4,11.0,2.0,330.0,4.0,102.0,6,0.0,0.0,0.0
+Thibaut Courtois,Real Madrid,"Spanish La Liga, UEFA Champions League",GK,Goalkeeper,BEL,33,1170,41.0,11.0,30.0,8.2,-2.8,6,42.0,133,354.0,68.0,11723.9,56.0,2651.3,137,9.0,23.0,506.5
+Thomas Strakosha,AEK Athens,UEFA Europa Conference League,GK,Goalkeeper,ALB,30,180,11.0,3.0,8.0,4.4,1.4,1,7.0,13,47.0,9.0,1429.0,8.0,200.9,23,4.0,1.0,12.6
+Théo De Percin,Auxerre,French Ligue 1,GK,Goalkeeper,MTQ,24,226,11.0,4.0,7.0,2.8,-1.2,0,16.0,52,73.0,6.0,3097.7,12.0,725.8,41,3.0,4.0,74.1
+Timon Wellenreuther,Feyenoord,UEFA Europa League,GK,Goalkeeper,GER,29,270,10.0,4.0,6.0,3.1,-0.9,0,15.0,34,98.0,19.0,3296.3,7.0,236.0,28,3.0,6.0,124.5
+Timothy Fayulu,FC Noah,UEFA Europa Conference League,GK,Goalkeeper,NAN,26,180,3.0,1.0,2.0,0.9,-0.1,1,4.0,13,64.0,4.0,1915.6,8.0,283.2,9,0.0,1.0,13.3
+Unai Simón,Athletic Club,"Spanish La Liga, UEFA Champions League",GK,Goalkeeper,ESP,28,1170,51.0,17.0,35.0,14.5,-2.5,2,54.0,184,369.0,60.0,13063.5,53.0,3066.3,144,13.0,35.0,781.2
+Uğurcan Çakır,Galatasaray,UEFA Champions League,GK,Goalkeeper,TUR,29,270,10.0,6.0,6.0,3.5,-2.5,1,24.0,62,100.0,8.0,4175.0,12.0,651.0,37,2.0,4.0,75.6
+Vanja Milinković-Savić,Napoli,"Italian Serie A, UEFA Champions League",GK,Goalkeeper,SRB,28,630,29.0,13.0,17.0,11.6,-1.4,0,50.0,123,221.0,27.0,8207.3,57.0,2970.3,94,10.0,8.0,138.0
+Vasilios Barkas,Utrecht,UEFA Europa League,GK,Goalkeeper,GRE,31,270,14.0,4.0,10.0,3.7,-0.3,0,19.0,47,89.0,7.0,3167.2,21.0,833.2,33,1.0,5.0,79.4
+Vitezslav Jaros,Ajax,UEFA Champions League,GK,Goalkeeper,CZE,24,180,10.0,6.0,4.0,3.9,-2.1,0,6.0,21,87.0,8.0,2502.2,5.0,168.2,10,1.0,1.0,25.0
+Wessel Speel,Shelbourne FC,UEFA Europa Conference League,GK,Goalkeeper,NED,24,270,5.0,2.0,5.0,0.8,-1.2,1,19.0,58,57.0,4.0,2382.1,34.0,1828.9,31,1.0,0.0,0.0
+Wladimiro Falcone,Lecce,Italian Serie A,GK,Goalkeeper,ITA,30,720,35.0,13.0,22.0,11.6,-1.4,3,46.0,146,210.0,26.0,8922.7,27.0,1347.3,102,5.0,9.0,170.8
+Wojciech Szczęsny,Barcelona,"Spanish La Liga, UEFA Champions League",GK,Goalkeeper,POL,35,540,30.0,11.0,18.0,12.8,1.8,0,10.0,37,178.0,26.0,4511.7,34.0,847.9,58,2.0,16.0,376.8
+Yann Sommer,Inter,"Italian Serie A, UEFA Champions League",GK,Goalkeeper,SUI,36,810,31.0,10.0,21.0,9.9,-0.1,5,27.0,77,303.0,32.0,8764.2,40.0,1150.0,88,4.0,4.0,119.4
+Yehvann Diouf,Nice,"French Ligue 1, UEFA Europa League",GK,Goalkeeper,SEN,25,1080,63.0,21.0,42.0,19.1,-1.9,1,44.0,127,373.0,59.0,11117.3,48.0,2040.1,204,14.0,12.0,237.7
+Yvon Mvogo,Lorient,French Ligue 1,GK,Goalkeeper,SUI,31,540,21.0,13.0,9.0,7.6,-5.4,0,19.0,53,204.0,18.0,5949.1,16.0,658.7,81,7.0,4.0,61.8
+Zion Suzuki,Parma,Italian Serie A,GK,Goalkeeper,JPN,23,720,33.0,7.0,25.0,8.6,1.6,3,62.0,171,250.0,29.0,10314.6,64.0,3819.8,113,8.0,18.0,420.3
+Zlatan Alomerović,AÉK Lárnaka,UEFA Europa Conference League,GK,Goalkeeper,GER,34,180,3.0,0.0,3.0,0.5,0.5,2,8.0,25,45.0,8.0,1668.6,13.0,661.1,31,3.0,2.0,33.4
+Álex Remiro,Real Sociedad,Spanish La Liga,GK,Goalkeeper,ESP,30,900,34.0,14.0,21.0,11.7,-2.3,1,54.0,116,288.0,34.0,9136.0,58.0,2462.0,103,4.0,21.0,420.9
+Álvaro Vallés,Betis,"Spanish La Liga, UEFA Europa League",GK,Goalkeeper,ESP,28,450,15.0,5.0,11.0,2.9,-2.1,2,8.0,36,151.0,19.0,4256.7,27.0,964.3,64,1.0,7.0,92.8
+Ørjan Nyland,Sevilla,Spanish La Liga,GK,Goalkeeper,NOR,35,360,16.0,7.0,9.0,6.3,-0.7,1,13.0,48,114.0,13.0,4025.7,16.0,897.9,51,0.0,5.0,94.9
+Đorđe Petrović,Bournemouth,English Premier League,GK,Goalkeeper,SRB,26,810,38.0,11.0,27.0,12.5,1.5,4,33.0,112,221.0,48.0,7080.0,67.0,3389.4,109,16.0,22.0,352.6
+Łukasz Skorupski,Bologna,"Italian Serie A, UEFA Europa League",GK,Goalkeeper,POL,34,900,38.0,10.0,27.0,10.7,0.7,2,41.0,124,400.0,37.0,12467.6,47.0,2023.5,106,5.0,6.0,90.4
+Žan Leban,NK Celje,UEFA Europa Conference League,GK,Goalkeeper,SVN,23,180,8.0,1.0,7.0,1.9,0.9,1,5.0,15,56.0,8.0,1546.2,11.0,407.1,30,1.0,3.0,53.4

@@ -76,11 +76,11 @@ elif selected_season == "2025-2026":
     season_code = "25_26"
     
 base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "csv", f"csv{season_code}"))
-path_players = os.path.join(base_path, "ratings", "data_players.csv")
-path_goalkeepers = os.path.join(base_path, "ratings", "data_goals.csv")
-path_players_stats = os.path.join(base_path, "clean", "data_players.csv")
-path_goalkeepers_stats = os.path.join(base_path, "clean", "data_goals.csv")
-path_teams_stats = os.path.join(base_path, "clean", "data_teams.csv")
+path_players = os.path.join(base_path, "players", "ratings", "data_players.csv")
+path_goalkeepers = os.path.join(base_path, "players", "ratings", "data_goals.csv")
+path_players_stats = os.path.join(base_path, "players", "clean", "data_players.csv")
+path_goalkeepers_stats = os.path.join(base_path, "players", "clean", "data_goals.csv")
+path_teams_stats = os.path.join(base_path, "players", "clean", "data_teams.csv")
 path_leagues = os.path.join(base_path, "leagues_games")
 
 df_players = pd.read_csv(path_players)
