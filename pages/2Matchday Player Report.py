@@ -81,7 +81,7 @@ path_goalkeepers = os.path.join(base_path, "players", "ratings", "data_goals.csv
 path_players_stats = os.path.join(base_path, "players", "clean", "data_players.csv")
 path_goalkeepers_stats = os.path.join(base_path, "players", "clean", "data_goals.csv")
 path_teams_stats = os.path.join(base_path, "players", "clean", "data_teams.csv")
-path_leagues = os.path.join(base_path, "leagues_games")
+path_leagues = os.path.join(base_path, "Leagues Games")
 
 df_players = pd.read_csv(path_players)
 df_gk = pd.read_csv(path_goalkeepers)

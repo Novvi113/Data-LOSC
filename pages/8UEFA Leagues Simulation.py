@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # ------------------------- Functions -------------------------
 def load_matches_data(path_folder, selected_league):
-    path = os.path.join(path_folder, f"leagues_games/{selected_league}_games.csv")
+    path = os.path.join(path_folder, f"Leagues Games/{selected_league}_games.csv")
     return pd.read_csv(path)
 
 def load_ranking_uefa_data(path_folder, selected_league):

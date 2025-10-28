@@ -76,7 +76,7 @@ elif selected_season == "2025-2026":
 path_folder = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "csv", f"csv{season_code}"))
 
 paths = {
-    "games": os.path.join(path_folder, "leagues_games", "{}_games.csv"),
+    "games": os.path.join(path_folder, "Leagues Games", "{}_games.csv"),
     "clean_players": os.path.join(path_folder, "players", "clean", "data_players.csv"),
     "clean_goals": os.path.join(path_folder, "players", "clean", "data_goals.csv"),
     "ratings_players": os.path.join(path_folder, "players", "ratings", "data_players.csv"),
