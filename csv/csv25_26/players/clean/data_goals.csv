@@ -906,8 +906,26 @@ Brice Samba,J9,Rennes,French Ligue 1,FRA,GK,Goalkeeper,31,90,3.0,2.0,1.0,1.2,-0.
 Yehvann Diouf,J9,Nice,French Ligue 1,SEN,GK,Goalkeeper,25,90,7.0,1.0,6.0,1.7,0.7,0,3.0,12,34.0,6.0,1118.6,1.0,57.0,24,2.0,0.0,0.0
 Dominik Greif,J9,Lyon,French Ligue 1,SVK,GK,Goalkeeper,28,90,2.0,1.0,1.0,0.8,-0.2,0,2.0,8,33.0,3.0,973.5,2.0,69.0,8,0.0,1.0,12.0
 Mike Penders,J9,Strasbourg,French Ligue 1,BEL,GK,Goalkeeper,20,90,3.0,2.0,1.0,2.0,0.0,0,5.0,15,57.0,0.0,1379.4,4.0,236.0,16,1.0,5.0,99.5
+Jonathan Fischer,J10,Metz,French Ligue 1,DEN,GK,Goalkeeper,23,90,2.0,0.0,2.0,0.3,0.3,1,3.0,14,25.0,3.0,857.5,8.0,316.0,17,0.0,0.0,0.0
+Robin Risser,J10,Lens,French Ligue 1,FRA,GK,Goalkeeper,20,90,6.0,2.0,4.0,2.9,0.9,0,2.0,6,25.0,3.0,795.0,4.0,121.2,8,0.0,0.0,0.0
+Yvon Mvogo,J10,Lorient,French Ligue 1,SUI,GK,Goalkeeper,31,90,8.0,1.0,7.0,2.6,1.6,0,7.0,17,21.0,0.0,886.2,6.0,376.2,18,2.0,0.0,0.0
+Lucas Chevalier,J10,Paris S-G,French Ligue 1,FRA,GK,Goalkeeper,23,90,2.0,1.0,1.0,0.5,-0.5,0,1.0,2,14.0,3.0,344.4,4.0,101.2,6,0.0,4.0,76.4
+Mory Diaw,J10,Le Havre,French Ligue 1,SEN,GK,Goalkeeper,32,90,2.0,0.0,2.0,0.3,0.3,1,4.0,15,25.0,3.0,1017.5,7.0,238.7,14,1.0,2.0,31.6
+Radosław Majecki,J10,Brest,French Ligue 1,POL,GK,Goalkeeper,25,90,3.0,1.0,2.0,0.7,-0.3,0,8.0,13,34.0,6.0,1125.4,4.0,144.0,26,0.0,1.0,14.7
+Yehvann Diouf,J10,Nice,French Ligue 1,SEN,GK,Goalkeeper,25,90,4.0,0.0,4.0,0.1,0.1,1,4.0,13,27.0,7.0,950.4,4.0,173.2,30,2.0,0.0,0.0
+Arnaud Bodart,J10,Lille,French Ligue 1,BEL,GK,Goalkeeper,27,90,4.0,2.0,2.0,2.5,0.5,0,2.0,8,42.0,7.0,1163.4,2.0,49.0,3,1.0,3.0,73.5
+Mike Penders,J10,Strasbourg,French Ligue 1,BEL,GK,Goalkeeper,20,90,1.0,0.0,1.0,0.2,0.2,1,0.0,1,38.0,1.0,722.0,3.0,78.0,11,0.0,0.0,0.0
+Donovan Léon,J10,Auxerre,French Ligue 1,GUF,GK,Goalkeeper,32,90,9.0,3.0,6.0,3.2,0.2,0,4.0,17,26.0,4.0,1136.2,8.0,419.2,9,0.0,1.0,14.3
+Gerónimo Rulli,J10,Marseille,French Ligue 1,ARG,GK,Goalkeeper,33,90,6.0,2.0,4.0,1.5,-0.5,0,1.0,4,29.0,7.0,745.3,5.0,116.0,12,1.0,7.0,152.6
+Hervé Koffi,J10,Angers,French Ligue 1,BFA,GK,Goalkeeper,29,90,6.0,2.0,4.0,1.3,-0.7,0,1.0,12,36.0,8.0,1141.2,4.0,121.2,12,1.0,0.0,0.0
+Anthony Lopes,J10,Nantes,French Ligue 1,POR,GK,Goalkeeper,35,90,9.0,5.0,4.0,3.9,-1.1,0,1.0,9,37.0,5.0,1113.7,4.0,117.2,11,1.0,0.0,0.0
+Philipp Köhn,J10,Monaco,French Ligue 1,SUI,GK,Goalkeeper,27,90,5.0,3.0,2.0,3.2,0.2,0,5.0,9,23.0,4.0,724.5,4.0,151.2,12,0.0,4.0,79.6
+Obed Nkambadio,J10,Paris FC,French Ligue 1,FRA,GK,Goalkeeper,22,90,4.0,3.0,1.0,2.7,-0.3,0,4.0,13,32.0,3.0,1078.4,3.0,50.1,8,0.0,0.0,0.0
+Dominik Greif,J10,Lyon,French Ligue 1,SVK,GK,Goalkeeper,28,90,3.0,3.0,0.0,1.9,-1.1,0,1.0,7,36.0,5.0,943.2,3.0,90.9,17,2.0,2.0,31.4
 Wladimiro Falcone,J5,Lecce,Italian Serie A,ITA,GK,Goalkeeper,30,90,5.0,2.0,3.0,1.5,-0.5,0,6.0,27,35.0,3.0,1624.0,2.0,109.0,15,0.0,0.0,0.0
 Łukasz Skorupski,J5,Bologna,Italian Serie A,POL,GK,Goalkeeper,34,90,4.0,2.0,2.0,0.9,-1.1,0,2.0,8,33.0,3.0,854.7,5.0,180.0,10,1.0,2.0,33.0
+Guillaume Restes,J10,Toulouse,French Ligue 1,FRA,GK,Goalkeeper,20,90,5.0,2.0,3.0,1.3,-0.7,0,1.0,7,27.0,4.0,639.9,3.0,83.1,13,2.0,1.0,12.5
+Brice Samba,J10,Rennes,French Ligue 1,FRA,GK,Goalkeeper,31,90,4.0,2.0,2.0,1.4,-0.6,0,2.0,13,38.0,4.0,1147.6,7.0,321.3,15,0.0,1.0,20.3
 Mike Maignan,J5,Milan,Italian Serie A,FRA,GK,Goalkeeper,30,90,7.0,1.0,6.0,3.0,2.0,0,3.0,22,36.0,5.0,1501.2,6.0,346.8,28,1.0,0.0,0.0
 Alex Meret,J5,Napoli,Italian Serie A,ITA,GK,Goalkeeper,28,90,3.0,2.0,1.0,0.6,-1.4,0,1.0,1,8.0,2.0,156.0,5.0,105.0,2,0.0,2.0,47.0
 Zion Suzuki,J5,Parma,Italian Serie A,JPN,GK,Goalkeeper,23,90,4.0,1.0,3.0,1.2,0.2,0,7.0,24,36.0,2.0,1602.0,5.0,347.0,23,2.0,0.0,0.0
@@ -1127,6 +1145,22 @@ Michele Di Gregorio,J1,Juventus,Italian Serie A,ITA,GK,Goalkeeper,28,90,1.0,0.0,
 Zion Suzuki,J1,Parma,Italian Serie A,JPN,GK,Goalkeeper,23,90,8.0,2.0,6.0,2.2,0.2,0,7.0,23,25.0,4.0,1050.0,15.0,799.5,15,1.0,0.0,0.0
 Ivan Provedel,J8,Lazio,Italian Serie A,ITA,GK,Goalkeeper,31,90,5.0,0.0,5.0,0.7,0.7,1,7.0,20,33.0,3.0,1273.8,8.0,332.8,26,1.0,0.0,0.0
 Mattia Perin,J8,Juventus,Italian Serie A,ITA,GK,Goalkeeper,32,90,3.0,1.0,2.0,0.3,-0.7,0,1.0,1,13.0,3.0,348.4,5.0,83.0,8,0.0,1.0,36.0
+Wladimiro Falcone,J9,Lecce,Italian Serie A,ITA,GK,Goalkeeper,30,90,3.0,1.0,2.0,1.1,0.1,0,3.0,23,24.0,1.0,1231.2,4.0,247.2,10,0.0,2.0,24.4
+Vanja Milinković-Savić,J9,Napoli,Italian Serie A,SRB,GK,Goalkeeper,28,90,2.0,0.0,1.0,1.0,1.0,1,4.0,12,38.0,2.0,1056.4,3.0,132.9,10,0.0,1.0,21.5
+Marco Carnesecchi,J9,Atalanta,Italian Serie A,ITA,GK,Goalkeeper,25,90,1.0,1.0,0.0,0.3,-0.7,0,3.0,8,24.0,6.0,799.2,4.0,252.0,11,0.0,1.0,13.0
+Mike Maignan,J9,Milan,Italian Serie A,FRA,GK,Goalkeeper,30,90,3.0,1.0,2.0,0.4,-0.6,0,2.0,15,44.0,6.0,1421.2,5.0,208.0,19,1.0,1.0,16.4
+Jean Butez,J9,Como,Italian Serie A,FRA,GK,Goalkeeper,30,90,8.0,1.0,7.0,1.5,0.5,0,3.0,9,33.0,5.0,980.1,2.0,119.0,3,0.0,2.0,31.4
+Lorenzo Montipò,J9,Hellas Verona,Italian Serie A,ITA,GK,Goalkeeper,29,90,5.0,3.0,2.0,1.6,-1.4,0,10.0,27,23.0,1.0,1168.4,9.0,592.2,16,0.0,0.0,0.0
+Michele Di Gregorio,J9,Juventus,Italian Serie A,ITA,GK,Goalkeeper,28,90,2.0,1.0,1.0,0.7,-0.3,0,3.0,9,25.0,2.0,852.5,3.0,156.0,9,0.0,1.0,30.0
+Maduka Okoye,J9,Udinese,Italian Serie A,NGA,GK,Goalkeeper,26,90,11.0,3.0,8.0,3.5,0.5,0,9.0,22,38.0,1.0,1478.2,2.0,89.0,22,0.0,2.0,24.8
+Mile Svilar,J9,Roma,Italian Serie A,SRB,GK,Goalkeeper,26,90,5.0,1.0,4.0,1.7,0.7,0,1.0,4,30.0,8.0,798.0,3.0,117.9,8,1.0,0.0,0.0
+Zion Suzuki,J9,Parma,Italian Serie A,JPN,GK,Goalkeeper,23,90,6.0,2.0,4.0,1.6,-0.4,0,10.0,24,40.0,6.0,1584.0,9.0,519.3,21,1.0,0.0,0.0
+Nicola Leali,J9,Genoa,Italian Serie A,ITA,GK,Goalkeeper,32,90,4.0,2.0,2.0,1.7,-0.3,0,1.0,6,9.0,3.0,297.9,6.0,178.2,7,1.0,2.0,33.4
+Emil Audero,J9,Cremonese,Italian Serie A,IDN,GK,Goalkeeper,28,90,1.0,0.0,1.0,0.1,0.1,1,10.0,36,31.0,1.0,1410.5,12.0,679.2,19,1.0,2.0,29.8
+Yann Sommer,J9,Inter,Italian Serie A,SUI,GK,Goalkeeper,36,90,2.0,0.0,2.0,0.2,0.2,1,6.0,7,33.0,3.0,907.5,4.0,154.0,9,1.0,3.0,72.9
+David de Gea,J9,Fiorentina,Italian Serie A,ESP,GK,Goalkeeper,34,90,8.0,3.0,5.0,3.5,0.5,0,4.0,20,34.0,1.0,1339.6,3.0,144.9,26,1.0,0.0,0.0
+Łukasz Skorupski,J9,Bologna,Italian Serie A,POL,GK,Goalkeeper,34,90,2.0,0.0,2.0,0.1,0.1,1,2.0,5,42.0,5.0,1121.4,4.0,160.0,7,0.0,2.0,37.6
+Alberto Paleari,J9,Torino,Italian Serie A,ITA,GK,Goalkeeper,33,90,2.0,0.0,2.0,0.9,0.9,1,9.0,23,25.0,5.0,1065.0,9.0,552.6,16,0.0,2.0,37.4
 Razvan Sava,J1,Udinese,Italian Serie A,ROU,GK,Goalkeeper,23,90,3.0,1.0,2.0,1.0,0.0,0,1.0,1,25.0,6.0,557.5,4.0,71.2,7,0.0,2.0,43.0
 Lorenzo Montipò,J1,Hellas Verona,Italian Serie A,ITA,GK,Goalkeeper,29,90,4.0,1.0,3.0,0.7,-0.3,0,7.0,22,27.0,5.0,1131.3,9.0,600.3,16,1.0,0.0,0.0
 Alisson,J1,Liverpool,English Premier League,BRA,GK,Goalkeeper,32,90,3.0,2.0,1.0,0.8,-1.2,0,6.0,11,41.0,4.0,1299.7,1.0,5.0,16,1.0,0.0,0.0
