@@ -89,15 +89,15 @@ J9,Aston Villa,Manchester City,1–0,"41,988",Villa Park,Michael Oliver,2025-10-
 J9,Wolves,Burnley,2–3,"29,116",Molineux Stadium,Tony Harrington,2025-10-26,https://fbref.com/en/matches/28244556/Wolverhampton-Wanderers-Burnley-October-26-2025-Premier-League
 J9,Bournemouth,Nott'ham Forest,2–0,"11,204",Vitality Stadium,Samuel Barrott,2025-10-26,https://fbref.com/en/matches/0676a57a/Bournemouth-Nottingham-Forest-October-26-2025-Premier-League
 J9,Everton,Tottenham,0–3,"51,781",Hill Dickinson Stadium,Craig Pawson,2025-10-26,https://fbref.com/en/matches/4234aaa9/Everton-Tottenham-Hotspur-October-26-2025-Premier-League
-J10,Crystal Palace,Brentford,,,Selhurst Park,,2025-11-01,https://fbref.com/en/stathead/matchup/teams/cd051869/47c64c55/Brentford-vs-Crystal-Palace-History
-J10,Nott'ham Forest,Manchester Utd,,,The City Ground,,2025-11-01,https://fbref.com/en/stathead/matchup/teams/e4a775cb/19538871/Nottingham-Forest-vs-Manchester-United-History
-J10,Fulham,Wolves,,,Craven Cottage,,2025-11-01,https://fbref.com/en/stathead/matchup/teams/fd962109/8cec06e1/Fulham-vs-Wolverhampton-Wanderers-History
-J10,Burnley,Arsenal,,,Turf Moor,,2025-11-01,https://fbref.com/en/stathead/matchup/teams/943e8050/18bb7c10/Burnley-vs-Arsenal-History
-J10,Brighton,Leeds United,,,The American Express Stadium,,2025-11-01,https://fbref.com/en/stathead/matchup/teams/d07537b9/5bfb9659/Brighton-and-Hove-Albion-vs-Leeds-United-History
-J10,Tottenham,Chelsea,,,Tottenham Hotspur Stadium,,2025-11-01,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/361ca564/Chelsea-vs-Tottenham-Hotspur-History
-J10,Liverpool,Aston Villa,,,Anfield,,2025-11-01,https://fbref.com/en/stathead/matchup/teams/8602292d/822bd0ba/Aston-Villa-vs-Liverpool-History
-J10,West Ham,Newcastle Utd,,,London Stadium,,2025-11-02,https://fbref.com/en/stathead/matchup/teams/b2b47a98/7c21e445/Newcastle-United-vs-West-Ham-United-History
-J10,Manchester City,Bournemouth,,,Etihad Stadium,,2025-11-02,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/4ba7cbea/Manchester-City-vs-Bournemouth-History
+J10,Crystal Palace,Brentford,2–0,"25,083",Selhurst Park,Peter Bankes,2025-11-01,https://fbref.com/en/matches/96c4864b/Crystal-Palace-Brentford-November-1-2025-Premier-League
+J10,Nott'ham Forest,Manchester Utd,2–2,"30,778",The City Ground,Darren England,2025-11-01,https://fbref.com/en/matches/6f99be65/Nottingham-Forest-Manchester-United-November-1-2025-Premier-League
+J10,Fulham,Wolves,3–0,"26,413",Craven Cottage,John Brooks,2025-11-01,https://fbref.com/en/matches/03f6bccd/Fulham-Wolverhampton-Wanderers-November-1-2025-Premier-League
+J10,Burnley,Arsenal,0–2,"21,538",Turf Moor,Chris Kavanagh,2025-11-01,https://fbref.com/en/matches/2e2f2939/Burnley-Arsenal-November-1-2025-Premier-League
+J10,Brighton,Leeds United,3–0,"31,512",The American Express Stadium,Michael Oliver,2025-11-01,https://fbref.com/en/matches/40e608f4/Brighton-and-Hove-Albion-Leeds-United-November-1-2025-Premier-League
+J10,Tottenham,Chelsea,0–1,"61,202",Tottenham Hotspur Stadium,Jarred Gillett,2025-11-01,https://fbref.com/en/matches/cb498e0b/Tottenham-Hotspur-Chelsea-November-1-2025-Premier-League
+J10,Liverpool,Aston Villa,2–0,,Anfield,Stuart Attwell,2025-11-01,https://fbref.com/en/matches/c15115cb/Liverpool-Aston-Villa-November-1-2025-Premier-League
+J10,West Ham,Newcastle Utd,3–1,,London Stadium,Robert Jones,2025-11-02,https://fbref.com/en/matches/55587dfc/West-Ham-United-Newcastle-United-November-2-2025-Premier-League
+J10,Manchester City,Bournemouth,3–1,,Etihad Stadium,Anthony Taylor,2025-11-02,https://fbref.com/en/matches/cc77588b/Manchester-City-Bournemouth-November-2-2025-Premier-League
 J10,Sunderland,Everton,,,Stadium of Light,,2025-11-03,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/8ef52968/Everton-vs-Sunderland-History
 J11,Tottenham,Manchester Utd,,,Tottenham Hotspur Stadium,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/361ca564/19538871/Tottenham-Hotspur-vs-Manchester-United-History
 J11,West Ham,Burnley,,,London Stadium,,2025-11-08,https://fbref.com/en/stathead/matchup/teams/943e8050/7c21e445/Burnley-vs-West-Ham-United-History
@@ -132,19 +132,19 @@ J13,Chelsea,Arsenal,,,Stamford Bridge,,2025-11-30,https://fbref.com/en/stathead/
 J14,Bournemouth,Everton,,,Vitality Stadium,,2025-12-02,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/4ba7cbea/Everton-vs-Bournemouth-History
 J14,Fulham,Manchester City,,,Craven Cottage,,2025-12-02,https://fbref.com/en/stathead/matchup/teams/fd962109/b8fd03ef/Fulham-vs-Manchester-City-History
 J14,Newcastle Utd,Tottenham,,,St James' Park,,2025-12-02,https://fbref.com/en/stathead/matchup/teams/b2b47a98/361ca564/Newcastle-United-vs-Tottenham-Hotspur-History
-J14,Arsenal,Brentford,,,Emirates Stadium,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/cd051869/18bb7c10/Brentford-vs-Arsenal-History
-J14,Brighton,Aston Villa,,,The American Express Stadium,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/d07537b9/8602292d/Brighton-and-Hove-Albion-vs-Aston-Villa-History
-J14,Wolves,Nott'ham Forest,,,Molineux Stadium,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/e4a775cb/8cec06e1/Nottingham-Forest-vs-Wolverhampton-Wanderers-History
 J14,Burnley,Crystal Palace,,,Turf Moor,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/943e8050/47c64c55/Burnley-vs-Crystal-Palace-History
+J14,Arsenal,Brentford,,,Emirates Stadium,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/cd051869/18bb7c10/Brentford-vs-Arsenal-History
+J14,Wolves,Nott'ham Forest,,,Molineux Stadium,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/e4a775cb/8cec06e1/Nottingham-Forest-vs-Wolverhampton-Wanderers-History
+J14,Brighton,Aston Villa,,,The American Express Stadium,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/d07537b9/8602292d/Brighton-and-Hove-Albion-vs-Aston-Villa-History
 J14,Liverpool,Sunderland,,,Anfield,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/8ef52968/822bd0ba/Sunderland-vs-Liverpool-History
 J14,Leeds United,Chelsea,,,Elland Road,,2025-12-03,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/5bfb9659/Chelsea-vs-Leeds-United-History
 J14,Manchester Utd,West Ham,,,Old Trafford,,2025-12-04,https://fbref.com/en/stathead/matchup/teams/7c21e445/19538871/West-Ham-United-vs-Manchester-United-History
 J15,Aston Villa,Arsenal,,,Villa Park,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/8602292d/18bb7c10/Aston-Villa-vs-Arsenal-History
-J15,Bournemouth,Chelsea,,,Vitality Stadium,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/4ba7cbea/Chelsea-vs-Bournemouth-History
+J15,Newcastle Utd,Burnley,,,St James' Park,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/b2b47a98/943e8050/Newcastle-United-vs-Burnley-History
+J15,Manchester City,Sunderland,,,Etihad Stadium,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/8ef52968/Manchester-City-vs-Sunderland-History
 J15,Tottenham,Brentford,,,Tottenham Hotspur Stadium,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/cd051869/361ca564/Brentford-vs-Tottenham-Hotspur-History
 J15,Everton,Nott'ham Forest,,,Hill Dickinson Stadium,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/e4a775cb/d3fd31cc/Nottingham-Forest-vs-Everton-History
-J15,Manchester City,Sunderland,,,Etihad Stadium,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/8ef52968/Manchester-City-vs-Sunderland-History
-J15,Newcastle Utd,Burnley,,,St James' Park,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/b2b47a98/943e8050/Newcastle-United-vs-Burnley-History
+J15,Bournemouth,Chelsea,,,Vitality Stadium,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/4ba7cbea/Chelsea-vs-Bournemouth-History
 J15,Leeds United,Liverpool,,,Elland Road,,2025-12-06,https://fbref.com/en/stathead/matchup/teams/822bd0ba/5bfb9659/Liverpool-vs-Leeds-United-History
 J15,Brighton,West Ham,,,The American Express Stadium,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/d07537b9/7c21e445/Brighton-and-Hove-Albion-vs-West-Ham-United-History
 J15,Fulham,Crystal Palace,,,Craven Cottage,,2025-12-07,https://fbref.com/en/stathead/matchup/teams/fd962109/47c64c55/Fulham-vs-Crystal-Palace-History
@@ -154,108 +154,108 @@ J16,Liverpool,Brighton,,,Anfield,,2025-12-13,https://fbref.com/en/stathead/match
 J16,Burnley,Fulham,,,Turf Moor,,2025-12-13,https://fbref.com/en/stathead/matchup/teams/fd962109/943e8050/Fulham-vs-Burnley-History
 J16,Arsenal,Wolves,,,Emirates Stadium,,2025-12-13,https://fbref.com/en/stathead/matchup/teams/8cec06e1/18bb7c10/Wolverhampton-Wanderers-vs-Arsenal-History
 J16,Nott'ham Forest,Tottenham,,,The City Ground,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/e4a775cb/361ca564/Nottingham-Forest-vs-Tottenham-Hotspur-History
+J16,West Ham,Aston Villa,,,London Stadium,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/8602292d/7c21e445/Aston-Villa-vs-West-Ham-United-History
 J16,Crystal Palace,Manchester City,,,Selhurst Park,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/47c64c55/Manchester-City-vs-Crystal-Palace-History
 J16,Sunderland,Newcastle Utd,,,Stadium of Light,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/b2b47a98/8ef52968/Newcastle-United-vs-Sunderland-History
-J16,West Ham,Aston Villa,,,London Stadium,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/8602292d/7c21e445/Aston-Villa-vs-West-Ham-United-History
 J16,Brentford,Leeds United,,,Gtech Community Stadium,,2025-12-14,https://fbref.com/en/stathead/matchup/teams/cd051869/5bfb9659/Brentford-vs-Leeds-United-History
 J16,Manchester Utd,Bournemouth,,,Old Trafford,,2025-12-15,https://fbref.com/en/stathead/matchup/teams/4ba7cbea/19538871/Bournemouth-vs-Manchester-United-History
 J17,Newcastle Utd,Chelsea,,,St James' Park,,2025-12-20,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/b2b47a98/Chelsea-vs-Newcastle-United-History
 J17,Bournemouth,Burnley,,,Vitality Stadium,,2025-12-20,https://fbref.com/en/stathead/matchup/teams/943e8050/4ba7cbea/Burnley-vs-Bournemouth-History
-J17,Manchester City,West Ham,,,Etihad Stadium,,2025-12-20,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/7c21e445/Manchester-City-vs-West-Ham-United-History
 J17,Brighton,Sunderland,,,The American Express Stadium,,2025-12-20,https://fbref.com/en/stathead/matchup/teams/d07537b9/8ef52968/Brighton-and-Hove-Albion-vs-Sunderland-History
+J17,Manchester City,West Ham,,,Etihad Stadium,,2025-12-20,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/7c21e445/Manchester-City-vs-West-Ham-United-History
 J17,Wolves,Brentford,,,Molineux Stadium,,2025-12-20,https://fbref.com/en/stathead/matchup/teams/cd051869/8cec06e1/Brentford-vs-Wolverhampton-Wanderers-History
 J17,Tottenham,Liverpool,,,Tottenham Hotspur Stadium,,2025-12-20,https://fbref.com/en/stathead/matchup/teams/822bd0ba/361ca564/Liverpool-vs-Tottenham-Hotspur-History
-J17,Everton,Arsenal,,,Hill Dickinson Stadium,,2025-12-21,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/18bb7c10/Everton-vs-Arsenal-History
 J17,Leeds United,Crystal Palace,,,Elland Road,,2025-12-21,https://fbref.com/en/stathead/matchup/teams/5bfb9659/47c64c55/Leeds-United-vs-Crystal-Palace-History
+J17,Everton,Arsenal,,,Hill Dickinson Stadium,,2025-12-21,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/18bb7c10/Everton-vs-Arsenal-History
 J17,Aston Villa,Manchester Utd,,,Villa Park,,2025-12-21,https://fbref.com/en/stathead/matchup/teams/8602292d/19538871/Aston-Villa-vs-Manchester-United-History
 J17,Fulham,Nott'ham Forest,,,Craven Cottage,,2025-12-22,https://fbref.com/en/stathead/matchup/teams/fd962109/e4a775cb/Fulham-vs-Nottingham-Forest-History
-J18,Brentford,Bournemouth,,,Gtech Community Stadium,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/cd051869/4ba7cbea/Brentford-vs-Bournemouth-History
-J18,Burnley,Everton,,,Turf Moor,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/943e8050/Everton-vs-Burnley-History
-J18,Manchester Utd,Newcastle Utd,,,Old Trafford,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/b2b47a98/19538871/Newcastle-United-vs-Manchester-United-History
-J18,Arsenal,Brighton,,,Emirates Stadium,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/d07537b9/18bb7c10/Brighton-and-Hove-Albion-vs-Arsenal-History
+J18,Manchester Utd,Newcastle Utd,,,Old Trafford,,2025-12-26,https://fbref.com/en/stathead/matchup/teams/b2b47a98/19538871/Newcastle-United-vs-Manchester-United-History
 J18,Nott'ham Forest,Manchester City,,,The City Ground,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/e4a775cb/b8fd03ef/Nottingham-Forest-vs-Manchester-City-History
-J18,West Ham,Fulham,,,London Stadium,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/fd962109/7c21e445/Fulham-vs-West-Ham-United-History
-J18,Crystal Palace,Tottenham,,,Selhurst Park,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/47c64c55/361ca564/Crystal-Palace-vs-Tottenham-Hotspur-History
-J18,Sunderland,Leeds United,,,Stadium of Light,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/8ef52968/5bfb9659/Sunderland-vs-Leeds-United-History
-J18,Chelsea,Aston Villa,,,Stamford Bridge,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/8602292d/Chelsea-vs-Aston-Villa-History
 J18,Liverpool,Wolves,,,Anfield,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/8cec06e1/822bd0ba/Wolverhampton-Wanderers-vs-Liverpool-History
-J19,Sunderland,Manchester City,,,Stadium of Light,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/8ef52968/Manchester-City-vs-Sunderland-History
-J19,Liverpool,Leeds United,,,Anfield,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/822bd0ba/5bfb9659/Liverpool-vs-Leeds-United-History
-J19,West Ham,Brighton,,,London Stadium,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/d07537b9/7c21e445/Brighton-and-Hove-Albion-vs-West-Ham-United-History
-J19,Brentford,Tottenham,,,Gtech Community Stadium,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/cd051869/361ca564/Brentford-vs-Tottenham-Hotspur-History
-J19,Manchester Utd,Wolves,,,Old Trafford,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/8cec06e1/19538871/Wolverhampton-Wanderers-vs-Manchester-United-History
-J19,Crystal Palace,Fulham,,,Selhurst Park,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/fd962109/47c64c55/Fulham-vs-Crystal-Palace-History
-J19,Arsenal,Aston Villa,,,Emirates Stadium,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/8602292d/18bb7c10/Aston-Villa-vs-Arsenal-History
-J19,Chelsea,Bournemouth,,,Stamford Bridge,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/4ba7cbea/Chelsea-vs-Bournemouth-History
-J19,Burnley,Newcastle Utd,,,Turf Moor,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/b2b47a98/943e8050/Newcastle-United-vs-Burnley-History
+J18,Burnley,Everton,,,Turf Moor,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/943e8050/Everton-vs-Burnley-History
+J18,Arsenal,Brighton,,,Emirates Stadium,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/d07537b9/18bb7c10/Brighton-and-Hove-Albion-vs-Arsenal-History
+J18,Brentford,Bournemouth,,,Gtech Community Stadium,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/cd051869/4ba7cbea/Brentford-vs-Bournemouth-History
+J18,West Ham,Fulham,,,London Stadium,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/fd962109/7c21e445/Fulham-vs-West-Ham-United-History
+J18,Chelsea,Aston Villa,,,Stamford Bridge,,2025-12-27,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/8602292d/Chelsea-vs-Aston-Villa-History
+J18,Sunderland,Leeds United,,,Stadium of Light,,2025-12-28,https://fbref.com/en/stathead/matchup/teams/8ef52968/5bfb9659/Sunderland-vs-Leeds-United-History
+J18,Crystal Palace,Tottenham,,,Selhurst Park,,2025-12-28,https://fbref.com/en/stathead/matchup/teams/47c64c55/361ca564/Crystal-Palace-vs-Tottenham-Hotspur-History
 J19,Nott'ham Forest,Everton,,,The City Ground,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/e4a775cb/d3fd31cc/Nottingham-Forest-vs-Everton-History
-J20,Newcastle Utd,Crystal Palace,,,St James' Park,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/b2b47a98/47c64c55/Newcastle-United-vs-Crystal-Palace-History
-J20,Bournemouth,Arsenal,,,Vitality Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/4ba7cbea/18bb7c10/Bournemouth-vs-Arsenal-History
-J20,Manchester City,Chelsea,,,Etihad Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/b8fd03ef/Chelsea-vs-Manchester-City-History
-J20,Everton,Brentford,,,Hill Dickinson Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/cd051869/Everton-vs-Brentford-History
-J20,Tottenham,Sunderland,,,Tottenham Hotspur Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/8ef52968/361ca564/Sunderland-vs-Tottenham-Hotspur-History
-J20,Brighton,Burnley,,,The American Express Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/d07537b9/943e8050/Brighton-and-Hove-Albion-vs-Burnley-History
-J20,Fulham,Liverpool,,,Craven Cottage,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/fd962109/822bd0ba/Fulham-vs-Liverpool-History
+J19,West Ham,Brighton,,,London Stadium,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/d07537b9/7c21e445/Brighton-and-Hove-Albion-vs-West-Ham-United-History
+J19,Burnley,Newcastle Utd,,,Turf Moor,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/b2b47a98/943e8050/Newcastle-United-vs-Burnley-History
+J19,Chelsea,Bournemouth,,,Stamford Bridge,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/4ba7cbea/Chelsea-vs-Bournemouth-History
+J19,Manchester Utd,Wolves,,,Old Trafford,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/8cec06e1/19538871/Wolverhampton-Wanderers-vs-Manchester-United-History
+J19,Arsenal,Aston Villa,,,Emirates Stadium,,2025-12-30,https://fbref.com/en/stathead/matchup/teams/8602292d/18bb7c10/Aston-Villa-vs-Arsenal-History
+J19,Liverpool,Leeds United,,,Anfield,,2026-01-01,https://fbref.com/en/stathead/matchup/teams/822bd0ba/5bfb9659/Liverpool-vs-Leeds-United-History
+J19,Crystal Palace,Fulham,,,Selhurst Park,,2026-01-01,https://fbref.com/en/stathead/matchup/teams/fd962109/47c64c55/Fulham-vs-Crystal-Palace-History
+J19,Sunderland,Manchester City,,,Stadium of Light,,2026-01-01,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/8ef52968/Manchester-City-vs-Sunderland-History
+J19,Brentford,Tottenham,,,Gtech Community Stadium,,2026-01-01,https://fbref.com/en/stathead/matchup/teams/cd051869/361ca564/Brentford-vs-Tottenham-Hotspur-History
 J20,Aston Villa,Nott'ham Forest,,,Villa Park,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/e4a775cb/8602292d/Nottingham-Forest-vs-Aston-Villa-History
 J20,Wolves,West Ham,,,Molineux Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/8cec06e1/7c21e445/Wolverhampton-Wanderers-vs-West-Ham-United-History
-J20,Leeds United,Manchester Utd,,,Elland Road,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/5bfb9659/19538871/Leeds-United-vs-Manchester-United-History
-J21,Burnley,Manchester Utd,,,Turf Moor,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/943e8050/19538871/Burnley-vs-Manchester-United-History
-J21,Bournemouth,Tottenham,,,Vitality Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/4ba7cbea/361ca564/Bournemouth-vs-Tottenham-Hotspur-History
-J21,Arsenal,Liverpool,,,Emirates Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/822bd0ba/18bb7c10/Liverpool-vs-Arsenal-History
+J20,Brighton,Burnley,,,The American Express Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/d07537b9/943e8050/Brighton-and-Hove-Albion-vs-Burnley-History
+J20,Bournemouth,Arsenal,,,Vitality Stadium,,2026-01-03,https://fbref.com/en/stathead/matchup/teams/4ba7cbea/18bb7c10/Bournemouth-vs-Arsenal-History
+J20,Leeds United,Manchester Utd,,,Elland Road,,2026-01-04,https://fbref.com/en/stathead/matchup/teams/5bfb9659/19538871/Leeds-United-vs-Manchester-United-History
+J20,Newcastle Utd,Crystal Palace,,,St James' Park,,2026-01-04,https://fbref.com/en/stathead/matchup/teams/b2b47a98/47c64c55/Newcastle-United-vs-Crystal-Palace-History
+J20,Tottenham,Sunderland,,,Tottenham Hotspur Stadium,,2026-01-04,https://fbref.com/en/stathead/matchup/teams/8ef52968/361ca564/Sunderland-vs-Tottenham-Hotspur-History
+J20,Fulham,Liverpool,,,Craven Cottage,,2026-01-04,https://fbref.com/en/stathead/matchup/teams/fd962109/822bd0ba/Fulham-vs-Liverpool-History
+J20,Everton,Brentford,,,Hill Dickinson Stadium,,2026-01-04,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/cd051869/Everton-vs-Brentford-History
+J20,Manchester City,Chelsea,,,Etihad Stadium,,2026-01-04,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/b8fd03ef/Chelsea-vs-Manchester-City-History
+J21,West Ham,Nott'ham Forest,,,London Stadium,,2026-01-06,https://fbref.com/en/stathead/matchup/teams/e4a775cb/7c21e445/Nottingham-Forest-vs-West-Ham-United-History
 J21,Brentford,Sunderland,,,Gtech Community Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/cd051869/8ef52968/Brentford-vs-Sunderland-History
-J21,West Ham,Nott'ham Forest,,,London Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/e4a775cb/7c21e445/Nottingham-Forest-vs-West-Ham-United-History
+J21,Bournemouth,Tottenham,,,Vitality Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/4ba7cbea/361ca564/Bournemouth-vs-Tottenham-Hotspur-History
+J21,Everton,Wolves,,,Hill Dickinson Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/8cec06e1/Everton-vs-Wolverhampton-Wanderers-History
+J21,Crystal Palace,Aston Villa,,,Selhurst Park,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/8602292d/47c64c55/Aston-Villa-vs-Crystal-Palace-History
 J21,Manchester City,Brighton,,,Etihad Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/d07537b9/b8fd03ef/Brighton-and-Hove-Albion-vs-Manchester-City-History
 J21,Fulham,Chelsea,,,Craven Cottage,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/fd962109/cff3d9bb/Fulham-vs-Chelsea-History
-J21,Crystal Palace,Aston Villa,,,Selhurst Park,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/8602292d/47c64c55/Aston-Villa-vs-Crystal-Palace-History
-J21,Everton,Wolves,,,Hill Dickinson Stadium,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/8cec06e1/Everton-vs-Wolverhampton-Wanderers-History
+J21,Burnley,Manchester Utd,,,Turf Moor,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/943e8050/19538871/Burnley-vs-Manchester-United-History
 J21,Newcastle Utd,Leeds United,,,St James' Park,,2026-01-07,https://fbref.com/en/stathead/matchup/teams/b2b47a98/5bfb9659/Newcastle-United-vs-Leeds-United-History
-J22,Manchester Utd,Manchester City,,,Old Trafford,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/19538871/Manchester-Derby-Manchester-City-vs-Manchester-United-History
-J22,Nott'ham Forest,Arsenal,,,The City Ground,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/e4a775cb/18bb7c10/Nottingham-Forest-vs-Arsenal-History
-J22,Aston Villa,Everton,,,Villa Park,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/8602292d/Everton-vs-Aston-Villa-History
+J21,Arsenal,Liverpool,,,Emirates Stadium,,2026-01-08,https://fbref.com/en/stathead/matchup/teams/822bd0ba/18bb7c10/Liverpool-vs-Arsenal-History
 J22,Brighton,Bournemouth,,,The American Express Stadium,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/d07537b9/4ba7cbea/Brighton-and-Hove-Albion-vs-Bournemouth-History
-J22,Chelsea,Brentford,,,Stamford Bridge,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/cd051869/Chelsea-vs-Brentford-History
-J22,Wolves,Newcastle Utd,,,Molineux Stadium,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/b2b47a98/8cec06e1/Newcastle-United-vs-Wolverhampton-Wanderers-History
-J22,Leeds United,Fulham,,,Elland Road,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/fd962109/5bfb9659/Fulham-vs-Leeds-United-History
-J22,Tottenham,West Ham,,,Tottenham Hotspur Stadium,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/7c21e445/361ca564/West-Ham-United-vs-Tottenham-Hotspur-History
+J22,Aston Villa,Everton,,,Villa Park,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/8602292d/Everton-vs-Aston-Villa-History
+J22,Nott'ham Forest,Arsenal,,,The City Ground,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/e4a775cb/18bb7c10/Nottingham-Forest-vs-Arsenal-History
+J22,Manchester Utd,Manchester City,,,Old Trafford,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/19538871/Manchester-Derby-Manchester-City-vs-Manchester-United-History
 J22,Liverpool,Burnley,,,Anfield,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/943e8050/822bd0ba/Burnley-vs-Liverpool-History
+J22,Leeds United,Fulham,,,Elland Road,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/fd962109/5bfb9659/Fulham-vs-Leeds-United-History
+J22,Wolves,Newcastle Utd,,,Molineux Stadium,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/b2b47a98/8cec06e1/Newcastle-United-vs-Wolverhampton-Wanderers-History
 J22,Sunderland,Crystal Palace,,,Stadium of Light,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/8ef52968/47c64c55/Sunderland-vs-Crystal-Palace-History
+J22,Chelsea,Brentford,,,Stamford Bridge,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/cd051869/Chelsea-vs-Brentford-History
+J22,Tottenham,West Ham,,,Tottenham Hotspur Stadium,,2026-01-17,https://fbref.com/en/stathead/matchup/teams/7c21e445/361ca564/West-Ham-United-vs-Tottenham-Hotspur-History
 J23,Brentford,Nott'ham Forest,,,Gtech Community Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/e4a775cb/cd051869/Nottingham-Forest-vs-Brentford-History
+J23,Newcastle Utd,Aston Villa,,,St James' Park,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/b2b47a98/8602292d/Newcastle-United-vs-Aston-Villa-History
+J23,Bournemouth,Liverpool,,,Vitality Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/822bd0ba/4ba7cbea/Liverpool-vs-Bournemouth-History
 J23,Fulham,Brighton,,,Craven Cottage,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/fd962109/d07537b9/Fulham-vs-Brighton-and-Hove-Albion-History
 J23,Arsenal,Manchester Utd,,,Emirates Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/19538871/18bb7c10/Manchester-United-vs-Arsenal-History
-J23,Newcastle Utd,Aston Villa,,,St James' Park,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/b2b47a98/8602292d/Newcastle-United-vs-Aston-Villa-History
-J23,Everton,Leeds United,,,Hill Dickinson Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/5bfb9659/Everton-vs-Leeds-United-History
+J23,Manchester City,Wolves,,,Etihad Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/8cec06e1/Manchester-City-vs-Wolverhampton-Wanderers-History
 J23,Burnley,Tottenham,,,Turf Moor,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/943e8050/361ca564/Burnley-vs-Tottenham-Hotspur-History
-J23,Bournemouth,Liverpool,,,Vitality Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/822bd0ba/4ba7cbea/Liverpool-vs-Bournemouth-History
+J23,Everton,Leeds United,,,Hill Dickinson Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/5bfb9659/Everton-vs-Leeds-United-History
 J23,West Ham,Sunderland,,,London Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/8ef52968/7c21e445/Sunderland-vs-West-Ham-United-History
 J23,Crystal Palace,Chelsea,,,Selhurst Park,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/47c64c55/Chelsea-vs-Crystal-Palace-History
-J23,Manchester City,Wolves,,,Etihad Stadium,,2026-01-24,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/8cec06e1/Manchester-City-vs-Wolverhampton-Wanderers-History
+J24,Aston Villa,Brentford,,,Villa Park,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/cd051869/8602292d/Brentford-vs-Aston-Villa-History
 J24,Chelsea,West Ham,,,Stamford Bridge,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/7c21e445/Chelsea-vs-West-Ham-United-History
+J24,Sunderland,Burnley,,,Stadium of Light,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/943e8050/8ef52968/Burnley-vs-Sunderland-History
+J24,Brighton,Everton,,,The American Express Stadium,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/d07537b9/Everton-vs-Brighton-and-Hove-Albion-History
 J24,Leeds United,Arsenal,,,Elland Road,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/5bfb9659/18bb7c10/Leeds-United-vs-Arsenal-History
 J24,Wolves,Bournemouth,,,Molineux Stadium,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/8cec06e1/4ba7cbea/Wolverhampton-Wanderers-vs-Bournemouth-History
-J24,Manchester Utd,Fulham,,,Old Trafford,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/fd962109/19538871/Fulham-vs-Manchester-United-History
-J24,Nott'ham Forest,Crystal Palace,,,The City Ground,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/e4a775cb/47c64c55/Nottingham-Forest-vs-Crystal-Palace-History
 J24,Liverpool,Newcastle Utd,,,Anfield,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/b2b47a98/822bd0ba/Newcastle-United-vs-Liverpool-History
-J24,Brighton,Everton,,,The American Express Stadium,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/d07537b9/Everton-vs-Brighton-and-Hove-Albion-History
+J24,Manchester Utd,Fulham,,,Old Trafford,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/fd962109/19538871/Fulham-vs-Manchester-United-History
 J24,Tottenham,Manchester City,,,Tottenham Hotspur Stadium,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/361ca564/Manchester-City-vs-Tottenham-Hotspur-History
-J24,Sunderland,Burnley,,,Stadium of Light,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/943e8050/8ef52968/Burnley-vs-Sunderland-History
-J24,Aston Villa,Brentford,,,Villa Park,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/cd051869/8602292d/Brentford-vs-Aston-Villa-History
-J25,Liverpool,Manchester City,,,Anfield,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/822bd0ba/Manchester-City-vs-Liverpool-History
-J25,Wolves,Chelsea,,,Molineux Stadium,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/8cec06e1/Chelsea-vs-Wolverhampton-Wanderers-History
-J25,Leeds United,Nott'ham Forest,,,Elland Road,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/e4a775cb/5bfb9659/Nottingham-Forest-vs-Leeds-United-History
-J25,Manchester Utd,Tottenham,,,Old Trafford,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/361ca564/19538871/Tottenham-Hotspur-vs-Manchester-United-History
-J25,Burnley,West Ham,,,Turf Moor,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/943e8050/7c21e445/Burnley-vs-West-Ham-United-History
+J24,Nott'ham Forest,Crystal Palace,,,The City Ground,,2026-01-31,https://fbref.com/en/stathead/matchup/teams/e4a775cb/47c64c55/Nottingham-Forest-vs-Crystal-Palace-History
 J25,Bournemouth,Aston Villa,,,Vitality Stadium,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/8602292d/4ba7cbea/Aston-Villa-vs-Bournemouth-History
-J25,Fulham,Everton,,,Craven Cottage,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/fd962109/d3fd31cc/Fulham-vs-Everton-History
-J25,Newcastle Utd,Brentford,,,St James' Park,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/cd051869/b2b47a98/Brentford-vs-Newcastle-United-History
+J25,Wolves,Chelsea,,,Molineux Stadium,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/8cec06e1/Chelsea-vs-Wolverhampton-Wanderers-History
 J25,Arsenal,Sunderland,,,Emirates Stadium,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/8ef52968/18bb7c10/Sunderland-vs-Arsenal-History
+J25,Manchester Utd,Tottenham,,,Old Trafford,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/361ca564/19538871/Tottenham-Hotspur-vs-Manchester-United-History
+J25,Leeds United,Nott'ham Forest,,,Elland Road,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/e4a775cb/5bfb9659/Nottingham-Forest-vs-Leeds-United-History
 J25,Brighton,Crystal Palace,,,The American Express Stadium,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/d07537b9/47c64c55/Brighton-and-Hove-Albion-vs-Crystal-Palace-History
-J26,Manchester City,Fulham,,,Etihad Stadium,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/fd962109/b8fd03ef/Fulham-vs-Manchester-City-History
-J26,Chelsea,Leeds United,,,Stamford Bridge,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/5bfb9659/Chelsea-vs-Leeds-United-History
-J26,Aston Villa,Brighton,,,Villa Park,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/d07537b9/8602292d/Brighton-and-Hove-Albion-vs-Aston-Villa-History
-J26,Nott'ham Forest,Wolves,,,The City Ground,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/e4a775cb/8cec06e1/Nottingham-Forest-vs-Wolverhampton-Wanderers-History
-J26,West Ham,Manchester Utd,,,London Stadium,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/7c21e445/19538871/West-Ham-United-vs-Manchester-United-History
+J25,Burnley,West Ham,,,Turf Moor,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/943e8050/7c21e445/Burnley-vs-West-Ham-United-History
+J25,Liverpool,Manchester City,,,Anfield,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/b8fd03ef/822bd0ba/Manchester-City-vs-Liverpool-History
+J25,Newcastle Utd,Brentford,,,St James' Park,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/cd051869/b2b47a98/Brentford-vs-Newcastle-United-History
+J25,Fulham,Everton,,,Craven Cottage,,2026-02-07,https://fbref.com/en/stathead/matchup/teams/fd962109/d3fd31cc/Fulham-vs-Everton-History
 J26,Tottenham,Newcastle Utd,,,Tottenham Hotspur Stadium,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/b2b47a98/361ca564/Newcastle-United-vs-Tottenham-Hotspur-History
+J26,West Ham,Manchester Utd,,,London Stadium,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/7c21e445/19538871/West-Ham-United-vs-Manchester-United-History
+J26,Nott'ham Forest,Wolves,,,The City Ground,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/e4a775cb/8cec06e1/Nottingham-Forest-vs-Wolverhampton-Wanderers-History
+J26,Manchester City,Fulham,,,Etihad Stadium,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/fd962109/b8fd03ef/Fulham-vs-Manchester-City-History
 J26,Crystal Palace,Burnley,,,Selhurst Park,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/943e8050/47c64c55/Burnley-vs-Crystal-Palace-History
+J26,Aston Villa,Brighton,,,Villa Park,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/d07537b9/8602292d/Brighton-and-Hove-Albion-vs-Aston-Villa-History
+J26,Chelsea,Leeds United,,,Stamford Bridge,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/cff3d9bb/5bfb9659/Chelsea-vs-Leeds-United-History
 J26,Sunderland,Liverpool,,,Stadium of Light,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/8ef52968/822bd0ba/Sunderland-vs-Liverpool-History
 J26,Everton,Bournemouth,,,Hill Dickinson Stadium,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/d3fd31cc/4ba7cbea/Everton-vs-Bournemouth-History
 J26,Brentford,Arsenal,,,Gtech Community Stadium,,2026-02-11,https://fbref.com/en/stathead/matchup/teams/cd051869/18bb7c10/Brentford-vs-Arsenal-History

@@ -66,10 +66,9 @@ df_agg = df_scores_filtered.groupby("Player", as_index=False).agg({
 })
 
 df_agg = df_agg[df_agg["General Position"].isin(selected_positions)]
-df_agg["Average Rating"] = df_agg["Rating"].round(2)
-df_agg.drop(columns=["Rating"], inplace=True)
 df_avg = df_agg[(df_agg["Matches"] >= min_matches) & (df_agg["Age"] <= age_max)]
-df_avg["Average Rating"] = df_avg["Average Rating"].round(2)
+df_avg.rename(columns={"Rating": "Average Rating"}, inplace=True)
+df_avg["Average Rating"] = df_avg["Average Rating"].astype(int) #.round(2)
 df_top = df_avg.sort_values(by="Average Rating", ascending=False).head(top_n)
 df_top.set_index("Player", inplace=True)
 
