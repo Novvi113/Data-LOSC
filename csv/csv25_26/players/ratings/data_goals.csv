@@ -3,6 +3,8 @@ Stefano Turati,J1,GK,Goalkeeper,Sassuolo,Italian Serie A,90,32,23,ITA
 Alex Meret,J1,GK,Goalkeeper,Napoli,Italian Serie A,90,68,28,ITA
 Yann Sommer,J1,GK,Goalkeeper,Inter,Italian Serie A,90,89,36,SUI
 Franco Israel,J1,GK,Goalkeeper,Torino,Italian Serie A,90,32,25,URU
+Ivan Provedel,0,GK,Goalkeeper,0,0,90,91,31,ITA
+Elia Caprile,0,GK,Goalkeeper,0,0,90,37,24,ITA
 Robert Sánchez,J1,GK,Goalkeeper,Chelsea,English Premier League,90,86,27,ESP
 Dean Henderson,J1,GK,Goalkeeper,Crystal Palace,English Premier League,90,97,28,ENG
 Altay Bayındır,J1,GK,Goalkeeper,Manchester Utd,English Premier League,90,73,27,TUR
@@ -23,6 +25,8 @@ David Raya,J2,GK,Goalkeeper,Arsenal,English Premier League,90,78,29,ESP
 Lucas Perri,J2,GK,Goalkeeper,Leeds United,English Premier League,90,21,27,BRA
 Dean Henderson,J2,GK,Goalkeeper,Crystal Palace,English Premier League,90,35,28,ENG
 Matz Sels,J2,GK,Goalkeeper,Nott'ham Forest,English Premier League,90,64,33,BEL
+Adrian Šemper,0,GK,Goalkeeper,0,0,90,89,27,CRO
+Emil Audero,0,GK,Goalkeeper,0,0,90,61,28,IDN
 Jordan Pickford,J2,GK,Goalkeeper,Everton,English Premier League,90,100,31,ENG
 Bart Verbruggen,J2,GK,Goalkeeper,Brighton,English Premier League,90,33,23,NED
 Bernd Leno,J2,GK,Goalkeeper,Fulham,English Premier League,90,48,33,GER
@@ -188,6 +192,8 @@ Alphonse Areola,J10,GK,Goalkeeper,West Ham,English Premier League,90,60,32,FRA
 Nick Pope,J10,GK,Goalkeeper,Newcastle Utd,English Premier League,90,41,33,ENG
 Gianluigi Donnarumma,J10,GK,Goalkeeper,Manchester City,English Premier League,90,73,26,ITA
 Đorđe Petrović,J10,GK,Goalkeeper,Bournemouth,English Premier League,90,33,26,SRB
+Robin Roefs,0,GK,Goalkeeper,0,0,90,50,22,NED
+Jordan Pickford,0,GK,Goalkeeper,0,0,90,69,31,ENG
 Emil Audero,J2,GK,Goalkeeper,Cremonese,Italian Serie A,90,51,28,IDN
 Arijanet Muric,J2,GK,Goalkeeper,Sassuolo,Italian Serie A,90,52,26,KVX
 Wladimiro Falcone,J2,GK,Goalkeeper,Lecce,Italian Serie A,90,70,30,ITA
@@ -415,6 +421,10 @@ Wojciech Szczęsny,J11,GK,Goalkeeper,Barcelona,Spanish La Liga,90,55,35,POL
 Iñaki Peña,J11,GK,Goalkeeper,Elche,Spanish La Liga,90,50,26,ESP
 Álvaro Vallés,J11,GK,Goalkeeper,Betis,Spanish La Liga,90,80,28,ESP
 Lucas Bergström,J11,GK,Goalkeeper,Mallorca,Spanish La Liga,90,45,23,FIN
+Aarón Escandell,0,GK,Goalkeeper,0,0,90,94,30,ESP
+Sergio Herrera,0,GK,Goalkeeper,0,0,90,87,32,ESP
+Matías Dituro,0,GK,Goalkeeper,0,0,90,84,38,ARG
+Álex Remiro,0,GK,Goalkeeper,0,0,90,56,30,ESP
 Alex Meret,J2,GK,Goalkeeper,Napoli,Italian Serie A,90,59,28,ITA
 Elia Caprile,J2,GK,Goalkeeper,Cagliari,Italian Serie A,90,69,24,ITA
 Adrian Šemper,J2,GK,Goalkeeper,Pisa,Italian Serie A,90,61,27,CRO
@@ -533,6 +543,42 @@ Philipp Köhn,J3,GK,Goalkeeper,Monaco,UEFA Champions League,90,100,27,SUI
 Guglielmo Vicario,J3,GK,Goalkeeper,Tottenham,UEFA Champions League,90,100,29,ITA
 Michael Zetterer,J3,GK,Goalkeeper,Eint Frankfurt,UEFA Champions League,90,54,30,GER
 Giorgi Mamardashvili,J3,GK,Goalkeeper,Liverpool,UEFA Champions League,90,48,25,GEO
+Jakub Markovič,0,GK,Goalkeeper,0,0,90,49,24,CZE
+David Raya,0,GK,Goalkeeper,0,0,90,73,30,ESP
+Vanja Milinković-Savić,0,GK,Goalkeeper,0,0,90,81,28,SRB
+Michael Zetterer,0,GK,Goalkeeper,0,0,90,76,30,GER
+Guglielmo Vicario,0,GK,Goalkeeper,0,0,90,97,29,ITA
+Dominik Kotarski,0,GK,Goalkeeper,0,0,90,29,25,CRO
+Giorgi Mamardashvili,0,GK,Goalkeeper,0,0,90,72,25,GEO
+Thibaut Courtois,0,GK,Goalkeeper,0,0,90,78,33,BEL
+Michele Di Gregorio,0,GK,Goalkeeper,0,0,90,35,28,ITA
+Rui Silva,0,GK,Goalkeeper,0,0,90,67,31,POR
+Jan Oblak,0,GK,Goalkeeper,0,0,90,64,32,SVN
+Kjell Scherpen,0,GK,Goalkeeper,0,0,90,49,25,NED
+Nikita Haikin,0,GK,Goalkeeper,0,0,90,48,30,RUS
+Philipp Köhn,0,GK,Goalkeeper,0,0,90,90,27,SUI
+Lucas Chevalier,0,GK,Goalkeeper,0,0,90,48,23,FRA
+Manuel Neuer,0,GK,Goalkeeper,0,0,90,89,39,GER
+Kostas Tzolakis,0,GK,Goalkeeper,0,0,90,51,22,GRE
+Matej Kovar,0,GK,Goalkeeper,0,0,90,57,25,CZE
+Neofytos Michael,0,GK,Goalkeeper,0,0,90,84,31,CYP
+Luiz Lúcio Reis Júnior,0,GK,Goalkeeper,0,0,90,44,24,BRA
+Gianluigi Donnarumma,0,GK,Goalkeeper,0,0,90,63,26,ITA
+Gregor Kobel,0,GK,Goalkeeper,0,0,90,39,27,SUI
+Anatolii Trubin,0,GK,Goalkeeper,0,0,90,48,24,UKR
+Mark Flekken,0,GK,Goalkeeper,0,0,90,91,32,NED
+Nick Pope,0,GK,Goalkeeper,0,0,90,100,33,ENG
+Unai Simón,0,GK,Goalkeeper,0,0,90,37,28,ESP
+Gerónimo Rulli,0,GK,Goalkeeper,0,0,90,62,33,ARG
+Marco Carnesecchi,0,GK,Goalkeeper,0,0,90,99,25,ITA
+Yann Sommer,0,GK,Goalkeeper,0,0,90,43,36,SUI
+Temirlan Anarbekov,0,GK,Goalkeeper,0,0,90,67,22,KAZ
+Nordin Jackers,0,GK,Goalkeeper,0,0,90,42,28,BEL
+Wojciech Szczęsny,0,GK,Goalkeeper,0,0,90,37,35,POL
+Remko Pasveer,0,GK,Goalkeeper,0,0,90,69,41,NED
+Uğurcan Çakır,0,GK,Goalkeeper,0,0,90,78,29,TUR
+Mateusz Kochalski,0,GK,Goalkeeper,0,0,90,41,25,POL
+Robert Sánchez,0,GK,Goalkeeper,0,0,90,45,27,ESP
 Yann Sommer,J2,GK,Goalkeeper,Inter,Italian Serie A,90,45,36,SUI
 Razvan Sava,J2,GK,Goalkeeper,Udinese,Italian Serie A,90,62,23,ROU
 Elías Rafn Ólafsson,J1,GK,Goalkeeper,Midtjylland,UEFA Europa League,90,89,25,ISL
@@ -643,10 +689,48 @@ Berke Özer,J3,GK,Goalkeeper,Lille,UEFA Europa League,90,30,25,TUR
 Antonis Tsiftsis,J3,GK,Goalkeeper,PAOK,UEFA Europa League,90,67,26,GRE
 Melker Ellborg,J3,GK,Goalkeeper,Malmö,UEFA Europa League,90,77,22,SWE
 Ivan Nevistić,J3,GK,Goalkeeper,Dinamo Zagreb,UEFA Europa League,90,40,27,CRO
+Elías Rafn Ólafsson,0,GK,Goalkeeper,0,0,90,62,25,ISL
+Kasper Schmeichel,0,GK,Goalkeeper,0,0,90,68,39,DEN
+Melker Ellborg,0,GK,Goalkeeper,0,0,90,63,22,SWE
+Alban Lafont,0,GK,Goalkeeper,0,0,90,77,26,CIV
+Ivan Nevistić,0,GK,Goalkeeper,0,0,90,27,27,CRO
+Iván Villar,0,GK,Goalkeeper,0,0,90,76,28,ESP
+Marwin Hitz,0,GK,Goalkeeper,0,0,90,70,38,SUI
+Stefan Târnovanu,0,GK,Goalkeeper,0,0,11,63,25,ROU
+Lukáš Zima,0,GK,Goalkeeper,0,0,75,46,31,CZE
 Nicola Leali,J1,GK,Goalkeeper,Genoa,Italian Serie A,90,62,32,ITA
 Wladimiro Falcone,J1,GK,Goalkeeper,Lecce,Italian Serie A,90,87,30,ITA
 Ivan Provedel,J2,GK,Goalkeeper,Lazio,Italian Serie A,90,82,31,ITA
 Lorenzo Montipò,J2,GK,Goalkeeper,Hellas Verona,Italian Serie A,90,44,29,ITA
+Oliver Christensen,0,GK,Goalkeeper,0,0,90,70,26,DEN
+John,0,GK,Goalkeeper,0,0,90,79,29,BRA
+Yehvann Diouf,0,GK,Goalkeeper,0,0,90,32,25,SEN
+Noah Atubolu,0,GK,Goalkeeper,0,0,90,64,23,GER
+Christian Zawieschitzky,0,GK,Goalkeeper,0,0,90,72,18,AUT
+Jari De Busser,0,GK,Goalkeeper,0,0,90,63,26,BEL
+Vasilios Barkas,0,GK,Goalkeeper,0,0,65,71,31,GRE
+Michael Brouwer,0,GK,Goalkeeper,0,0,22,100,32,NED
+Diogo Costa,0,GK,Goalkeeper,0,0,90,48,26,POR
+Matheus,0,GK,Goalkeeper,0,0,90,95,33,BRA
+Berke Özer,0,GK,Goalkeeper,0,0,90,65,25,TUR
+Lukáš Horníček,0,GK,Goalkeeper,0,0,90,30,23,CZE
+Hendrik Van Crombrugge,0,GK,Goalkeeper,0,0,90,50,32,BEL
+Emiliano Martínez,0,GK,Goalkeeper,0,0,90,86,33,ARG
+Roei Mashpati,0,GK,Goalkeeper,0,0,90,56,32,ISR
+Jack Butland,0,GK,Goalkeeper,0,0,90,50,32,ENG
+Mile Svilar,0,GK,Goalkeeper,0,0,90,86,26,SRB
+Dénes Dibusz,0,GK,Goalkeeper,0,0,90,46,34,HUN
+Sergio Padt,0,GK,Goalkeeper,0,0,90,53,35,NED
+Łukasz Skorupski,0,GK,Goalkeeper,0,0,90,68,34,POL
+Mathias Dyngeland,0,GK,Goalkeeper,0,0,90,91,30,NOR
+Martin Jedlička,0,GK,Goalkeeper,0,0,90,89,27,CZE
+Ederson,0,GK,Goalkeeper,0,0,90,100,32,BRA
+Alexander Nübel,0,GK,Goalkeeper,0,0,90,92,29,GER
+Timon Wellenreuther,0,GK,Goalkeeper,0,0,90,69,29,GER
+Álvaro Vallés,0,GK,Goalkeeper,0,0,90,83,28,ESP
+Dominik Greif,0,GK,Goalkeeper,0,0,90,38,28,SVK
+Antonis Tsiftsis,0,GK,Goalkeeper,0,0,90,66,26,GRE
+Marvin Keller,0,GK,Goalkeeper,0,0,90,74,23,SUI
 Elia Caprile,J3,GK,Goalkeeper,Cagliari,Italian Serie A,90,99,24,ITA
 Zion Suzuki,J3,GK,Goalkeeper,Parma,Italian Serie A,90,41,23,JPN
 Goran Karaćić,J1,GK,Goalkeeper,Zrinjski Mostar,UEFA Europa Conference League,90,51,29,BIH
@@ -721,6 +805,42 @@ Pavlo Isenko,J2,GK,Goalkeeper,CS U Craiova,UEFA Europa Conference League,90,59,2
 Timothy Fayulu,J2,GK,Goalkeeper,FC Noah,UEFA Europa Conference League,90,38,26,NAN
 Okan Kocuk,J2,GK,Goalkeeper,Samsunspor,UEFA Europa Conference League,90,55,30,TUR
 Ruslan Neshcheret,J2,GK,Goalkeeper,Dynamo Kyiv,UEFA Europa Conference League,90,29,23,UKR
+Robin Zentner,0,GK,Goalkeeper,0,0,90,65,31,GER
+Tommaso Martinelli,0,GK,Goalkeeper,0,0,90,34,19,ITA
+Žan Leban,0,GK,Goalkeeper,0,0,90,74,23,SVN
+Kacper Tobiasz,0,GK,Goalkeeper,0,0,90,35,23,POL
+Peter Vindahl Jensen,0,GK,Goalkeeper,0,0,90,79,27,DEN
+Oliwier Zych,0,GK,Goalkeeper,0,0,90,97,21,POL
+Dmytro Riznyk,0,GK,Goalkeeper,0,0,90,64,26,UKR
+Anton Ari Einarsson,0,GK,Goalkeeper,0,0,90,32,31,ISL
+Thomas Strakosha,0,GK,Goalkeeper,0,0,90,40,30,ALB
+Ed McGinty,0,GK,Goalkeeper,0,0,90,87,26,IRL
+Johannes Kreidl,0,GK,Goalkeeper,0,0,90,59,29,AUT
+Dominik Takáč,0,GK,Goalkeeper,0,0,90,42,26,SVK
+Zlatan Alomerović,0,GK,Goalkeeper,0,0,90,60,34,GER
+Dimitar Mitov,0,GK,Goalkeeper,0,0,90,80,28,BUL
+Dean Henderson,0,GK,Goalkeeper,0,0,90,53,28,ENG
+Rome-Jayden Owusu-Oduro,0,GK,Goalkeeper,0,0,90,40,21,NED
+Wessel Speel,0,GK,Goalkeeper,0,0,90,80,24,NED
+Faton Maloku,0,GK,Goalkeeper,0,0,90,73,34,KVX
+Okan Kocuk,0,GK,Goalkeeper,0,0,90,76,30,TUR
+Henry Bonello,0,GK,Goalkeeper,0,0,90,38,37,MLT
+Augusto Batalla,0,GK,Goalkeeper,0,0,90,31,29,ARG
+Bartosz Mrozek,0,GK,Goalkeeper,0,0,90,38,25,POL
+Jaylan Hankins,0,GK,Goalkeeper,0,0,90,53,24,GIB
+Martin Zlomislić,0,GK,Goalkeeper,0,0,90,70,27,BIH
+Paul Gartler,0,GK,Goalkeeper,0,0,90,79,28,AUT
+Pavlo Isenko,0,GK,Goalkeeper,0,0,90,74,22,UKR
+Etrit Berisha,0,GK,Goalkeeper,0,0,90,68,36,ALB
+Mike Penders,0,GK,Goalkeeper,0,0,90,60,20,BEL
+Karlo Letica,0,GK,Goalkeeper,0,0,90,52,28,CRO
+Francis Uzoho,0,GK,Goalkeeper,0,0,90,80,27,NGA
+Baboucarr Gaye,0,GK,Goalkeeper,0,0,90,47,27,GAM
+Miłosz Piekutowski,0,GK,Goalkeeper,0,0,90,41,19,POL
+Timothy Fayulu,0,GK,Goalkeeper,0,0,90,46,26,NAN
+Jan Koutny,0,GK,Goalkeeper,0,0,90,45,21,CZE
+Ruslan Neshcheret,0,GK,Goalkeeper,0,0,90,85,23,UKR
+Marin Ljubić,0,GK,Goalkeeper,0,0,90,24,28,CRO
 Michele Di Gregorio,J3,GK,Goalkeeper,Juventus,Italian Serie A,90,18,28,ITA
 Yann Sommer,J3,GK,Goalkeeper,Inter,Italian Serie A,90,14,36,SUI
 David de Gea,J3,GK,Goalkeeper,Fiorentina,Italian Serie A,90,65,34,ESP
@@ -983,6 +1103,8 @@ Radosław Majecki,J11,GK,Goalkeeper,Brest,French Ligue 1,90,71,25,POL
 Dominik Greif,J11,GK,Goalkeeper,Lyon,French Ligue 1,90,98,28,SVK
 Mike Maignan,J5,GK,Goalkeeper,Milan,Italian Serie A,90,81,30,FRA
 Alex Meret,J5,GK,Goalkeeper,Napoli,Italian Serie A,90,25,28,ITA
+Obed Nkambadio,0,GK,Goalkeeper,0,0,90,51,22,FRA
+Brice Samba,0,GK,Goalkeeper,0,0,90,87,31,FRA
 Zion Suzuki,J5,GK,Goalkeeper,Parma,Italian Serie A,90,70,23,JPN
 Franco Israel,J5,GK,Goalkeeper,Torino,Italian Serie A,90,30,25,URU
 Elia Caprile,J1,GK,Goalkeeper,Cagliari,Italian Serie A,90,43,23,ITA
@@ -1208,6 +1330,8 @@ Marvin Schwäbe,J9,GK,Goalkeeper,Köln,German Bundesliga,90,80,30,GER
 Daniel Heuer Fernandes,J9,GK,Goalkeeper,Hamburger SV,German Bundesliga,90,64,32,POR
 Kamil Grabara,J9,GK,Goalkeeper,Wolfsburg,German Bundesliga,90,32,26,POL
 Oliver Baumann,J9,GK,Goalkeeper,Hoffenheim,German Bundesliga,90,53,35,GER
+Mio Backhaus,0,GK,Goalkeeper,0,0,90,63,21,GER
+Kamil Grabara,0,GK,Goalkeeper,0,0,90,73,26,POL
 Arijanet Muric,J8,GK,Goalkeeper,Sassuolo,Italian Serie A,90,70,26,KVX
 Mile Svilar,J8,GK,Goalkeeper,Roma,Italian Serie A,90,83,26,SRB
 Lorenzo Montipò,J8,GK,Goalkeeper,Hellas Verona,Italian Serie A,90,39,29,ITA
@@ -1256,6 +1380,8 @@ Zion Suzuki,J10,GK,Goalkeeper,Parma,Italian Serie A,90,40,23,JPN
 Łukasz Skorupski,J10,GK,Goalkeeper,Bologna,Italian Serie A,90,41,34,POL
 Mike Maignan,J10,GK,Goalkeeper,Milan,Italian Serie A,90,98,30,FRA
 Mile Svilar,J10,GK,Goalkeeper,Roma,Italian Serie A,90,72,26,SRB
+Arijanet Muric,0,GK,Goalkeeper,0,0,90,48,26,KVX
+Nicola Leali,0,GK,Goalkeeper,0,0,90,60,32,ITA
 Alisson,J1,GK,Goalkeeper,Liverpool,English Premier League,90,38,32,BRA
 Đorđe Petrović,J1,GK,Goalkeeper,Bournemouth,English Premier League,90,51,25,SRB
 Marco Bizot,J1,GK,Goalkeeper,Aston Villa,English Premier League,90,100,34,NED

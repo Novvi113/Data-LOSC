@@ -59,6 +59,36 @@ Adam Masina,J1,CB,Defender,Torino,Italian Serie A,90.0,65,31,MAR
 Saúl Coco,J1,CB,Defender,Torino,Italian Serie A,90.0,62,26,EQG
 Valentino Lazaro,J1,RB,Defender,Torino,Italian Serie A,78.0,71,29,AUT
 Faustino Anjorin,J1,LM,Midfielder,Torino,Italian Serie A,12.0,58,23,ENG
+Boulaye Dia,0,AM,Forward,0,0,83.0,56,28,SEN
+Tijjani Noslin,0,AM,Forward,0,0,7.0,57,26,NED
+Mattia Zaccagni,0,LW,Forward,0,0,90.0,90,30,ITA
+Gustav Isaksen,0,RW,Forward,0,0,83.0,75,24,DEN
+Pedro,0,RW,Forward,0,0,7.0,59,38,ESP
+Toma Bašić,0,LM,Midfielder,0,0,60.0,64,28,CRO
+Matías Vecino,0,LM,Midfielder,0,0,30.0,71,34,URU
+Danilo Cataldi,0,CM,Midfielder,0,0,90.0,77,31,ITA
+Mattéo Guendouzi,0,RM,Midfielder,0,0,90.0,87,26,FRA
+Adam Marušić,0,LB,Defender,0,0,90.0,67,33,MNE
+Alessio Romagnoli,0,CB,Defender,0,0,45.0,80,30,ITA
+Oliver Nielsen,0,CB,Defender,0,0,45.0,64,22,DEN
+Mario Gila,0,CB,Defender,0,0,90.0,68,25,ESP
+Manuel Lazzari,0,RB,Defender,0,0,72.0,58,31,ITA
+Luca Pellegrini,0,LB,Defender,0,0,18.0,51,26,ITA
+Sebastiano Esposito,0,AM,Forward,0,0,67.0,74,23,ITA
+Zito Luvumbo,0,AM,Forward,0,0,23.0,69,23,ANG
+Gennaro Borrelli,0,AM,Forward,0,0,68.0,64,25,ITA
+Semih Kılıçsoy,0,AM,Forward,0,0,22.0,66,20,TUR
+Gianluca Gaetano,0,AM,Forward,0,0,56.0,78,25,ITA
+Mattia Felici,0,AM,Forward,0,0,34.0,81,24,ITA
+Michael Folorunsho,0,LM,Midfielder,0,0,78.0,70,27,ITA
+Leonardo Pavoletti,0,LM,Midfielder,0,0,12.0,48,36,ITA
+Michel Ndary Adopo,0,RM,Midfielder,0,0,90.0,69,25,FRA
+Matteo Prati,0,DM,Midfielder,0,0,90.0,64,21,ITA
+Marco Palestra,0,LB,Defender,0,0,78.0,71,20,ITA
+Riyad Idrissi,0,LB,Defender,0,0,12.0,42,20,ITA
+Sebastiano Luperto,0,CB,Defender,0,0,90.0,68,29,ITA
+Yerry Mina,0,CB,Defender,0,0,90.0,75,31,COL
+Gabriele Zappa,0,RB,Defender,0,0,90.0,67,25,ITA
 João Pedro,J1,AM,Forward,Chelsea,English Premier League,72.0,83,23,BRA
 Liam Delap,J1,AM,Forward,Chelsea,English Premier League,18.0,90,22,ENG
 Jamie Gittens,J1,LW,Forward,Chelsea,English Premier League,53.0,83,21,ENG
@@ -177,7 +207,7 @@ Rayan Cherki,J2,CM,Midfielder,Manchester City,English Premier League,53.0,95,22,
 Bernardo Silva,J2,CM,Midfielder,Manchester City,English Premier League,37.0,69,31,POR
 Oscar Bobb,J2,RM,Midfielder,Manchester City,English Premier League,74.0,87,22,NOR
 Phil Foden,J2,CM,Midfielder,Manchester City,English Premier League,16.0,86,25,ENG
-Nicolás González,J2,DM,Midfielder,Manchester City,English Premier League,74.0,83,23,ESP
+Nico González,J2,DM,Midfielder,Manchester City,English Premier League,74.0,83,23,ESP
 Rodri,J2,DM,Midfielder,Manchester City,English Premier League,16.0,91,29,ESP
 Rayan Aït-Nouri,J2,LB,Defender,Manchester City,English Premier League,22.0,62,24,ALG
 Nathan Aké,J2,LB,Defender,Manchester City,English Premier League,68.0,73,30,NED
@@ -346,6 +376,35 @@ Neco Williams,J2,LB,Defender,Nott'ham Forest,English Premier League,90.0,78,24,W
 Murillo,J2,CB,Defender,Nott'ham Forest,English Premier League,90.0,87,23,BRA
 Nikola Milenković,J2,CB,Defender,Nott'ham Forest,English Premier League,90.0,69,27,SRB
 Ola Aina,J2,RB,Defender,Nott'ham Forest,English Premier League,90.0,82,28,NGA
+Stefano Moreo,0,AM,Forward,0,0,66.0,67,32,ITA
+Mattéo Tramoni,0,AM,Forward,0,0,24.0,92,25,FRA
+M'Bala Nzola,0,AM,Forward,0,0,89.0,78,29,ANG
+Henrik Meister,0,AM,Forward,0,0,1.0,60,21,DEN
+Ebenezer Akinsanmiro,0,CM,Midfielder,0,0,66.0,74,20,NGA
+Gabriele Piccinini,0,CM,Midfielder,0,0,24.0,53,24,ITA
+Michel Aebischer,0,CM,Midfielder,0,0,90.0,85,28,SUI
+İsak Vural,0,CM,Midfielder,0,0,66.0,60,19,TUR
+Marius Marin,0,CM,Midfielder,0,0,24.0,73,27,ROU
+Juan Cuadrado,0,WB,Midfielder,0,0,45.0,79,37,COL
+Mehdi Léris,0,WB,Midfielder,0,0,45.0,79,27,ALG
+Idrissa Touré,0,WB,Midfielder,0,0,90.0,87,27,GER
+Simone Canestrelli,0,CB,Defender,0,0,90.0,62,25,ITA
+Antonio Caracciolo,0,CB,Defender,0,0,90.0,65,35,ITA
+Arturo Calabresi,0,CB,Defender,0,0,90.0,46,29,ITA
+Jamie Vardy,0,AM,Forward,0,0,90.0,66,38,ENG
+Franco Vázquez,0,AM,Forward,0,0,76.0,91,36,ARG
+Federico Bonazzoli,0,AM,Forward,0,0,14.0,62,28,ITA
+Mikayil Ngor Faye,0,LW,Forward,0,0,76.0,64,21,SEN
+Romano Floriani,0,RW,Forward,0,0,14.0,75,22,ITA
+Tommaso Barbieri,0,RW,Forward,0,0,90.0,67,23,ITA
+Martín Payero,0,CM,Midfielder,0,0,76.0,63,27,ARG
+Jeremy Sarmiento,0,CM,Midfielder,0,0,14.0,74,23,ECU
+Warren Bondo,0,CM,Midfielder,0,0,90.0,78,22,FRA
+Jari Vandeputte,0,DM,Midfielder,0,0,90.0,86,29,BEL
+Matteo Bianchetti,0,CB,Defender,0,0,90.0,66,32,ITA
+Federico Baschirotto,0,CB,Defender,0,0,90.0,67,29,ITA
+Filippo Terracciano,0,CB,Defender,0,0,89.0,61,22,ITA
+Dennis Johnsen,0,CB,Defender,0,0,1.0,51,27,NOR
 Thierno Barry,J2,AM,Forward,Everton,English Premier League,63.0,73,22,FRA
 Beto,J2,AM,Forward,Everton,English Premier League,27.0,81,27,GNB
 Jack Grealish,J2,LW,Forward,Everton,English Premier League,89.0,100,29,ENG
@@ -981,7 +1040,7 @@ Tijjani Reijnders,J4,CM,Midfielder,Manchester City,English Premier League,90.0,7
 Bernardo Silva,J4,RM,Midfielder,Manchester City,English Premier League,87.0,88,31,POR
 Nathan Aké,J4,RM,Midfielder,Manchester City,English Premier League,3.0,53,30,NED
 Rodri,J4,DM,Midfielder,Manchester City,English Premier League,75.0,79,29,ESP
-Nicolás González,J4,DM,Midfielder,Manchester City,English Premier League,15.0,62,23,ESP
+Nico González,J4,DM,Midfielder,Manchester City,English Premier League,15.0,62,23,ESP
 Nico O’Reilly,J4,LB,Defender,Manchester City,English Premier League,90.0,85,20,ENG
 Joško Gvardiol,J4,CB,Defender,Manchester City,English Premier League,90.0,56,23,CRO
 Rúben Dias,J4,CB,Defender,Manchester City,English Premier League,90.0,65,28,POR
@@ -1270,7 +1329,7 @@ William Saliba,J5,CB,Defender,Arsenal,English Premier League,90.0,84,24,FRA
 Jurriën Timber,J5,RB,Defender,Arsenal,English Premier League,79.0,79,24,NED
 Gabriel Martinelli,J5,LW,Forward,Arsenal,English Premier League,11.0,80,24,BRA
 Erling Haaland,J5,AM,Forward,Manchester City,English Premier League,75.0,84,25,NOR
-Nicolás González,J5,CM,Midfielder,Manchester City,English Premier League,15.0,75,23,ESP
+Nico González,J5,CM,Midfielder,Manchester City,English Premier League,15.0,75,23,ESP
 Jeremy Doku,J5,LM,Midfielder,Manchester City,English Premier League,86.0,82,23,BEL
 Sávio,J5,AM,Forward,Manchester City,English Premier League,4.0,63,21,BRA
 Tijjani Reijnders,J5,CM,Midfielder,Manchester City,English Premier League,90.0,79,27,NED
@@ -1401,7 +1460,7 @@ Jeremy Doku,J6,LM,Midfielder,Manchester City,English Premier League,90.0,97,23,B
 Phil Foden,J6,CM,Midfielder,Manchester City,English Premier League,90.0,86,25,ENG
 Tijjani Reijnders,J6,CM,Midfielder,Manchester City,English Premier League,83.0,83,27,NED
 Sávio,J6,RM,Midfielder,Manchester City,English Premier League,62.0,70,21,BRA
-Nicolás González,J6,DM,Midfielder,Manchester City,English Premier League,90.0,86,23,ESP
+Nico González,J6,DM,Midfielder,Manchester City,English Premier League,90.0,86,23,ESP
 Nico O’Reilly,J6,LB,Defender,Manchester City,English Premier League,83.0,90,20,ENG
 Joško Gvardiol,J6,CB,Defender,Manchester City,English Premier League,70.0,73,23,CRO
 Rúben Dias,J6,CB,Defender,Manchester City,English Premier League,90.0,70,28,POR
@@ -1852,7 +1911,7 @@ Bernardo Silva,J7,CM,Midfielder,Manchester City,English Premier League,15.0,80,3
 Oscar Bobb,J7,RM,Midfielder,Manchester City,English Premier League,75.0,90,22,NOR
 Jeremy Doku,J7,LM,Midfielder,Manchester City,English Premier League,15.0,71,23,BEL
 Rodri,J7,DM,Midfielder,Manchester City,English Premier League,21.0,78,29,ESP
-Nicolás González,J7,DM,Midfielder,Manchester City,English Premier League,69.0,72,23,ESP
+Nico González,J7,DM,Midfielder,Manchester City,English Premier League,69.0,72,23,ESP
 Nico O’Reilly,J7,LB,Defender,Manchester City,English Premier League,90.0,79,20,ENG
 Joško Gvardiol,J7,CB,Defender,Manchester City,English Premier League,90.0,89,23,CRO
 Rúben Dias,J7,CB,Defender,Manchester City,English Premier League,90.0,84,28,POR
@@ -2006,7 +2065,7 @@ Tijjani Reijnders,J8,CM,Midfielder,Manchester City,English Premier League,58.0,7
 Bernardo Silva,J8,CM,Midfielder,Manchester City,English Premier League,32.0,85,31,POR
 Sávio,J8,RM,Midfielder,Manchester City,English Premier League,84.0,92,21,BRA
 Rayan Cherki,J8,LM,Midfielder,Manchester City,English Premier League,6.0,63,22,FRA
-Nicolás González,J8,DM,Midfielder,Manchester City,English Premier League,85.0,86,23,ESP
+Nico González,J8,DM,Midfielder,Manchester City,English Premier League,85.0,86,23,ESP
 Mateo Kovačić,J8,DM,Midfielder,Manchester City,English Premier League,5.0,68,31,CRO
 Nico O’Reilly,J8,LB,Defender,Manchester City,English Premier League,84.0,78,20,ENG
 Rico Lewis,J8,LB,Defender,Manchester City,English Premier League,6.0,58,20,ENG
@@ -2340,7 +2399,7 @@ Erling Haaland,J9,AM,Forward,Manchester City,English Premier League,90.0,71,25,N
 Sávio,J9,LM,Midfielder,Manchester City,English Premier League,83.0,88,21,BRA
 Omar Marmoush,J9,RM,Midfielder,Manchester City,English Premier League,7.0,57,26,EGY
 Bernardo Silva,J9,CM,Midfielder,Manchester City,English Premier League,60.0,68,31,POR
-Nicolás González,J9,DM,Midfielder,Manchester City,English Premier League,30.0,90,23,ESP
+Nico González,J9,DM,Midfielder,Manchester City,English Premier League,30.0,90,23,ESP
 Phil Foden,J9,CM,Midfielder,Manchester City,English Premier League,90.0,90,25,ENG
 Oscar Bobb,J9,RM,Midfielder,Manchester City,English Premier League,60.0,84,22,NOR
 Jeremy Doku,J9,LM,Midfielder,Manchester City,English Premier League,30.0,95,23,BEL
@@ -2672,7 +2731,7 @@ Rayan Cherki,J10,AM,Forward,Manchester City,English Premier League,72.0,100,22,F
 Tijjani Reijnders,J10,CM,Midfielder,Manchester City,English Premier League,18.0,83,27,NED
 Phil Foden,J10,LM,Midfielder,Manchester City,English Premier League,89.0,87,25,ENG
 Rayan Aït-Nouri,J10,LM,Midfielder,Manchester City,English Premier League,1.0,68,24,ALG
-Nicolás González,J10,CM,Midfielder,Manchester City,English Premier League,90.0,85,23,ESP
+Nico González,J10,CM,Midfielder,Manchester City,English Premier League,90.0,85,23,ESP
 Bernardo Silva,J10,RM,Midfielder,Manchester City,English Premier League,89.0,87,31,POR
 Rodri,J10,DM,Midfielder,Manchester City,English Premier League,1.0,70,29,ESP
 Nico O’Reilly,J10,LB,Defender,Manchester City,English Premier League,90.0,74,20,ENG
@@ -2694,6 +2753,32 @@ Marcos Senesi,J10,CB,Defender,Bournemouth,English Premier League,90.0,91,28,ARG
 Bafodé Diakité,J10,CB,Defender,Bournemouth,English Premier League,90.0,82,24,FRA
 Álex Jiménez,J10,RB,Defender,Bournemouth,English Premier League,61.0,82,20,ESP
 Lewis Cook,J10,RB,Defender,Bournemouth,English Premier League,29.0,82,28,ENG
+Wilson Isidor,0,AM,Forward,0,0,82.0,72,25,FRA
+Brian Brobbey,0,AM,Forward,0,0,8.0,54,23,NED
+Enzo Le Fée,0,LW,Forward,0,0,90.0,83,25,FRA
+Bertrand Traoré,0,RW,Forward,0,0,81.0,79,30,BFA
+Chemsdine Talbi,0,RW,Forward,0,0,9.0,51,20,MAR
+Reinildo Mandava,0,LM,Midfielder,0,0,90.0,83,31,MOZ
+Noah Sadiki,0,CM,Midfielder,0,0,90.0,83,20,COD
+Granit Xhaka,0,CM,Midfielder,0,0,90.0,95,33,SUI
+Trai Hume,0,RM,Midfielder,0,0,90.0,76,23,NIR
+Lutsharel Geertruida,0,CB,Defender,0,0,90.0,71,25,NED
+Daniel Ballard,0,CB,Defender,0,0,90.0,78,26,NIR
+Nordi Mukiele,0,CB,Defender,0,0,90.0,60,28,FRA
+Thierno Barry,0,AM,Forward,0,0,56.0,66,23,FRA
+Beto,0,AM,Forward,0,0,34.0,50,27,GNB
+Jack Grealish,0,LW,Forward,0,0,90.0,79,30,ENG
+Iliman Ndiaye,0,RW,Forward,0,0,61.0,76,25,SEN
+Dwight McNeil,0,RW,Forward,0,0,29.0,45,25,ENG
+Kiernan Dewsbury-Hall,0,AM,Forward,0,0,82.0,77,27,ENG
+Carlos Alcaraz,0,AM,Forward,0,0,8.0,69,22,ARG
+James Garner,0,DM,Midfielder,0,0,90.0,75,24,ENG
+Idrissa Gana Gueye,0,DM,Midfielder,0,0,90.0,81,36,SEN
+Vitaliy Mykolenko,0,LB,Defender,0,0,90.0,76,26,UKR
+Michael Keane,0,CB,Defender,0,0,90.0,61,32,ENG
+James Tarkowski,0,CB,Defender,0,0,90.0,59,32,ENG
+Jake O'Brien,0,RB,Defender,0,0,82.0,72,24,IRL
+Tim Iroegbunam,0,DM,Midfielder,0,0,8.0,61,22,ENG
 Antonio Sanabria,J2,AM,Forward,Cremonese,Italian Serie A,81.0,80,29,PAR
 Manuel De Luca,J2,AM,Forward,Cremonese,Italian Serie A,9.0,85,27,ITA
 Franco Vázquez,J2,AM,Forward,Cremonese,Italian Serie A,73.0,83,36,ARG
@@ -6022,6 +6107,66 @@ Johan Mojica,J11,LB,Defender,Mallorca,Spanish La Liga,90.0,75,33,COL
 Antonio Raillo,J11,CB,Defender,Mallorca,Spanish La Liga,90.0,76,34,ESP
 Martin Valjent,J11,CB,Defender,Mallorca,Spanish La Liga,90.0,63,29,SVK
 Pablo Maffeo,J11,RB,Defender,Mallorca,Spanish La Liga,90.0,80,28,ESP
+Salomón Rondón,0,AM,Forward,0,0,90.0,60,36,VEN
+Ilyas Chaira,0,LW,Forward,0,0,68.0,82,24,MAR
+Haissem Hassan,0,RW,Forward,0,0,22.0,64,23,FRA
+Federico Viñas,0,RW,Forward,0,0,81.0,71,27,URU
+Pablo Agudín,0,LW,Forward,0,0,9.0,74,17,ESP
+Alberto Reina,0,AM,Forward,0,0,81.0,64,28,ESP
+Luka Ilić,0,AM,Forward,0,0,9.0,64,26,SRB
+Leander Dendoncker,0,DM,Midfielder,0,0,90.0,69,30,BEL
+Santiago Colombatto,0,DM,Midfielder,0,0,90.0,65,28,ARG
+Javi López,0,LB,Defender,0,0,85.0,68,23,ESP
+Rahim Bonkano,0,LB,Defender,0,0,5.0,56,23,NIG
+David Carmo,0,CB,Defender,0,0,90.0,74,26,ANG
+David Costas,0,CB,Defender,0,0,90.0,68,30,ESP
+Nacho Vidal,0,RB,Defender,0,0,90.0,71,30,ESP
+Ante Budimir,0,AM,Forward,0,0,84.0,73,34,CRO
+Jorge Herrando,0,CB,Defender,0,0,6.0,46,24,ESP
+Raúl,0,AM,Forward,0,0,90.0,81,25,ESP
+Víctor Muñoz,0,LM,Midfielder,0,0,90.0,74,22,ESP
+Lucas Torró,0,CM,Midfielder,0,0,17.0,53,31,ESP
+Iker Muñoz,0,CM,Midfielder,0,0,73.0,72,22,ESP
+Moi Gómez,0,CM,Midfielder,0,0,84.0,77,31,ESP
+Kike Barja,0,LM,Midfielder,0,0,6.0,62,28,ESP
+Rubén García,0,RM,Midfielder,0,0,69.0,73,32,ESP
+Aimar Oroz,0,RM,Midfielder,0,0,21.0,72,23,ESP
+Abel Bretones,0,LB,Defender,0,0,90.0,61,25,ESP
+Catena,0,CB,Defender,0,0,90.0,64,31,ESP
+Enzo Boyomo,0,CB,Defender,0,0,90.0,63,24,CMR
+Jon Moncayola,0,RB,Defender,0,0,90.0,71,27,ESP
+Álvaro Rodríguez,0,AM,Forward,0,0,73.0,85,21,URU
+Germán Valera,0,LM,Midfielder,0,0,17.0,63,23,ESP
+Rafa Mir,0,LM,Midfielder,0,0,89.0,79,28,ESP
+André Silva,0,AM,Forward,0,0,1.0,59,30,POR
+Rodrigo Mendoza,0,CM,Midfielder,0,0,89.0,67,20,ESP
+Federico Redondo,0,DM,Midfielder,0,0,1.0,65,22,ARG
+Aleix Febas,0,CM,Midfielder,0,0,90.0,82,29,ESP
+Josan,0,RM,Midfielder,0,0,73.0,76,35,ESP
+Héctor Fort,0,RM,Midfielder,0,0,17.0,62,19,ESP
+Marc Aguado,0,DM,Midfielder,0,0,83.0,65,25,ESP
+John Donald,0,CM,Midfielder,0,0,7.0,63,25,ESP
+Adrià Pedrosa,0,LB,Defender,0,0,90.0,79,27,ESP
+Víctor Chust,0,CB,Defender,0,0,83.0,58,25,ESP
+Léo Pétrot,0,CB,Defender,0,0,7.0,59,28,FRA
+David Affengruber,0,CB,Defender,0,0,90.0,70,24,AUT
+Álvaro Núñez,0,RB,Defender,0,0,90.0,85,25,ESP
+Mikel Oyarzabal,0,AM,Forward,0,0,90.0,86,28,ESP
+Gonçalo Guedes,0,LM,Midfielder,0,0,63.0,62,28,POR
+Umar Sadiq,0,AM,Forward,0,0,27.0,76,28,NGA
+Carlos Soler,0,CM,Midfielder,0,0,74.0,64,28,ESP
+Aihen Muñoz,0,LB,Defender,0,0,16.0,48,28,ESP
+Brais Méndez,0,CM,Midfielder,0,0,74.0,76,28,ESP
+Pablo Marín,0,CM,Midfielder,0,0,16.0,57,22,ESP
+Takefusa Kubo,0,RM,Midfielder,0,0,63.0,79,24,JPN
+Arsen Zakharyan,0,LM,Midfielder,0,0,27.0,63,22,RUS
+Jon Gorrotxategi,0,DM,Midfielder,0,0,90.0,76,23,ESP
+Sergio Gómez,0,LB,Defender,0,0,80.0,59,25,ESP
+Luka Sučić,0,CM,Midfielder,0,0,10.0,72,23,CRO
+Igor Zubeldia,0,CB,Defender,0,0,90.0,64,28,ESP
+Jon Martin,0,CB,Defender,0,0,90.0,52,19,ESP
+Jon Aramburu,0,RB,Defender,0,0,89.0,64,23,VEN
+Aritz Elustondo,0,RB,Defender,0,0,1.0,40,31,ESP
 Lorenzo Lucca,J2,AM,Forward,Napoli,Italian Serie A,74.0,71,24,ITA
 Giuseppe Ambrosino,J2,AM,Forward,Napoli,Italian Serie A,16.0,64,21,ITA
 Scott McTominay,J2,LM,Midfielder,Napoli,Italian Serie A,90.0,56,28,SCO
@@ -6527,7 +6672,7 @@ Rico Lewis,J1,CM,Midfielder,Manchester City,UEFA Champions League,11.0,88,20,ENG
 Phil Foden,J1,CM,Midfielder,Manchester City,UEFA Champions League,90.0,100,25,ENG
 Bernardo Silva,J1,RM,Midfielder,Manchester City,UEFA Champions League,90.0,100,31,POR
 Rodri,J1,DM,Midfielder,Manchester City,UEFA Champions League,59.0,100,29,ESP
-Nicolás González,J1,DM,Midfielder,Manchester City,UEFA Champions League,31.0,100,23,ESP
+Nico González,J1,DM,Midfielder,Manchester City,UEFA Champions League,31.0,100,23,ESP
 Nico O’Reilly,J1,LB,Defender,Manchester City,UEFA Champions League,90.0,93,20,ENG
 Joško Gvardiol,J1,CB,Defender,Manchester City,UEFA Champions League,79.0,83,23,CRO
 Nathan Aké,J1,CB,Defender,Manchester City,UEFA Champions League,11.0,82,30,NED
@@ -7133,7 +7278,7 @@ Phil Foden,J2,CM,Midfielder,Manchester City,UEFA Champions League,90.0,100,25,EN
 Tijjani Reijnders,J2,CM,Midfielder,Manchester City,UEFA Champions League,90.0,100,27,NED
 Bernardo Silva,J2,RM,Midfielder,Manchester City,UEFA Champions League,90.0,100,31,POR
 Rodri,J2,DM,Midfielder,Manchester City,UEFA Champions League,60.0,96,29,ESP
-Nicolás González,J2,DM,Midfielder,Manchester City,UEFA Champions League,30.0,96,23,ESP
+Nico González,J2,DM,Midfielder,Manchester City,UEFA Champions League,30.0,96,23,ESP
 Nico O’Reilly,J2,LB,Defender,Manchester City,UEFA Champions League,90.0,100,20,ENG
 Joško Gvardiol,J2,CB,Defender,Manchester City,UEFA Champions League,90.0,99,23,CRO
 Rúben Dias,J2,CB,Defender,Manchester City,UEFA Champions League,90.0,92,28,POR
@@ -7337,7 +7482,7 @@ Rico Lewis,J3,CM,Midfielder,Manchester City,UEFA Champions League,72.0,94,20,ENG
 Tijjani Reijnders,J3,CM,Midfielder,Manchester City,UEFA Champions League,18.0,75,27,NED
 Sávio,J3,RM,Midfielder,Manchester City,UEFA Champions League,85.0,100,21,BRA
 Omar Marmoush,J3,LM,Midfielder,Manchester City,UEFA Champions League,5.0,82,26,EGY
-Nicolás González,J3,DM,Midfielder,Manchester City,UEFA Champions League,56.0,92,23,ESP
+Nico González,J3,DM,Midfielder,Manchester City,UEFA Champions League,56.0,92,23,ESP
 Mateo Kovačić,J3,DM,Midfielder,Manchester City,UEFA Champions League,34.0,98,31,CRO
 Joško Gvardiol,J3,LB,Defender,Manchester City,UEFA Champions League,90.0,100,23,CRO
 Rúben Dias,J3,CB,Defender,Manchester City,UEFA Champions League,90.0,99,28,POR
@@ -7729,6 +7874,523 @@ Ibrahima Konaté,J3,CB,Defender,Liverpool,UEFA Champions League,74.0,84,26,FRA
 Joe Gomez,J3,CB,Defender,Liverpool,UEFA Champions League,16.0,78,28,ENG
 Jeremie Frimpong,J3,RB,Defender,Liverpool,UEFA Champions League,18.0,54,24,NED
 Conor Bradley,J3,RB,Defender,Liverpool,UEFA Champions League,72.0,73,22,NIR
+Tomáš Chorý,0,AM,Forward,0,0,48.0,61,30,CZE
+Mojmir Chytil,0,AM,Forward,0,0,42.0,66,26,CZE
+Youssoupha Sanyang,0,LW,Forward,0,0,73.0,62,20,SEN
+Vasil Kušej,0,LW,Forward,0,0,17.0,46,25,CZE
+Lukáš Provod,0,RW,Forward,0,0,90.0,68,29,CZE
+Youssoupha Mbodji,0,LM,Midfielder,0,0,90.0,76,21,SEN
+Michal Sadílek,0,CM,Midfielder,0,0,90.0,71,26,CZE
+Christos Zafeiris,0,CM,Midfielder,0,0,69.0,60,22,GRE
+Muhammed Cham,0,DM,Midfielder,0,0,21.0,63,25,AUT
+David Moses,0,RM,Midfielder,0,0,73.0,68,21,NGA
+Daiki Hashioka,0,RB,Defender,0,0,17.0,60,26,JPN
+David Zima,0,CB,Defender,0,0,90.0,52,24,CZE
+Štěpán Chaloupek,0,CB,Defender,0,0,90.0,61,22,CZE
+Tomáš Vlček,0,CB,Defender,0,0,69.0,47,24,CZE
+David Doudera,0,RW,Forward,0,0,21.0,68,27,CZE
+Mikel Merino,0,AM,Forward,0,0,90.0,89,29,ESP
+Leandro Trossard,0,LW,Forward,0,0,72.0,81,30,BEL
+Max Dowman,0,RW,Forward,0,0,18.0,62,15,ENG
+Bukayo Saka,0,RW,Forward,0,0,90.0,84,24,ENG
+Declan Rice,0,LM,Midfielder,0,0,80.0,75,26,ENG
+Andre Annous,0,AM,Forward,0,0,10.0,58,17,ENG
+Christian Nørgaard,0,CM,Midfielder,0,0,90.0,60,31,DEN
+Ethan Nwaneri,0,RM,Midfielder,0,0,64.0,69,18,ENG
+Eberechi Eze,0,RM,Midfielder,0,0,26.0,52,27,ENG
+Piero Hincapié,0,LB,Defender,0,0,72.0,60,23,ECU
+Myles Lewis-Skelly,0,LB,Defender,0,0,18.0,52,19,ENG
+Gabriel Magalhães,0,CB,Defender,0,0,90.0,65,27,BRA
+William Saliba,0,CB,Defender,0,0,90.0,52,24,FRA
+Jurriën Timber,0,RB,Defender,0,0,72.0,62,24,NED
+Ben White,0,RB,Defender,0,0,18.0,53,28,ENG
+Rasmus Højlund,0,AM,Forward,0,0,90.0,67,22,DEN
+Elif Elmas,0,LW,Forward,0,0,90.0,86,26,MKD
+Matteo Politano,0,RW,Forward,0,0,64.0,69,32,ITA
+David Neres,0,RW,Forward,0,0,26.0,67,28,BRA
+Scott McTominay,0,LM,Midfielder,0,0,90.0,84,28,SCO
+Stanislav Lobotka,0,CM,Midfielder,0,0,72.0,71,30,SVK
+Noa Lang,0,LW,Forward,0,0,18.0,78,26,NED
+Andre-Frank Zambo Anguissa,0,RM,Midfielder,0,0,90.0,83,29,CMR
+Miguel Gutiérrez,0,LB,Defender,0,0,90.0,84,24,ESP
+Alessandro Buongiorno,0,CB,Defender,0,0,90.0,71,26,ITA
+Amir Rrahmani,0,CB,Defender,0,0,90.0,72,31,KVX
+Giovanni Di Lorenzo,0,RB,Defender,0,0,90.0,75,32,ITA
+Jean Mattéo Bahoya,0,AM,Forward,0,0,64.0,73,20,FRA
+Ansgar Knauff,0,AM,Forward,0,0,26.0,79,23,GER
+Jonathan Burkardt,0,AM,Forward,0,0,90.0,71,25,GER
+Fares Chaïbi,0,CM,Midfielder,0,0,89.0,79,22,ALG
+Mahmoud Dahoud,0,CM,Midfielder,0,0,1.0,58,29,GER
+Hugo Larsson,0,CM,Midfielder,0,0,78.0,60,21,SWE
+Ellyes Skhiri,0,CM,Midfielder,0,0,12.0,57,30,TUN
+Mario Götze,0,CM,Midfielder,0,0,90.0,75,33,GER
+Nathaniel Brown,0,LB,Defender,0,0,89.0,58,22,GER
+Aurele Amenda,0,CB,Defender,0,0,1.0,41,22,SUI
+Arthur Theate,0,CB,Defender,0,0,90.0,71,25,BEL
+Robin Koch,0,CB,Defender,0,0,90.0,63,29,GER
+Nnamdi Collins,0,CB,Defender,0,0,90.0,56,21,GER
+Rasmus Kristensen,0,RB,Defender,0,0,90.0,72,28,DEN
+Randal Kolo Muani,0,AM,Forward,0,0,71.0,92,26,FRA
+Richarlison,0,AM,Forward,0,0,19.0,70,28,BRA
+Wilson Odobert,0,LW,Forward,0,0,79.0,84,20,FRA
+Dane Scarlett,0,LM,Midfielder,0,0,11.0,59,21,ENG
+Brennan Johnson,0,RW,Forward,0,0,56.0,84,24,WAL
+Xavi Simons,0,AM,Forward,0,0,60.0,92,22,NED
+João Palhinha,0,CM,Midfielder,0,0,30.0,79,30,POR
+Pape Matar Sarr,0,DM,Midfielder,0,0,90.0,73,23,SEN
+Rodrigo Bentancur,0,DM,Midfielder,0,0,90.0,69,28,URU
+Destiny Udogie,0,LB,Defender,0,0,72.0,63,22,ITA
+Djed Spence,0,LB,Defender,0,0,18.0,53,25,ENG
+Micky van de Ven,0,CB,Defender,0,0,90.0,66,24,NED
+Cristian Romero,0,CB,Defender,0,0,72.0,62,27,ARG
+Kevin Danso,0,CB,Defender,0,0,18.0,70,27,AUT
+Pedro Porro,0,RB,Defender,0,0,90.0,82,26,ESP
+Mohamed Elyounoussi,0,AM,Forward,0,0,71.0,70,31,NOR
+Andreas Cornelius,0,AM,Forward,0,0,19.0,65,32,DEN
+Youssoufa Moukoko,0,AM,Forward,0,0,71.0,74,20,GER
+Viktor Claesson,0,RM,Midfielder,0,0,19.0,81,33,SWE
+Elias Achouri,0,LM,Midfielder,0,0,75.0,72,26,TUN
+Robert,0,LM,Midfielder,0,0,15.0,67,20,BRA
+William Clem,0,CM,Midfielder,0,0,90.0,75,21,DEN
+Lukas Lerager,0,CM,Midfielder,0,0,90.0,67,32,DEN
+Jordan Larsson,0,RM,Midfielder,0,0,45.0,56,28,SWE
+Viktor Dadason,0,AM,Forward,0,0,45.0,73,17,ISL
+Marcos López,0,LB,Defender,0,0,90.0,68,25,PER
+Pantelis Hatzidiakos,0,CB,Defender,0,0,90.0,66,28,GRE
+Gabriel Pereira,0,CB,Defender,0,0,71.0,56,25,BRA
+Munashe Garan'anga,0,CB,Defender,0,0,19.0,71,24,ZIM
+Junnosuke Suzuki,0,RB,Defender,0,0,90.0,63,22,JPN
+Hugo Ekitike,0,AM,Forward,0,0,78.0,77,23,FRA
+Cody Gakpo,0,AM,Forward,0,0,12.0,78,26,NED
+Florian Wirtz,0,LW,Forward,0,0,87.0,78,22,GER
+Federico Chiesa,0,AM,Forward,0,0,3.0,51,28,ITA
+Mohamed Salah,0,RW,Forward,0,0,90.0,81,33,EGY
+Dominik Szoboszlai,0,AM,Forward,0,0,90.0,90,25,HUN
+Alexis Mac Allister,0,DM,Midfielder,0,0,78.0,74,26,ARG
+Curtis Jones,0,DM,Midfielder,0,0,12.0,49,24,ENG
+Ryan Gravenberch,0,DM,Midfielder,0,0,90.0,67,23,NED
+Andrew Robertson,0,LB,Defender,0,0,87.0,64,31,SCO
+Milos Kerkez,0,LB,Defender,0,0,3.0,36,21,HUN
+Virgil van Dijk,0,CB,Defender,0,0,90.0,45,34,NED
+Ibrahima Konaté,0,CB,Defender,0,0,90.0,55,26,FRA
+Conor Bradley,0,RB,Defender,0,0,90.0,76,22,NIR
+Kylian Mbappé,0,AM,Forward,0,0,90.0,82,26,FRA
+Vinicius Júnior,0,LM,Midfielder,0,0,90.0,75,25,BRA
+Jude Bellingham,0,CM,Midfielder,0,0,90.0,82,22,ENG
+Arda Güler,0,CM,Midfielder,0,0,80.0,70,20,TUR
+Trent Alexander-Arnold,0,RB,Defender,0,0,10.0,73,27,ENG
+Eduardo Camavinga,0,RM,Midfielder,0,0,68.0,73,22,FRA
+Rodrygo,0,RM,Midfielder,0,0,22.0,68,24,BRA
+Aurélien Tchouaméni,0,DM,Midfielder,0,0,90.0,81,25,FRA
+Álvaro Carreras,0,LB,Defender,0,0,90.0,72,22,ESP
+Dean Huijsen,0,CB,Defender,0,0,90.0,71,20,ESP
+Éder Militão,0,CB,Defender,0,0,90.0,71,27,BRA
+Federico Valverde,0,RB,Defender,0,0,89.0,80,27,URU
+Brahim Díaz,0,CM,Midfielder,0,0,1.0,64,26,MAR
+Dušan Vlahović,0,AM,Forward,0,0,82.0,83,25,SRB
+Vasilije Adžić,0,CM,Midfielder,0,0,8.0,72,19,MNE
+Kenan Yıldız,0,AM,Forward,0,0,86.0,89,20,TUR
+Jonathan David,0,AM,Forward,0,0,4.0,80,25,CAN
+Francisco Conceição,0,AM,Forward,0,0,71.0,85,22,POR
+Edon Zhegrova,0,AM,Forward,0,0,19.0,78,26,KVX
+Khéphren Thuram,0,CM,Midfielder,0,0,71.0,81,24,FRA
+Filip Kostić,0,WB,Midfielder,0,0,19.0,69,33,SRB
+Manuel Locatelli,0,CM,Midfielder,0,0,82.0,76,27,ITA
+Fabio Miretti,0,CM,Midfielder,0,0,8.0,86,22,ITA
+Andrea Cambiaso,0,WB,Midfielder,0,0,90.0,76,25,ITA
+Weston McKennie,0,WB,Midfielder,0,0,90.0,75,27,USA
+Teun Koopmeiners,0,CB,Defender,0,0,90.0,69,27,NED
+Federico Gatti,0,CB,Defender,0,0,90.0,56,27,ITA
+Pierre Kalulu,0,CB,Defender,0,0,90.0,61,25,FRA
+Fotis Ioannidis,0,AM,Forward,0,0,71.0,59,25,GRE
+Luis Javier Suárez,0,AM,Forward,0,0,19.0,75,27,COL
+Pedro Gonçalves,0,LW,Forward,0,0,81.0,66,27,POR
+Alisson Santos,0,LW,Forward,0,0,9.0,61,23,BRA
+Geovany Quenda,0,RW,Forward,0,0,66.0,53,18,POR
+Geny Catamo,0,RW,Forward,0,0,24.0,69,24,MOZ
+Francisco Trincão,0,AM,Forward,0,0,90.0,85,25,POR
+João Simões,0,DM,Midfielder,0,0,81.0,58,18,POR
+Hidemasa Morita,0,DM,Midfielder,0,0,9.0,51,30,JPN
+Morten Hjulmand,0,DM,Midfielder,0,0,90.0,78,26,DEN
+Maximiliano Araújo,0,LB,Defender,0,0,90.0,69,25,URU
+Gonçalo Inácio,0,CB,Defender,0,0,90.0,69,24,POR
+Ousmane Diomande,0,CB,Defender,0,0,90.0,73,21,CIV
+Georgios Vagiannidis,0,RB,Defender,0,0,66.0,72,24,GRE
+Eduardo Quaresma,0,RB,Defender,0,0,24.0,56,23,POR
+Julián Álvarez,0,AM,Forward,0,0,90.0,87,25,ARG
+Antoine Griezmann,0,AM,Forward,0,0,61.0,85,34,FRA
+Alexander Sørloth,0,AM,Forward,0,0,29.0,91,29,NOR
+Alex Baena,0,LM,Midfielder,0,0,61.0,78,24,ESP
+Conor Gallagher,0,CM,Midfielder,0,0,29.0,83,25,ENG
+Koke,0,CM,Midfielder,0,0,61.0,71,33,ESP
+Thiago Almada,0,LM,Midfielder,0,0,29.0,71,24,ARG
+Pablo Barrios,0,CM,Midfielder,0,0,90.0,79,22,ESP
+Giuliano Simeone,0,RM,Midfielder,0,0,87.0,77,22,ARG
+Marcos Llorente,0,RB,Defender,0,0,3.0,49,30,ESP
+Matteo Ruggeri,0,LB,Defender,0,0,90.0,72,23,ITA
+Dávid Hancko,0,CB,Defender,0,0,90.0,74,27,SVK
+Robin Le Normand,0,CB,Defender,0,0,25.0,63,28,ESP
+José María Giménez,0,CB,Defender,0,0,65.0,64,30,URU
+Nahuel Molina,0,RB,Defender,0,0,90.0,70,27,ARG
+Kevin Rodríguez,0,AM,Forward,0,0,73.0,71,25,ECU
+Marc Giger,0,AM,Forward,0,0,17.0,65,21,SUI
+Anouar Ait El Hadj,0,AM,Forward,0,0,73.0,65,23,BEL
+Sofiane Boufal,0,CM,Midfielder,0,0,17.0,75,32,MAR
+Rob Schoofs,0,DM,Midfielder,0,0,59.0,49,31,BEL
+Promise David,0,AM,Forward,0,0,31.0,72,24,CAN
+Kamiel Van De Perre,0,DM,Midfielder,0,0,73.0,56,21,BEL
+Mathias Rasmussen,0,CM,Midfielder,0,0,17.0,73,27,NOR
+Adem Zorgane,0,DM,Midfielder,0,0,90.0,78,25,ALG
+Ousseynou Niang,0,WB,Midfielder,0,0,90.0,66,24,SEN
+Anan Khalaili,0,WB,Midfielder,0,0,84.0,77,21,ISR
+Louis Patris,0,WB,Midfielder,0,0,6.0,49,24,BEL
+Ross Sykes,0,CB,Defender,0,0,90.0,64,26,ENG
+Christian Burgess,0,CB,Defender,0,0,90.0,54,34,ENG
+Kevin Mac Allister,0,CB,Defender,0,0,90.0,66,27,ARG
+Kasper Waarst Høgh,0,AM,Forward,0,0,72.0,74,24,DEN
+Andreas Helmersen,0,AM,Forward,0,0,18.0,56,27,NOR
+Jens Petter Hauge,0,LW,Forward,0,0,85.0,91,26,NOR
+Villads Nielsen,0,CB,Defender,0,0,5.0,59,20,DEN
+Sondre Auklend,0,RW,Forward,0,0,90.0,81,22,NOR
+Sondre Brunstad Fet,0,LM,Midfielder,0,0,72.0,77,28,NOR
+Ole Didrik Blomberg,0,RW,Forward,0,0,18.0,57,25,NOR
+Patrick Berg,0,CM,Midfielder,0,0,90.0,85,27,NOR
+Håkon Evjen,0,RM,Midfielder,0,0,90.0,84,25,NOR
+Fredrik André Bjørkan,0,LB,Defender,0,0,85.0,78,27,NOR
+Isak Määttä,0,LB,Defender,0,0,5.0,62,24,NOR
+Odin Lurås Bjørtuft,0,CB,Defender,0,0,90.0,80,26,NOR
+Brede Moe,0,CB,Defender,0,0,45.0,65,33,NOR
+Jostein Gundersen,0,CB,Defender,0,0,36.0,68,29,NOR
+Fredrik Sjøvold,0,RB,Defender,0,0,90.0,71,22,NOR
+Folarin Balogun,0,AM,Forward,0,0,90.0,84,24,USA
+Maghnes Akliouche,0,AM,Forward,0,0,72.0,83,23,FRA
+Mika Biereth,0,AM,Forward,0,0,18.0,72,22,DEN
+Kassoum Ouattara,0,LW,Forward,0,0,90.0,76,21,FRA
+Jordan Teze,0,RW,Forward,0,0,90.0,68,26,NED
+Aleksandr Golovin,0,CM,Midfielder,0,0,90.0,86,29,RUS
+Takumi Minamino,0,CM,Midfielder,0,0,63.0,71,30,JPN
+Pape Cabral,0,CM,Midfielder,0,0,27.0,65,18,FRA
+Mamadou Coulibaly,0,DM,Midfielder,0,0,90.0,78,21,FRA
+Caio Henrique Oliveira Silva,0,CB,Defender,0,0,90.0,55,28,BRA
+Mohammed Salisu,0,CB,Defender,0,0,90.0,60,26,GHA
+Thilo Kehrer,0,CB,Defender,0,0,90.0,68,29,GER
+Ousmane Dembélé,0,AM,Forward,0,0,24.0,65,28,FRA
+Lee Kang-in,0,RW,Forward,0,0,66.0,98,24,KOR
+Khvicha Kvaratskhelia,0,LW,Forward,0,0,90.0,89,24,GEO
+Bradley Barcola,0,LW,Forward,0,0,65.0,85,23,FRA
+Gonçalo Ramos,0,AM,Forward,0,0,25.0,63,24,POR
+Fabián Ruiz Peña,0,LM,Midfielder,0,0,65.0,79,29,ESP
+João Neves,0,LM,Midfielder,0,0,25.0,85,21,POR
+Vitinha,0,CM,Midfielder,0,0,90.0,88,25,POR
+Warren Zaïre-Emery,0,RM,Midfielder,0,0,90.0,84,19,FRA
+Nuno Mendes,0,LB,Defender,0,0,90.0,89,23,POR
+Willian Pacho,0,CB,Defender,0,0,90.0,66,24,ECU
+Marquinhos,0,CB,Defender,0,0,90.0,76,31,BRA
+Achraf Hakimi,0,RB,Defender,0,0,44.0,77,27,MAR
+Senny Mayulu,0,RM,Midfielder,0,0,46.0,74,19,FRA
+Harry Kane,0,AM,Forward,0,0,87.0,69,32,ENG
+Leon Goretzka,0,RM,Midfielder,0,0,3.0,52,30,GER
+Luis Díaz,0,LW,Forward,0,0,44.0,91,28,COL
+Michael Olise,0,RW,Forward,0,0,80.0,81,23,FRA
+Kim Min-jae,0,CB,Defender,0,0,10.0,43,28,KOR
+Serge Gnabry,0,AM,Forward,0,0,45.0,85,30,GER
+Tom Bischof,0,LM,Midfielder,0,0,45.0,54,20,GER
+Aleksandar Pavlovic,0,CM,Midfielder,0,0,90.0,61,21,GER
+Joshua Kimmich,0,CM,Midfielder,0,0,90.0,69,30,GER
+Josip Stanišić,0,LB,Defender,0,0,90.0,72,25,CRO
+Dayot Upamecano,0,CB,Defender,0,0,90.0,61,27,FRA
+Jonathan Tah,0,CB,Defender,0,0,90.0,60,29,GER
+Konrad Laimer,0,RB,Defender,0,0,90.0,78,28,AUT
+Ayoub El Kaabi,0,AM,Forward,0,0,82.0,78,32,MAR
+Lorenzo Scipioni,0,DM,Midfielder,0,0,8.0,54,20,ARG
+Daniel Podence,0,LW,Forward,0,0,83.0,75,30,POR
+Costinha,0,RB,Defender,0,0,7.0,64,25,POR
+Gelson Martins,0,RW,Forward,0,0,90.0,91,30,POR
+Chiquinho,0,AM,Forward,0,0,73.0,90,30,POR
+Mehdi Taremi,0,AM,Forward,0,0,17.0,70,33,IRN
+Christos Mouzakitis,0,DM,Midfielder,0,0,90.0,78,18,GRE
+Dani García,0,DM,Midfielder,0,0,62.0,58,35,ESP
+Diogo Nascimento,0,DM,Midfielder,0,0,28.0,66,23,POR
+Francisco Ortega,0,LB,Defender,0,0,90.0,71,26,ARG
+Lorenzo Pirola,0,CB,Defender,0,0,90.0,66,23,ITA
+Panagiotis Retsos,0,CB,Defender,0,0,90.0,61,27,GRE
+Rodinei,0,RB,Defender,0,0,90.0,67,33,BRA
+Guus Til,0,AM,Forward,0,0,57.0,56,27,NED
+Ricardo Pepi,0,AM,Forward,0,0,33.0,66,22,USA
+Ivan Perišić,0,LW,Forward,0,0,67.0,63,36,CRO
+Esmir Bajraktarevic,0,RW,Forward,0,0,23.0,59,20,BIH
+Dennis Man,0,RW,Forward,0,0,57.0,66,27,ROU
+Couhaib Driouech,0,LW,Forward,0,0,33.0,66,23,MAR
+Ismael Saibari,0,AM,Forward,0,0,83.0,63,24,MAR
+Myron Boadu,0,AM,Forward,0,0,7.0,72,24,NED
+Joey Veerman,0,DM,Midfielder,0,0,90.0,81,26,NED
+Mauro Júnior,0,DM,Midfielder,0,0,90.0,77,26,BRA
+Anass Salah-Eddine,0,LB,Defender,0,0,66.0,62,23,NED
+Paul Wanner,0,DM,Midfielder,0,0,24.0,55,19,GER
+Yarek Gasiorowski,0,CB,Defender,0,0,90.0,69,20,ESP
+Jerdy Schouten,0,CB,Defender,0,0,90.0,78,28,NED
+Sergiño Dest,0,RB,Defender,0,0,90.0,76,25,USA
+Vlad Dragomir,0,AM,Forward,0,0,90.0,54,26,ROU
+Domingos Quina,0,LM,Midfielder,0,0,86.0,77,25,POR
+Bruno Langa,0,LB,Defender,0,0,4.0,63,28,MOZ
+Pedro Rodrigues,0,CM,Midfielder,0,0,77.0,73,28,POR
+Anderson,0,AM,Forward,0,0,13.0,76,27,BRA
+Ivan Šunjić,0,CM,Midfielder,0,0,90.0,64,29,BIH
+Mislav Oršić,0,RM,Midfielder,0,0,77.0,67,32,CRO
+Jajá,0,RM,Midfielder,0,0,13.0,59,24,BRA
+Ken Sema,0,LB,Defender,0,0,71.0,74,32,SWE
+Kostas Pileas,0,LB,Defender,0,0,19.0,60,26,CYP
+David Goldar,0,CB,Defender,0,0,90.0,63,31,ESP
+David Luiz,0,CB,Defender,0,0,90.0,64,38,BRA
+Derrick Luckassen,0,CB,Defender,0,0,90.0,70,30,NED
+Bruno Felipe Souza da Silva,0,RB,Defender,0,0,90.0,70,31,BRA
+Georges Mikautadze,0,AM,Forward,0,0,55.0,75,25,GEO
+Tani Oluwaseyi,0,AM,Forward,0,0,35.0,75,25,CAN
+Ayoze Pérez,0,AM,Forward,0,0,62.0,67,32,ESP
+Gerard Moreno,0,AM,Forward,0,0,28.0,87,33,ESP
+Alberto Moleiro,0,LM,Midfielder,0,0,55.0,69,22,ESP
+Manor Solomon,0,LM,Midfielder,0,0,35.0,80,26,ISR
+Daniel Parejo,0,CM,Midfielder,0,0,62.0,72,36,ESP
+Santi Comesaña,0,CM,Midfielder,0,0,28.0,85,29,ESP
+Pape Gueye,0,CM,Midfielder,0,0,90.0,83,26,SEN
+Nicolas Pépé,0,RM,Midfielder,0,0,90.0,86,30,CIV
+Sergi Cardona,0,LB,Defender,0,0,62.0,53,26,ESP
+Alfonso Pedraza,0,LB,Defender,0,0,28.0,61,29,ESP
+Renato Veiga,0,CB,Defender,0,0,90.0,73,22,POR
+Juan Foyth,0,CB,Defender,0,0,90.0,79,27,ARG
+Santiago Mouriño,0,RB,Defender,0,0,90.0,92,23,URU
+Erling Haaland,0,AM,Forward,0,0,85.0,90,25,NOR
+Omar Marmoush,0,AM,Forward,0,0,5.0,49,26,EGY
+Jeremy Doku,0,LM,Midfielder,0,0,78.0,76,23,BEL
+Rayan Cherki,0,LM,Midfielder,0,0,12.0,67,22,FRA
+Phil Foden,0,CM,Midfielder,0,0,90.0,87,25,ENG
+Tijjani Reijnders,0,CM,Midfielder,0,0,78.0,73,27,NED
+Bernardo Silva,0,CM,Midfielder,0,0,12.0,65,31,POR
+Sávio,0,RM,Midfielder,0,0,77.0,74,21,BRA
+Rúben Dias,0,CB,Defender,0,0,13.0,47,28,POR
+Nicolás González,0,DM,Midfielder,0,0,90.0,79,23,ESP
+Nico O’Reilly,0,LB,Defender,0,0,85.0,65,20,ENG
+Rayan Aït-Nouri,0,LB,Defender,0,0,5.0,49,24,ALG
+Joško Gvardiol,0,CB,Defender,0,0,90.0,73,23,CRO
+John Stones,0,CB,Defender,0,0,90.0,62,31,ENG
+Matheus Nunes,0,RB,Defender,0,0,90.0,70,27,POR
+Serhou Guirassy,0,AM,Forward,0,0,66.0,75,29,GUI
+Carney Chukwuemeka,0,AM,Forward,0,0,24.0,66,22,ENG
+Maximilian Beier,0,AM,Forward,0,0,65.0,76,23,GER
+Jobe Bellingham,0,CM,Midfielder,0,0,25.0,63,20,ENG
+Karim Adeyemi,0,AM,Forward,0,0,80.0,83,23,GER
+Fábio Silva,0,AM,Forward,0,0,10.0,58,23,POR
+Felix Nmecha,0,CM,Midfielder,0,0,90.0,84,25,GER
+Marcel Sabitzer,0,CM,Midfielder,0,0,66.0,64,31,AUT
+Pascal Groß,0,AM,Forward,0,0,24.0,74,34,GER
+Daniel Svensson,0,WB,Midfielder,0,0,90.0,71,23,SWE
+Julian Ryerson,0,WB,Midfielder,0,0,90.0,79,27,NOR
+Ramy Bensebaini,0,CB,Defender,0,0,66.0,54,30,ALG
+Emre Can,0,CB,Defender,0,0,24.0,70,31,GER
+Nico Schlotterbeck,0,CB,Defender,0,0,90.0,71,25,GER
+Waldemar Anton,0,CB,Defender,0,0,90.0,66,29,GER
+Vangelis Pavlidis,0,AM,Forward,0,0,90.0,69,26,GRE
+Heorhiy Sudakov,0,LW,Forward,0,0,68.0,81,23,UKR
+Gianluca Prestianni,0,AM,Forward,0,0,22.0,84,19,ARG
+Dodi Lukebakio,0,RW,Forward,0,0,90.0,96,28,BEL
+Leandro Barreiro Martins,0,AM,Forward,0,0,68.0,74,25,LUX
+Amar Dedić,0,RB,Defender,0,0,22.0,64,23,BIH
+Richard Ríos,0,DM,Midfielder,0,0,90.0,82,25,COL
+Enzo Barrenechea,0,DM,Midfielder,0,0,90.0,74,24,ARG
+Samuel Dahl,0,LB,Defender,0,0,68.0,65,25,SWE
+Andreas Schjelderup,0,LW,Forward,0,0,22.0,92,21,NOR
+Nicolás Otamendi,0,CB,Defender,0,0,90.0,76,37,ARG
+Tomás Araújo,0,CB,Defender,0,0,90.0,69,23,POR
+Fredrik Aursnes,0,RB,Defender,0,0,90.0,76,29,NOR
+Christian Kofane,0,AM,Forward,0,0,56.0,65,19,CMR
+Patrik Schick,0,AM,Forward,0,0,34.0,79,29,CZE
+Ernest Poku,0,AM,Forward,0,0,87.0,82,21,NED
+Eliesse Ben Seghir,0,AM,Forward,0,0,3.0,59,20,MAR
+Claudio Echeverri,0,AM,Forward,0,0,56.0,65,19,ARG
+Malik Tillman,0,AM,Forward,0,0,34.0,66,23,USA
+Aleix García,0,CM,Midfielder,0,0,90.0,66,28,ESP
+Ibrahim Maza,0,CM,Midfielder,0,0,90.0,79,19,ALG
+Álex Grimaldo,0,WB,Midfielder,0,0,90.0,90,30,ESP
+Arthur,0,WB,Midfielder,0,0,90.0,58,22,BRA
+Edmond Tapsoba,0,CB,Defender,0,0,90.0,78,26,BFA
+Loïc Bade,0,CB,Defender,0,0,90.0,78,25,FRA
+Jarell Quansah,0,CB,Defender,0,0,90.0,57,22,ENG
+Nick Woltemade,0,AM,Forward,0,0,82.0,62,23,GER
+Jacob Ramsey,0,LM,Midfielder,0,0,8.0,57,24,ENG
+Anthony Gordon,0,LW,Forward,0,0,40.0,51,24,ENG
+Jacob Murphy,0,RW,Forward,0,0,50.0,64,30,ENG
+Harvey Barnes,0,RW,Forward,0,0,64.0,77,27,ENG
+Anthony Elanga,0,LW,Forward,0,0,26.0,62,23,SWE
+Joelinton,0,LM,Midfielder,0,0,90.0,86,29,BRA
+Sandro Tonali,0,CM,Midfielder,0,0,90.0,76,25,ITA
+Bruno Guimarães,0,RM,Midfielder,0,0,64.0,74,27,BRA
+Lewis Miley,0,RM,Midfielder,0,0,26.0,73,19,ENG
+Dan Burn,0,LB,Defender,0,0,64.0,86,33,ENG
+Lewis Hall,0,LB,Defender,0,0,26.0,62,21,ENG
+Sven Botman,0,CB,Defender,0,0,90.0,76,25,NED
+Malick Thiaw,0,CB,Defender,0,0,90.0,81,24,GER
+Kieran Trippier,0,RB,Defender,0,0,90.0,78,35,ENG
+Unai Gómez,0,AM,Forward,0,0,77.0,64,22,ESP
+Asier Hierro,0,AM,Forward,0,0,13.0,77,20,ESP
+Álex Berenguer,0,LW,Forward,0,0,90.0,76,30,ESP
+Roberto Navarro,0,RW,Forward,0,0,69.0,56,23,ESP
+Nicolás Serrano,0,RW,Forward,0,0,21.0,92,22,ESP
+Mikel Vesga,0,AM,Forward,0,0,90.0,65,32,ESP
+Mikel Jauregizar,0,DM,Midfielder,0,0,69.0,66,21,ESP
+Selton Sánchez,0,DM,Midfielder,0,0,21.0,57,18,ESP
+Alejandro Rego,0,DM,Midfielder,0,0,79.0,65,22,ESP
+Iñigo Ruiz de Galarreta,0,DM,Midfielder,0,0,11.0,73,32,ESP
+Adama Boiro,0,LB,Defender,0,0,90.0,56,23,ESP
+Aitor Paredes,0,CB,Defender,0,0,90.0,60,25,ESP
+Daniel Vivian,0,CB,Defender,0,0,90.0,62,26,ESP
+Jesús Areso,0,RB,Defender,0,0,77.0,62,26,ESP
+Andoni Gorosabel,0,RB,Defender,0,0,13.0,52,29,ESP
+Pierre-Emerick Aubameyang,0,AM,Forward,0,0,90.0,75,36,GAB
+Igor Paixão,0,LM,Midfielder,0,0,70.0,60,25,BRA
+Robinio Vaz,0,LM,Midfielder,0,0,20.0,62,18,FRA
+Pierre Højbjerg,0,CM,Midfielder,0,0,90.0,81,30,DEN
+Matt O'Riley,0,CM,Midfielder,0,0,90.0,79,24,DEN
+Mason Greenwood,0,RM,Midfielder,0,0,90.0,79,24,ENG
+Ulisses Garcia,0,LB,Defender,0,0,89.0,54,29,SUI
+Tadjidine Mmadi,0,LM,Midfielder,0,0,1.0,60,18,FRA
+Nayef Aguerd,0,CB,Defender,0,0,90.0,72,29,MAR
+CJ Egan-Riley,0,CB,Defender,0,0,78.0,72,22,ENG
+Angel Gomes,0,CB,Defender,0,0,12.0,49,25,ENG
+Benjamin Pavard,0,CB,Defender,0,0,90.0,67,29,FRA
+Michael Amir Murillo,0,RB,Defender,0,0,90.0,60,29,PAN
+Nikola Krstović,0,AM,Forward,0,0,84.0,69,25,MNE
+Gianluca Scamacca,0,AM,Forward,0,0,6.0,51,26,ITA
+Ademola Lookman,0,LW,Forward,0,0,74.0,62,28,NGA
+Yunus Musah,0,CM,Midfielder,0,0,16.0,68,22,USA
+Charles De Ketelaere,0,RW,Forward,0,0,84.0,71,24,BEL
+Lazar Samardzic,0,RW,Forward,0,0,6.0,74,23,SRB
+Davide Zappacosta,0,LM,Midfielder,0,0,90.0,81,33,ITA
+Marten de Roon,0,CM,Midfielder,0,0,45.0,62,34,NED
+Mario Pašalić,0,CM,Midfielder,0,0,45.0,67,30,CRO
+Éderson,0,CM,Midfielder,0,0,90.0,74,26,BRA
+Raoul Bellanova,0,RM,Midfielder,0,0,90.0,69,25,ITA
+Honest Ahanor,0,CB,Defender,0,0,90.0,58,17,ITA
+Berat Djimsiti,0,CB,Defender,0,0,90.0,65,32,ALB
+Odilon Kossounou,0,CB,Defender,0,0,54.0,59,24,CIV
+Isak Hien,0,CB,Defender,0,0,36.0,56,26,SWE
+Lautaro Martínez,0,AM,Forward,0,0,45.0,89,28,ARG
+Ange-Yoan Bonny,0,AM,Forward,0,0,45.0,81,22,FRA
+Francesco Esposito,0,AM,Forward,0,0,70.0,82,20,ITA
+Marcus Thuram,0,AM,Forward,0,0,20.0,81,28,FRA
+Piotr Zieliński,0,CM,Midfielder,0,0,90.0,79,31,POL
+Nicolò Barella,0,CM,Midfielder,0,0,70.0,84,28,ITA
+Hakan Çalhanoğlu,0,CM,Midfielder,0,0,20.0,67,31,TUR
+Davide Frattesi,0,CM,Midfielder,0,0,62.0,69,26,ITA
+Petar Sucic,0,CM,Midfielder,0,0,28.0,69,22,CRO
+Federico Dimarco,0,WB,Midfielder,0,0,90.0,93,27,ITA
+Denzel Dumfries,0,WB,Midfielder,0,0,90.0,76,29,NED
+Carlos Augusto,0,CB,Defender,0,0,90.0,80,26,BRA
+Stefan de Vrij,0,CB,Defender,0,0,90.0,71,33,NED
+Yann Aurel Bisseck,0,CB,Defender,0,0,80.0,65,24,GER
+Manuel Akanji,0,CB,Defender,0,0,10.0,75,30,SUI
+Edimilson Filho,0,AM,Forward,0,0,70.0,64,28,BRA
+Ricardinho,0,AM,Forward,0,0,20.0,54,24,BRA
+Dastan Satpayev,0,LW,Forward,0,0,90.0,72,17,KAZ
+Valeriy Gromyko,0,RW,Forward,0,0,45.0,71,28,BLR
+Erkin Tapalov,0,RB,Defender,0,0,45.0,77,32,KAZ
+Jorginho Costa,0,AM,Forward,0,0,75.0,60,27,POR
+Giorgi Zaria,0,LW,Forward,0,0,15.0,53,28,GEO
+Ofri Arad,0,DM,Midfielder,0,0,70.0,63,27,ISR
+Olzhas Baibek,0,DM,Midfielder,0,0,20.0,63,20,KAZ
+Damir Kasabulat,0,DM,Midfielder,0,0,75.0,60,23,KAZ
+Adilet Sadybekov,0,DM,Midfielder,0,0,15.0,67,23,KAZ
+Luís Mata,0,LB,Defender,0,0,90.0,70,28,POR
+Yegor Sorokin,0,CB,Defender,0,0,90.0,68,30,RUS
+Aleksandr Shirobokov,0,CB,Defender,0,0,90.0,74,22,KAZ
+Alexandr Mrynskiy,0,RW,Forward,0,0,90.0,61,21,KAZ
+Nicolo Tresoldi,0,AM,Forward,0,0,77.0,70,21,GER
+Romeo Vermant,0,AM,Forward,0,0,13.0,56,21,BEL
+Christos Tzolis,0,LW,Forward,0,0,90.0,83,23,GRE
+Carlos Forbs,0,RW,Forward,0,0,77.0,93,21,POR
+Mamadou Diakhon,0,LW,Forward,0,0,13.0,64,20,FRA
+Hans Vanaken,0,AM,Forward,0,0,90.0,82,33,BEL
+Raphael Onyedika,0,DM,Midfielder,0,0,83.0,58,24,NGA
+Lynnt Audoor,0,DM,Midfielder,0,0,3.0,44,22,BEL
+Hugo Vetlesen,0,AM,Forward,0,0,4.0,58,25,NOR
+Aleksandar Stanković,0,DM,Midfielder,0,0,90.0,66,20,SRB
+Joaquin Seys,0,LB,Defender,0,0,90.0,69,20,BEL
+Brandon Mechele,0,CB,Defender,0,0,90.0,52,32,BEL
+Joel Ordóñez,0,CB,Defender,0,0,90.0,47,21,ECU
+Kyriani Sabbe,0,RB,Defender,0,0,90.0,65,20,BEL
+Ferrán Torres,0,AM,Forward,0,0,57.0,82,25,ESP
+Robert Lewandowski,0,AM,Forward,0,0,33.0,62,37,POL
+Marcus Rashford,0,LW,Forward,0,0,82.0,85,28,ENG
+Roony Bardghji,0,LW,Forward,0,0,8.0,54,19,SWE
+Lamine Yamal,0,RW,Forward,0,0,90.0,100,18,ESP
+Fermin López,0,AM,Forward,0,0,90.0,97,22,ESP
+Frenkie de Jong,0,DM,Midfielder,0,0,90.0,86,28,NED
+Marc Casado,0,DM,Midfielder,0,0,57.0,77,22,ESP
+Dani Olmo,0,DM,Midfielder,0,0,33.0,71,27,ESP
+Alejandro Balde,0,LB,Defender,0,0,89.0,64,22,ESP
+Gerard Martín,0,LB,Defender,0,0,1.0,65,23,ESP
+Eric García,0,CB,Defender,0,0,89.0,65,24,ESP
+Pau Cubarsí,0,CB,Defender,0,0,1.0,69,18,ESP
+Ronald Araújo,0,CB,Defender,0,0,90.0,70,26,URU
+Jules Koundé,0,RB,Defender,0,0,90.0,76,26,FRA
+Wout Weghorst,0,AM,Forward,0,0,90.0,62,33,NED
+Mika Godts,0,LW,Forward,0,0,70.0,67,20,BEL
+Rayane Bounida,0,LW,Forward,0,0,20.0,80,19,BEL
+Youri Regeer,0,RW,Forward,0,0,70.0,44,22,NED
+Kian Fitz-Jim,0,RW,Forward,0,0,20.0,71,22,NED
+Oscar Gloukh,0,AM,Forward,0,0,90.0,85,21,ISR
+Jorthy Mokio,0,DM,Midfielder,0,0,77.0,71,17,BEL
+James McConnell,0,DM,Midfielder,0,0,13.0,55,21,ENG
+Davy Klaassen,0,DM,Midfielder,0,0,90.0,76,32,NED
+Owen Wijndal,0,LB,Defender,0,0,45.0,80,25,NED
+Gerald Alders,0,LB,Defender,0,0,45.0,55,20,NED
+Youri Baas,0,CB,Defender,0,0,90.0,67,22,NED
+Josip Šutalo,0,CB,Defender,0,0,90.0,76,25,CRO
+Anton Gaaei,0,RB,Defender,0,0,90.0,68,22,DEN
+Victor Osimhen,0,AM,Forward,0,0,80.0,87,26,NGA
+Mauro Icardi,0,AM,Forward,0,0,10.0,63,32,ARG
+Roland Sallai,0,LW,Forward,0,0,90.0,72,28,HUN
+Leroy Sané,0,RW,Forward,0,0,90.0,82,29,GER
+Gabriel Sara,0,AM,Forward,0,0,45.0,82,26,BRA
+Barış Alper Yılmaz,0,LW,Forward,0,0,45.0,74,25,TUR
+Mario Lemina,0,DM,Midfielder,0,0,85.0,72,32,GAB
+Kaan Ayhan,0,DM,Midfielder,0,0,5.0,61,30,TUR
+Lucas Torreira,0,DM,Midfielder,0,0,88.0,70,29,URU
+Berkan Kutlu,0,DM,Midfielder,0,0,2.0,65,27,TUR
+Ismail Jakobs,0,LB,Defender,0,0,85.0,68,26,SEN
+Eren Elmalı,0,LB,Defender,0,0,5.0,65,25,TUR
+Abdülkerim Bardakcı,0,CB,Defender,0,0,90.0,70,31,TUR
+Davinson Sánchez,0,CB,Defender,0,0,90.0,71,29,COL
+Wilfried Singo,0,RB,Defender,0,0,90.0,70,24,CIV
+Camilo Marques,0,AM,Forward,0,0,60.0,69,23,COL
+Nəriman Axundzadə,0,AM,Forward,0,0,30.0,66,21,AZE
+Abdellah Zoubir,0,AM,Forward,0,0,74.0,71,33,FRA
+Oleksii Kashchuk,0,AM,Forward,0,0,16.0,93,25,UKR
+Kady Borges,0,RW,Forward,0,0,30.0,56,29,BRA
+Emmanuel Addai,0,LW,Forward,0,0,60.0,75,24,GHA
+Leandro Andrade,0,RW,Forward,0,0,60.0,67,26,CPV
+Toral Bayramov,0,LB,Defender,0,0,30.0,47,24,AZE
+Marko Janković,0,DM,Midfielder,0,0,90.0,73,30,MNE
+Pedro Bicalho,0,DM,Midfielder,0,0,90.0,64,24,BRA
+Elvin Cəfərquliyev,0,LB,Defender,0,0,74.0,61,25,AZE
+Dani Bolt,0,RW,Forward,0,0,16.0,57,26,BRA
+Kevin Medina,0,CB,Defender,0,0,90.0,66,32,COL
+Bəhlul Mustafazadə,0,CB,Defender,0,0,90.0,48,28,AZE
+Matheus Silva,0,RB,Defender,0,0,90.0,79,28,BRA
+Tyrique George,0,AM,Forward,0,0,45.0,73,19,ENG
+Liam Delap,0,AM,Forward,0,0,45.0,68,22,ENG
+Jamie Gittens,0,LW,Forward,0,0,45.0,78,21,ENG
+Alejandro Garnacho,0,LW,Forward,0,0,45.0,79,21,ARG
+Estêvão Willian,0,RW,Forward,0,0,90.0,96,18,BRA
+João Pedro,0,AM,Forward,0,0,70.0,77,24,BRA
+Facundo Buonanotte,0,AM,Forward,0,0,20.0,79,20,ARG
+Roméo Lavia,0,DM,Midfielder,0,0,7.0,47,21,BEL
+Moisés Caicedo,0,DM,Midfielder,0,0,83.0,68,24,ECU
+Andrey Santos,0,DM,Midfielder,0,0,45.0,82,21,BRA
+Enzo Fernández,0,DM,Midfielder,0,0,45.0,79,24,ARG
+Marc Cucurella,0,LB,Defender,0,0,90.0,71,27,ESP
+Jorrel Hato,0,CB,Defender,0,0,90.0,64,19,NED
+Tosin Adarabioyo,0,CB,Defender,0,0,90.0,73,28,ENG
+Reece James,0,RB,Defender,0,0,90.0,74,25,ENG
 Lautaro Martínez,J2,AM,Forward,Inter,Italian Serie A,90.0,65,28,ARG
 Marcus Thuram,J2,AM,Forward,Inter,Italian Serie A,90.0,88,28,FRA
 Petar Sucic,J2,CM,Midfielder,Inter,Italian Serie A,61.0,67,21,CRO
@@ -9343,6 +10005,122 @@ Bruno Goda,J3,LB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,77,27,CRO
 Scott McKenna,J3,CB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,82,28,SCO
 Sergi Dominguez,J3,CB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,76,20,ESP
 Moris Valinčić,J3,RB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,76,22,CRO
+Franculino Djú,0,AM,Forward,0,0,58.0,92,21,GNB
+Júnior Brumado,0,AM,Forward,0,0,32.0,86,26,BRA
+Mikel Gogorza,0,LW,Forward,0,0,58.0,99,19,DEN
+Aral Şimşir,0,LW,Forward,0,0,32.0,83,23,DEN
+Darío Osorio,0,RW,Forward,0,0,58.0,86,21,CHI
+Denil Castillo,0,DM,Midfielder,0,0,32.0,60,21,ECU
+Cho Gue-sung,0,AM,Forward,0,0,90.0,83,27,KOR
+Philip Billing,0,DM,Midfielder,0,0,70.0,79,29,DEN
+Valdemar Andreasen,0,AM,Forward,0,0,20.0,80,20,DEN
+Pedro Bravo,0,DM,Midfielder,0,0,90.0,73,20,COL
+Mads Bech Sørensen,0,LB,Defender,0,0,90.0,66,26,DEN
+Martin Erlic,0,CB,Defender,0,0,84.0,65,27,CRO
+Ousmane Diao,0,CB,Defender,0,0,6.0,49,21,SEN
+Lee Hanbeom,0,CB,Defender,0,0,90.0,67,23,KOR
+Kevin Mbabu,0,RB,Defender,0,0,90.0,75,30,SUI
+Johnny Kenny,0,AM,Forward,0,0,45.0,55,22,IRL
+Callum Osmand,0,AM,Forward,0,0,45.0,68,19,WAL
+Sebastian Tounekti,0,LW,Forward,0,0,74.0,69,23,TUN
+Michel-Ange Balikwisha,0,LW,Forward,0,0,16.0,53,24,BEL
+James Forrest,0,RW,Forward,0,0,45.0,57,34,SCO
+Daizen Maeda,0,RW,Forward,0,0,45.0,66,28,JPN
+Benjamin Nygren,0,AM,Forward,0,0,68.0,57,24,SWE
+Reo Hatate,0,AM,Forward,0,0,22.0,65,27,JPN
+Callum McGregor,0,DM,Midfielder,0,0,90.0,62,32,SCO
+Arne Engels,0,DM,Midfielder,0,0,73.0,55,22,BEL
+Paulo Bernardo,0,DM,Midfielder,0,0,17.0,53,23,POR
+Kieran Tierney,0,LB,Defender,0,0,90.0,63,28,SCO
+Liam Scales,0,CB,Defender,0,0,90.0,65,27,IRL
+Auston Trusty,0,CB,Defender,0,0,90.0,63,27,USA
+Anthony Ralston,0,RB,Defender,0,0,90.0,79,26,SCO
+Sead Haksabanović,0,AM,Forward,0,0,90.0,89,26,MNE
+Hugo Bolin,0,LW,Forward,0,0,81.0,85,22,SWE
+Stefano Vecchia,0,AM,Forward,0,0,9.0,66,30,SWE
+Emmanuel Ekong,0,RW,Forward,0,0,64.0,49,23,SWE
+Salifou Soumah,0,AM,Forward,0,0,26.0,59,22,GUI
+Adrian Skogmar,0,LM,Midfielder,0,0,90.0,83,19,SWE
+Kenan Busuladžić,0,CM,Midfielder,0,0,64.0,80,18,SWE
+Oliver Berg,0,CM,Midfielder,0,0,26.0,55,32,NOR
+Otto Rosengren,0,RM,Midfielder,0,0,89.0,78,22,SWE
+Oscar Lewicki,0,RM,Midfielder,0,0,1.0,65,33,SWE
+Busanello,0,LB,Defender,0,0,90.0,83,27,BRA
+Andrej Đurić,0,CB,Defender,0,0,90.0,76,22,MNE
+Pontus Jansson,0,CB,Defender,0,0,90.0,80,34,SWE
+Jens Stryger Larsen,0,RB,Defender,0,0,90.0,60,34,DEN
+Karol Świderski,0,AM,Forward,0,0,45.0,71,28,POL
+Miloš Pantović,0,AM,Forward,0,0,45.0,61,23,SRB
+Anass Zaroury,0,LW,Forward,0,0,90.0,78,24,MAR
+Tetê,0,RW,Forward,0,0,81.0,86,25,BRA
+Anastasios Bakasetas,0,AM,Forward,0,0,9.0,59,32,GRE
+Filip Đuričić,0,AM,Forward,0,0,90.0,90,33,SRB
+Emmanouil Siopis,0,DM,Midfielder,0,0,59.0,62,31,GRE
+Adam Gnezda Čerin,0,DM,Midfielder,0,0,31.0,70,26,SVN
+Pedro Chirivella,0,DM,Midfielder,0,0,90.0,67,28,ESP
+Giorgos Kyriakopoulos,0,LB,Defender,0,0,90.0,61,29,GRE
+Ahmed Touba,0,CB,Defender,0,0,90.0,53,27,ALG
+Erik Palmer-Brown,0,CB,Defender,0,0,90.0,72,28,USA
+Giannis Kotsiras,0,RB,Defender,0,0,90.0,78,32,GRE
+Sandro Kulenović,0,AM,Forward,0,0,58.0,66,25,CRO
+Dion Drena Beljo,0,AM,Forward,0,0,32.0,59,23,CRO
+Arbër Hoxha,0,LW,Forward,0,0,90.0,74,27,ALB
+Mateo Lisica,0,RB,Defender,0,0,90.0,70,22,CRO
+Miha Zajc,0,LM,Midfielder,0,0,77.0,75,31,SVN
+Gonzalo Villar,0,DM,Midfielder,0,0,13.0,80,27,ESP
+Josip Mišić,0,DM,Midfielder,0,0,90.0,87,31,CRO
+Dejan Ljubicic,0,RM,Midfielder,0,0,58.0,79,28,AUT
+Luka Stojkovic,0,AM,Forward,0,0,32.0,80,22,CRO
+Bruno Goda,0,LB,Defender,0,0,45.0,68,27,CRO
+Matteo Perez Vinlöf,0,LB,Defender,0,0,45.0,69,19,SWE
+Scott McKenna,0,CB,Defender,0,0,90.0,72,28,SCO
+Sergi Dominguez,0,CB,Defender,0,0,90.0,77,20,ESP
+Kévin Théophile-Catherine,0,RB,Defender,0,0,45.0,73,36,FRA
+Monsef Bakrar,0,RW,Forward,0,0,45.0,72,24,ALG
+Pablo Durán,0,AM,Forward,0,0,62.0,84,24,ESP
+Borja Iglesias,0,AM,Forward,0,0,28.0,52,32,ESP
+Bryan Zaragoza,0,LW,Forward,0,0,62.0,89,24,ESP
+Ferran Jutglà,0,LW,Forward,0,0,28.0,51,26,ESP
+Jones El-Abdellaoui,0,RW,Forward,0,0,90.0,61,19,MAR
+Miguel Román,0,LM,Midfielder,0,0,84.0,61,22,ESP
+Hugo Sotelo,0,LM,Midfielder,0,0,6.0,59,21,ESP
+Fran Beltrán,0,CM,Midfielder,0,0,75.0,68,26,ESP
+Damián Rodríguez,0,CM,Midfielder,0,0,15.0,60,22,ESP
+Iago Aspas,0,RM,Midfielder,0,0,90.0,88,38,ESP
+Mihailo Ristić,0,LB,Defender,0,0,90.0,76,30,SRB
+Carlos Dominguez,0,CB,Defender,0,0,90.0,84,24,ESP
+Carl Starfelt,0,CB,Defender,0,0,75.0,68,30,SWE
+Yoel Lago,0,CB,Defender,0,0,15.0,65,21,ESP
+Javi Rodríguez,0,RB,Defender,0,0,90.0,75,22,ESP
+Moritz Broschinski,0,AM,Forward,0,0,85.0,84,25,GER
+Andrej Bačanin,0,AM,Forward,0,0,5.0,73,18,SRB
+Marin Šotiček,0,LW,Forward,0,0,61.0,82,21,CRO
+Philip Otele,0,LW,Forward,0,0,29.0,85,26,NGA
+Bénie Traoré,0,RW,Forward,0,0,75.0,79,22,CIV
+Ibrahim Salah,0,RW,Forward,0,0,15.0,69,24,MAR
+Xherdan Shaqiri,0,AM,Forward,0,0,90.0,100,34,SUI
+Léo Leroy,0,DM,Midfielder,0,0,61.0,90,25,FRA
+Koba Koindredi,0,DM,Midfielder,0,0,29.0,86,24,FRA
+Metinho,0,DM,Midfielder,0,0,90.0,85,22,BRA
+Moussa Cissé,0,LB,Defender,0,0,90.0,75,22,FRA
+Flavius Daniliuc,0,CB,Defender,0,0,90.0,73,24,AUT
+Adrian Leon Barišić,0,CB,Defender,0,0,90.0,73,24,BIH
+Nicolas Vouilloz,0,RB,Defender,0,0,75.0,68,24,SUI
+Kevin Rüegg,0,RB,Defender,0,0,15.0,69,27,SUI
+Daniel Birligea,0,AM,Forward,0,0,90.0,87,25,ROU
+Mamadou Thiam,0,LW,Forward,0,0,15.0,52,30,SEN
+David Miculescu,0,RW,Forward,0,0,84.0,76,24,ROU
+Dennis Politic,0,RW,Forward,0,0,6.0,51,25,ROU
+Darius Olaru,0,AM,Forward,0,0,74.0,86,27,ROU
+Juri Cisotti,0,AM,Forward,0,0,16.0,59,32,ITA
+Adrian Șut,0,DM,Midfielder,0,0,45.0,52,26,ROU
+Malcolm Edjouma,0,DM,Midfielder,0,0,45.0,61,29,FRA
+Florin Tănase,0,DM,Midfielder,0,0,74.0,76,30,ROU
+Mihai Lixandru,0,DM,Midfielder,0,0,16.0,69,24,ROU
+Risto Radunović,0,LB,Defender,0,0,90.0,74,33,MNE
+Daniel Graovac,0,CB,Defender,0,0,90.0,66,32,BIH
+Siyabonga Ngezana,0,CB,Defender,0,0,90.0,66,28,RSA
+Alexandru Pantea,0,RB,Defender,0,0,90.0,80,22,ROU
 Lorenzo Colombo,J1,AM,Forward,Genoa,Italian Serie A,72.0,53,23,ITA
 Jeff Ekhator,J1,AM,Forward,Genoa,Italian Serie A,18.0,58,18,ITA
 Albert Grønbaek,J1,LW,Forward,Genoa,Italian Serie A,59.0,71,24,DEN
@@ -9403,6 +10181,414 @@ Enzo Ebosse,J2,CB,Defender,Hellas Verona,Italian Serie A,45.0,44,26,CMR
 Martin Frese,J2,CB,Defender,Hellas Verona,Italian Serie A,45.0,57,27,DEN
 Victor Nelsson,J2,CB,Defender,Hellas Verona,Italian Serie A,90.0,51,26,DEN
 Unai Núñez,J2,WB,Midfielder,Hellas Verona,Italian Serie A,90.0,69,28,ESP
+Filip Rózga,0,AM,Forward,0,0,90.0,62,19,POL
+Maurice Malone,0,AM,Forward,0,0,56.0,59,25,GER
+Seedy Jatta,0,AM,Forward,0,0,34.0,48,22,NOR
+Otar Kiteishvili,0,AM,Forward,0,0,56.0,72,29,GEO
+Axel Kayombo,0,AM,Forward,0,0,34.0,64,19,FRA
+Jacob Hodl,0,LM,Midfielder,0,0,90.0,78,18,AUT
+Tomi Horvat,0,RM,Midfielder,0,0,76.0,75,26,SVN
+Stefan Hierländer,0,CM,Midfielder,0,0,14.0,60,34,AUT
+Jon Gorenc Stanković,0,DM,Midfielder,0,0,90.0,64,29,SVN
+Emir Karic,0,LB,Defender,0,0,90.0,80,28,AUT
+Niklas Geyrhofer,0,CB,Defender,0,0,56.0,73,25,AUT
+Dimitri Lavalée,0,CB,Defender,0,0,34.0,73,28,BEL
+Emanuel Aiwum,0,CB,Defender,0,0,90.0,56,24,AUT
+Arjan Malic,0,RB,Defender,0,0,86.0,71,20,BIH
+Jeyland Mitchell,0,RB,Defender,0,0,4.0,47,21,CRC
+Arnaud Kalimuendo,0,AM,Forward,0,0,76.0,64,23,FRA
+Zach Abbott,0,RM,Midfielder,0,0,14.0,69,19,ENG
+Nicolás Domínguez,0,LW,Forward,0,0,90.0,63,27,ARG
+James Mcatee,0,RW,Forward,0,0,65.0,71,23,ENG
+Dan Ndoye,0,AM,Forward,0,0,25.0,61,25,SUI
+Morgan Gibbs-White,0,AM,Forward,0,0,76.0,84,25,ENG
+Murillo,0,CB,Defender,0,0,14.0,54,23,BRA
+Ibrahim Sangaré,0,DM,Midfielder,0,0,90.0,77,27,CIV
+Ryan Yates,0,DM,Midfielder,0,0,90.0,74,27,ENG
+Neco Williams,0,LB,Defender,0,0,90.0,72,24,WAL
+Morato,0,CB,Defender,0,0,90.0,77,24,BRA
+Nikola Milenković,0,CB,Defender,0,0,90.0,62,28,SRB
+Nicolò Savona,0,RB,Defender,0,0,90.0,70,22,ITA
+Kevin Carlos,0,AM,Forward,0,0,76.0,76,24,ESP
+Isak Jansson,0,RW,Forward,0,0,14.0,84,23,SWE
+Jeremie Boga,0,LW,Forward,0,0,90.0,87,28,CIV
+Sofiane Diop,0,AM,Forward,0,0,90.0,82,25,FRA
+Charles Vanhoutte,0,CM,Midfielder,0,0,68.0,83,27,BEL
+Hicham Boudaoui,0,DM,Midfielder,0,0,22.0,83,26,ALG
+Salis Abdul Samed,0,CM,Midfielder,0,0,68.0,69,25,GHA
+Morgan Sanson,0,DM,Midfielder,0,0,22.0,61,31,FRA
+Ali Abdi,0,WB,Midfielder,0,0,45.0,63,31,TUN
+Mohamed Ali Cho,0,RW,Forward,0,0,45.0,77,21,FRA
+Tiago Gouveia,0,WB,Midfielder,0,0,68.0,61,24,POR
+Tom Louchet,0,RB,Defender,0,0,22.0,61,22,FRA
+Melvin Bard,0,LB,Defender,0,0,90.0,77,25,FRA
+Abdulai Juma Bah,0,CB,Defender,0,0,90.0,74,19,SLE
+Antoine Mendy,0,CB,Defender,0,0,90.0,71,21,SEN
+Junior Adamu,0,AM,Forward,0,0,81.0,78,24,AUT
+Igor Matanovic,0,AM,Forward,0,0,9.0,55,22,CRO
+Vincenzo Grifo,0,LW,Forward,0,0,65.0,81,32,ITA
+Lucas Höler,0,AM,Forward,0,0,25.0,50,31,GER
+Derry Scherhant,0,RW,Forward,0,0,66.0,83,22,GER
+Jan-Niklas Beste,0,WB,Midfielder,0,0,24.0,64,26,GER
+Yuito Suzuki,0,AM,Forward,0,0,90.0,83,24,JPN
+Johan Manzambi,0,DM,Midfielder,0,0,65.0,77,20,SUI
+Nicolas Höfler,0,CM,Midfielder,0,0,25.0,59,35,GER
+Maximilian Eggestein,0,DM,Midfielder,0,0,90.0,70,28,GER
+Jordy Makengo,0,LB,Defender,0,0,90.0,62,24,FRA
+Philipp Lienhart,0,CB,Defender,0,0,90.0,65,29,AUT
+Matthias Ginter,0,CB,Defender,0,0,90.0,61,31,GER
+Lukas Kübler,0,RB,Defender,0,0,77.0,64,33,GER
+Max Rosenfelder,0,RB,Defender,0,0,13.0,58,22,GER
+Yorbe Vertessen,0,AM,Forward,0,0,75.0,74,24,BEL
+Petar Ratkov,0,AM,Forward,0,0,15.0,56,22,SRB
+Clement Bischoff,0,LW,Forward,0,0,75.0,73,19,DEN
+Enrique Aguilar,0,LW,Forward,0,0,15.0,70,18,SUI
+Edmund Baidoo,0,RW,Forward,0,0,84.0,81,19,GHA
+Tim Trummer,0,RW,Forward,0,0,6.0,66,19,AUT
+Maurits Kjærgaard,0,LM,Midfielder,0,0,90.0,87,22,DEN
+Soumaïla Diabaté,0,CM,Midfielder,0,0,90.0,70,20,MLI
+Sota Kitano,0,RM,Midfielder,0,0,66.0,68,21,JPN
+Moussa Kounfolo Yeo,0,RM,Midfielder,0,0,24.0,69,21,MLI
+Aleksa Terzić,0,LB,Defender,0,0,90.0,70,26,SRB
+Jacob Rasmussen,0,CB,Defender,0,0,90.0,59,28,DEN
+Jannik Schuster,0,CB,Defender,0,0,90.0,67,19,AUT
+Stefan Lainer,0,RB,Defender,0,0,90.0,66,33,AUT
+Milan Smit,0,AM,Forward,0,0,90.0,65,22,NED
+Mathis Suray,0,LW,Forward,0,0,86.0,63,24,BEL
+Oskar Siira Sivertsen,0,LW,Forward,0,0,4.0,79,21,NOR
+Richonell Margaret,0,RW,Forward,0,0,76.0,66,25,SUR
+Finn Stokkers,0,RW,Forward,0,0,14.0,68,29,NED
+Kenzo Goudmijn,0,AM,Forward,0,0,67.0,76,23,NED
+Oscar Pettersson,0,AM,Forward,0,0,23.0,73,25,SWE
+Yassir Salah Rahmouni,0,DM,Midfielder,0,0,76.0,67,19,NED
+Giovanni van Zwam,0,DM,Midfielder,0,0,14.0,76,21,NED
+Calvin Twigt,0,DM,Midfielder,0,0,86.0,67,22,NED
+Julius Dirksen,0,DM,Midfielder,0,0,4.0,52,22,NED
+Dean James,0,LB,Defender,0,0,90.0,72,25,IDN
+Joris Kramer,0,CB,Defender,0,0,90.0,80,29,NED
+Melle Meulensteen,0,CB,Defender,0,0,90.0,84,26,NED
+Mats Deijl,0,RB,Defender,0,0,90.0,73,28,NED
+David Min,0,AM,Forward,0,0,68.0,62,26,NED
+Dani de Wit,0,AM,Forward,0,0,61.0,60,27,NED
+Sébastien Haller,0,AM,Forward,0,0,29.0,65,31,CIV
+Derry Murkin,0,LM,Midfielder,0,0,45.0,60,26,ENG
+Yoann Cathline,0,LM,Midfielder,0,0,45.0,72,23,FRA
+Gjivai Zechiël,0,CM,Midfielder,0,0,61.0,67,21,NED
+Dave Van Den Berg,0,CM,Midfielder,0,0,29.0,55,25,NED
+Alonzo Engwanda,0,CM,Midfielder,0,0,90.0,57,22,BEL
+Miguel Rodríguez,0,RM,Midfielder,0,0,79.0,72,22,ESP
+Mike van der Hoorn,0,CB,Defender,0,0,11.0,50,33,NED
+Souffian El Karouani,0,LB,Defender,0,0,90.0,65,25,MAR
+Nick Viergever,0,CB,Defender,0,0,90.0,54,36,NED
+Matisse Didden,0,CB,Defender,0,0,90.0,50,24,BEL
+Siebe Horemans,0,RB,Defender,0,0,90.0,61,27,BEL
+Deniz Gül,0,AM,Forward,0,0,78.0,74,21,TUR
+Samu Omorodion,0,AM,Forward,0,0,12.0,67,21,ESP
+Borja Sainz,0,LW,Forward,0,0,90.0,84,24,ESP
+Pepê,0,RW,Forward,0,0,53.0,68,28,BRA
+William Gomes,0,RW,Forward,0,0,37.0,65,19,BRA
+Gabriel Veiga,0,LM,Midfielder,0,0,90.0,91,23,ESP
+Pablo Rosario,0,CM,Midfielder,0,0,90.0,83,28,DOM
+Stephen Eustáquio,0,RM,Midfielder,0,0,67.0,76,28,CAN
+Victor Froholdt,0,RM,Midfielder,0,0,23.0,74,19,DEN
+Zaidu Sanusi,0,LB,Defender,0,0,90.0,72,28,NGA
+Dominik Prpić,0,CB,Defender,0,0,90.0,70,21,CRO
+Jan Bednarek,0,CB,Defender,0,0,90.0,72,29,POL
+Martim Fernandes,0,RB,Defender,0,0,67.0,66,19,POR
+Alberto costa,0,RB,Defender,0,0,23.0,78,22,POR
+Marko Arnautović,0,AM,Forward,0,0,87.0,81,36,AUT
+Bruno Duarte,0,AM,Forward,0,0,3.0,70,29,BRA
+Mirko Ivanić,0,LW,Forward,0,0,87.0,79,32,MNE
+Milson,0,LW,Forward,0,0,3.0,65,26,ANG
+Nemanja Radonjić,0,RW,Forward,0,0,89.0,56,29,SRB
+Aleksandar Katai,0,AM,Forward,0,0,1.0,59,34,SRB
+Tomás Händel,0,AM,Forward,0,0,66.0,72,24,POR
+Vasilije Kostov,0,AM,Forward,0,0,24.0,70,17,SRB
+Timi Elšnik,0,DM,Midfielder,0,0,90.0,71,27,SVN
+Rade Krunić,0,DM,Midfielder,0,0,90.0,71,32,BIH
+Nair Tiknizyan,0,LB,Defender,0,0,90.0,62,26,ARM
+Franklin Tebo,0,CB,Defender,0,0,90.0,73,25,NGA
+Miloš Veljković,0,CB,Defender,0,0,90.0,66,30,SRB
+Seol Young-woo,0,RB,Defender,0,0,90.0,70,26,KOR
+Hamza Igamane,0,AM,Forward,0,0,66.0,81,23,MAR
+Olivier Giroud,0,AM,Forward,0,0,24.0,71,39,FRA
+Félix Correia,0,LW,Forward,0,0,66.0,69,24,POR
+Matias Fernandez-Pardo,0,LW,Forward,0,0,24.0,75,20,BEL
+Marius Broholm,0,RW,Forward,0,0,90.0,83,20,NOR
+Ngal'Ayel Mukau,0,AM,Forward,0,0,80.0,74,20,COD
+Hákon Arnar Haraldsson,0,AM,Forward,0,0,10.0,55,22,ISL
+Ayyoub Bouaddi,0,DM,Midfielder,0,0,90.0,64,18,FRA
+Nabil Bentaleb,0,DM,Midfielder,0,0,90.0,77,30,ALG
+Calvin Verdonk,0,LB,Defender,0,0,85.0,69,28,IDN
+Romain Perraud,0,LB,Defender,0,0,5.0,51,28,FRA
+Aïssa Mandi,0,CB,Defender,0,0,90.0,67,34,ALG
+Chancel Mbemba,0,CB,Defender,0,0,90.0,78,31,COD
+Tiago Santos,0,RB,Defender,0,0,67.0,83,23,POR
+Thomas Meunier,0,RB,Defender,0,0,23.0,57,34,BEL
+Amine El Ouazzani,0,AM,Forward,0,0,55.0,66,24,MAR
+Fran Navarro,0,AM,Forward,0,0,35.0,80,27,ESP
+Ricardo Horta,0,AM,Forward,0,0,76.0,84,31,POR
+Pau Victor,0,CM,Midfielder,0,0,14.0,53,23,ESP
+Rodrigo Zalazar,0,AM,Forward,0,0,83.0,100,26,URU
+Diego Rodrigues,0,AM,Forward,0,0,7.0,77,20,POR
+João Moutinho,0,CM,Midfielder,0,0,55.0,65,39,POR
+Florian Grillitsch,0,CM,Midfielder,0,0,35.0,77,30,AUT
+Jean Gorby,0,CM,Midfielder,0,0,90.0,78,23,FRA
+Leonardo Lelo,0,WB,Midfielder,0,0,55.0,73,25,POR
+Maho Dorgelès,0,WB,Midfielder,0,0,35.0,78,21,CIV
+Gabri Martínez,0,WB,Midfielder,0,0,90.0,81,22,ESP
+Bright Arrey-Mbi,0,CB,Defender,0,0,90.0,67,22,GER
+Gustaf Lagerbielke,0,CB,Defender,0,0,90.0,64,25,SWE
+Victor Gomez,0,CB,Defender,0,0,90.0,65,25,ESP
+Oh Hyeon-gyu,0,AM,Forward,0,0,76.0,64,24,KOR
+Jusef Erabi,0,AM,Forward,0,0,14.0,57,22,SWE
+Yira Sor,0,LW,Forward,0,0,63.0,70,25,NGA
+Yaimar Medina,0,LW,Forward,0,0,27.0,70,21,ECU
+Konstantinos Karetsas,0,RW,Forward,0,0,75.0,87,17,GRE
+Jarne Steuckers,0,RW,Forward,0,0,15.0,67,23,BEL
+Daan Heymans,0,AM,Forward,0,0,76.0,84,26,BEL
+Nikolas Sattlberger,0,AM,Forward,0,0,14.0,61,21,AUT
+Bryan Heynen,0,DM,Midfielder,0,0,90.0,70,28,BEL
+Patrik Hrošovský,0,DM,Midfielder,0,0,90.0,64,33,SVK
+Joris Kayembe,0,LB,Defender,0,0,90.0,69,31,COD
+Matte Smets,0,CB,Defender,0,0,90.0,61,21,BEL
+Mujaid Sadick,0,CB,Defender,0,0,90.0,63,25,ESP
+Ken Nkuba,0,RB,Defender,0,0,45.0,71,23,BEL
+Josué Kongolo,0,RB,Defender,0,0,45.0,69,19,BEL
+Donyell Malen,0,AM,Forward,0,0,90.0,77,26,NED
+Jadon Sancho,0,LW,Forward,0,0,74.0,79,25,ENG
+Youri Tielemans,0,DM,Midfielder,0,0,16.0,72,28,BEL
+Evann Guessand,0,RW,Forward,0,0,73.0,53,24,CIV
+Emi Buendía,0,LW,Forward,0,0,17.0,50,28,ARG
+Morgan Rogers,0,AM,Forward,0,0,63.0,97,23,ENG
+Ollie Watkins,0,AM,Forward,0,0,27.0,51,29,ENG
+Amadou Onana,0,DM,Midfielder,0,0,74.0,72,24,BEL
+John McGinn,0,RW,Forward,0,0,16.0,56,31,SCO
+Lamare Bogarde,0,DM,Midfielder,0,0,90.0,75,21,NED
+Ian Maatsen,0,LB,Defender,0,0,90.0,74,23,NED
+Pau Torres,0,CB,Defender,0,0,63.0,58,28,ESP
+Boubacar Kamara,0,DM,Midfielder,0,0,27.0,61,25,FRA
+Ezri Konsa,0,CB,Defender,0,0,90.0,73,28,ENG
+Victor Lindelöf,0,RB,Defender,0,0,90.0,76,31,SWE
+Elad Madmon,0,AM,Forward,0,0,90.0,64,21,ISR
+Hélio Varela,0,LW,Forward,0,0,77.0,67,23,CPV
+Ion Nicolaescu,0,LW,Forward,0,0,13.0,52,27,MDA
+Osher Davida,0,RW,Forward,0,0,59.0,51,24,ISR
+Sagiv Yehezkel,0,RW,Forward,0,0,31.0,58,30,ISR
+Dor Peretz,0,AM,Forward,0,0,77.0,74,30,ISR
+Kervin Andrade,0,AM,Forward,0,0,13.0,50,20,VEN
+Itamar Noy,0,DM,Midfielder,0,0,59.0,64,24,ISR
+Ido Shahar,0,DM,Midfielder,0,0,31.0,63,24,ISR
+Issouf Sissokho,0,DM,Midfielder,0,0,90.0,73,23,MLI
+Roy Revivo,0,LB,Defender,0,0,90.0,65,22,ISR
+Mohamed Aly Camara,0,CB,Defender,0,0,13.0,58,28,GUI
+Heitor,0,CB,Defender,0,0,77.0,53,25,BRA
+Raz Shlomo,0,CB,Defender,0,0,90.0,67,26,ISR
+Tyrese Asante,0,RB,Defender,0,0,90.0,63,23,NED
+Youssef Chermiti,0,AM,Forward,0,0,72.0,72,21,POR
+Bojan Miovski,0,AM,Forward,0,0,18.0,64,26,MKD
+Mikey Moore,0,AM,Forward,0,0,80.0,85,18,ENG
+Findlay Curtis,0,RW,Forward,0,0,10.0,50,19,SCO
+Djeidi Gassama,0,AM,Forward,0,0,60.0,70,22,FRA
+Danilo,0,AM,Forward,0,0,30.0,73,26,BRA
+Nicolas Raskin,0,CM,Midfielder,0,0,60.0,66,24,BEL
+Mohamed Diomandé,0,DM,Midfielder,0,0,30.0,67,24,CIV
+Connor Barron,0,DM,Midfielder,0,0,90.0,62,23,SCO
+Jayden Meghoma,0,WB,Midfielder,0,0,45.0,54,19,ENG
+Thelo Aasgaard,0,LW,Forward,0,0,45.0,68,23,NOR
+Max Aarons,0,LB,Defender,0,0,90.0,61,25,ENG
+Nasser Djiga,0,CB,Defender,0,0,90.0,73,22,BFA
+John Souttar,0,CB,Defender,0,0,90.0,67,29,SCO
+James Tavernier,0,RB,Defender,0,0,90.0,79,34,ENG
+Artem Dovbyk,0,AM,Forward,0,0,85.0,81,28,UKR
+Niccolò Pisilli,0,AM,Forward,0,0,5.0,51,21,ITA
+Lorenzo Pellegrini,0,AM,Forward,0,0,64.0,85,29,ITA
+Manu Koné,0,CM,Midfielder,0,0,26.0,69,24,FRA
+Matìas Soulé,0,AM,Forward,0,0,65.0,86,22,ARG
+Stephan El Shaarawy,0,AM,Forward,0,0,25.0,87,33,ITA
+Neil El Aynaoui,0,CM,Midfielder,0,0,90.0,74,24,MAR
+Bryan Cristante,0,CM,Midfielder,0,0,90.0,88,30,ITA
+Kostas Tsimikas,0,WB,Midfielder,0,0,72.0,74,29,GRE
+Devyne Rensch,0,RW,Forward,0,0,18.0,65,22,NED
+Zeki Çelik,0,WB,Midfielder,0,0,72.0,72,28,TUR
+Wesley,0,LW,Forward,0,0,18.0,75,22,BRA
+Mario Hermoso,0,CB,Defender,0,0,90.0,77,30,ESP
+Obite N'Dicka,0,CB,Defender,0,0,90.0,75,26,CIV
+Gianluca Mancini,0,CB,Defender,0,0,90.0,64,29,ITA
+Dele,0,AM,Forward,0,0,63.0,86,24,NGA
+Lenny Joseph,0,AM,Forward,0,0,27.0,78,25,FRA
+Aleksandar Pešić,0,AM,Forward,0,0,79.0,78,33,SRB
+Barnabás Varga,0,AM,Forward,0,0,11.0,66,31,HUN
+Gavriel Kanichowsky,0,CM,Midfielder,0,0,79.0,85,28,ISR
+Bence Ötvös,0,CM,Midfielder,0,0,11.0,59,27,HUN
+Naby Keïta,0,CM,Midfielder,0,0,45.0,77,30,GUI
+Alex Tóth,0,CM,Midfielder,0,0,45.0,86,20,HUN
+Kristoffer Zachariassen,0,CM,Midfielder,0,0,66.0,53,31,NOR
+Julio Romão,0,CM,Midfielder,0,0,24.0,73,27,BRA
+Cadu,0,WB,Midfielder,0,0,90.0,81,28,BRA
+Cebrails Makreckis,0,WB,Midfielder,0,0,90.0,84,25,LVA
+Gábor Szalai,0,CB,Defender,0,0,90.0,59,25,HUN
+Toon Raemaekers,0,CB,Defender,0,0,90.0,59,25,BEL
+Ibrahim Cissé,0,CB,Defender,0,0,90.0,57,29,SEN
+Petar Stanic,0,AM,Forward,0,0,90.0,82,24,SRB
+Caio Vidal,0,LM,Midfielder,0,0,87.0,78,25,BRA
+Matheus Machado,0,LM,Midfielder,0,0,3.0,63,22,BRA
+Deroy Duarte,0,CM,Midfielder,0,0,74.0,64,26,CPV
+Ivan Yordanov,0,DM,Midfielder,0,0,16.0,62,24,BUL
+Filip Kaloč,0,CM,Midfielder,0,0,45.0,60,25,CZE
+Yves Bile,0,AM,Forward,0,0,45.0,73,20,CIV
+Erick Marcus,0,RM,Midfielder,0,0,74.0,67,21,BRA
+Stanislav Ivanov,0,RM,Midfielder,0,0,16.0,77,26,BUL
+Pedrinho,0,DM,Midfielder,0,0,70.0,71,27,BRA
+Ivaylo Chochev,0,CM,Midfielder,0,0,20.0,80,32,BUL
+Anton Nedyalkov,0,LB,Defender,0,0,90.0,65,32,BUL
+Dinis Almeida,0,CB,Defender,0,0,90.0,64,30,POR
+Olivier Verdon,0,CB,Defender,0,0,90.0,64,30,BEN
+Son,0,RB,Defender,0,0,90.0,73,31,ESP
+Santiago Castro,0,AM,Forward,0,0,81.0,69,21,ARG
+Thijs Dallinga,0,AM,Forward,0,0,9.0,72,25,NED
+Nicolò Cambiaghi,0,LW,Forward,0,0,74.0,76,24,ITA
+Jens Odgaard,0,LW,Forward,0,0,16.0,86,26,DEN
+Federico Bernardeschi,0,RW,Forward,0,0,74.0,86,31,ITA
+Riccardo Orsolini,0,RW,Forward,0,0,16.0,72,28,ITA
+Giovanni Fabbian,0,AM,Forward,0,0,28.0,60,22,ITA
+Juan Miranda,0,LB,Defender,0,0,62.0,75,25,ESP
+Lewis Ferguson,0,DM,Midfielder,0,0,90.0,80,26,SCO
+Nikola Moro,0,DM,Midfielder,0,0,81.0,76,27,CRO
+Tommaso Pobega,0,DM,Midfielder,0,0,9.0,52,26,ITA
+Charalampos Lykogiannis,0,LB,Defender,0,0,22.0,60,32,GRE
+Jhon Lucumí,0,CB,Defender,0,0,90.0,73,27,COL
+Torbjørn Heggem,0,CB,Defender,0,0,90.0,55,26,NOR
+Emil Holm,0,RB,Defender,0,0,90.0,80,25,SWE
+Markus Haaland,0,AM,Forward,0,0,74.0,65,20,NOR
+Julian Lægreid,0,AM,Forward,0,0,16.0,64,18,NOR
+Bård Finne,0,AM,Forward,0,0,60.0,65,30,NOR
+Niklas Castro,0,AM,Forward,0,0,30.0,84,29,CHI
+Eggert Aron Guðmundsson,0,LM,Midfielder,0,0,90.0,71,21,ISL
+Jakob Sørensen,0,CM,Midfielder,0,0,90.0,84,27,DEN
+Emil Kornvig,0,CM,Midfielder,0,0,90.0,66,25,DEN
+Ulrik Mathisen,0,RM,Midfielder,0,0,60.0,56,26,NOR
+Mads Hansen,0,RM,Midfielder,0,0,30.0,76,23,DEN
+Vetle Dragsnes,0,LB,Defender,0,0,90.0,74,31,NOR
+Japhet Sery,0,CB,Defender,0,0,90.0,67,25,DEN
+Eivind Helland,0,CB,Defender,0,0,90.0,78,20,NOR
+Denzel De Roeve,0,RB,Defender,0,0,74.0,72,21,BEL
+Thore Pedersen,0,RB,Defender,0,0,16.0,81,29,NOR
+Prince Adu Kwabena,0,AM,Forward,0,0,90.0,85,22,GHA
+Rafiu Durosinmi,0,AM,Forward,0,0,90.0,87,22,NGA
+Tomáš Ladra,0,AM,Forward,0,0,63.0,69,28,CZE
+Denis Višinský,0,AM,Forward,0,0,27.0,75,22,CZE
+Matej Valenta,0,CM,Midfielder,0,0,63.0,66,25,CZE
+Adrian Zeljković,0,CM,Midfielder,0,0,27.0,64,23,SVN
+Lukáš Červ,0,CM,Midfielder,0,0,87.0,72,24,CZE
+Svetozar Marković,0,CM,Midfielder,0,0,3.0,54,25,SRB
+Cheick Souaré,0,WB,Midfielder,0,0,90.0,76,23,FRA
+Amar Memić,0,WB,Midfielder,0,0,72.0,72,24,BIH
+Milan Havel,0,WB,Midfielder,0,0,18.0,54,31,CZE
+Václav Jemelka,0,CB,Defender,0,0,90.0,58,30,CZE
+Sampson Dweh Jr.,0,CB,Defender,0,0,90.0,61,24,LBR
+Jan Paluska,0,CB,Defender,0,0,90.0,49,20,CZE
+Youssef En-Nesyri,0,AM,Forward,0,0,59.0,65,28,MAR
+Jáder Durán,0,AM,Forward,0,0,31.0,79,21,COL
+Oğuz Aydın,0,LW,Forward,0,0,59.0,54,25,TUR
+Marco Asensio,0,LW,Forward,0,0,31.0,67,29,ESP
+Sebastian Szymański,0,RW,Forward,0,0,73.0,64,26,POL
+Nene Dorgeles,0,RW,Forward,0,0,17.0,57,22,MLI
+Talisca,0,AM,Forward,0,0,90.0,83,31,BRA
+İsmail Yüksek,0,DM,Midfielder,0,0,58.0,66,26,TUR
+Fred,0,DM,Midfielder,0,0,32.0,79,32,BRA
+Edson Álvarez,0,DM,Midfielder,0,0,90.0,74,28,MEX
+Archie Brown,0,LB,Defender,0,0,90.0,80,23,ENG
+Jayden Oosterwolde,0,CB,Defender,0,0,90.0,69,24,NED
+Milan Škriniar,0,CB,Defender,0,0,90.0,76,30,SVK
+Nélson Semedo,0,RB,Defender,0,0,90.0,73,31,POR
+Deniz Undav,0,AM,Forward,0,0,90.0,91,29,GER
+Bilal El Khannouss,0,AM,Forward,0,0,84.0,78,21,MAR
+Badredine Bouanani,0,AM,Forward,0,0,6.0,69,20,ALG
+Tiago Tomás,0,AM,Forward,0,0,84.0,74,23,POR
+Chris Führich,0,AM,Forward,0,0,6.0,85,27,GER
+Chema,0,CM,Midfielder,0,0,90.0,83,20,ESP
+Angelo Stiller,0,CM,Midfielder,0,0,90.0,78,24,GER
+Josha Vagnoman,0,WB,Midfielder,0,0,45.0,69,24,GER
+Jamie Leweling,0,WB,Midfielder,0,0,45.0,69,24,GER
+Lorenz Assignon,0,WB,Midfielder,0,0,90.0,71,25,TOG
+Maximilian Mittelstädt,0,CB,Defender,0,0,79.0,58,28,GER
+Ramon Hendriks,0,CB,Defender,0,0,11.0,40,24,NED
+Julian Chabot,0,CB,Defender,0,0,79.0,71,27,GER
+Dan-Axel Zagadou,0,CB,Defender,0,0,11.0,73,26,FRA
+Finn Jeltsch,0,CB,Defender,0,0,90.0,63,19,GER
+Ayase Ueda,0,AM,Forward,0,0,90.0,65,27,JPN
+Gonçalo Borges,0,LW,Forward,0,0,71.0,76,24,POR
+Leo Sauer,0,LW,Forward,0,0,19.0,63,19,SVK
+Anis Hadj Moussa,0,RW,Forward,0,0,90.0,88,23,ALG
+Cyle Larin,0,AM,Forward,0,0,90.0,77,30,CAN
+Quinten Timber,0,DM,Midfielder,0,0,90.0,75,24,NED
+Luciano Valente,0,DM,Midfielder,0,0,81.0,75,22,NED
+Bart Nieuwkoop,0,DM,Midfielder,0,0,9.0,44,29,NED
+Gijs Smal,0,LB,Defender,0,0,90.0,74,28,NED
+Tsuyoshi Watanabe,0,CB,Defender,0,0,90.0,65,28,JPN
+Anel Ahmedhodžić,0,CB,Defender,0,0,90.0,61,26,BIH
+Givairo Read,0,RB,Defender,0,0,90.0,69,19,NED
+Cédric Bakambu,0,AM,Forward,0,0,77.0,76,34,COD
+Ezequiel Ávila,0,AM,Forward,0,0,13.0,52,31,ARG
+Abde Ezzalzouli,0,LW,Forward,0,0,86.0,82,23,MAR
+Rodrigo Riquelme,0,LW,Forward,0,0,4.0,51,25,ESP
+Antony,0,RW,Forward,0,0,86.0,85,25,BRA
+Pablo Garcia,0,RW,Forward,0,0,4.0,66,19,ESP
+Giovani Lo Celso,0,AM,Forward,0,0,64.0,65,29,ARG
+Sergi Altimira,0,DM,Midfielder,0,0,26.0,54,24,ESP
+Marc Roca,0,DM,Midfielder,0,0,90.0,80,28,ESP
+Pablo Fornals,0,DM,Midfielder,0,0,77.0,63,29,ESP
+Nelson Deossa,0,AM,Forward,0,0,13.0,49,25,COL
+Valentín Gómez,0,LB,Defender,0,0,90.0,74,22,ARG
+Natan,0,CB,Defender,0,0,90.0,61,24,BRA
+Diego Llorente,0,CB,Defender,0,0,90.0,54,32,ESP
+Aitor Ruibal,0,RB,Defender,0,0,90.0,74,29,ESP
+Martin Satriano,0,AM,Forward,0,0,90.0,63,24,URU
+Enzo Molebe,0,LW,Forward,0,0,45.0,69,18,FRA
+Afonso Moreira,0,LW,Forward,0,0,45.0,79,20,POR
+Adam Karabec,0,RW,Forward,0,0,90.0,71,22,CZE
+Khalis Merah,0,AM,Forward,0,0,64.0,83,18,FRA
+Pavel Šulc,0,AM,Forward,0,0,26.0,53,24,CZE
+Mathys De Carvalho,0,DM,Midfielder,0,0,90.0,82,20,FRA
+Tanner Tessmann,0,DM,Midfielder,0,0,64.0,75,24,USA
+Tyler Morton,0,DM,Midfielder,0,0,26.0,85,23,ENG
+Abner,0,LB,Defender,0,0,45.0,60,25,BRA
+Nicolás Tagliafico,0,LB,Defender,0,0,45.0,82,33,ARG
+Moussa Niakhate,0,CB,Defender,0,0,90.0,76,29,SEN
+Ruben Kluivert,0,CB,Defender,0,0,90.0,79,24,NED
+Ainsley Maitland-Niles,0,RB,Defender,0,0,83.0,68,28,ENG
+Clinton Mata,0,RB,Defender,0,0,7.0,59,32,ANG
+Giorgos Giakoumakis,0,AM,Forward,0,0,78.0,73,30,GRE
+Fyodor Chalov,0,AM,Forward,0,0,12.0,67,27,RUS
+Taison,0,LW,Forward,0,0,78.0,71,37,BRA
+Luka Ivanušec,0,LW,Forward,0,0,12.0,66,26,CRO
+Kiril Despodov,0,RW,Forward,0,0,61.0,80,28,BUL
+Andrija Živković,0,RW,Forward,0,0,29.0,100,29,SRB
+Giannis Konstantelias,0,AM,Forward,0,0,78.0,100,22,GRE
+Dimitris Pelkas,0,AM,Forward,0,0,12.0,74,32,GRE
+Soualiho Meïté,0,DM,Midfielder,0,0,90.0,79,31,FRA
+Alessandro Bianco,0,DM,Midfielder,0,0,64.0,79,23,ITA
+Magomed Ozdoyev,0,DM,Midfielder,0,0,26.0,82,33,RUS
+Baba Rahman,0,LB,Defender,0,0,90.0,73,31,GHA
+Giannis Michailidis,0,CB,Defender,0,0,90.0,65,25,GRE
+Alessandro Vogliacco,0,CB,Defender,0,0,90.0,65,27,ITA
+Jonjoe Kenny,0,RB,Defender,0,0,90.0,76,28,ENG
+Sergio Córdova,0,AM,Forward,0,0,74.0,63,28,VEN
+Chris Bedia,0,AM,Forward,0,0,16.0,54,29,CIV
+Alan Virginius,0,LM,Midfielder,0,0,45.0,58,22,FRA
+Joel Monteiro,0,LM,Midfielder,0,0,45.0,62,26,SUI
+Christian Fassnacht,0,RM,Midfielder,0,0,73.0,61,31,SUI
+Ebrima Colley,0,LW,Forward,0,0,17.0,58,25,GAM
+Alvyn Sanches,0,CM,Midfielder,0,0,65.0,72,22,SUI
+Dominik Pech,0,CM,Midfielder,0,0,25.0,58,19,CZE
+Armin Gigovic,0,DM,Midfielder,0,0,5.0,77,23,BIH
+Rayan Raveloson,0,CM,Midfielder,0,0,90.0,67,28,MAD
+Jaouen Hadjam,0,LB,Defender,0,0,90.0,68,22,ALG
+Sandro Lauper,0,CB,Defender,0,0,90.0,57,29,SUI
+Tanguy Zoukrou,0,CB,Defender,0,0,90.0,67,22,FRA
+Saidy Janko,0,RB,Defender,0,0,87.0,62,30,GAM
+Ryan Andrews,0,RB,Defender,0,0,3.0,56,21,ENG
 Andrea Belotti,J3,AM,Forward,Cagliari,Italian Serie A,73.0,70,31,ITA
 Gennaro Borrelli,J3,AM,Forward,Cagliari,Italian Serie A,17.0,70,25,ITA
 Sebastiano Esposito,J3,AM,Forward,Cagliari,Italian Serie A,73.0,74,23,ITA
@@ -10494,6 +11680,530 @@ Taras Mykhavko,J2,LB,Defender,Dynamo Kyiv,UEFA Europa Conference League,24.0,64,
 Aliou Thiaré,J2,CB,Defender,Dynamo Kyiv,UEFA Europa Conference League,90.0,64,21,SEN
 Denys Popov,J2,CB,Defender,Dynamo Kyiv,UEFA Europa Conference League,90.0,63,26,UKR
 Oleksandr Karavayev,J2,RB,Defender,Dynamo Kyiv,UEFA Europa Conference League,90.0,67,33,UKR
+Nelson Weiper,0,AM,Forward,0,0,90.0,78,20,GER
+Armindo Sieb,0,AM,Forward,0,0,59.0,69,22,GER
+Lee Jae-sung,0,AM,Forward,0,0,31.0,91,33,KOR
+Paul Nebel,0,AM,Forward,0,0,64.0,75,23,GER
+Benedict Hollerbach,0,AM,Forward,0,0,26.0,85,24,GER
+Nadiem Amiri,0,CM,Midfielder,0,0,80.0,70,29,GER
+William Bøving,0,AM,Forward,0,0,10.0,74,22,DEN
+Lennard Maloney,0,CM,Midfielder,0,0,58.0,62,26,USA
+Kaishu Sano,0,CM,Midfielder,0,0,32.0,87,24,JPN
+Sota Kawasaki,0,WB,Midfielder,0,0,90.0,73,24,JPN
+Phillipp Mwene,0,WB,Midfielder,0,0,45.0,66,31,AUT
+Silvan Widmer,0,WB,Midfielder,0,0,45.0,70,32,SUI
+Dominik Kohr,0,CB,Defender,0,0,90.0,53,31,GER
+Danny da Costa,0,CB,Defender,0,0,90.0,56,32,GER
+Kacper Potulski,0,CB,Defender,0,0,90.0,70,18,POL
+Jacopo Fazzini,0,AM,Forward,0,0,90.0,67,22,ITA
+Roberto Piccoli,0,AM,Forward,0,0,59.0,86,24,ITA
+Moise Kean,0,AM,Forward,0,0,31.0,68,25,ITA
+Niccolò Fortini,0,LW,Forward,0,0,90.0,66,19,ITA
+Dodô,0,RW,Forward,0,0,90.0,76,26,BRA
+Cher Ndour,0,CM,Midfielder,0,0,58.0,73,21,ITA
+Rolando Mandragora,0,CM,Midfielder,0,0,32.0,73,28,ITA
+Simon Sohm,0,CM,Midfielder,0,0,84.0,84,24,SUI
+Nicolò Fagioli,0,CM,Midfielder,0,0,6.0,68,24,ITA
+Hans Nicolussi Caviglia,0,DM,Midfielder,0,0,90.0,72,25,ITA
+Luca Ranieri,0,CB,Defender,0,0,90.0,58,26,ITA
+Pablo Marí,0,CB,Defender,0,0,68.0,64,32,ESP
+Pietro Comuzzo,0,CB,Defender,0,0,22.0,77,20,ITA
+Marin Pongračić,0,CB,Defender,0,0,90.0,77,28,CRO
+Franko Kovačević,0,AM,Forward,0,0,90.0,58,26,CRO
+Danijel Šturm,0,LW,Forward,0,0,90.0,60,26,SVN
+Nikita Iosifov,0,RW,Forward,0,0,90.0,76,24,RUS
+Mario Kvesić,0,LM,Midfielder,0,0,85.0,87,33,BIH
+Andrej Kotnik,0,LM,Midfielder,0,0,5.0,55,30,SVN
+Florjan Jevšenak,0,CM,Midfielder,0,0,45.0,63,20,SVN
+Darko Hrka,0,CM,Midfielder,0,0,45.0,69,25,SVN
+Milot Avdyli,0,RM,Midfielder,0,0,58.0,72,23,KVX
+Vitaly Lisakovich,0,RM,Midfielder,0,0,32.0,83,27,BLR
+Žan Karničnik,0,LB,Defender,0,0,90.0,85,31,SVN
+Artemijus Tutyškinas,0,CB,Defender,0,0,58.0,65,22,LTU
+Gašper Vodeb,0,CB,Defender,0,0,32.0,51,22,SVN
+Łukasz Bejger,0,CB,Defender,0,0,78.0,57,23,POL
+Damjan Vuklišević,0,CB,Defender,0,0,12.0,47,30,SVN
+Juanjo Nieto,0,RB,Defender,0,0,90.0,78,31,ESP
+Antonio Čolak,0,AM,Forward,0,0,67.0,71,32,CRO
+Mileta Rajovic,0,AM,Forward,0,0,23.0,58,26,DEN
+Petar Stojanović,0,LW,Forward,0,0,68.0,49,30,SVN
+Wojciech Urbanski,0,LW,Forward,0,0,22.0,55,20,POL
+Ermal Krasniqi,0,RW,Forward,0,0,85.0,86,27,KVX
+Kacper Chodyna,0,RW,Forward,0,0,5.0,60,26,POL
+Kacper Urbanski,0,LM,Midfielder,0,0,78.0,71,21,POL
+Juergen Elitim,0,LM,Midfielder,0,0,12.0,62,26,COL
+Rafał Augustyniak,0,CM,Midfielder,0,0,90.0,76,31,POL
+Bartosz Kapustka,0,RM,Midfielder,0,0,85.0,78,28,POL
+Jakub Żewłakow,0,RM,Midfielder,0,0,5.0,49,18,POL
+Rúben Vinagre,0,LB,Defender,0,0,90.0,57,26,POR
+Steve Kapuadi,0,CB,Defender,0,0,90.0,51,27,COD
+Radovan Pankov,0,CB,Defender,0,0,90.0,53,30,SRB
+Paweł Wszołek,0,RB,Defender,0,0,90.0,52,33,POL
+Kevin-Prince Milla,0,AM,Forward,0,0,60.0,77,21,CMR
+Jan Kuchta,0,AM,Forward,0,0,30.0,63,28,CZE
+Albion Rrahmani,0,LW,Forward,0,0,23.0,68,25,KVX
+Lukáš Haraslín,0,LW,Forward,0,0,52.0,78,29,SVK
+Matěj Ryneš,0,LM,Midfielder,0,0,15.0,82,24,CZE
+Veljko Birmančević,0,RW,Forward,0,0,90.0,73,27,SRB
+John Mercado,0,LM,Midfielder,0,0,75.0,79,23,ECU
+Ángelo Preciado,0,RW,Forward,0,0,15.0,54,27,ECU
+Kaan Kairinen,0,CM,Midfielder,0,0,90.0,86,26,FIN
+Patrik Vydra,0,CM,Midfielder,0,0,61.0,59,22,CZE
+Santiago Eneme,0,CM,Midfielder,0,0,29.0,73,25,EQG
+Pavel Kadeřábek,0,RM,Midfielder,0,0,90.0,67,33,CZE
+Jaroslav Zelený,0,CB,Defender,0,0,90.0,75,33,CZE
+Adam Sevinsky,0,CB,Defender,0,0,90.0,72,21,CZE
+Emannuel Uchenna,0,CB,Defender,0,0,90.0,80,21,NGA
+Jonatan Braut Brunes,0,AM,Forward,0,0,81.0,61,25,NOR
+Imad Rondić,0,AM,Forward,0,0,9.0,61,26,BIH
+Patryk Makuch,0,AM,Forward,0,0,45.0,53,26,POL
+Mohamed Lamine Diaby,0,AM,Forward,0,0,45.0,70,24,FRA
+Marko Bulat,0,CM,Midfielder,0,0,61.0,68,24,CRO
+Péter Baráth,0,CM,Midfielder,0,0,29.0,54,23,HUN
+Oskar Repka,0,CM,Midfielder,0,0,90.0,68,26,POL
+Karol Struski,0,CM,Midfielder,0,0,90.0,71,24,POL
+Tomasz Pieńko,0,LB,Defender,0,0,61.0,50,21,POL
+Adriano,0,LB,Defender,0,0,29.0,60,23,BRA
+Stratos Svarnas,0,CB,Defender,0,0,90.0,72,27,GRE
+Bogdan Racovitan,0,CB,Defender,0,0,90.0,67,25,ROU
+Fran Tudor,0,CB,Defender,0,0,90.0,62,30,CRO
+Michael Ameyaw,0,RB,Defender,0,0,78.0,55,25,POL
+Tolis Konstantopoulos,0,RB,Defender,0,0,12.0,68,23,GRE
+Kauã Elias,0,AM,Forward,0,0,90.0,81,19,BRA
+Isaque,0,LM,Midfielder,0,0,90.0,88,18,BRA
+Luca Meirelles,0,CM,Midfielder,0,0,74.0,63,18,BRA
+Maryan Shved,0,CM,Midfielder,0,0,16.0,63,28,UKR
+Artem Bondarenko,0,CM,Midfielder,0,0,67.0,84,25,UKR
+Anton Hlushchenko,0,CM,Midfielder,0,0,23.0,65,21,UKR
+Lucas Ferreira,0,RM,Midfielder,0,0,90.0,81,19,BRA
+Yehor Nazaryna,0,DM,Midfielder,0,0,90.0,87,28,UKR
+Irakli Azarov,0,LB,Defender,0,0,90.0,66,23,GEO
+Valerii Bondar,0,CB,Defender,0,0,90.0,63,26,UKR
+Alaa Ghram,0,CB,Defender,0,0,90.0,65,24,TUN
+Vinicius Tobias,0,RB,Defender,0,0,90.0,79,21,BRA
+Þorleifur Úlfarsson,0,AM,Forward,0,0,62.0,57,24,ISL
+Aron Bjarnason,0,AM,Forward,0,0,28.0,81,30,ISL
+Davíð Ingvarsson,0,LW,Forward,0,0,62.0,49,26,ISL
+Óli Valur Ómarsson,0,LW,Forward,0,0,28.0,78,22,ISL
+Ágúst Orri Þorsteinsson,0,RW,Forward,0,0,90.0,56,20,ISL
+Anton Logi Lúðvíksson,0,LM,Midfielder,0,0,78.0,62,22,ISL
+Gabriel Snaer,0,LM,Midfielder,0,0,12.0,72,0,NAN
+Arnór Gauti Jónsson,0,CM,Midfielder,0,0,62.0,61,23,ISL
+Viktor Karl Einarsson,0,CM,Midfielder,0,0,28.0,72,28,ISL
+Höskuldur Gunnlaugsson,0,RM,Midfielder,0,0,68.0,68,31,ISL
+Kristinn Steindórsson,0,RM,Midfielder,0,0,22.0,74,35,ISL
+Kristinn Jónsson,0,LB,Defender,0,0,90.0,67,35,ISL
+Viktor Örn Margeirsson,0,CB,Defender,0,0,90.0,66,31,ISL
+Ásgeir Orrason,0,CB,Defender,0,0,90.0,64,20,ISL
+Valgeir Valgeirsson,0,RB,Defender,0,0,90.0,59,23,ISL
+Luka Jović,0,AM,Forward,0,0,90.0,71,27,SRB
+Dereck Kutesa,0,LW,Forward,0,0,45.0,65,27,SUI
+Aboubakary Koita,0,AM,Forward,0,0,45.0,84,27,MTN
+Mijat Gaćinović,0,RW,Forward,0,0,89.0,84,30,SRB
+Domagoj Vida,0,AM,Forward,0,0,1.0,49,36,CRO
+Petros Mantalos,0,DM,Midfielder,0,0,90.0,85,34,GRE
+Răzvan Marin,0,DM,Midfielder,0,0,45.0,81,29,ROU
+Frantzdy Pierrot,0,AM,Forward,0,0,45.0,78,30,HAI
+Orbelín Pineda,0,DM,Midfielder,0,0,90.0,85,29,MEX
+Stavros Pilios,0,LB,Defender,0,0,89.0,79,24,GRE
+Roberto Pereyra,0,LB,Defender,0,0,1.0,45,34,ARG
+Filipe Relvas,0,CB,Defender,0,0,90.0,73,26,POR
+Harold Moukoudi,0,CB,Defender,0,0,90.0,68,27,CMR
+Llazaros Rota,0,RB,Defender,0,0,90.0,62,28,GRE
+John McGovern,0,AM,Forward,0,0,67.0,59,23,NIR
+Daniel Mandroiu,0,AM,Forward,0,0,23.0,58,27,IRL
+Graham Burke,0,AM,Forward,0,0,45.0,74,32,IRL
+Aaron McEneff,0,CM,Midfielder,0,0,45.0,51,30,IRL
+Dylan Watts,0,CM,Midfielder,0,0,45.0,73,28,IRL
+Cian Barrett,0,CM,Midfielder,0,0,45.0,70,20,IRL
+Connor Malley,0,CM,Midfielder,0,0,71.0,57,25,ENG
+Trevor Clarke,0,AM,Forward,0,0,19.0,50,27,IRL
+Darragh Nugent,0,CM,Midfielder,0,0,90.0,53,24,IRL
+Cory O'Sullivan,0,WB,Midfielder,0,0,90.0,56,19,IRL
+Adam Matthews,0,WB,Midfielder,0,0,45.0,59,33,WAL
+Danny Grant,0,WB,Midfielder,0,0,45.0,57,25,IRL
+Lee Grace,0,CB,Defender,0,0,90.0,53,32,IRL
+Pico,0,CB,Defender,0,0,90.0,54,33,CPV
+Daniel Cleary,0,CB,Defender,0,0,90.0,54,29,IRL
+Piotr Parzyszek,0,AM,Forward,0,0,90.0,78,32,POL
+Otto Ruoppi,0,AM,Forward,0,0,90.0,85,19,FIN
+Petteri Pennanen,0,LM,Midfielder,0,0,88.0,79,35,FIN
+Samuel Pasanen,0,LM,Midfielder,0,0,2.0,62,19,FIN
+Doni Arifi,0,CM,Midfielder,0,0,90.0,97,23,FIN
+Jaakko Oksanen,0,CM,Midfielder,0,0,90.0,79,24,FIN
+Joslyn Luyeye-Lutumba,0,RM,Midfielder,0,0,70.0,71,22,FIN
+Jerry Voutilainen,0,RM,Midfielder,0,0,20.0,62,30,FIN
+Clinton Antwi,0,LB,Defender,0,0,90.0,74,26,GHA
+Taneli Hämäläinen,0,CB,Defender,0,0,90.0,62,24,FIN
+Ibrahim Cissé,0,CB,Defender,0,0,81.0,71,26,CIV
+Paulo Ricardo,0,CB,Defender,0,0,9.0,40,31,BRA
+Bob Nii Armah,0,RB,Defender,0,0,88.0,79,21,GHA
+Arttu Lötjönen,0,RB,Defender,0,0,2.0,48,21,FIN
+Andraž Šporar,0,AM,Forward,0,0,90.0,86,31,SVN
+Róbert Mak,0,AM,Forward,0,0,72.0,65,34,SVK
+Kyriakos Savvidis,0,DM,Midfielder,0,0,18.0,64,30,GRE
+Tigran Barseghyan,0,AM,Forward,0,0,64.0,79,32,ARM
+Alasana Yirajang,0,RW,Forward,0,0,26.0,50,20,GAM
+Rahim Ibrahim,0,CM,Midfielder,0,0,64.0,68,24,GHA
+Artur Gajdoš,0,DM,Midfielder,0,0,26.0,54,21,SVK
+Danylo Ihnatenko,0,CM,Midfielder,0,0,90.0,73,28,UKR
+Nino Marcelli,0,WB,Midfielder,0,0,90.0,77,20,SVK
+César Blackman,0,RB,Defender,0,0,90.0,71,27,PAN
+Kevin Wimmer,0,LB,Defender,0,0,90.0,76,32,AUT
+Guram Kashia,0,CB,Defender,0,0,72.0,64,38,GEO
+Alen Mustafić,0,AM,Forward,0,0,18.0,77,26,BIH
+Kenan Bajrić,0,CB,Defender,0,0,90.0,73,30,SVN
+Riad Bajić,0,AM,Forward,0,0,71.0,61,31,BIH
+Karol Angielski,0,AM,Forward,0,0,19.0,71,29,POL
+Đorđe Ivanović,0,LW,Forward,0,0,90.0,70,29,SRB
+Waldo Rubio,0,RW,Forward,0,0,66.0,65,30,ESP
+Giorgos Naoum,0,RW,Forward,0,0,24.0,77,24,CYP
+Jaime Suárez Juesas,0,LM,Midfielder,0,0,90.0,90,28,ESP
+Luís Gustavo Ledes,0,CM,Midfielder,0,0,90.0,71,33,POR
+Pere Pons,0,RM,Midfielder,0,0,71.0,65,32,ESP
+Mathias Rivas,0,RM,Midfielder,0,0,19.0,57,20,ITA
+Jérémie Gnali,0,LB,Defender,0,0,90.0,77,23,CGO
+Hrvoje Miličević,0,CB,Defender,0,0,90.0,83,32,BIH
+Godswill Ekpolo,0,CB,Defender,0,0,89.0,72,30,NGA
+Petros Ioannou,0,CB,Defender,0,0,1.0,50,26,CYP
+Jorge Miramón,0,RB,Defender,0,0,90.0,82,36,ESP
+Marko Lazetić,0,AM,Forward,0,0,62.0,63,21,SRB
+Kevin Nisbet,0,AM,Forward,0,0,28.0,59,28,SCO
+Jesper Karlsson,0,LM,Midfielder,0,0,74.0,70,27,SWE
+Nicolas Milanovic,0,RM,Midfielder,0,0,16.0,50,23,AUS
+Adil Aouchiche,0,CM,Midfielder,0,0,90.0,79,23,FRA
+Dante Polvara,0,CM,Midfielder,0,0,83.0,74,25,USA
+Graeme Shinnie,0,CM,Midfielder,0,0,7.0,50,34,SCO
+Stuart Armstrong,0,RM,Midfielder,0,0,62.0,71,33,SCO
+Topi Keskinen,0,LM,Midfielder,0,0,28.0,70,22,FIN
+Alexander Jensen,0,LB,Defender,0,0,75.0,63,24,DEN
+Emmanuel Gyamfi,0,LB,Defender,0,0,15.0,49,21,GER
+Mats Knoester,0,CB,Defender,0,0,90.0,57,26,NED
+Jack Milne,0,CB,Defender,0,0,90.0,65,22,SCO
+Nicky Devlin,0,CB,Defender,0,0,90.0,51,32,SCO
+Dylan Lobban,0,RB,Defender,0,0,90.0,62,20,SCO
+Jean-Philippe Mateta,0,AM,Forward,0,0,85.0,82,28,FRA
+Christantus Uche,0,AM,Forward,0,0,5.0,64,22,NGA
+Yeremi Pino,0,AM,Forward,0,0,72.0,78,23,ESP
+Justin Devenny,0,AM,Forward,0,0,18.0,74,22,NIR
+Ismaila Sarr,0,AM,Forward,0,0,64.0,99,27,SEN
+Daichi Kamada,0,AM,Forward,0,0,26.0,72,29,JPN
+Jefferson Lerma,0,CM,Midfielder,0,0,90.0,77,31,COL
+Will Hughes,0,CM,Midfielder,0,0,64.0,75,30,ENG
+Adam Wharton,0,CM,Midfielder,0,0,26.0,72,21,ENG
+Tyrick Mitchell,0,WB,Midfielder,0,0,90.0,71,26,ENG
+Daniel Muñoz,0,WB,Midfielder,0,0,85.0,69,29,COL
+Nathaniel Clyne,0,WB,Midfielder,0,0,5.0,65,34,ENG
+Marc Guéhi,0,CB,Defender,0,0,90.0,64,25,ENG
+Maxence Lacroix,0,CB,Defender,0,0,90.0,64,25,FRA
+Chris Richards,0,CB,Defender,0,0,90.0,66,25,USA
+Troy Parrott,0,AM,Forward,0,0,73.0,69,23,IRL
+Lequincio Zeefuik,0,AM,Forward,0,0,17.0,73,20,NED
+Ibrahim Sadiq,0,LW,Forward,0,0,90.0,56,25,GHA
+Weslley Patati,0,RW,Forward,0,0,60.0,61,22,BRA
+Isak Jensen,0,LW,Forward,0,0,30.0,74,21,DEN
+Sven Mijnans,0,AM,Forward,0,0,90.0,88,25,NED
+Kees Smit,0,DM,Midfielder,0,0,79.0,79,19,NED
+Kasper Boogaard,0,LM,Midfielder,0,0,11.0,78,19,NED
+Peer Koopmeiners,0,DM,Midfielder,0,0,79.0,69,25,NED
+Maxim Dekker,0,RM,Midfielder,0,0,11.0,63,21,NED
+Mateo Chávez,0,LB,Defender,0,0,90.0,74,21,MEX
+Alexandre Penetra,0,CB,Defender,0,0,90.0,68,24,POR
+Wouter Goes,0,CB,Defender,0,0,90.0,78,21,NED
+Elijah Dijkstra,0,RB,Defender,0,0,61.0,51,19,NED
+Mees de Wit,0,LB,Defender,0,0,29.0,76,27,NED
+Harry Wood,0,AM,Forward,0,0,77.0,79,23,ENG
+Ali Coote,0,CM,Midfielder,0,0,13.0,64,27,SCO
+Mipo Odubeko,0,AM,Forward,0,0,90.0,74,23,IRL
+Kerr McInroy,0,CM,Midfielder,0,0,90.0,73,25,SCO
+Jonathan Lunney,0,CM,Midfielder,0,0,62.0,67,27,IRL
+John Martin,0,AM,Forward,0,0,28.0,77,26,IRL
+Jack Henry-Francis,0,CM,Midfielder,0,0,77.0,64,22,IRL
+Evan Caffrey,0,CM,Midfielder,0,0,13.0,61,22,IRL
+Daniel Kelly,0,LB,Defender,0,0,19.0,50,29,IRL
+Kameron Ledwidge,0,LB,Defender,0,0,71.0,63,24,IRL
+James Norris,0,CB,Defender,0,0,15.0,55,22,ENG
+Paddy Barrett,0,CB,Defender,0,0,90.0,60,32,IRL
+Mark Coyle,0,CB,Defender,0,0,45.0,74,28,IRL
+Lewis Temple,0,CB,Defender,0,0,45.0,62,20,IRL
+Milan Mbeng,0,RB,Defender,0,0,90.0,59,23,FRA
+Albert Dabiqaj,0,AM,Forward,0,0,90.0,73,29,KVX
+Raddy Ovouka,0,LM,Midfielder,0,0,90.0,86,25,CGO
+Vesel Limaj,0,CM,Midfielder,0,0,90.0,68,28,GER
+Mamadou Soumahoro,0,CM,Midfielder,0,0,70.0,63,20,CIV
+Kristal Abazaj,0,AM,Forward,0,0,20.0,59,29,ALB
+Almir Ajzeraj,0,RM,Midfielder,0,0,89.0,79,28,KVX
+Mike Arthur,0,RM,Midfielder,0,0,1.0,49,18,GHA
+Rron Broja,0,DM,Midfielder,0,0,80.0,73,29,KVX
+Ilir Mustafa,0,DM,Midfielder,0,0,10.0,59,29,KVX
+Blerton Sheji,0,LB,Defender,0,0,90.0,81,25,MKD
+Jorgo Pellumbi,0,CB,Defender,0,0,90.0,66,25,ALB
+Egzon Bejtulai,0,CB,Defender,0,0,90.0,75,31,MKD
+Besnik Krasniqi,0,RB,Defender,0,0,90.0,81,35,KVX
+Marius Mouandilmadji,0,AM,Forward,0,0,90.0,72,28,CHA
+Anthony Musaba,0,LM,Midfielder,0,0,70.0,75,24,NED
+Polat Yaldır,0,LM,Midfielder,0,0,20.0,62,22,TUR
+Celil Yüksel,0,CM,Midfielder,0,0,86.0,81,27,TUR
+Soner Gönül,0,CM,Midfielder,0,0,4.0,59,28,TUR
+Carlo Holse,0,CM,Midfielder,0,0,79.0,88,26,DEN
+Soner Aydoğdu,0,CM,Midfielder,0,0,11.0,57,34,TUR
+Emre Kılınç,0,RM,Midfielder,0,0,90.0,88,31,TUR
+Antoine Makoumbou,0,DM,Midfielder,0,0,69.0,66,27,CGO
+Yunus Emre Çift,0,DM,Midfielder,0,0,21.0,72,22,TUR
+Logi Tómasson,0,LB,Defender,0,0,80.0,64,25,ISL
+Toni Borevkovic,0,CB,Defender,0,0,10.0,53,28,CRO
+Rick van Drongelen,0,CB,Defender,0,0,90.0,65,26,NED
+Ľubomír Šatka,0,CB,Defender,0,0,90.0,61,29,SVK
+Zeki Yavru,0,RB,Defender,0,0,90.0,73,34,TUR
+Semir Smajlagić,0,AM,Forward,0,0,45.0,57,27,BIH
+Serigne Thioune,0,AM,Forward,0,0,45.0,61,21,ITA
+Philippe Koffi,0,LW,Forward,0,0,90.0,63,23,CIV
+Joseph Mbong,0,RW,Forward,0,0,84.0,60,28,MLT
+Jovan Čađenović,0,RW,Forward,0,0,6.0,65,30,MNE
+Matias Garcia,0,LM,Midfielder,0,0,45.0,55,29,MLT
+Eder,0,LM,Midfielder,0,0,45.0,73,36,BRA
+Ante Ćorić,0,CM,Midfielder,0,0,90.0,66,28,CRO
+Ognjen Bjeličić,0,RM,Midfielder,0,0,90.0,82,28,SRB
+Ryan Camenzuli,0,LB,Defender,0,0,90.0,63,31,MLT
+Marcelina Emerson,0,CB,Defender,0,0,90.0,68,34,BRA
+Vincenzo Polito,0,CB,Defender,0,0,84.0,59,26,ITA
+Stijn Meijer,0,CB,Defender,0,0,6.0,37,25,NED
+Rafael Compri,0,RB,Defender,0,0,70.0,65,29,BRA
+Sven Xerri,0,RB,Defender,0,0,20.0,66,20,MLT
+Sergio Camello,0,AM,Forward,0,0,54.0,77,24,ESP
+Alexandre Alemão,0,AM,Forward,0,0,36.0,75,27,BRA
+Álvaro García,0,LW,Forward,0,0,90.0,90,33,ESP
+Francisco Perez,0,RW,Forward,0,0,79.0,81,23,ESP
+Jorge de Frutos,0,RW,Forward,0,0,11.0,76,28,ESP
+Gerard Gumbau,0,LM,Midfielder,0,0,54.0,76,30,ESP
+Pedro Díaz,0,LM,Midfielder,0,0,36.0,88,27,ESP
+Óscar Valentín,0,CM,Midfielder,0,0,90.0,81,31,ESP
+Óscar Trejo,0,RM,Midfielder,0,0,54.0,79,37,ARG
+Isaac Palazón Camacho,0,RM,Midfielder,0,0,36.0,75,30,ESP
+Alfonso Espino,0,LB,Defender,0,0,90.0,68,33,URU
+Pathé Ciss,0,CB,Defender,0,0,90.0,76,31,SEN
+Florian Lejeune,0,CB,Defender,0,0,90.0,70,34,FRA
+Iván Balliu,0,RB,Defender,0,0,54.0,67,33,ALB
+Andrei Ratiu,0,RB,Defender,0,0,36.0,94,27,ROU
+Mikael Ishak,0,AM,Forward,0,0,59.0,62,32,SWE
+Yannick Agnero,0,AM,Forward,0,0,31.0,70,22,CIV
+Leo Bengtsson,0,LW,Forward,0,0,59.0,57,27,SWE
+Taofeek Ismaheel,0,LW,Forward,0,0,31.0,61,25,NGA
+Pablo Rodríguez,0,RW,Forward,0,0,59.0,59,24,ESP
+Kornel Lisman,0,RW,Forward,0,0,22.0,53,19,POL
+Robert Gumny,0,LW,Forward,0,0,9.0,66,27,POL
+Luis Enrique Palma,0,AM,Forward,0,0,70.0,79,25,HON
+Filip Jagiełło,0,AM,Forward,0,0,20.0,80,28,POL
+Antoni Kozubal,0,DM,Midfielder,0,0,90.0,72,21,POL
+Timothy Ouma,0,DM,Midfielder,0,0,90.0,56,21,KEN
+Michał Gurgul,0,LB,Defender,0,0,90.0,74,19,POL
+Antonio Milić,0,CB,Defender,0,0,90.0,64,31,CRO
+Mateusz Skrzypczak,0,CB,Defender,0,0,90.0,63,25,POL
+Joel Pereira,0,RB,Defender,0,0,90.0,85,29,POR
+Tjay De Barr,0,AM,Forward,0,0,90.0,85,25,GIB
+Kike Gómez,0,AM,Forward,0,0,90.0,81,31,PHI
+Boubacar Dabo,0,LM,Midfielder,0,0,61.0,67,28,SEN
+Nicholas Pozo,0,LM,Midfielder,0,0,29.0,49,20,GIB
+Mandi,0,CM,Midfielder,0,0,90.0,84,36,ESP
+Antonio García Montero,0,CM,Midfielder,0,0,90.0,76,34,ESP
+Villacañas,0,RM,Midfielder,0,0,49.0,70,29,ESP
+Juanje,0,RM,Midfielder,0,0,41.0,73,30,ESP
+Toscano,0,LB,Defender,0,0,75.0,70,34,ESP
+Graeme Torilla,0,LB,Defender,0,0,15.0,50,28,GIB
+Oliva Rutjens,0,CB,Defender,0,0,90.0,45,27,ESP
+Bernardo Lopes,0,CB,Defender,0,0,90.0,71,32,GIB
+Toni Kolega,0,RB,Defender,0,0,90.0,65,27,CRO
+Ante Jurič,0,AM,Forward,0,0,65.0,64,22,CRO
+Daniel Adu-Adjei,0,AM,Forward,0,0,25.0,60,20,ENG
+Dominik Thaqi,0,LM,Midfielder,0,0,65.0,75,18,CRO
+Bruno Bogojević,0,LM,Midfielder,0,0,25.0,69,27,CRO
+Merveille Ndockyt,0,CM,Midfielder,0,0,81.0,72,27,CGO
+Tiago Dantas,0,CM,Midfielder,0,0,9.0,75,24,POR
+Toni Fruk,0,CM,Midfielder,0,0,90.0,84,24,CRO
+Samuele Vignato,0,RM,Midfielder,0,0,60.0,73,21,ITA
+Amer Gojak,0,RM,Midfielder,0,0,30.0,78,28,BIH
+Dejan Petrovič,0,DM,Midfielder,0,0,90.0,65,27,SVN
+Mladen Devetak,0,LB,Defender,0,0,90.0,74,26,SRB
+Anel Husic,0,CB,Defender,0,0,90.0,72,24,SUI
+Ante Majstorović,0,CB,Defender,0,0,90.0,79,32,CRO
+Ante Orec,0,RB,Defender,0,0,61.0,77,24,CRO
+Justas Lasickas,0,RB,Defender,0,0,29.0,72,28,LTU
+Ercan Kara,0,AM,Forward,0,0,90.0,74,29,AUT
+Andrija Radulović,0,LW,Forward,0,0,45.0,48,23,MNE
+Louis Schaub,0,LW,Forward,0,0,45.0,83,30,AUT
+Nikolaus Wurmbrand,0,RW,Forward,0,0,90.0,62,19,AUT
+Tobias Gulliksen,0,AM,Forward,0,0,60.0,67,22,NOR
+Janis Antiste,0,AM,Forward,0,0,30.0,83,23,FRA
+Lukas Grgic,0,DM,Midfielder,0,0,60.0,67,30,AUT
+Romeo Amane,0,DM,Midfielder,0,0,30.0,81,22,CIV
+Matthias Seidl,0,DM,Midfielder,0,0,82.0,79,24,AUT
+Dominik Weixelbraun,0,DM,Midfielder,0,0,8.0,59,21,AUT
+Jonas Auer,0,LB,Defender,0,0,60.0,77,25,AUT
+Furkan Demir,0,LB,Defender,0,0,30.0,68,20,TUR
+Serge Raux Yao,0,CB,Defender,0,0,90.0,62,26,FRA
+Ange Ahoussou,0,CB,Defender,0,0,90.0,53,21,CIV
+Bendegúz Bolla,0,RB,Defender,0,0,90.0,75,25,HUN
+Aimé Steven Nsimba Labe,0,AM,Forward,0,0,89.0,79,29,FRA
+Luca-Constantin Basceanu,0,AM,Forward,0,0,1.0,59,19,ROU
+Assad Al Hamalawi,0,AM,Forward,0,0,69.0,69,25,PLE
+Stefan Baiaram,0,AM,Forward,0,0,21.0,85,22,ROU
+Alexandru Cicâldău,0,CM,Midfielder,0,0,69.0,71,28,ROU
+Lyes Houri,0,CM,Midfielder,0,0,21.0,74,29,FRA
+Anzor Mekvabishvili,0,CM,Midfielder,0,0,80.0,72,24,GEO
+Vladimir Screciu,0,CM,Midfielder,0,0,10.0,73,25,ROU
+Teles,0,CM,Midfielder,0,0,90.0,76,28,POR
+Nicușor Bancu,0,WB,Midfielder,0,0,90.0,85,33,ROU
+Carlos Mora,0,WB,Midfielder,0,0,80.0,79,24,CRC
+Tudor Băluță,0,CM,Midfielder,0,0,10.0,61,26,ROU
+Juraj Badelj,0,CB,Defender,0,0,90.0,62,22,CRO
+Adrian Rus,0,CB,Defender,0,0,90.0,61,29,ROU
+Oleksandr Romanchuk,0,CB,Defender,0,0,90.0,74,25,UKR
+John Paul Dembe,0,AM,Forward,0,0,72.0,70,20,UGA
+Samuel Holm,0,CM,Midfielder,0,0,18.0,78,28,SWE
+Amor Layouni,0,LW,Forward,0,0,90.0,77,33,TUN
+Adrian Svanbäck,0,RW,Forward,0,0,23.0,59,21,FIN
+Pontus Dahbo,0,RW,Forward,0,0,61.0,61,20,SWE
+Sanders Ngabo,0,LM,Midfielder,0,0,6.0,55,21,DEN
+Simon Gustafson,0,LM,Midfielder,0,0,90.0,73,30,SWE
+Silas Andersen,0,CM,Midfielder,0,0,90.0,81,21,DEN
+Mikkel Rygaard Jensen,0,RM,Midfielder,0,0,90.0,87,34,DEN
+Adam Lundqvist,0,LB,Defender,0,0,90.0,57,31,SWE
+Filip Helander,0,CB,Defender,0,0,90.0,64,32,SWE
+Olle Samuelsson,0,CB,Defender,0,0,85.0,67,21,SWE
+Marius Lode,0,CB,Defender,0,0,5.0,67,32,NOR
+Julius Lindberg,0,RB,Defender,0,0,85.0,57,26,SWE
+Brice Wembangomo,0,RB,Defender,0,0,5.0,71,28,NOR
+Julio Enciso,0,AM,Forward,0,0,45.0,79,21,PAR
+Kendry Páez,0,AM,Forward,0,0,45.0,59,18,ECU
+Sebastian Nanasi,0,AM,Forward,0,0,70.0,74,23,SWE
+Emanuel Emegha,0,AM,Forward,0,0,20.0,70,22,NED
+Martial Godo,0,LM,Midfielder,0,0,77.0,76,22,ENG
+Rabby Nzingoula,0,LM,Midfielder,0,0,13.0,80,19,FRA
+Rafael Gonçalves,0,CM,Midfielder,0,0,90.0,68,20,POR
+Mathis Amougou,0,CM,Midfielder,0,0,90.0,75,19,FRA
+Samuel Amo-Ameyaw,0,RM,Midfielder,0,0,90.0,82,19,ENG
+Ben Chilwell,0,LB,Defender,0,0,45.0,74,28,ENG
+Diego Moreira,0,LB,Defender,0,0,45.0,88,21,BEL
+Ismaël Doukouré,0,CB,Defender,0,0,90.0,69,22,FRA
+Andrew Omobamidele,0,CB,Defender,0,0,90.0,74,23,IRL
+Lucas Høgsberg,0,RB,Defender,0,0,45.0,72,19,DEN
+Guela Doué,0,RB,Defender,0,0,45.0,71,23,CIV
+Gaoussou Diakite,0,AM,Forward,0,0,90.0,95,20,MLI
+Theo Bair,0,AM,Forward,0,0,90.0,92,26,CAN
+Beyatt Lekoueiry,0,AM,Forward,0,0,45.0,74,20,MTN
+Alban Ajdini,0,AM,Forward,0,0,45.0,67,26,KVX
+Olivier Custodio,0,RM,Midfielder,0,0,90.0,77,30,SUI
+Jamie Roche,0,CM,Midfielder,0,0,90.0,87,24,SWE
+Nathan Butler-Oyedeji,0,RM,Midfielder,0,0,45.0,66,22,ENG
+Nicky Beloko,0,LM,Midfielder,0,0,45.0,84,25,SUI
+Morgan Poaty,0,LB,Defender,0,0,74.0,64,28,CGO
+Sékou Fofana,0,LB,Defender,0,0,16.0,72,22,CIV
+Karim Sow,0,CB,Defender,0,0,90.0,71,22,SUI
+Kevin Mouanga,0,CB,Defender,0,0,90.0,70,25,CGO
+Brandon Soppy,0,RB,Defender,0,0,90.0,81,23,FRA
+Angelos Neophytou,0,AM,Forward,0,0,72.0,78,20,CYP
+Ryan Mmaee,0,AM,Forward,0,0,8.0,66,28,MAR
+Ewandro,0,LW,Forward,0,0,10.0,57,29,BRA
+Anastasios Chatzigiovannis,0,LW,Forward,0,0,72.0,71,28,GRE
+Willy Semedo,0,AM,Forward,0,0,18.0,59,31,CPV
+Evangelos Andreou,0,RW,Forward,0,0,90.0,72,23,CYP
+Novica Erakovic,0,AM,Forward,0,0,90.0,65,25,MNE
+Mateo Maric,0,DM,Midfielder,0,0,45.0,65,27,BIH
+Ioannis Kousoulos,0,DM,Midfielder,0,0,45.0,76,29,CYP
+Panayiotis Andreou,0,DM,Midfielder,0,0,90.0,46,19,CYP
+Amine Khammas,0,LB,Defender,0,0,90.0,71,26,MAR
+Saad Agouzoul,0,CB,Defender,0,0,45.0,58,28,MAR
+Nikolas Panayiotou,0,CB,Defender,0,0,45.0,56,25,CYP
+Stefan Simić,0,CB,Defender,0,0,90.0,73,30,CZE
+Alpha Diounkou,0,RB,Defender,0,0,90.0,72,24,SEN
+Fabrice Tamba,0,AM,Forward,0,0,88.0,66,21,SEN
+Atdhe Mazari,0,LW,Forward,0,0,2.0,50,24,ALB
+Liridon Latifi,0,LW,Forward,0,0,67.0,73,31,ALB
+Besart Ibraimi,0,AM,Forward,0,0,23.0,80,38,MKD
+Sebastjan Spahiu,0,RW,Forward,0,0,88.0,66,26,ALB
+Mevlan Murati,0,RW,Forward,0,0,2.0,42,31,MKD
+Arbin Zejnulai,0,AM,Forward,0,0,43.0,66,26,ALB
+Endrit Krasniqi,0,AM,Forward,0,0,47.0,63,31,KVX
+Adamu Alhassan,0,DM,Midfielder,0,0,67.0,67,25,NGA
+Kamer Qaka,0,DM,Midfielder,0,0,23.0,46,30,ALB
+Reshat Ramadani,0,DM,Midfielder,0,0,90.0,75,22,MKD
+Ronaldo Webster,0,LB,Defender,0,0,90.0,74,24,JAM
+Klisman Cake,0,CB,Defender,0,0,90.0,59,26,ALB
+Imran Fetai,0,CB,Defender,0,0,90.0,59,23,MKD
+Aleksandër Trumci,0,RB,Defender,0,0,90.0,61,24,ALB
+Afimico Pululu,0,AM,Forward,0,0,90.0,71,26,COD
+Oskar Pietuszewski,0,LW,Forward,0,0,75.0,59,17,POL
+Aziel Jackson,0,LW,Forward,0,0,15.0,59,24,USA
+Louka Prip,0,RW,Forward,0,0,53.0,71,28,DEN
+Alejandro Pozo Pozo,0,RW,Forward,0,0,37.0,62,26,ESP
+Dawid Drachal,0,AM,Forward,0,0,53.0,72,20,POL
+Jesús Imaz,0,AM,Forward,0,0,36.0,84,35,ESP
+Leon Flach,0,DM,Midfielder,0,0,53.0,76,24,USA
+Sergio Lozano,0,DM,Midfielder,0,0,37.0,67,26,ESP
+Taras Romanchuk,0,DM,Midfielder,0,0,75.0,79,33,POL
+Bartosz Mazurek,0,DM,Midfielder,0,0,15.0,80,18,POL
+Bartłomiej Wdowik,0,LB,Defender,0,0,90.0,73,25,POL
+Dušan Stojinovič,0,CB,Defender,0,0,90.0,70,25,SVN
+Bernardo Vital,0,CB,Defender,0,0,90.0,72,24,POR
+Norbert Wojtuszek,0,RB,Defender,0,0,90.0,83,24,POL
+Nardin Mulahusejnović,0,AM,Forward,0,0,90.0,68,27,BIH
+Gustavo Sangaré,0,LM,Midfielder,0,0,87.0,79,28,BFA
+Guðmundur Þórarinsson,0,DM,Midfielder,0,0,3.0,61,33,ISL
+Gor Manvelyan,0,CM,Midfielder,0,0,45.0,60,23,ARM
+Matheus Aiás,0,AM,Forward,0,0,45.0,73,28,BRA
+Takuto Oshima,0,CM,Midfielder,0,0,90.0,74,27,JPN
+Hélder Ferreira,0,RW,Forward,0,0,90.0,63,28,POR
+Yan Brice Eteki,0,DM,Midfielder,0,0,70.0,57,28,CMR
+Imran Oulad Omar,0,CM,Midfielder,0,0,20.0,51,27,NED
+David Sualehe,0,LW,Forward,0,0,90.0,65,28,POR
+Sergei Muradyan,0,CB,Defender,0,0,90.0,74,21,ARM
+Nathanaël Saintini,0,CB,Defender,0,0,90.0,81,25,GLP
+Eric Boakye,0,RB,Defender,0,0,70.0,77,25,GHA
+Hovhannes Hambardzumyan,0,CB,Defender,0,0,20.0,60,35,ARM
+Daniel Vašulín,0,AM,Forward,0,0,87.0,85,27,CZE
+Muhamed Tijani,0,AM,Forward,0,0,3.0,59,25,NGA
+Jáchym Šíp,0,LW,Forward,0,0,70.0,80,22,CZE
+Artūr Dolžnikov,0,LW,Forward,0,0,20.0,55,25,LTU
+Ghali Ahmad,0,RW,Forward,0,0,61.0,71,25,NGA
+Jan Navrátil,0,RW,Forward,0,0,29.0,71,35,CZE
+Štěpán Langer,0,AM,Forward,0,0,87.0,70,25,CZE
+Matěj Mikulenka,0,AM,Forward,0,0,3.0,66,21,CZE
+Radim Breite,0,DM,Midfielder,0,0,90.0,61,36,CZE
+Michal Beran,0,DM,Midfielder,0,0,90.0,77,25,CZE
+Filip Slavíček,0,LB,Defender,0,0,90.0,58,23,NAN
+Jan Král,0,CB,Defender,0,0,90.0,52,26,CZE
+Abdoulaye Sylla,0,CB,Defender,0,0,90.0,61,25,GUI
+Matěj Hadaš,0,RB,Defender,0,0,90.0,68,21,CZE
+Eduardo Guerrero,0,AM,Forward,0,0,67.0,66,25,PAN
+Vladislav Blanuta,0,AM,Forward,0,0,23.0,68,23,ROU
+Ogundana Shola,0,LW,Forward,0,0,45.0,76,20,NGA
+Nazar Voloshyn,0,LW,Forward,0,0,45.0,61,22,UKR
+Vladyslav Kabayev,0,RW,Forward,0,0,79.0,79,30,UKR
+Ángel Torres,0,RW,Forward,0,0,11.0,60,25,COL
+Vitaliy Buyalskyi,0,LM,Midfielder,0,0,67.0,88,32,UKR
+Andriy Yarmolenko,0,LM,Midfielder,0,0,23.0,77,36,UKR
+Mykola Mykhailenko,0,CM,Midfielder,0,0,90.0,72,24,UKR
+Oleksandr Pikhalyonok,0,RM,Midfielder,0,0,70.0,90,28,UKR
+Mykola Shaparenko,0,RM,Midfielder,0,0,20.0,88,27,UKR
+Taras Mykhavko,0,LB,Defender,0,0,90.0,81,20,UKR
+Aliou Thiaré,0,CB,Defender,0,0,90.0,82,21,SEN
+Denys Popov,0,CB,Defender,0,0,90.0,81,26,UKR
+Oleksandr Tymchyk,0,RB,Defender,0,0,90.0,70,28,UKR
+Vitalie Damașcan,0,AM,Forward,0,0,57.0,73,26,MDA
+Tyler Burey,0,LM,Midfielder,0,0,33.0,53,23,ENG
+Toni Majić,0,AM,Forward,0,0,90.0,65,19,CRO
+Jakov Pranjić,0,LM,Midfielder,0,0,78.0,64,24,CRO
+Marijan Ćavar,0,AM,Forward,0,0,12.0,54,27,BIH
+Neven Đurasek,0,CM,Midfielder,0,0,57.0,64,27,CRO
+Antonio Ivancic,0,CM,Midfielder,0,0,33.0,61,30,CRO
+Borna Filipović,0,CM,Midfielder,0,0,56.0,54,19,BIH
+Stefano Surdanovic,0,CM,Midfielder,0,0,34.0,73,26,SRB
+Matej Sakota,0,RM,Midfielder,0,0,85.0,73,21,BIH
+Leo Mikić,0,RM,Midfielder,0,0,5.0,62,28,CRO
+Petar Mamić,0,LB,Defender,0,0,90.0,60,29,CRO
+Duje Dujmović,0,CB,Defender,0,0,90.0,64,21,CRO
+Ilija Mašić,0,CB,Defender,0,0,90.0,54,26,BIH
+Marko Vranjković,0,RB,Defender,0,0,90.0,76,26,CRO
 Dušan Vlahović,J3,AM,Forward,Juventus,Italian Serie A,72.0,55,25,SRB
 Loïs Openda,J3,AM,Forward,Juventus,Italian Serie A,18.0,69,25,BEL
 Kenan Yıldız,J3,AM,Forward,Juventus,Italian Serie A,90.0,89,20,TUR
@@ -14196,6 +15906,35 @@ Elif Elmas,J5,CM,Midfielder,Napoli,Italian Serie A,18.0,74,26,MKD
 Noa Lang,J5,LM,Midfielder,Napoli,Italian Serie A,13.0,69,26,NED
 Lorenzo Lucca,J5,AM,Forward,Napoli,Italian Serie A,17.0,57,25,ITA
 David Neres,J5,RM,Midfielder,Napoli,Italian Serie A,17.0,64,28,BRA
+Jean-Philippe Krasso,0,AM,Forward,0,0,72.0,75,28,CIV
+Willem Geubbels,0,AM,Forward,0,0,18.0,72,24,FRA
+Moses Simon,0,LM,Midfielder,0,0,79.0,67,30,NGA
+Mathieu Cafaro,0,LM,Midfielder,0,0,11.0,57,28,FRA
+Pierre Lees-Melou,0,CM,Midfielder,0,0,86.0,66,32,FRA
+Tuomas Ollila,0,LB,Defender,0,0,4.0,59,25,FIN
+Maxime Lopez,0,CM,Midfielder,0,0,90.0,81,27,FRA
+Ilan Kebbal,0,RM,Midfielder,0,0,90.0,88,27,ALG
+Thibault De Smet,0,LB,Defender,0,0,86.0,65,27,BEL
+Nouha Dicko,0,AM,Forward,0,0,4.0,57,33,MLI
+Otavio Ataide,0,CB,Defender,0,0,90.0,65,23,BRA
+Adama Camara,0,CB,Defender,0,0,86.0,63,29,FRA
+Vincent Marchetti,0,CM,Midfielder,0,0,4.0,60,28,FRA
+Moustapha Mbow,0,CB,Defender,0,0,90.0,63,25,SEN
+Samir Chergui,0,RB,Defender,0,0,90.0,60,26,ALG
+Mohamed Meité,0,AM,Forward,0,0,65.0,70,18,FRA
+Breel Embolo,0,AM,Forward,0,0,25.0,69,28,SUI
+Esteban Lepaul,0,AM,Forward,0,0,82.0,62,25,FRA
+Seko Fofana,0,AM,Forward,0,0,8.0,49,30,CIV
+Djaoui Cissé,0,CM,Midfielder,0,0,65.0,73,21,FRA
+Ludovic Blas,0,CM,Midfielder,0,0,25.0,68,27,FRA
+Valentin Rongier,0,CM,Midfielder,0,0,90.0,87,30,FRA
+Mahdi Camara,0,CM,Midfielder,0,0,90.0,77,27,FRA
+Musa Al-Taamari,0,WB,Midfielder,0,0,89.0,61,28,JOR
+Przemysław Frankowski,0,WB,Midfielder,0,0,1.0,44,30,POL
+Quentin Merlin,0,WB,Midfielder,0,0,90.0,83,23,FRA
+Lilian Brassier,0,CB,Defender,0,0,90.0,73,26,FRA
+Anthony Rouault,0,CB,Defender,0,0,90.0,70,24,FRA
+Jérémy Jacquet,0,CB,Defender,0,0,90.0,69,20,FRA
 Mateo Pellegrino,J5,AM,Forward,Parma,Italian Serie A,90.0,83,24,ARG
 Patrick Cutrone,J5,AM,Forward,Parma,Italian Serie A,81.0,61,27,ITA
 Gaetano Oristanio,J5,AM,Forward,Parma,Italian Serie A,58.0,59,23,ITA
@@ -17480,6 +19219,35 @@ Bernardo,J9,CB,Defender,Hoffenheim,German Bundesliga,90.0,66,30,BRA
 Albian Hajdari,J9,CB,Defender,Hoffenheim,German Bundesliga,45.0,79,22,KVX
 Ozan Kabak,J9,CB,Defender,Hoffenheim,German Bundesliga,45.0,62,25,TUR
 Robin Hranáč,J9,CB,Defender,Hoffenheim,German Bundesliga,90.0,65,25,CZE
+Keke Topp,0,AM,Forward,0,0,64.0,62,21,GER
+Samuel Mbangula,0,LW,Forward,0,0,26.0,76,21,BEL
+Marco Grüll,0,LW,Forward,0,0,85.0,89,27,AUT
+Leonardo Bittencourt,0,DM,Midfielder,0,0,5.0,63,31,GER
+Justin Njinmah,0,RW,Forward,0,0,65.0,70,24,GER
+Victor Boniface,0,AM,Forward,0,0,25.0,92,24,NGA
+Romano Schmid,0,AM,Forward,0,0,90.0,87,25,AUT
+Senne Lynen,0,DM,Midfielder,0,0,85.0,78,26,BEL
+Cameron Puertas,0,RW,Forward,0,0,5.0,64,27,SUI
+Jens Stage,0,DM,Midfielder,0,0,90.0,84,28,DEN
+Marco Friedl,0,LB,Defender,0,0,90.0,70,27,AUT
+Abdoul Coulibaly,0,CB,Defender,0,0,79.0,60,18,GER
+Isaac Schmidt,0,LB,Defender,0,0,11.0,72,25,SUI
+Amos Pieper,0,CB,Defender,0,0,90.0,80,27,GER
+Yukinari Sugawara,0,RB,Defender,0,0,90.0,69,25,JPN
+Mohamed Amoura,0,AM,Forward,0,0,79.0,51,25,ALG
+Jonas Wind,0,AM,Forward,0,0,11.0,48,26,DEN
+Mattias Svanberg,0,LW,Forward,0,0,66.0,82,26,SWE
+Patrick Wimmer,0,LW,Forward,0,0,24.0,49,24,AUT
+Adam Daghim,0,RW,Forward,0,0,86.0,69,20,DEN
+Andreas Skov Olsen,0,RW,Forward,0,0,4.0,57,25,DEN
+Christian Eriksen,0,AM,Forward,0,0,86.0,76,33,DEN
+Dženan Pejčinović,0,AM,Forward,0,0,4.0,55,20,GER
+Vinicius Souza,0,DM,Midfielder,0,0,90.0,73,26,BRA
+Maximilian Arnold,0,DM,Midfielder,0,0,90.0,58,31,GER
+Aaron Zehnter,0,LB,Defender,0,0,90.0,78,21,GER
+Moritz Jenz,0,CB,Defender,0,0,90.0,62,26,GER
+Jenson Seelt,0,CB,Defender,0,0,90.0,64,22,NED
+Sael Kumbedi,0,RB,Defender,0,0,90.0,74,20,FRA
 Andrea Pinamonti,J8,AM,Forward,Sassuolo,Italian Serie A,90.0,71,26,ITA
 Alieu Fadera,J8,LW,Forward,Sassuolo,Italian Serie A,80.0,70,23,GAM
 Walid Cheddira,J8,LW,Forward,Sassuolo,Italian Serie A,10.0,53,27,MAR
@@ -18183,6 +19951,36 @@ Mario Hermoso,J10,CB,Defender,Roma,Italian Serie A,83.0,58,30,ESP
 Kostas Tsimikas,J10,LB,Defender,Roma,Italian Serie A,7.0,48,29,GRE
 Obite N'Dicka,J10,CB,Defender,Roma,Italian Serie A,90.0,69,26,CIV
 Gianluca Mancini,J10,CB,Defender,Roma,Italian Serie A,90.0,76,29,ITA
+Andrea Pinamonti,0,AM,Forward,0,0,85.0,63,26,ITA
+Luca Moro,0,AM,Forward,0,0,5.0,59,24,ITA
+Armand Lauriente,0,LW,Forward,0,0,63.0,86,26,FRA
+Alieu Fadera,0,LW,Forward,0,0,27.0,59,24,GAM
+Domenico Berardi,0,RW,Forward,0,0,77.0,70,31,ITA
+Walid Cheddira,0,RW,Forward,0,0,13.0,48,27,MAR
+Kristian Thorstvedt,0,LM,Midfielder,0,0,90.0,69,26,NOR
+Nemanja Matić,0,CM,Midfielder,0,0,90.0,86,37,SRB
+Ismaël Koné,0,RM,Midfielder,0,0,63.0,76,23,CAN
+Aster Vranckx,0,RM,Midfielder,0,0,27.0,63,23,BEL
+Josh Doig,0,LB,Defender,0,0,77.0,74,23,SCO
+Woyo Coulibaly,0,LB,Defender,0,0,13.0,55,26,MLI
+Tarik Muharemovic,0,CB,Defender,0,0,90.0,72,22,BIH
+Jay Idzes,0,CB,Defender,0,0,90.0,61,25,IDN
+Sebastian Walukiewicz,0,RB,Defender,0,0,90.0,71,25,POL
+Lorenzo Colombo,0,AM,Forward,0,0,67.0,70,23,ITA
+Caleb Ekuban,0,AM,Forward,0,0,23.0,73,31,GHA
+Vitinha,0,AM,Forward,0,0,58.0,78,25,POR
+Junior Messias,0,AM,Forward,0,0,32.0,81,34,BRA
+Morten Thorsby,0,CM,Midfielder,0,0,84.0,56,29,NOR
+Albert Grønbaek,0,CM,Midfielder,0,0,6.0,77,24,DEN
+Morten Frendrup,0,CM,Midfielder,0,0,90.0,77,24,DEN
+Ruslan Malinovskyi,0,CM,Midfielder,0,0,58.0,87,32,UKR
+Patrizio Masini,0,CM,Midfielder,0,0,32.0,75,24,ITA
+Aarón Martín,0,WB,Midfielder,0,0,90.0,78,28,ESP
+Brooke Norton-Cuffy,0,WB,Midfielder,0,0,90.0,75,21,ENG
+Johan Vásquez,0,CB,Defender,0,0,90.0,64,27,MEX
+Leo Skiri Østigård,0,CB,Defender,0,0,90.0,68,25,NOR
+Alessandro Marcandalli,0,CB,Defender,0,0,67.0,38,23,ITA
+Mikael Ellertsson,0,WB,Midfielder,0,0,23.0,50,23,ISL
 Hugo Ekitike,J1,AM,Forward,Liverpool,English Premier League,71.0,100,23,FRA
 Joe Gomez,J1,RB,Defender,Liverpool,English Premier League,19.0,64,28,ENG
 Cody Gakpo,J1,LW,Forward,Liverpool,English Premier League,90.0,100,26,NED
@@ -18345,7 +20143,7 @@ Omar Marmoush,J1,LW,Forward,Manchester City,English Premier League,25.0,72,26,EG
 Oscar Bobb,J1,RW,Forward,Manchester City,English Premier League,90.0,93,22,NOR
 Bernardo Silva,J1,LM,Midfielder,Manchester City,English Premier League,65.0,91,31,POR
 Nico O’Reilly,J1,LM,Midfielder,Manchester City,English Premier League,25.0,66,20,ENG
-Nicolás González,J1,CM,Midfielder,Manchester City,English Premier League,90.0,88,23,ESP
+Nico González,J1,CM,Midfielder,Manchester City,English Premier League,90.0,88,23,ESP
 Tijjani Reijnders,J1,RM,Midfielder,Manchester City,English Premier League,90.0,92,27,NED
 Rayan Aït-Nouri,J1,LB,Defender,Manchester City,English Premier League,90.0,99,24,ALG
 Rúben Dias,J1,CB,Defender,Manchester City,English Premier League,90.0,79,28,POR
