@@ -47,6 +47,8 @@ Leeds United,English Premier League,J3,43%,348 of 449 — 78%,1 of 10 — 10
 Newcastle Utd,English Premier League,J3,57%,83% — 491 of 592,25% — 2 of 8,100% — 1 of 1
 Brighton,English Premier League,J3,37%,251 of 340 — 74%,6 of 11 — 55%,2 of 3 — 66%
 Manchester City,English Premier League,J3,63%,87% — 513 of 589,25% — 3 of 12,83% — 5 of 6
+Lecce,Italian Serie A,J11,60%,318 of 457 — 70%,6 of 11 — 55%,2 of 2 — 100%
+Hellas Verona,Italian Serie A,J11,40%,64% — 197 of 307,40% — 2 of 5,100% — 6 of 6
 Nott'ham Forest,English Premier League,J3,58%,491 of 596 — 82%,3 of 11 — 27%,5 of 7 — 71%
 West Ham,English Premier League,J3,42%,81% — 344 of 425,64% — 7 of 11,100% — 3 of 3
 Liverpool,English Premier League,J3,53%,386 of 465 — 83%,3 of 9 — 33%,1 of 1 — 100%
@@ -67,6 +69,8 @@ Bournemouth,English Premier League,J4,51%,330 of 434 — 76%,4 of 12 — 33%
 Brighton,English Premier League,J4,49%,76% — 314 of 415,33% — 2 of 6,75% — 3 of 4
 West Ham,English Premier League,J4,36%,262 of 340 — 77%,4 of 7 — 57%,2 of 5 — 40%
 Tottenham,English Premier League,J4,64%,83% — 493 of 595,36% — 5 of 14,100% — 4 of 4
+Como,Italian Serie A,J11,74%,586 of 686 — 85%,6 of 10 — 60%,2 of 2 — 100%
+Cagliari,Italian Serie A,J11,26%,67% — 165 of 246,50% — 2 of 4,100% — 6 of 6
 Brentford,English Premier League,J4,34%,236 of 324 — 73%,4 of 7 — 57%,4 of 6 — 66%
 Chelsea,English Premier League,J4,66%,88% — 543 of 617,38% — 6 of 16,50% — 2 of 4
 Burnley,English Premier League,J4,20%,88 of 187 — 47%,0 of 3 — 0%,3 of 3 — 100%
@@ -87,6 +91,8 @@ Manchester Utd,English Premier League,J5,42%,314 of 418 — 75%,4 of 11 — 
 Chelsea,English Premier League,J5,58%,83% — 477 of 576,20% — 1 of 5,50% — 2 of 4
 Fulham,English Premier League,J5,52%,400 of 485 — 82%,3 of 14 — 21%,2 of 3 — 66%
 Brentford,English Premier League,J5,48%,77% — 338 of 440,38% — 3 of 8,33% — 1 of 3
+Juventus,Italian Serie A,J11,72%,718 of 821 — 87%,6 of 21 — 29%,3 of 3 — 100%
+Torino,Italian Serie A,J11,28%,75% — 235 of 315,38% — 3 of 8,100% — 6 of 6
 Sunderland,English Premier League,J5,29%,164 of 247 — 66%,4 of 14 — 29%,1 of 2 — 50%
 Aston Villa,English Premier League,J5,71%,86% — 513 of 599,17% — 2 of 12,75% — 3 of 4
 Bournemouth,English Premier League,J5,55%,429 of 547 — 78%,2 of 11 — 18%,1 of 1 — 100%
@@ -107,6 +113,8 @@ Nott'ham Forest,English Premier League,J6,65%,555 of 646 — 86%,6 of 22 —�
 Sunderland,English Premier League,J6,35%,77% — 273 of 355,27% — 3 of 11,100% — 6 of 6
 Tottenham,English Premier League,J6,51%,358 of 461 — 78%,3 of 10 — 30%,2 of 3 — 66%
 Wolves,English Premier League,J6,49%,80% — 349 of 438,33% — 3 of 9,66% — 2 of 3
+Parma,Italian Serie A,J11,44%,376 of 459 — 82%,4 of 14 — 29%,3 of 4 — 75%
+Milan,Italian Serie A,J11,56%,86% — 513 of 596,50% — 4 of 8,50% — 2 of 4
 Aston Villa,English Premier League,J6,48%,355 of 431 — 82%,4 of 9 — 44%,2 of 3 — 66%
 Fulham,English Premier League,J6,52%,81% — 380 of 470,27% — 3 of 11,25% — 1 of 4
 Newcastle Utd,English Premier League,J6,37%,214 of 324 — 66%,3 of 8 — 38%,5 of 7 — 71%
@@ -193,6 +201,16 @@ Manchester City,English Premier League,J10,49%,449 of 532 — 84%,7 of 15 —
 Bournemouth,English Premier League,J10,51%,85% — 473 of 557,63% — 5 of 8,57% — 4 of 7
 Sunderland,English Premier League,J10,60%,468 of 573 — 82%,3 of 17 — 18%,1 of 2 — 50%
 Everton,English Premier League,J10,40%,74% — 283 of 380,25% — 2 of 8,66% — 2 of 3
+Tottenham,English Premier League,J11,54%,411 of 517 — 79%,4 of 10 — 40%,0 of 2 — 0%
+Manchester Utd,English Premier League,J11,46%,75% — 329 of 437,40% — 2 of 5,50% — 2 of 4
+West Ham,English Premier League,J11,43%,321 of 409 — 78%,6 of 15 — 40%,5 of 7 — 71%
+Burnley,English Premier League,J11,57%,83% — 453 of 547,44% — 7 of 16,50% — 3 of 6
+Everton,English Premier League,J11,51%,362 of 453 — 80%,5 of 14 — 36%,4 of 4 — 100%
+Fulham,English Premier League,J11,49%,81% — 352 of 435,50% — 4 of 8,60% — 3 of 5
+Sunderland,English Premier League,J11,36%,233 of 317 — 74%,2 of 6 — 33%,5 of 7 — 71%
+Arsenal,English Premier League,J11,64%,84% — 480 of 570,41% — 7 of 17,0% — 0 of 2
+Chelsea,English Premier League,J11,64%,560 of 651 — 86%,8 of 20 — 40%,0 of 0 — %
+Wolves,English Premier League,J11,36%,80% — 296 of 371,0% — 0 of 3,62% — 5 of 8
 Cremonese,Italian Serie A,J2,43%,301 of 408 — 74%,5 of 10 — 50%,4 of 5 — 80%
 Sassuolo,Italian Serie A,J2,57%,83% — 450 of 541,63% — 5 of 8,60% — 3 of 5
 Lecce,Italian Serie A,J2,45%,351 of 424 — 83%,2 of 7 — 29%,4 of 6 — 66%
@@ -423,6 +441,14 @@ Oviedo,Spanish La Liga,J11,52%,361 of 447 — 81%,2 of 8 — 25%,5 of 5 —
 Osasuna,Spanish La Liga,J11,48%,83% — 338 of 409,45% — 5 of 11,100% — 2 of 2
 Elche,Spanish La Liga,J12,62%,530 of 617 — 86%,3 of 12 — 25%,4 of 4 — 100%
 Real Sociedad,Spanish La Liga,J12,38%,74% — 276 of 372,33% — 4 of 12,66% — 2 of 3
+Girona,Spanish La Liga,J12,52%,464 of 546 — 85%,2 of 10 — 20%,5 of 5 — 100%
+Alavés,Spanish La Liga,J12,48%,82% — 422 of 514,36% — 5 of 14,50% — 1 of 2
+Sevilla,Spanish La Liga,J12,48%,277 of 367 — 75%,3 of 9 — 33%,3 of 3 — 100%
+Osasuna,Spanish La Liga,J12,52%,77% — 301 of 391,33% — 3 of 9,100% — 3 of 3
+Atlético Madrid,Spanish La Liga,J12,74%,599 of 700 — 86%,10 of 25 — 40%,2 of 3 — 66%
+Levante,Spanish La Liga,J12,26%,70% — 174 of 249,50% — 3 of 6,80% — 8 of 10
+Espanyol,Spanish La Liga,J12,55%,527 of 632 — 83%,3 of 14 — 21%,1 of 3 — 33%
+Villarreal,Spanish La Liga,J12,45%,85% — 439 of 517,33% — 3 of 9,100% — 3 of 3
 Napoli,Italian Serie A,J2,68%,587 of 684 — 86%,6 of 20 — 30%,1 of 1 — 100%
 Cagliari,Italian Serie A,J2,32%,81% — 266 of 327,10% — 1 of 10,83% — 5 of 6
 Pisa,Italian Serie A,J2,32%,197 of 299 — 66%,3 of 7 — 43%,4 of 5 — 80%
@@ -1093,6 +1119,12 @@ Milan,Italian Serie A,J5,37%,308 of 374 — 82%,3 of 6 — 50%,6 of 6 — 
 Napoli,Italian Serie A,J5,63%,88% — 570 of 649,33% — 6 of 18,33% — 1 of 3
 Paris FC,French Ligue 1,J12,52%,386 of 486 — 79%,4 of 20 — 20%,2 of 3 — 66%
 Rennes,French Ligue 1,J12,48%,79% — 353 of 449,30% — 3 of 10,100% — 4 of 4
+Marseille,French Ligue 1,J12,63%,621 of 689 — 90%,6 of 18 — 33%,2 of 2 — 100%
+Brest,French Ligue 1,J12,37%,80% — 324 of 406,50% — 2 of 4,66% — 4 of 6
+Le Havre,French Ligue 1,J12,64%,431 of 541 — 80%,4 of 17 — 24%,1 of 2 — 50%
+Nantes,French Ligue 1,J12,36%,68% — 207 of 303,40% — 2 of 5,75% — 3 of 4
+Monaco,French Ligue 1,J12,50%,413 of 503 — 82%,4 of 14 — 29%,7 of 11 — 63%
+Lens,French Ligue 1,J12,50%,84% — 417 of 496,55% — 11 of 20,100% — 4 of 4
 Parma,Italian Serie A,J5,37%,210 of 297 — 71%,1 of 12 — 8%,3 of 4 — 75%
 Torino,Italian Serie A,J5,63%,79% — 393 of 496,27% — 4 of 15,0% — 0 of 1
 Cagliari,Italian Serie A,J1,45%,317 of 393 — 81%,5 of 14 — 36%,0 of 1 — 0%
@@ -1319,8 +1351,18 @@ Wolfsburg,German Bundesliga,J9,48%,384 of 484 — 79%,6 of 12 — 50%,1 of 4
 Hoffenheim,German Bundesliga,J9,52%,79% — 405 of 515,40% — 4 of 10,66% — 4 of 6
 Werder Bremen,German Bundesliga,J10,60%,529 of 644 — 82%,7 of 20 — 35%,3 of 4 — 75%
 Wolfsburg,German Bundesliga,J10,40%,77% — 334 of 434,57% — 4 of 7,71% — 5 of 7
+Union Berlin,German Bundesliga,J10,27%,184 of 297 — 62%,4 of 12 — 33%,2 of 4 — 50%
+Bayern Munich,German Bundesliga,J10,73%,86% — 691 of 801,33% — 4 of 12,50% — 2 of 4
 Sassuolo,Italian Serie A,J8,41%,274 of 370 — 74%,1 of 11 — 9%,7 of 8 — 87%
 Roma,Italian Serie A,J8,59%,79% — 417 of 525,53% — 8 of 15,100% — 1 of 1
+Hoffenheim,German Bundesliga,J10,49%,384 of 502 — 76%,4 of 12 — 33%,4 of 5 — 80%
+RB Leipzig,German Bundesliga,J10,51%,80% — 409 of 514,29% — 5 of 17,25% — 1 of 4
+Hamburger SV,German Bundesliga,J10,46%,346 of 445 — 78%,3 of 8 — 38%,0 of 1 — 0%
+Dortmund,German Bundesliga,J10,54%,82% — 436 of 530,6% — 1 of 17,66% — 2 of 3
+Leverkusen,German Bundesliga,J10,73%,886 of 957 — 93%,10 of 25 — 40%,0 of 0 — %
+Heidenheim,German Bundesliga,J10,27%,80% — 277 of 347,0% — 0 of 1,40% — 4 of 10
+Gladbach,German Bundesliga,J10,36%,295 of 372 — 79%,2 of 7 — 29%,4 of 4 — 100%
+Köln,German Bundesliga,J10,64%,84% — 550 of 654,22% — 4 of 18,0% — 0 of 2
 Hellas Verona,Italian Serie A,J8,38%,267 of 386 — 69%,6 of 10 — 60%,1 of 3 — 33%
 Cagliari,Italian Serie A,J8,62%,83% — 532 of 641,43% — 3 of 7,66% — 4 of 6
 Fiorentina,Italian Serie A,J8,50%,278 of 373 — 75%,4 of 17 — 24%,1 of 3 — 33%
