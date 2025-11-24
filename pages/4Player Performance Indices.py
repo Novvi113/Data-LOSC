@@ -4,7 +4,7 @@ import os
 
 # ---------------- Stats ----------------
 def get_player_stats():
-    return ["Offensive Index", "Passing Index", "Possession Index", "Defensive Index"]
+    return ["Global Index", "Shouting Index", "Creation Index", "Passing Index", "Possession Index", "Defense Index"]
 
 def get_goalkeeper_stats():
     return ["Line Index", "Passes Index"]
