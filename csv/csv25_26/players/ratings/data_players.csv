@@ -3639,6 +3639,34 @@ Micky van de Ven,J12,CB,Defender,Tottenham,English Premier League,90.0,3.7,24,NE
 Cristian Romero,J12,CB,Defender,Tottenham,English Premier League,90.0,5.0,27,ARG
 Kevin Danso,J12,CB,Defender,Tottenham,English Premier League,45.0,4.9,27,AUT
 Xavi Simons,J12,AM,Forward,Tottenham,English Premier League,45.0,4.6,22,NED
+Joshua Zirkzee,J12,AM,Forward,Manchester Utd,English Premier League,90.0,5.7,24,NED
+Amad Diallo,J12,WB,Midfielder,Manchester Utd,English Premier League,90.0,5.7,23,CIV
+Bryan Mbeumo,J12,AM,Forward,Manchester Utd,English Premier League,90.0,6.7,26,CMR
+Casemiro,J12,CM,Midfielder,Manchester Utd,English Premier League,57.0,5.8,33,BRA
+Kobbie Mainoo,J12,CM,Midfielder,Manchester Utd,English Premier League,33.0,4.0,20,ENG
+Bruno Fernandes,J12,CM,Midfielder,Manchester Utd,English Premier League,90.0,6.8,31,POR
+Patrick Dorgu,J12,WB,Midfielder,Manchester Utd,English Premier League,57.0,4.9,21,DEN
+Diogo Dalot,J12,WB,Midfielder,Manchester Utd,English Premier League,33.0,6.4,26,POR
+Noussair Mazraoui,J12,WB,Midfielder,Manchester Utd,English Premier League,45.0,3.6,28,MAR
+Mason Mount,J12,AM,Forward,Manchester Utd,English Premier League,45.0,6.1,26,ENG
+Luke Shaw,J12,CB,Defender,Manchester Utd,English Premier League,90.0,6.0,30,ENG
+Matthijs de Ligt,J12,CB,Defender,Manchester Utd,English Premier League,90.0,4.9,26,NED
+Leny Yoro,J12,CB,Defender,Manchester Utd,English Premier League,90.0,4.9,20,FRA
+Thierno Barry,J12,AM,Forward,Everton,English Premier League,80.0,2.4,23,FRA
+Tim Iroegbunam,J12,RM,Midfielder,Everton,English Premier League,10.0,4.3,22,ENG
+Jack Grealish,J12,LM,Midfielder,Everton,English Premier League,86.0,4.9,30,ENG
+Dwight McNeil,J12,LM,Midfielder,Everton,English Premier League,4.0,1.2,26,ENG
+Iliman Ndiaye,J12,RM,Midfielder,Everton,English Premier League,80.0,4.1,25,SEN
+Beto,J12,AM,Forward,Everton,English Premier League,10.0,0.7,27,GNB
+Kiernan Dewsbury-Hall,J12,CM,Midfielder,Everton,English Premier League,87.0,5.8,27,ENG
+Carlos Alcaraz,J12,CM,Midfielder,Everton,English Premier League,3.0,3.1,22,ARG
+Idrissa Gana Gueye,J12,DM,Midfielder,Everton,English Premier League,12.0,4.7,36,SEN
+James Garner,J12,CM,Midfielder,Everton,English Premier League,90.0,3.6,24,ENG
+Vitaliy Mykolenko,J12,LB,Defender,Everton,English Premier League,90.0,4.8,26,UKR
+Michael Keane,J12,CB,Defender,Everton,English Premier League,90.0,3.9,32,ENG
+James Tarkowski,J12,CB,Defender,Everton,English Premier League,90.0,3.3,33,ENG
+Séamus Coleman,J12,RB,Defender,Everton,English Premier League,9.0,3.8,37,IRL
+Jake O'Brien,J12,RB,Defender,Everton,English Premier League,81.0,4.5,24,IRL
 Keinan Davis,J12,AM,Forward,Udinese,Italian Serie A,62.0,2.4,27,ENG
 Adam Buksa,J12,AM,Forward,Udinese,Italian Serie A,28.0,1.3,29,POL
 Nicolò Zaniolo,J12,AM,Forward,Udinese,Italian Serie A,63.0,5.0,26,ITA
@@ -3844,6 +3872,36 @@ Alexis Saelemaekers,J12,WB,Midfielder,Milan,Italian Serie A,90.0,5.5,26,BEL
 Strahinja Pavlović,J12,CB,Defender,Milan,Italian Serie A,90.0,4.7,24,SRB
 Matteo Gabbia,J12,CB,Defender,Milan,Italian Serie A,90.0,3.3,26,ITA
 Fikayo Tomori,J12,CB,Defender,Milan,Italian Serie A,90.0,5.1,27,ENG
+Duván Zapata,J12,AM,Forward,Torino,Italian Serie A,77.0,4.7,34,COL
+Alieu Njie,J12,AM,Forward,Torino,Italian Serie A,13.0,3.6,20,SWE
+Cyril Ngonge,J12,AM,Forward,Torino,Italian Serie A,65.0,2.8,25,BEL
+Zakaria Aboukhlal,J12,AM,Forward,Torino,Italian Serie A,25.0,1.1,25,MAR
+Nikola Vlašić,J12,CM,Midfielder,Torino,Italian Serie A,77.0,4.7,28,CRO
+Gvidas Gineitis,J12,CM,Midfielder,Torino,Italian Serie A,13.0,7.0,21,LTU
+Kristjan Asllani,J12,CM,Midfielder,Torino,Italian Serie A,90.0,5.8,23,ALB
+Cesare Casadei,J12,CM,Midfielder,Torino,Italian Serie A,65.0,4.8,22,ITA
+Faustino Anjorin,J12,CM,Midfielder,Torino,Italian Serie A,25.0,2.9,24,ENG
+Valentino Lazaro,J12,WB,Midfielder,Torino,Italian Serie A,90.0,3.3,29,AUT
+Marcus Pedersen,J12,WB,Midfielder,Torino,Italian Serie A,60.0,4.5,25,NOR
+Niels Nkounkou,J12,WB,Midfielder,Torino,Italian Serie A,30.0,2.4,25,FRA
+Adam Masina,J12,CB,Defender,Torino,Italian Serie A,90.0,4.2,31,MAR
+Guillermo Maripán,J12,CB,Defender,Torino,Italian Serie A,90.0,3.6,31,CHI
+Adrien Tameze,J12,CB,Defender,Torino,Italian Serie A,90.0,4.9,31,CMR
+Álvaro Morata,J12,AM,Forward,Como,Italian Serie A,74.0,5.8,33,ESP
+Anastasios Douvikas,J12,AM,Forward,Como,Italian Serie A,16.0,3.2,26,GRE
+Jesus Rodríguez,J12,LW,Forward,Como,Italian Serie A,74.0,7.7,20,ESP
+Marc-Oliver Kempf,J12,CB,Defender,Como,Italian Serie A,16.0,2.8,30,GER
+Jayden Addai,J12,RW,Forward,Como,Italian Serie A,90.0,5.8,20,NED
+Nicolás Paz,J12,AM,Forward,Como,Italian Serie A,83.0,9.1,21,ARG
+Martin Baturina,J12,LW,Forward,Como,Italian Serie A,7.0,5.0,22,CRO
+Máximo Perrone,J12,DM,Midfielder,Como,Italian Serie A,83.0,6.1,22,ARG
+Stefan Posch,J12,CM,Midfielder,Como,Italian Serie A,7.0,2.5,28,AUT
+Lucas Da Cunha,J12,DM,Midfielder,Como,Italian Serie A,90.0,4.9,24,FRA
+Álex Valle,J12,LB,Defender,Como,Italian Serie A,90.0,5.7,21,ESP
+Diego Carlos,J12,CB,Defender,Como,Italian Serie A,90.0,5.8,32,BRA
+Jacobo Ramón,J12,CB,Defender,Como,Italian Serie A,90.0,6.7,20,ESP
+Ivan Smolčić,J12,RB,Defender,Como,Italian Serie A,57.0,3.8,25,CRO
+Mërgim Vojvoda,J12,RB,Defender,Como,Italian Serie A,33.0,3.4,30,KVX
 Francesco Camarda,J2,AM,Forward,Lecce,Italian Serie A,45.0,0.6,17,ITA
 Nikola Štulić,J2,AM,Forward,Lecce,Italian Serie A,45.0,4.3,23,SRB
 Tete Morente,J2,LW,Forward,Lecce,Italian Serie A,80.0,4.4,28,ESP
@@ -3872,6 +3930,36 @@ Yunus Musah,J2,WB,Midfielder,Milan,Italian Serie A,90.0,4.5,22,USA
 Strahinja Pavlović,J2,CB,Defender,Milan,Italian Serie A,90.0,5.3,24,SRB
 Matteo Gabbia,J2,CB,Defender,Milan,Italian Serie A,90.0,2.9,25,ITA
 Fikayo Tomori,J2,CB,Defender,Milan,Italian Serie A,90.0,4.7,27,ENG
+Andrea Pinamonti,J12,AM,Forward,Sassuolo,Italian Serie A,90.0,3.6,26,ITA
+Alieu Fadera,J12,LW,Forward,Sassuolo,Italian Serie A,59.0,5.6,24,GAM
+Armand Lauriente,J12,LW,Forward,Sassuolo,Italian Serie A,31.0,7.8,26,FRA
+Domenico Berardi,J12,RW,Forward,Sassuolo,Italian Serie A,90.0,6.9,31,ITA
+Ismaël Koné,J12,LM,Midfielder,Sassuolo,Italian Serie A,71.0,5.9,23,CAN
+Luca Lipani,J12,RM,Midfielder,Sassuolo,Italian Serie A,19.0,4.3,20,ITA
+Nemanja Matić,J12,CM,Midfielder,Sassuolo,Italian Serie A,86.0,6.2,37,SRB
+Cristian Volpato,J12,RW,Forward,Sassuolo,Italian Serie A,4.0,6.2,22,ITA
+Kristian Thorstvedt,J12,RM,Midfielder,Sassuolo,Italian Serie A,90.0,7.1,26,NOR
+Fali Candé,J12,LB,Defender,Sassuolo,Italian Serie A,71.0,5.3,27,GNB
+Josh Doig,J12,LB,Defender,Sassuolo,Italian Serie A,19.0,3.6,23,SCO
+Tarik Muharemovic,J12,CB,Defender,Sassuolo,Italian Serie A,90.0,4.6,22,BIH
+Jay Idzes,J12,CB,Defender,Sassuolo,Italian Serie A,90.0,4.9,25,IDN
+Sebastian Walukiewicz,J12,RB,Defender,Sassuolo,Italian Serie A,45.0,4.7,25,POL
+Woyo Coulibaly,J12,RB,Defender,Sassuolo,Italian Serie A,45.0,4.0,26,MLI
+M'Bala Nzola,J12,AM,Forward,Pisa,Italian Serie A,56.0,4.0,29,ANG
+Henrik Meister,J12,AM,Forward,Pisa,Italian Serie A,34.0,6.1,22,DEN
+Mattéo Tramoni,J12,AM,Forward,Pisa,Italian Serie A,56.0,3.7,25,FRA
+Stefano Moreo,J12,AM,Forward,Pisa,Italian Serie A,34.0,5.4,32,ITA
+Mehdi Léris,J12,LM,Midfielder,Pisa,Italian Serie A,90.0,5.1,27,ALG
+Michel Aebischer,J12,CM,Midfielder,Pisa,Italian Serie A,81.0,1.5,28,SUI
+İsak Vural,J12,CM,Midfielder,Pisa,Italian Serie A,9.0,1.4,19,TUR
+Gabriele Piccinini,J12,CM,Midfielder,Pisa,Italian Serie A,90.0,2.3,24,ITA
+Idrissa Touré,J12,RM,Midfielder,Pisa,Italian Serie A,90.0,3.1,27,GER
+Samuele Angori,J12,LB,Defender,Pisa,Italian Serie A,70.0,3.3,22,ITA
+Malthe Hojholt,J12,CM,Midfielder,Pisa,Italian Serie A,20.0,2.4,24,DEN
+Simone Canestrelli,J12,CB,Defender,Pisa,Italian Serie A,90.0,3.7,25,ITA
+Antonio Caracciolo,J12,CB,Defender,Pisa,Italian Serie A,90.0,4.9,35,ITA
+Arturo Calabresi,J12,RB,Defender,Pisa,Italian Serie A,45.0,3.6,29,ITA
+Raúl Albiol,J12,CB,Defender,Pisa,Italian Serie A,45.0,5.2,40,ESP
 Mateo Pellegrino,J2,AM,Forward,Parma,Italian Serie A,90.0,1.9,24,ARG
 Oliver Jensen,J2,AM,Forward,Parma,Italian Serie A,80.0,2.8,23,DEN
 Patrick Cutrone,J2,AM,Forward,Parma,Italian Serie A,10.0,3.4,27,ITA
@@ -7761,6 +7849,36 @@ Trent Alexander-Arnold,J13,WB,Midfielder,Real Madrid,Spanish La Liga,90.0,7.1,27
 Brahim Díaz,J13,AM,Forward,Real Madrid,Spanish La Liga,3.0,1.7,26,MAR
 Dean Huijsen,J13,CB,Defender,Real Madrid,Spanish La Liga,90.0,6.0,20,ESP
 Raúl Asencio,J13,CB,Defender,Real Madrid,Spanish La Liga,90.0,5.0,22,ESP
+Kiké,J13,AM,Forward,Espanyol,Spanish La Liga,73.0,7.0,35,ESP
+Jofre,J13,AM,Forward,Espanyol,Spanish La Liga,17.0,2.9,24,ESP
+Pere Milla,J13,AM,Forward,Espanyol,Spanish La Liga,73.0,4.1,33,ESP
+Charles Pickel,J13,RM,Midfielder,Espanyol,Spanish La Liga,17.0,4.1,28,COD
+Ramón Terrats,J13,LM,Midfielder,Espanyol,Spanish La Liga,61.0,3.8,25,ESP
+Roberto Férnandez,J13,AM,Forward,Espanyol,Spanish La Liga,29.0,6.4,23,ESP
+Edu Expósito,J13,CM,Midfielder,Espanyol,Spanish La Liga,61.0,2.6,29,ESP
+Pol Lozano,J13,CM,Midfielder,Espanyol,Spanish La Liga,29.0,1.5,26,ESP
+Urko González,J13,CM,Midfielder,Espanyol,Spanish La Liga,90.0,4.2,24,ESP
+Tyrhys Dolan,J13,RM,Midfielder,Espanyol,Spanish La Liga,87.0,6.0,23,ENG
+Antoniu,J13,LW,Forward,Espanyol,Spanish La Liga,3.0,3.4,23,ESP
+Carlos Romero,J13,LB,Defender,Espanyol,Spanish La Liga,90.0,5.1,24,ESP
+Leandro Cabrera,J13,CB,Defender,Espanyol,Spanish La Liga,90.0,2.5,34,URU
+Fernando Calero,J13,CB,Defender,Espanyol,Spanish La Liga,90.0,3.6,30,ESP
+Omar El Hilali,J13,RB,Defender,Espanyol,Spanish La Liga,90.0,4.1,22,MAR
+Akor Adams,J13,AM,Forward,Sevilla,Spanish La Liga,90.0,3.9,25,NGA
+Ruben Vargas,J13,LW,Forward,Sevilla,Spanish La Liga,53.0,5.0,27,SUI
+Alfon,J13,LW,Forward,Sevilla,Spanish La Liga,37.0,6.0,26,ESP
+Adnan Januzaj,J13,RW,Forward,Sevilla,Spanish La Liga,33.0,6.5,30,BEL
+Chidera Ejuke,J13,RW,Forward,Sevilla,Spanish La Liga,57.0,8.7,27,NGA
+Peque,J13,AM,Forward,Sevilla,Spanish La Liga,70.0,7.3,23,ESP
+Alexis Sánchez,J13,AM,Forward,Sevilla,Spanish La Liga,20.0,4.8,36,CHI
+Batista Mendy,J13,DM,Midfielder,Sevilla,Spanish La Liga,70.0,4.0,25,FRA
+Nemanja Gudelj,J13,DM,Midfielder,Sevilla,Spanish La Liga,20.0,3.3,34,SRB
+Djibril Sow,J13,DM,Midfielder,Sevilla,Spanish La Liga,70.0,5.2,28,SUI
+Lucien Agoume,J13,DM,Midfielder,Sevilla,Spanish La Liga,20.0,3.2,23,FRA
+Gabriel Suazo,J13,LB,Defender,Sevilla,Spanish La Liga,90.0,6.4,28,CHI
+Marcão,J13,CB,Defender,Sevilla,Spanish La Liga,90.0,5.0,29,BRA
+Castrin,J13,CB,Defender,Sevilla,Spanish La Liga,90.0,5.2,22,ESP
+Juanlu Sánchez,J13,RB,Defender,Sevilla,Spanish La Liga,90.0,6.1,22,ESP
 Henrik Meister,J2,AM,Forward,Pisa,Italian Serie A,90.0,4.0,21,DEN
 Stefano Moreo,J2,AM,Forward,Pisa,Italian Serie A,64.0,1.4,32,ITA
 M'Bala Nzola,J2,AM,Forward,Pisa,Italian Serie A,26.0,4.9,29,ANG
@@ -9956,6 +10074,525 @@ Marc Cucurella,J4,LB,Defender,Chelsea,UEFA Champions League,90.0,5.3,27,ESP
 Jorrel Hato,J4,CB,Defender,Chelsea,UEFA Champions League,90.0,4.2,19,NED
 Tosin Adarabioyo,J4,CB,Defender,Chelsea,UEFA Champions League,90.0,5.6,28,ENG
 Reece James,J4,RB,Defender,Chelsea,UEFA Champions League,90.0,5.2,25,ENG
+Wout Weghorst,J5,AM,Forward,Ajax,UEFA Champions League,90.0,4.3,33,NED
+Mika Godts,J5,LM,Midfielder,Ajax,UEFA Champions League,74.0,3.9,20,BEL
+Kasper Dolberg,J5,AM,Forward,Ajax,UEFA Champions League,16.0,0.2,28,DEN
+Kenneth Taylor,J5,CM,Midfielder,Ajax,UEFA Champions League,90.0,6.2,23,NED
+Davy Klaassen,J5,CM,Midfielder,Ajax,UEFA Champions League,74.0,2.2,32,NED
+Kian Fitz-Jim,J5,CM,Midfielder,Ajax,UEFA Champions League,16.0,2.3,22,NED
+Rayane Bounida,J5,RM,Midfielder,Ajax,UEFA Champions League,73.0,6.8,19,BEL
+Oscar Gloukh,J5,CM,Midfielder,Ajax,UEFA Champions League,17.0,4.0,21,ISR
+Ko Itakura,J5,DM,Midfielder,Ajax,UEFA Champions League,90.0,3.8,28,JPN
+Owen Wijndal,J5,LB,Defender,Ajax,UEFA Champions League,59.0,5.2,25,NED
+Jorthy Mokio,J5,LB,Defender,Ajax,UEFA Champions League,31.0,5.8,17,BEL
+Youri Baas,J5,CB,Defender,Ajax,UEFA Champions League,90.0,6.6,22,NED
+Josip Šutalo,J5,CB,Defender,Ajax,UEFA Champions League,90.0,5.0,25,CRO
+Youri Regeer,J5,RB,Defender,Ajax,UEFA Champions League,82.0,4.3,22,NED
+Raúl Moro,J5,WB,Midfielder,Ajax,UEFA Champions League,8.0,0.6,22,ESP
+Vangelis Pavlidis,J5,AM,Forward,Benfica,UEFA Champions League,89.0,6.8,27,GRE
+Manuel Manu,J5,CM,Midfielder,Benfica,UEFA Champions League,1.0,2.0,24,POR
+Heorhiy Sudakov,J5,LW,Forward,Benfica,UEFA Champions League,80.0,6.1,23,UKR
+Tomás Araújo,J5,CB,Defender,Benfica,UEFA Champions League,10.0,1.8,23,POR
+Fredrik Aursnes,J5,RW,Forward,Benfica,UEFA Champions League,90.0,4.0,29,NOR
+Leandro Barreiro Martins,J5,AM,Forward,Benfica,UEFA Champions League,89.0,7.6,25,LUX
+Rodrigo Rego,J5,LM,Midfielder,Benfica,UEFA Champions League,1.0,0.2,20,POR
+Enzo Barrenechea,J5,DM,Midfielder,Benfica,UEFA Champions League,90.0,2.7,24,ARG
+Richard Ríos,J5,DM,Midfielder,Benfica,UEFA Champions League,90.0,3.9,25,COL
+Samuel Dahl,J5,LB,Defender,Benfica,UEFA Champions League,90.0,4.6,25,SWE
+Nicolás Otamendi,J5,CB,Defender,Benfica,UEFA Champions League,90.0,5.2,37,ARG
+António Silva,J5,CB,Defender,Benfica,UEFA Champions League,90.0,4.1,22,POR
+Amar Dedić,J5,RB,Defender,Benfica,UEFA Champions League,90.0,3.7,23,BIH
+Omar Marmoush,J5,AM,Forward,Manchester City,UEFA Champions League,64.0,2.8,26,EGY
+Erling Haaland,J5,AM,Forward,Manchester City,UEFA Champions League,26.0,4.7,25,NOR
+Sávio,J5,RW,Forward,Manchester City,UEFA Champions League,90.0,6.9,21,BRA
+Oscar Bobb,J5,RW,Forward,Manchester City,UEFA Champions League,45.0,5.5,22,NOR
+Jeremy Doku,J5,LW,Forward,Manchester City,UEFA Champions League,45.0,8.2,23,BEL
+Tijjani Reijnders,J5,LM,Midfielder,Manchester City,UEFA Champions League,90.0,6.7,27,NED
+Nico González,J5,CM,Midfielder,Manchester City,UEFA Champions League,90.0,5.3,23,ESP
+Rico Lewis,J5,RM,Midfielder,Manchester City,UEFA Champions League,45.0,2.7,21,ENG
+Phil Foden,J5,LM,Midfielder,Manchester City,UEFA Champions League,45.0,4.7,25,ENG
+Rayan Aït-Nouri,J5,LB,Defender,Manchester City,UEFA Champions League,45.0,5.3,24,ALG
+Nico O’Reilly,J5,LB,Defender,Manchester City,UEFA Champions League,45.0,3.9,20,ENG
+Nathan Aké,J5,CB,Defender,Manchester City,UEFA Champions League,90.0,5.6,30,NED
+John Stones,J5,CB,Defender,Manchester City,UEFA Champions League,90.0,3.6,31,ENG
+Abdukodir Khusanov,J5,RB,Defender,Manchester City,UEFA Champions League,64.0,7.9,21,UZB
+Rayan Cherki,J5,RM,Midfielder,Manchester City,UEFA Champions League,26.0,5.7,22,FRA
+Christian Kofane,J5,AM,Forward,Leverkusen,UEFA Champions League,82.0,2.7,19,CMR
+Nathan Tella,J5,RM,Midfielder,Leverkusen,UEFA Champions League,8.0,2.0,26,NGA
+Patrik Schick,J5,AM,Forward,Leverkusen,UEFA Champions League,90.0,3.2,29,CZE
+Malik Tillman,J5,CM,Midfielder,Leverkusen,UEFA Champions League,90.0,4.9,23,USA
+Aleix García,J5,CM,Midfielder,Leverkusen,UEFA Champions League,90.0,5.2,28,ESP
+Ibrahim Maza,J5,CM,Midfielder,Leverkusen,UEFA Champions League,90.0,5.4,20,ALG
+Álex Grimaldo,J5,LB,Defender,Leverkusen,UEFA Champions League,90.0,6.6,30,ESP
+Jeanuël Belocian,J5,CB,Defender,Leverkusen,UEFA Champions League,90.0,4.5,20,FRA
+Loïc Bade,J5,CB,Defender,Leverkusen,UEFA Champions League,90.0,5.2,25,FRA
+Jarell Quansah,J5,CB,Defender,Leverkusen,UEFA Champions League,90.0,5.1,22,ENG
+Ernest Poku,J5,RB,Defender,Leverkusen,UEFA Champions League,90.0,4.9,21,NED
+Pedro Neto,J5,AM,Forward,Chelsea,UEFA Champions League,74.0,8.4,25,POR
+Jamie Gittens,J5,LW,Forward,Chelsea,UEFA Champions League,16.0,3.1,21,ENG
+Alejandro Garnacho,J5,LW,Forward,Chelsea,UEFA Champions League,58.0,6.1,21,ARG
+Liam Delap,J5,AM,Forward,Chelsea,UEFA Champions League,32.0,4.7,22,ENG
+Estêvão Willian,J5,RW,Forward,Chelsea,UEFA Champions League,82.0,8.5,18,BRA
+Tyrique George,J5,RW,Forward,Chelsea,UEFA Champions League,8.0,1.3,19,ENG
+Enzo Fernández,J5,AM,Forward,Chelsea,UEFA Champions League,90.0,6.8,24,ARG
+Moisés Caicedo,J5,DM,Midfielder,Chelsea,UEFA Champions League,90.0,5.5,24,ECU
+Reece James,J5,DM,Midfielder,Chelsea,UEFA Champions League,81.0,6.5,25,ENG
+Joshua Acheampong,J5,RB,Defender,Chelsea,UEFA Champions League,9.0,3.1,19,ENG
+Marc Cucurella,J5,LB,Defender,Chelsea,UEFA Champions League,90.0,7.0,27,ESP
+Trevoh Chalobah,J5,CB,Defender,Chelsea,UEFA Champions League,90.0,3.9,26,ENG
+Wesley Fofana,J5,CB,Defender,Chelsea,UEFA Champions League,90.0,1.9,24,FRA
+Malo Gusto,J5,RB,Defender,Chelsea,UEFA Champions League,45.0,3.4,22,FRA
+Andrey Santos,J5,DM,Midfielder,Chelsea,UEFA Champions League,45.0,2.4,21,BRA
+Robert Lewandowski,J5,AM,Forward,Barcelona,UEFA Champions League,61.0,1.7,37,POL
+Raphinha,J5,LW,Forward,Barcelona,UEFA Champions League,29.0,1.7,28,BRA
+Ferrán Torres,J5,LW,Forward,Barcelona,UEFA Champions League,45.0,3.2,25,ESP
+Marcus Rashford,J5,AM,Forward,Barcelona,UEFA Champions League,45.0,2.2,28,ENG
+Lamine Yamal,J5,RW,Forward,Barcelona,UEFA Champions League,79.0,7.0,18,ESP
+Dani Olmo,J5,LW,Forward,Barcelona,UEFA Champions League,11.0,3.4,27,ESP
+Fermin López,J5,AM,Forward,Barcelona,UEFA Champions League,61.0,1.5,22,ESP
+Andreas Christensen,J5,DM,Midfielder,Barcelona,UEFA Champions League,29.0,4.0,29,DEN
+Frenkie de Jong,J5,DM,Midfielder,Barcelona,UEFA Champions League,90.0,3.7,28,NED
+Eric García,J5,CB,Defender,Barcelona,UEFA Champions League,90.0,2.4,24,ESP
+Alejandro Balde,J5,LB,Defender,Barcelona,UEFA Champions League,79.0,5.7,22,ESP
+Gerard Martín,J5,LB,Defender,Barcelona,UEFA Champions League,11.0,5.0,23,ESP
+Pau Cubarsí,J5,CB,Defender,Barcelona,UEFA Champions League,90.0,5.9,18,ESP
+Ronald Araújo,J5,CB,Defender,Barcelona,UEFA Champions League,43.0,3.3,26,URU
+Jules Koundé,J5,RB,Defender,Barcelona,UEFA Champions League,90.0,6.8,27,FRA
+Mauro Icardi,J5,AM,Forward,Galatasaray,UEFA Champions League,90.0,2.1,32,ARG
+Barış Alper Yılmaz,J5,LW,Forward,Galatasaray,UEFA Champions League,90.0,5.1,25,TUR
+Leroy Sané,J5,RW,Forward,Galatasaray,UEFA Champions League,90.0,5.5,29,GER
+Gabriel Sara,J5,LM,Midfielder,Galatasaray,UEFA Champions League,90.0,5.8,26,BRA
+Lucas Torreira,J5,CM,Midfielder,Galatasaray,UEFA Champions League,90.0,4.3,29,URU
+İlkay Gündoğan,J5,RM,Midfielder,Galatasaray,UEFA Champions League,90.0,3.8,35,GER
+Ismail Jakobs,J5,LB,Defender,Galatasaray,UEFA Champions League,52.0,7.0,26,SEN
+Arda Ünyay,J5,CB,Defender,Galatasaray,UEFA Champions League,36.0,4.5,18,TUR
+Abdülkerim Bardakcı,J5,CB,Defender,Galatasaray,UEFA Champions League,90.0,6.1,31,TUR
+Davinson Sánchez,J5,CB,Defender,Galatasaray,UEFA Champions League,90.0,5.9,29,COL
+Roland Sallai,J5,RB,Defender,Galatasaray,UEFA Champions League,90.0,5.6,28,HUN
+Promise David,J5,AM,Forward,Union SG,UEFA Champions League,57.0,3.3,24,CAN
+Kevin Rodríguez,J5,AM,Forward,Union SG,UEFA Champions League,33.0,4.9,25,ECU
+Raul Florucz,J5,AM,Forward,Union SG,UEFA Champions League,70.0,7.2,24,AUT
+Sofiane Boufal,J5,AM,Forward,Union SG,UEFA Champions League,20.0,2.5,32,MAR
+Anouar Ait El Hadj,J5,AM,Forward,Union SG,UEFA Champions League,70.0,5.3,23,BEL
+Rob Schoofs,J5,AM,Forward,Union SG,UEFA Champions League,20.0,4.0,31,BEL
+Kamiel Van De Perre,J5,CM,Midfielder,Union SG,UEFA Champions League,90.0,3.8,21,BEL
+Adem Zorgane,J5,CM,Midfielder,Union SG,UEFA Champions League,90.0,6.6,25,ALG
+Ousseynou Niang,J5,WB,Midfielder,Union SG,UEFA Champions League,89.0,4.9,24,SEN
+Fedde Leysen,J5,WB,Midfielder,Union SG,UEFA Champions League,1.0,1.1,22,BEL
+Anan Khalaili,J5,WB,Midfielder,Union SG,UEFA Champions League,90.0,6.1,21,ISR
+Ross Sykes,J5,CB,Defender,Union SG,UEFA Champions League,90.0,3.3,26,ENG
+Christian Burgess,J5,CB,Defender,Union SG,UEFA Champions League,90.0,2.7,34,ENG
+Kevin Mac Allister,J5,CB,Defender,Union SG,UEFA Champions League,90.0,5.3,28,ARG
+Serhou Guirassy,J5,AM,Forward,Dortmund,UEFA Champions League,67.0,6.9,29,GUI
+Fábio Silva,J5,AM,Forward,Dortmund,UEFA Champions League,23.0,6.9,23,POR
+Julian Brandt,J5,AM,Forward,Dortmund,UEFA Champions League,67.0,5.7,29,GER
+Carney Chukwuemeka,J5,AM,Forward,Dortmund,UEFA Champions League,23.0,3.0,22,ENG
+Karim Adeyemi,J5,AM,Forward,Dortmund,UEFA Champions League,90.0,8.4,23,GER
+Marcel Sabitzer,J5,CM,Midfielder,Dortmund,UEFA Champions League,76.0,3.6,31,AUT
+Jobe Bellingham,J5,CM,Midfielder,Dortmund,UEFA Champions League,14.0,2.6,20,ENG
+Felix Nmecha,J5,CM,Midfielder,Dortmund,UEFA Champions League,76.0,6.0,25,GER
+Pascal Groß,J5,CM,Midfielder,Dortmund,UEFA Champions League,14.0,2.9,34,GER
+Daniel Svensson,J5,WB,Midfielder,Dortmund,UEFA Champions League,90.0,4.3,23,SWE
+Yan Couto,J5,WB,Midfielder,Dortmund,UEFA Champions League,90.0,6.4,23,BRA
+Nico Schlotterbeck,J5,CB,Defender,Dortmund,UEFA Champions League,90.0,5.9,25,GER
+Waldemar Anton,J5,CB,Defender,Dortmund,UEFA Champions League,83.0,4.6,29,GER
+Emre Can,J5,CB,Defender,Dortmund,UEFA Champions League,7.0,3.5,31,GER
+Aaron Anselmino,J5,CB,Defender,Dortmund,UEFA Champions League,90.0,4.9,20,ARG
+Tani Oluwaseyi,J5,AM,Forward,Villarreal,UEFA Champions League,90.0,3.1,25,CAN
+Nicolas Pépé,J5,AM,Forward,Villarreal,UEFA Champions League,64.0,5.4,30,CIV
+Alberto Moleiro,J5,LM,Midfielder,Villarreal,UEFA Champions League,26.0,3.8,22,ESP
+Tajon Buchanan,J5,LM,Midfielder,Villarreal,UEFA Champions League,82.0,4.8,26,CAN
+Ilias Akhomach,J5,LM,Midfielder,Villarreal,UEFA Champions League,8.0,1.0,21,MAR
+Pape Gueye,J5,CM,Midfielder,Villarreal,UEFA Champions League,90.0,3.1,26,SEN
+Thomas Partey,J5,CM,Midfielder,Villarreal,UEFA Champions League,64.0,3.2,32,GHA
+Rafa Marín,J5,CB,Defender,Villarreal,UEFA Champions League,26.0,3.0,23,ESP
+Santi Comesaña,J5,RM,Midfielder,Villarreal,UEFA Champions League,73.0,4.4,29,ESP
+Daniel Parejo,J5,CM,Midfielder,Villarreal,UEFA Champions League,17.0,2.4,36,ESP
+Sergi Cardona,J5,LB,Defender,Villarreal,UEFA Champions League,90.0,6.4,26,ESP
+Renato Veiga,J5,CB,Defender,Villarreal,UEFA Champions League,90.0,3.7,22,POR
+Juan Foyth,J5,CB,Defender,Villarreal,UEFA Champions League,51.0,4.4,27,ARG
+Santiago Mouriño,J5,RB,Defender,Villarreal,UEFA Champions League,82.0,6.1,23,URU
+Pau Navarro,J5,RB,Defender,Villarreal,UEFA Champions League,8.0,1.6,20,ESP
+Tomáš Chorý,J5,AM,Forward,Slavia Prague,UEFA Champions League,90.0,4.0,30,CZE
+Youssoupha Sanyang,J5,LW,Forward,Slavia Prague,UEFA Champions League,54.0,1.0,20,SEN
+Vasil Kušej,J5,LW,Forward,Slavia Prague,UEFA Champions League,36.0,2.2,25,CZE
+David Doudera,J5,RW,Forward,Slavia Prague,UEFA Champions League,54.0,2.3,27,CZE
+Tomáš Holeš,J5,RB,Defender,Slavia Prague,UEFA Champions League,36.0,5.6,32,CZE
+Lukáš Provod,J5,AM,Forward,Slavia Prague,UEFA Champions League,90.0,5.2,29,CZE
+Christos Zafeiris,J5,DM,Midfielder,Slavia Prague,UEFA Champions League,78.0,2.6,22,GRE
+Mojmir Chytil,J5,RW,Forward,Slavia Prague,UEFA Champions League,12.0,2.4,26,CZE
+Michal Sadílek,J5,DM,Midfielder,Slavia Prague,UEFA Champions League,90.0,4.0,26,CZE
+Youssoupha Mbodji,J5,LB,Defender,Slavia Prague,UEFA Champions League,54.0,5.0,21,SEN
+Jan Bořil,J5,LB,Defender,Slavia Prague,UEFA Champions League,36.0,4.1,34,CZE
+Štěpán Chaloupek,J5,CB,Defender,Slavia Prague,UEFA Champions League,90.0,5.6,22,CZE
+David Zima,J5,CB,Defender,Slavia Prague,UEFA Champions League,90.0,2.9,25,CZE
+David Moses,J5,RB,Defender,Slavia Prague,UEFA Champions League,90.0,5.5,21,NGA
+Gorka Guruzeta,J5,AM,Forward,Athletic Club,UEFA Champions League,78.0,4.1,29,ESP
+Unai Gómez,J5,AM,Forward,Athletic Club,UEFA Champions League,12.0,2.5,22,ESP
+Roberto Navarro,J5,LW,Forward,Athletic Club,UEFA Champions League,90.0,6.6,23,ESP
+Álex Berenguer,J5,RW,Forward,Athletic Club,UEFA Champions League,57.0,4.6,30,ESP
+Nico Williams,J5,RW,Forward,Athletic Club,UEFA Champions League,33.0,0.9,23,ESP
+Oihan Sancet,J5,AM,Forward,Athletic Club,UEFA Champions League,57.0,5.5,25,ESP
+Selton Sánchez,J5,AM,Forward,Athletic Club,UEFA Champions League,33.0,2.0,18,ESP
+Alejandro Rego,J5,DM,Midfielder,Athletic Club,UEFA Champions League,90.0,4.8,22,ESP
+Iñigo Ruiz de Galarreta,J5,DM,Midfielder,Athletic Club,UEFA Champions League,63.0,4.0,32,ESP
+Mikel Jauregizar,J5,DM,Midfielder,Athletic Club,UEFA Champions League,27.0,4.7,22,ESP
+Adama Boiro,J5,LB,Defender,Athletic Club,UEFA Champions League,90.0,4.7,23,ESP
+Aitor Paredes,J5,CB,Defender,Athletic Club,UEFA Champions League,90.0,4.3,25,ESP
+Daniel Vivian,J5,CB,Defender,Athletic Club,UEFA Champions League,90.0,3.1,26,ESP
+Jesús Areso,J5,RB,Defender,Athletic Club,UEFA Champions League,78.0,4.6,26,ESP
+Iñigo Lekue,J5,RB,Defender,Athletic Club,UEFA Champions League,12.0,5.8,32,ESP
+Kasper Waarst Høgh,J5,AM,Forward,Bodø/Glimt,UEFA Champions League,86.0,5.4,24,DEN
+Andreas Helmersen,J5,AM,Forward,Bodø/Glimt,UEFA Champions League,4.0,1.0,27,NOR
+Ole Didrik Blomberg,J5,LW,Forward,Bodø/Glimt,UEFA Champions League,76.0,8.4,25,NOR
+Jens Petter Hauge,J5,LW,Forward,Bodø/Glimt,UEFA Champions League,14.0,4.4,26,NOR
+Isak Määttä,J5,RW,Forward,Bodø/Glimt,UEFA Champions League,60.0,3.1,24,NOR
+Sondre Auklend,J5,RM,Midfielder,Bodø/Glimt,UEFA Champions League,30.0,5.9,22,NOR
+Sondre Brunstad Fet,J5,LM,Midfielder,Bodø/Glimt,UEFA Champions League,90.0,3.4,28,NOR
+Patrick Berg,J5,CM,Midfielder,Bodø/Glimt,UEFA Champions League,90.0,6.6,28,NOR
+Håkon Evjen,J5,RM,Midfielder,Bodø/Glimt,UEFA Champions League,76.0,6.3,25,NOR
+Mathias Jørgensen,J5,RW,Forward,Bodø/Glimt,UEFA Champions League,14.0,2.1,25,DEN
+Fredrik André Bjørkan,J5,LB,Defender,Bodø/Glimt,UEFA Champions League,90.0,5.5,27,NOR
+Haitam Aleesami,J5,CB,Defender,Bodø/Glimt,UEFA Champions League,60.0,3.6,34,NOR
+Brede Moe,J5,CB,Defender,Bodø/Glimt,UEFA Champions League,30.0,4.6,33,NOR
+Odin Lurås Bjørtuft,J5,CB,Defender,Bodø/Glimt,UEFA Champions League,90.0,5.0,26,NOR
+Fredrik Sjøvold,J5,RB,Defender,Bodø/Glimt,UEFA Champions League,90.0,6.7,22,NOR
+Loïs Openda,J5,AM,Forward,Juventus,UEFA Champions League,74.0,5.5,25,BEL
+Jonathan David,J5,AM,Forward,Juventus,UEFA Champions League,16.0,5.8,25,CAN
+Vasilije Adžić,J5,AM,Forward,Juventus,UEFA Champions League,45.0,5.7,19,MNE
+Kenan Yıldız,J5,AM,Forward,Juventus,UEFA Champions League,45.0,9.6,20,TUR
+Francisco Conceição,J5,AM,Forward,Juventus,UEFA Champions League,82.0,8.6,22,POR
+Edon Zhegrova,J5,AM,Forward,Juventus,UEFA Champions League,8.0,5.7,26,KVX
+Manuel Locatelli,J5,CM,Midfielder,Juventus,UEFA Champions League,90.0,5.4,27,ITA
+Fabio Miretti,J5,CM,Midfielder,Juventus,UEFA Champions League,67.0,5.5,22,ITA
+Khéphren Thuram,J5,CM,Midfielder,Juventus,UEFA Champions League,23.0,4.0,24,FRA
+Andrea Cambiaso,J5,WB,Midfielder,Juventus,UEFA Champions League,74.0,6.6,25,ITA
+Juan David Cabal,J5,WB,Midfielder,Juventus,UEFA Champions League,16.0,2.1,24,COL
+Weston McKennie,J5,WB,Midfielder,Juventus,UEFA Champions League,90.0,7.6,27,USA
+Teun Koopmeiners,J5,CB,Defender,Juventus,UEFA Champions League,90.0,3.8,27,NED
+Lloyd Kelly,J5,CB,Defender,Juventus,UEFA Champions League,90.0,3.5,27,ENG
+Pierre Kalulu,J5,CB,Defender,Juventus,UEFA Champions League,90.0,4.6,25,FRA
+Pierre-Emerick Aubameyang,J5,AM,Forward,Marseille,UEFA Champions League,89.0,6.5,36,GAB
+Robinio Vaz,J5,AM,Forward,Marseille,UEFA Champions League,1.0,4.4,18,FRA
+Igor Paixão,J5,LW,Forward,Marseille,UEFA Champions League,90.0,2.8,25,BRA
+Mason Greenwood,J5,RW,Forward,Marseille,UEFA Champions League,87.0,8.2,24,ENG
+Angel Gomes,J5,CM,Midfielder,Marseille,UEFA Champions League,3.0,0.7,25,ENG
+Darryl Bakola,J5,AM,Forward,Marseille,UEFA Champions League,61.0,4.8,17,FRA
+Matt O'Riley,J5,AM,Forward,Marseille,UEFA Champions League,29.0,3.8,25,DEN
+Pierre Højbjerg,J5,DM,Midfielder,Marseille,UEFA Champions League,90.0,4.6,30,DEN
+Arthur Vermeeren,J5,DM,Midfielder,Marseille,UEFA Champions League,90.0,5.0,20,BEL
+Emerson Palmieri,J5,LB,Defender,Marseille,UEFA Champions League,90.0,5.1,31,ITA
+Leonardo Balerdi,J5,CB,Defender,Marseille,UEFA Champions League,90.0,5.9,26,ARG
+Benjamin Pavard,J5,CB,Defender,Marseille,UEFA Champions League,90.0,4.8,29,FRA
+Timothy Weah,J5,RB,Defender,Marseille,UEFA Champions League,90.0,5.8,25,USA
+Anthony Gordon,J5,AM,Forward,Newcastle Utd,UEFA Champions League,71.0,6.5,24,ENG
+Nick Woltemade,J5,AM,Forward,Newcastle Utd,UEFA Champions League,19.0,4.4,23,GER
+Harvey Barnes,J5,AM,Forward,Newcastle Utd,UEFA Champions League,90.0,4.4,27,ENG
+Joe Willock,J5,AM,Forward,Newcastle Utd,UEFA Champions League,71.0,7.9,26,ENG
+Jacob Ramsey,J5,LM,Midfielder,Newcastle Utd,UEFA Champions League,19.0,4.7,24,ENG
+Bruno Guimarães,J5,CM,Midfielder,Newcastle Utd,UEFA Champions League,90.0,4.5,28,BRA
+Sandro Tonali,J5,CM,Midfielder,Newcastle Utd,UEFA Champions League,90.0,4.6,25,ITA
+Valentino Livramento,J5,WB,Midfielder,Newcastle Utd,UEFA Champions League,59.0,3.1,23,ENG
+Lewis Hall,J5,LB,Defender,Newcastle Utd,UEFA Champions League,31.0,3.7,21,ENG
+Jacob Murphy,J5,WB,Midfielder,Newcastle Utd,UEFA Champions League,59.0,4.5,30,ENG
+Lewis Miley,J5,RB,Defender,Newcastle Utd,UEFA Champions League,31.0,4.3,19,ENG
+Dan Burn,J5,CB,Defender,Newcastle Utd,UEFA Champions League,90.0,4.6,33,ENG
+Fabian Schär,J5,CB,Defender,Newcastle Utd,UEFA Champions League,60.0,3.4,33,SUI
+Anthony Elanga,J5,RW,Forward,Newcastle Utd,UEFA Champions League,30.0,5.7,23,SWE
+Malick Thiaw,J5,CB,Defender,Newcastle Utd,UEFA Champions League,90.0,4.3,24,GER
+Rasmus Højlund,J5,AM,Forward,Napoli,UEFA Champions League,74.0,6.3,22,DEN
+Lorenzo Lucca,J5,AM,Forward,Napoli,UEFA Champions League,16.0,0.3,25,ITA
+Noa Lang,J5,AM,Forward,Napoli,UEFA Champions League,74.0,8.2,26,NED
+Elif Elmas,J5,LW,Forward,Napoli,UEFA Champions League,16.0,2.3,26,MKD
+David Neres,J5,AM,Forward,Napoli,UEFA Champions League,89.0,8.7,28,BRA
+Antonio Vergara,J5,AM,Forward,Napoli,UEFA Champions League,1.0,2.2,22,ITA
+Scott McTominay,J5,CM,Midfielder,Napoli,UEFA Champions League,90.0,7.5,28,SCO
+Stanislav Lobotka,J5,CM,Midfielder,Napoli,UEFA Champions League,90.0,5.2,31,SVK
+Mathías Olivera,J5,WB,Midfielder,Napoli,UEFA Champions League,90.0,5.8,28,URU
+Giovanni Di Lorenzo,J5,WB,Midfielder,Napoli,UEFA Champions League,90.0,5.4,32,ITA
+Alessandro Buongiorno,J5,CB,Defender,Napoli,UEFA Champions League,89.0,4.8,26,ITA
+Juan Jesus,J5,CB,Defender,Napoli,UEFA Champions League,1.0,3.2,34,BRA
+Amir Rrahmani,J5,CB,Defender,Napoli,UEFA Champions League,90.0,4.1,31,KVX
+Sam Beukema,J5,CB,Defender,Napoli,UEFA Champions League,63.0,5.1,27,NED
+Matteo Politano,J5,RW,Forward,Napoli,UEFA Champions League,27.0,5.0,32,ITA
+Camilo Marques,J5,AM,Forward,Qarabağ,UEFA Champions League,75.0,3.1,23,COL
+Nəriman Axundzadə,J5,AM,Forward,Qarabağ,UEFA Champions League,15.0,2.7,21,AZE
+Emmanuel Addai,J5,LW,Forward,Qarabağ,UEFA Champions League,90.0,6.0,24,GHA
+Leandro Andrade,J5,RW,Forward,Qarabağ,UEFA Champions League,60.0,2.4,26,CPV
+Oleksii Kashchuk,J5,RW,Forward,Qarabağ,UEFA Champions League,30.0,2.1,25,UKR
+Abdellah Zoubir,J5,AM,Forward,Qarabağ,UEFA Champions League,90.0,6.5,33,FRA
+Marko Janković,J5,DM,Midfielder,Qarabağ,UEFA Champions League,90.0,5.4,30,MNE
+Pedro Bicalho,J5,DM,Midfielder,Qarabağ,UEFA Champions League,90.0,4.5,24,BRA
+Elvin Cəfərquliyev,J5,LB,Defender,Qarabağ,UEFA Champions League,75.0,4.6,25,AZE
+Toral Bayramov,J5,LB,Defender,Qarabağ,UEFA Champions League,15.0,3.1,24,AZE
+Kevin Medina,J5,CB,Defender,Qarabağ,UEFA Champions League,60.0,4.4,32,COL
+Samy Mmaee,J5,CB,Defender,Qarabağ,UEFA Champions League,30.0,4.3,29,MAR
+Bəhlul Mustafazadə,J5,CB,Defender,Qarabağ,UEFA Champions League,90.0,2.8,28,AZE
+Matheus Silva,J5,RB,Defender,Qarabağ,UEFA Champions League,75.0,6.0,28,BRA
+Dani Bolt,J5,RB,Defender,Qarabağ,UEFA Champions League,15.0,3.9,26,BRA
+Viktor Dadason,J5,AM,Forward,FC Copenhagen,UEFA Champions League,89.0,5.1,17,ISL
+Munashe Garan'anga,J5,CB,Defender,FC Copenhagen,UEFA Champions League,1.0,1.5,24,ZIM
+Robert,J5,LM,Midfielder,FC Copenhagen,UEFA Champions League,78.0,7.7,20,BRA
+Youssoufa Moukoko,J5,AM,Forward,FC Copenhagen,UEFA Champions League,12.0,1.5,21,GER
+Viktor Claesson,J5,CM,Midfielder,FC Copenhagen,UEFA Champions League,90.0,4.8,33,SWE
+Lukas Lerager,J5,CM,Midfielder,FC Copenhagen,UEFA Champions League,90.0,2.9,32,DEN
+Jordan Larsson,J5,RM,Midfielder,FC Copenhagen,UEFA Champions League,68.0,4.1,28,SWE
+Mohamed Elyounoussi,J5,LM,Midfielder,FC Copenhagen,UEFA Champions League,22.0,4.8,31,NOR
+William Clem,J5,DM,Midfielder,FC Copenhagen,UEFA Champions League,68.0,4.9,21,DEN
+Mads Emil Madsen,J5,DM,Midfielder,FC Copenhagen,UEFA Champions League,22.0,3.4,27,DEN
+Marcos López,J5,LB,Defender,FC Copenhagen,UEFA Champions League,90.0,5.3,26,PER
+Pantelis Hatzidiakos,J5,CB,Defender,FC Copenhagen,UEFA Champions League,90.0,4.4,28,GRE
+Gabriel Pereira,J5,CB,Defender,FC Copenhagen,UEFA Champions League,90.0,4.7,25,BRA
+Junnosuke Suzuki,J5,RB,Defender,FC Copenhagen,UEFA Champions League,78.0,5.2,22,JPN
+Yoram Zague,J5,RB,Defender,FC Copenhagen,UEFA Champions League,12.0,2.9,19,FRA
+Edimilson Filho,J5,AM,Forward,Qaırat Almaty,UEFA Champions League,77.0,4.7,28,BRA
+Ricardinho,J5,AM,Forward,Qaırat Almaty,UEFA Champions League,13.0,3.5,24,BRA
+Dastan Satpayev,J5,LW,Forward,Qaırat Almaty,UEFA Champions League,90.0,6.0,17,KAZ
+Valeriy Gromyko,J5,RW,Forward,Qaırat Almaty,UEFA Champions League,68.0,5.1,28,BLR
+Jug Stanojev,J5,RM,Midfielder,Qaırat Almaty,UEFA Champions League,22.0,2.4,26,SRB
+Jorginho Costa,J5,AM,Forward,Qaırat Almaty,UEFA Champions League,68.0,3.0,28,POR
+Giorgi Zaria,J5,LM,Midfielder,Qaırat Almaty,UEFA Champions League,22.0,7.6,28,GEO
+Dan Glazer,J5,DM,Midfielder,Qaırat Almaty,UEFA Champions League,63.0,4.1,29,ISR
+Olzhas Baibek,J5,CM,Midfielder,Qaırat Almaty,UEFA Champions League,27.0,4.1,20,KAZ
+Damir Kasabulat,J5,DM,Midfielder,Qaırat Almaty,UEFA Champions League,77.0,4.0,23,KAZ
+Adilet Sadybekov,J5,CM,Midfielder,Qaırat Almaty,UEFA Champions League,13.0,1.4,23,KAZ
+Erkin Tapalov,J5,LB,Defender,Qaırat Almaty,UEFA Champions League,90.0,3.7,32,KAZ
+Yegor Sorokin,J5,CB,Defender,Qaırat Almaty,UEFA Champions League,90.0,6.0,30,RUS
+Aleksandr Shirobokov,J5,CB,Defender,Qaırat Almaty,UEFA Champions League,90.0,5.7,22,KAZ
+Alexandr Mrynskiy,J5,RB,Defender,Qaırat Almaty,UEFA Champions League,90.0,5.3,21,KAZ
+Anderson,J5,AM,Forward,Pafos FC,UEFA Champions League,68.0,3.8,28,BRA
+Mons Bassouamina,J5,AM,Forward,Pafos FC,UEFA Champions League,22.0,4.5,27,CGO
+Mislav Oršić,J5,LW,Forward,Pafos FC,UEFA Champions League,90.0,7.5,32,CRO
+Domingos Quina,J5,RW,Forward,Pafos FC,UEFA Champions League,56.0,1.4,26,POR
+Jajá,J5,RW,Forward,Pafos FC,UEFA Champions League,34.0,6.3,24,BRA
+Vlad Dragomir,J5,AM,Forward,Pafos FC,UEFA Champions League,78.0,5.6,26,ROU
+Landry Dimata,J5,AM,Forward,Pafos FC,UEFA Champions League,12.0,1.4,28,BEL
+Ivan Šunjić,J5,DM,Midfielder,Pafos FC,UEFA Champions League,90.0,2.0,29,BIH
+Pedro Rodrigues,J5,DM,Midfielder,Pafos FC,UEFA Champions League,90.0,4.8,28,POR
+David Goldar,J5,LB,Defender,Pafos FC,UEFA Champions League,45.0,2.6,31,ESP
+Bruno Langa,J5,LB,Defender,Pafos FC,UEFA Champions League,45.0,3.4,28,MOZ
+David Luiz,J5,CB,Defender,Pafos FC,UEFA Champions League,90.0,5.1,38,BRA
+Derrick Luckassen,J5,CB,Defender,Pafos FC,UEFA Champions League,90.0,4.7,30,NED
+Bruno Felipe Souza da Silva,J5,RB,Defender,Pafos FC,UEFA Champions League,90.0,6.3,31,BRA
+Folarin Balogun,J5,AM,Forward,Monaco,UEFA Champions League,88.0,7.4,24,USA
+Mika Biereth,J5,AM,Forward,Monaco,UEFA Champions League,2.0,2.7,22,DEN
+Aleksandr Golovin,J5,LW,Forward,Monaco,UEFA Champions League,64.0,6.4,29,RUS
+Lucas Michal,J5,LW,Forward,Monaco,UEFA Champions League,26.0,2.3,20,FRA
+Maghnes Akliouche,J5,RW,Forward,Monaco,UEFA Champions League,90.0,7.5,23,FRA
+Takumi Minamino,J5,AM,Forward,Monaco,UEFA Champions League,76.0,7.4,30,JPN
+Ansu Fati,J5,AM,Forward,Monaco,UEFA Champions League,14.0,2.9,23,ESP
+Denis Zakaria,J5,DM,Midfielder,Monaco,UEFA Champions League,90.0,4.7,29,SUI
+Lamine Camara,J5,DM,Midfielder,Monaco,UEFA Champions League,65.0,6.0,21,SEN
+Mamadou Coulibaly,J5,DM,Midfielder,Monaco,UEFA Champions League,25.0,4.5,21,FRA
+Caio Henrique Oliveira Silva,J5,LB,Defender,Monaco,UEFA Champions League,90.0,7.7,28,BRA
+Mohammed Salisu,J5,CB,Defender,Monaco,UEFA Champions League,90.0,4.6,26,GHA
+Jordan Teze,J5,CB,Defender,Monaco,UEFA Champions League,90.0,3.8,26,NED
+Vanderson,J5,RB,Defender,Monaco,UEFA Champions League,76.0,4.8,24,BRA
+Thilo Kehrer,J5,CB,Defender,Monaco,UEFA Champions League,14.0,1.9,29,GER
+Hugo Ekitike,J5,AM,Forward,Liverpool,UEFA Champions League,60.0,7.4,23,FRA
+Alexander Isak,J5,AM,Forward,Liverpool,UEFA Champions League,30.0,5.6,26,SWE
+Cody Gakpo,J5,LW,Forward,Liverpool,UEFA Champions League,90.0,8.4,26,NED
+Mohamed Salah,J5,RW,Forward,Liverpool,UEFA Champions League,90.0,6.3,33,EGY
+Dominik Szoboszlai,J5,AM,Forward,Liverpool,UEFA Champions League,90.0,8.5,25,HUN
+Alexis Mac Allister,J5,DM,Midfielder,Liverpool,UEFA Champions League,90.0,6.1,26,ARG
+Ryan Gravenberch,J5,DM,Midfielder,Liverpool,UEFA Champions League,90.0,5.9,23,NED
+Milos Kerkez,J5,LB,Defender,Liverpool,UEFA Champions League,90.0,5.2,22,HUN
+Virgil van Dijk,J5,CB,Defender,Liverpool,UEFA Champions League,90.0,5.5,34,NED
+Ibrahima Konaté,J5,CB,Defender,Liverpool,UEFA Champions League,75.0,5.2,26,FRA
+Federico Chiesa,J5,AM,Forward,Liverpool,UEFA Champions League,15.0,5.7,28,ITA
+Curtis Jones,J5,RB,Defender,Liverpool,UEFA Champions League,90.0,4.5,24,ENG
+Guus Til,J5,AM,Forward,PSV Eindhoven,UEFA Champions League,69.0,2.4,27,NED
+Ricardo Pepi,J5,AM,Forward,PSV Eindhoven,UEFA Champions League,21.0,6.5,22,USA
+Ismael Saibari,J5,AM,Forward,PSV Eindhoven,UEFA Champions League,90.0,6.0,24,MAR
+Ivan Perišić,J5,LM,Midfielder,PSV Eindhoven,UEFA Champions League,69.0,3.9,36,CRO
+Couhaib Driouech,J5,LM,Midfielder,PSV Eindhoven,UEFA Champions League,21.0,4.4,23,MAR
+Joey Veerman,J5,CM,Midfielder,PSV Eindhoven,UEFA Champions League,90.0,4.7,27,NED
+Mauro Júnior,J5,CM,Midfielder,PSV Eindhoven,UEFA Champions League,90.0,6.3,26,BRA
+Dennis Man,J5,RM,Midfielder,PSV Eindhoven,UEFA Champions League,88.0,5.7,27,ROU
+Esmir Bajraktarevic,J5,RM,Midfielder,PSV Eindhoven,UEFA Champions League,2.0,2.4,20,BIH
+Anass Salah-Eddine,J5,LB,Defender,PSV Eindhoven,UEFA Champions League,90.0,6.0,23,MAR
+Yarek Gasiorowski,J5,CB,Defender,PSV Eindhoven,UEFA Champions League,90.0,4.6,20,ESP
+Jerdy Schouten,J5,CB,Defender,PSV Eindhoven,UEFA Champions League,90.0,5.5,28,NED
+Sergiño Dest,J5,RB,Defender,PSV Eindhoven,UEFA Champions League,90.0,5.6,25,USA
+Luis Javier Suárez,J5,AM,Forward,Sporting CP,UEFA Champions League,85.0,7.0,27,COL
+Rodrigo Ribeiro,J5,AM,Forward,Sporting CP,UEFA Champions League,5.0,4.6,20,POR
+Geovany Quenda,J5,LW,Forward,Sporting CP,UEFA Champions League,74.0,7.9,18,POR
+Alisson Santos,J5,LW,Forward,Sporting CP,UEFA Champions League,16.0,5.0,23,BRA
+Geny Catamo,J5,RW,Forward,Sporting CP,UEFA Champions League,75.0,9.0,24,MOZ
+Salvador Blopa,J5,RW,Forward,Sporting CP,UEFA Champions League,15.0,3.7,18,POR
+Francisco Trincão,J5,AM,Forward,Sporting CP,UEFA Champions League,90.0,5.6,25,POR
+João Simões,J5,DM,Midfielder,Sporting CP,UEFA Champions League,62.0,2.8,18,POR
+Hidemasa Morita,J5,DM,Midfielder,Sporting CP,UEFA Champions League,28.0,3.6,30,JPN
+Morten Hjulmand,J5,DM,Midfielder,Sporting CP,UEFA Champions League,90.0,4.2,26,DEN
+Maximiliano Araújo,J5,LB,Defender,Sporting CP,UEFA Champions League,85.0,6.0,25,URU
+Matheus Reis,J5,LB,Defender,Sporting CP,UEFA Champions League,5.0,3.9,30,BRA
+Gonçalo Inácio,J5,CB,Defender,Sporting CP,UEFA Champions League,90.0,4.8,24,POR
+Ousmane Diomande,J5,CB,Defender,Sporting CP,UEFA Champions League,90.0,4.4,21,CIV
+Iván Fresneda,J5,RB,Defender,Sporting CP,UEFA Champions League,90.0,5.3,21,ESP
+Romeo Vermant,J5,AM,Forward,Club Brugge,UEFA Champions League,60.0,3.0,21,BEL
+Nicolo Tresoldi,J5,AM,Forward,Club Brugge,UEFA Champions League,30.0,2.4,21,GER
+Christos Tzolis,J5,LW,Forward,Club Brugge,UEFA Champions League,90.0,4.5,23,GRE
+Carlos Forbs,J5,RW,Forward,Club Brugge,UEFA Champions League,73.0,3.5,21,POR
+Hugo Vetlesen,J5,RM,Midfielder,Club Brugge,UEFA Champions League,17.0,5.2,25,NOR
+Hans Vanaken,J5,AM,Forward,Club Brugge,UEFA Champions League,90.0,5.5,33,BEL
+Raphael Onyedika,J5,DM,Midfielder,Club Brugge,UEFA Champions League,90.0,4.7,24,NGA
+Aleksandar Stanković,J5,DM,Midfielder,Club Brugge,UEFA Champions League,73.0,5.1,20,SRB
+Mamadou Diakhon,J5,LM,Midfielder,Club Brugge,UEFA Champions League,17.0,1.4,20,FRA
+Joaquin Seys,J5,LB,Defender,Club Brugge,UEFA Champions League,80.0,5.3,20,BEL
+Zaid Romero,J5,LB,Defender,Club Brugge,UEFA Champions League,10.0,1.8,25,ARG
+Brandon Mechele,J5,CB,Defender,Club Brugge,UEFA Champions League,90.0,7.0,32,BEL
+Joel Ordóñez,J5,CB,Defender,Club Brugge,UEFA Champions League,90.0,4.5,21,ECU
+Hugo Siquet,J5,RB,Defender,Club Brugge,UEFA Champions League,80.0,4.9,23,BEL
+Jorne Spileers,J5,RB,Defender,Club Brugge,UEFA Champions League,10.0,7.0,20,BEL
+Mikel Merino,J5,AM,Forward,Arsenal,UEFA Champions League,90.0,5.1,29,ESP
+Leandro Trossard,J5,LW,Forward,Arsenal,UEFA Champions League,37.0,0.9,30,BEL
+Noni Madueke,J5,LW,Forward,Arsenal,UEFA Champions League,53.0,5.2,23,ENG
+Bukayo Saka,J5,RW,Forward,Arsenal,UEFA Champions League,67.0,6.8,24,ENG
+Gabriel Martinelli,J5,LW,Forward,Arsenal,UEFA Champions League,23.0,4.7,24,BRA
+Declan Rice,J5,LM,Midfielder,Arsenal,UEFA Champions League,90.0,6.0,26,ENG
+Martín Zubimendi,J5,CM,Midfielder,Arsenal,UEFA Champions League,90.0,2.7,26,ESP
+Eberechi Eze,J5,RM,Midfielder,Arsenal,UEFA Champions League,80.0,3.2,27,ENG
+Martin Ødegaard,J5,RM,Midfielder,Arsenal,UEFA Champions League,10.0,0.6,26,NOR
+Myles Lewis-Skelly,J5,LB,Defender,Arsenal,UEFA Champions League,67.0,3.4,19,ENG
+Riccardo Calafiori,J5,LB,Defender,Arsenal,UEFA Champions League,23.0,7.3,23,ITA
+Cristhian Mosquera,J5,CB,Defender,Arsenal,UEFA Champions League,90.0,3.3,21,ESP
+William Saliba,J5,CB,Defender,Arsenal,UEFA Champions League,90.0,3.1,24,FRA
+Jurriën Timber,J5,RB,Defender,Arsenal,UEFA Champions League,80.0,3.9,24,NED
+Ben White,J5,RB,Defender,Arsenal,UEFA Champions League,10.0,1.7,28,ENG
+Harry Kane,J5,AM,Forward,Bayern Munich,UEFA Champions League,90.0,1.6,32,ENG
+Serge Gnabry,J5,LW,Forward,Bayern Munich,UEFA Champions League,71.0,4.3,30,GER
+Nicolas Jackson,J5,AM,Forward,Bayern Munich,UEFA Champions League,19.0,0.1,24,SEN
+Michael Olise,J5,RW,Forward,Bayern Munich,UEFA Champions League,90.0,4.8,23,FRA
+Lennart Karl,J5,AM,Forward,Bayern Munich,UEFA Champions League,80.0,5.1,17,GER
+Raphaël Guerreiro,J5,LM,Midfielder,Bayern Munich,UEFA Champions League,10.0,0.9,31,POR
+Aleksandar Pavlovic,J5,DM,Midfielder,Bayern Munich,UEFA Champions League,90.0,3.7,21,GER
+Joshua Kimmich,J5,DM,Midfielder,Bayern Munich,UEFA Champions League,80.0,4.1,30,GER
+Leon Goretzka,J5,CM,Midfielder,Bayern Munich,UEFA Champions League,10.0,3.0,30,GER
+Konrad Laimer,J5,LB,Defender,Bayern Munich,UEFA Champions League,71.0,4.3,28,AUT
+Tom Bischof,J5,LB,Defender,Bayern Munich,UEFA Champions League,19.0,5.2,20,GER
+Jonathan Tah,J5,CB,Defender,Bayern Munich,UEFA Champions League,90.0,3.9,29,GER
+Dayot Upamecano,J5,CB,Defender,Bayern Munich,UEFA Champions League,81.0,6.0,27,FRA
+Kim Min-jae,J5,CB,Defender,Bayern Munich,UEFA Champions League,9.0,5.6,29,KOR
+Josip Stanišić,J5,RB,Defender,Bayern Munich,UEFA Champions League,90.0,7.1,25,CRO
+Quentin Ndjantou Mbitcha,J5,AM,Forward,Paris S-G,UEFA Champions League,78.0,5.0,18,FRA
+Gonçalo Ramos,J5,LW,Forward,Paris S-G,UEFA Champions League,12.0,2.4,24,POR
+Bradley Barcola,J5,LW,Forward,Paris S-G,UEFA Champions League,55.0,4.2,23,FRA
+Lee Kang-in,J5,RW,Forward,Paris S-G,UEFA Champions League,35.0,6.7,24,KOR
+Khvicha Kvaratskhelia,J5,RW,Forward,Paris S-G,UEFA Champions League,78.0,7.4,24,GEO
+Ousmane Dembélé,J5,AM,Forward,Paris S-G,UEFA Champions League,12.0,3.4,28,FRA
+Fabián Ruiz Peña,J5,LM,Midfielder,Paris S-G,UEFA Champions League,90.0,5.3,29,ESP
+Vitinha,J5,CM,Midfielder,Paris S-G,UEFA Champions League,89.0,8.2,25,POR
+Illia Zabarnyi,J5,CB,Defender,Paris S-G,UEFA Champions League,1.0,0.1,23,UKR
+João Neves,J5,RM,Midfielder,Paris S-G,UEFA Champions League,90.0,6.7,21,POR
+Nuno Mendes,J5,LB,Defender,Paris S-G,UEFA Champions League,45.0,5.0,23,POR
+Lucas Hernández,J5,LB,Defender,Paris S-G,UEFA Champions League,44.0,4.8,29,FRA
+Willian Pacho,J5,CB,Defender,Paris S-G,UEFA Champions League,90.0,4.4,24,ECU
+Marquinhos,J5,CB,Defender,Paris S-G,UEFA Champions League,90.0,4.3,31,BRA
+Warren Zaïre-Emery,J5,RB,Defender,Paris S-G,UEFA Champions League,90.0,4.9,19,FRA
+Randal Kolo Muani,J5,AM,Forward,Tottenham,UEFA Champions League,83.0,8.0,26,FRA
+Xavi Simons,J5,AM,Forward,Tottenham,UEFA Champions League,7.0,1.4,22,NED
+Richarlison,J5,AM,Forward,Tottenham,UEFA Champions League,90.0,4.8,28,BRA
+Lucas Bergvall,J5,AM,Forward,Tottenham,UEFA Champions League,75.0,3.3,19,SWE
+Mohammed Kudus,J5,RW,Forward,Tottenham,UEFA Champions League,15.0,3.4,25,GHA
+Pape Matar Sarr,J5,AM,Forward,Tottenham,UEFA Champions League,83.0,3.2,23,SEN
+Wilson Odobert,J5,LW,Forward,Tottenham,UEFA Champions League,7.0,3.7,20,FRA
+Archie Gray,J5,DM,Midfielder,Tottenham,UEFA Champions League,75.0,2.9,19,ENG
+João Palhinha,J5,DM,Midfielder,Tottenham,UEFA Champions League,15.0,0.9,30,POR
+Rodrigo Bentancur,J5,DM,Midfielder,Tottenham,UEFA Champions League,90.0,4.6,28,URU
+Djed Spence,J5,LB,Defender,Tottenham,UEFA Champions League,83.0,6.0,25,ENG
+Destiny Udogie,J5,LB,Defender,Tottenham,UEFA Champions League,7.0,2.7,22,ITA
+Micky van de Ven,J5,CB,Defender,Tottenham,UEFA Champions League,90.0,3.2,24,NED
+Cristian Romero,J5,CB,Defender,Tottenham,UEFA Champions League,90.0,3.0,27,ARG
+Pedro Porro,J5,RB,Defender,Tottenham,UEFA Champions League,90.0,3.4,26,ESP
+Ansgar Knauff,J5,AM,Forward,Eint Frankfurt,UEFA Champions League,77.0,2.8,23,GER
+Elye Wahi,J5,AM,Forward,Eint Frankfurt,UEFA Champions League,13.0,5.6,22,FRA
+Jonathan Burkardt,J5,AM,Forward,Eint Frankfurt,UEFA Champions League,58.0,3.3,25,GER
+Jean Mattéo Bahoya,J5,AM,Forward,Eint Frankfurt,UEFA Champions League,32.0,3.0,20,FRA
+Mario Götze,J5,AM,Forward,Eint Frankfurt,UEFA Champions League,68.0,5.6,33,GER
+Michy Batshuayi,J5,AM,Forward,Eint Frankfurt,UEFA Champions League,22.0,1.3,32,BEL
+Fares Chaïbi,J5,CM,Midfielder,Eint Frankfurt,UEFA Champions League,90.0,4.8,22,ALG
+Mahmoud Dahoud,J5,CM,Midfielder,Eint Frankfurt,UEFA Champions League,69.0,2.7,29,GER
+Ellyes Skhiri,J5,CM,Midfielder,Eint Frankfurt,UEFA Champions League,21.0,3.4,30,TUN
+Nathaniel Brown,J5,WB,Midfielder,Eint Frankfurt,UEFA Champions League,90.0,2.6,22,GER
+Ritsu Doan,J5,WB,Midfielder,Eint Frankfurt,UEFA Champions League,77.0,6.1,27,JPN
+Aurélio Buta,J5,WB,Midfielder,Eint Frankfurt,UEFA Champions League,13.0,3.7,28,POR
+Arthur Theate,J5,CB,Defender,Eint Frankfurt,UEFA Champions League,90.0,3.9,25,BEL
+Robin Koch,J5,CB,Defender,Eint Frankfurt,UEFA Champions League,90.0,5.1,29,GER
+Nnamdi Collins,J5,CB,Defender,Eint Frankfurt,UEFA Champions League,90.0,5.5,21,GER
+Gianluca Scamacca,J5,AM,Forward,Atalanta,UEFA Champions League,68.0,7.2,26,ITA
+Nikola Krstović,J5,AM,Forward,Atalanta,UEFA Champions League,22.0,3.5,25,MNE
+Ademola Lookman,J5,AM,Forward,Atalanta,UEFA Champions League,81.0,10.0,28,NGA
+Kamaldeen Sulemana,J5,AM,Forward,Atalanta,UEFA Champions League,9.0,6.7,23,GHA
+Charles De Ketelaere,J5,AM,Forward,Atalanta,UEFA Champions League,90.0,10.0,24,BEL
+Éderson,J5,CM,Midfielder,Atalanta,UEFA Champions League,68.0,5.5,26,BRA
+Yunus Musah,J5,CM,Midfielder,Atalanta,UEFA Champions League,22.0,5.1,22,USA
+Marten de Roon,J5,CM,Midfielder,Atalanta,UEFA Champions League,90.0,5.4,34,NED
+Davide Zappacosta,J5,WB,Midfielder,Atalanta,UEFA Champions League,68.0,5.2,33,ITA
+Nicola Zalewski,J5,WB,Midfielder,Atalanta,UEFA Champions League,22.0,3.7,23,POL
+Raoul Bellanova,J5,WB,Midfielder,Atalanta,UEFA Champions League,90.0,3.9,25,ITA
+Berat Djimsiti,J5,CB,Defender,Atalanta,UEFA Champions League,73.0,5.9,32,ALB
+Sead Kolašinac,J5,CB,Defender,Atalanta,UEFA Champions League,17.0,2.9,32,BIH
+Isak Hien,J5,CB,Defender,Atalanta,UEFA Champions League,90.0,4.5,26,SWE
+Odilon Kossounou,J5,CB,Defender,Atalanta,UEFA Champions League,90.0,4.2,24,CIV
+Julián Álvarez,J5,AM,Forward,Atlético Madrid,UEFA Champions League,90.0,5.4,25,ARG
+Alex Baena,J5,LM,Midfielder,Atlético Madrid,UEFA Champions League,67.0,4.5,24,ESP
+Antoine Griezmann,J5,AM,Forward,Atlético Madrid,UEFA Champions League,23.0,5.6,34,FRA
+Pablo Barrios,J5,CM,Midfielder,Atlético Madrid,UEFA Champions League,90.0,5.5,22,ESP
+Conor Gallagher,J5,CM,Midfielder,Atlético Madrid,UEFA Champions League,58.0,4.3,25,ENG
+Koke,J5,CM,Midfielder,Atlético Madrid,UEFA Champions League,32.0,4.7,33,ESP
+Giuliano Simeone,J5,RM,Midfielder,Atlético Madrid,UEFA Champions League,90.0,6.5,22,ARG
+Johnny Cardoso,J5,DM,Midfielder,Atlético Madrid,UEFA Champions League,58.0,2.6,24,USA
+Marc Pubill,J5,RB,Defender,Atlético Madrid,UEFA Champions League,32.0,4.1,22,ESP
+Matteo Ruggeri,J5,LB,Defender,Atlético Madrid,UEFA Champions League,67.0,5.5,23,ITA
+Alexander Sørloth,J5,AM,Forward,Atlético Madrid,UEFA Champions League,23.0,3.6,29,NOR
+Dávid Hancko,J5,CB,Defender,Atlético Madrid,UEFA Champions League,90.0,4.0,27,SVK
+José María Giménez,J5,CB,Defender,Atlético Madrid,UEFA Champions League,90.0,4.5,30,URU
+Nahuel Molina,J5,RB,Defender,Atlético Madrid,UEFA Champions League,57.0,7.0,27,ARG
+Nicolás González,J5,LB,Defender,Atlético Madrid,UEFA Champions League,33.0,5.2,27,ARG
+Ange-Yoan Bonny,J5,AM,Forward,Inter,UEFA Champions League,64.0,5.7,22,FRA
+Marcus Thuram,J5,AM,Forward,Inter,UEFA Champions League,26.0,5.9,28,FRA
+Lautaro Martínez,J5,AM,Forward,Inter,UEFA Champions League,71.0,6.3,28,ARG
+Francesco Esposito,J5,AM,Forward,Inter,UEFA Champions League,19.0,4.4,20,ITA
+Piotr Zieliński,J5,CM,Midfielder,Inter,UEFA Champions League,64.0,5.4,31,POL
+Petar Sucic,J5,CM,Midfielder,Inter,UEFA Champions League,26.0,3.2,22,CRO
+Hakan Çalhanoğlu,J5,CM,Midfielder,Inter,UEFA Champions League,71.0,6.2,31,TUR
+Davide Frattesi,J5,CM,Midfielder,Inter,UEFA Champions League,19.0,3.7,26,ITA
+Nicolò Barella,J5,CM,Midfielder,Inter,UEFA Champions League,90.0,5.9,28,ITA
+Federico Dimarco,J5,WB,Midfielder,Inter,UEFA Champions League,78.0,4.4,28,ITA
+Luis Henrique,J5,WB,Midfielder,Inter,UEFA Champions League,12.0,2.6,23,BRA
+Carlos Augusto,J5,WB,Midfielder,Inter,UEFA Champions League,90.0,1.6,26,BRA
+Alessandro Bastoni,J5,CB,Defender,Inter,UEFA Champions League,90.0,7.6,26,ITA
+Manuel Akanji,J5,CB,Defender,Inter,UEFA Champions League,90.0,5.9,30,SUI
+Yann Aurel Bisseck,J5,CB,Defender,Inter,UEFA Champions League,90.0,5.6,24,GER
+Ayoub El Kaabi,J5,AM,Forward,Olympiacos,UEFA Champions League,90.0,7.1,32,MAR
+Daniel Podence,J5,LW,Forward,Olympiacos,UEFA Champions League,71.0,8.1,30,POR
+Gabriel Strefezza,J5,LW,Forward,Olympiacos,UEFA Champions League,19.0,8.1,28,BRA
+Gelson Martins,J5,RW,Forward,Olympiacos,UEFA Champions League,90.0,6.6,30,POR
+Chiquinho,J5,AM,Forward,Olympiacos,UEFA Champions League,27.0,4.5,30,POR
+Mehdi Taremi,J5,AM,Forward,Olympiacos,UEFA Champions League,63.0,5.9,33,IRN
+Christos Mouzakitis,J5,DM,Midfielder,Olympiacos,UEFA Champions League,90.0,5.5,18,GRE
+Dani García,J5,DM,Midfielder,Olympiacos,UEFA Champions League,45.0,5.6,35,ESP
+Santiago Hezze,J5,DM,Midfielder,Olympiacos,UEFA Champions League,45.0,4.9,24,ARG
+Francisco Ortega,J5,LB,Defender,Olympiacos,UEFA Champions League,90.0,3.6,26,ARG
+Lorenzo Pirola,J5,CB,Defender,Olympiacos,UEFA Champions League,61.0,4.2,23,ITA
+Giulian Biancone,J5,CB,Defender,Olympiacos,UEFA Champions League,29.0,5.9,25,FRA
+Panagiotis Retsos,J5,CB,Defender,Olympiacos,UEFA Champions League,90.0,4.2,27,GRE
+Rodinei,J5,RB,Defender,Olympiacos,UEFA Champions League,71.0,6.3,33,BRA
+Costinha,J5,RB,Defender,Olympiacos,UEFA Champions League,19.0,3.6,25,POR
+Kylian Mbappé,J5,AM,Forward,Real Madrid,UEFA Champions League,90.0,8.7,26,FRA
+Vinicius Júnior,J5,LW,Forward,Real Madrid,UEFA Champions League,89.0,9.8,25,BRA
+Fran Garcia,J5,LM,Midfielder,Real Madrid,UEFA Champions League,1.0,0.5,26,ESP
+Federico Valverde,J5,RW,Forward,Real Madrid,UEFA Champions League,90.0,2.4,27,URU
+Arda Güler,J5,AM,Forward,Real Madrid,UEFA Champions League,60.0,6.7,20,TUR
+Jude Bellingham,J5,AM,Forward,Real Madrid,UEFA Champions League,30.0,5.5,22,ENG
+Eduardo Camavinga,J5,DM,Midfielder,Real Madrid,UEFA Champions League,45.0,5.3,23,FRA
+Dani Ceballos,J5,DM,Midfielder,Real Madrid,UEFA Champions League,45.0,4.1,29,ESP
+Aurélien Tchouaméni,J5,DM,Midfielder,Real Madrid,UEFA Champions League,90.0,5.7,25,FRA
+Ferland Mendy,J5,LB,Defender,Real Madrid,UEFA Champions League,90.0,4.0,30,FRA
+Álvaro Carreras,J5,CB,Defender,Real Madrid,UEFA Champions League,90.0,4.9,22,ESP
+Raúl Asencio,J5,CB,Defender,Real Madrid,UEFA Champions League,72.0,4.7,22,ESP
+Brahim Díaz,J5,RW,Forward,Real Madrid,UEFA Champions League,18.0,1.2,26,MAR
+Trent Alexander-Arnold,J5,RB,Defender,Real Madrid,UEFA Champions League,90.0,5.0,27,ENG
 Lautaro Martínez,J2,AM,Forward,Inter,Italian Serie A,90.0,2.5,28,ARG
 Marcus Thuram,J2,AM,Forward,Inter,Italian Serie A,90.0,6.8,28,FRA
 Petar Sucic,J2,CM,Midfielder,Inter,Italian Serie A,61.0,4.0,21,CRO
@@ -12154,6 +12791,534 @@ Sandro Lauper,J4,CB,Defender,Young Boys,UEFA Europa League,90.0,3.1,29,SUI
 Tanguy Zoukrou,J4,CB,Defender,Young Boys,UEFA Europa League,90.0,4.9,22,FRA
 Saidy Janko,J4,RB,Defender,Young Boys,UEFA Europa League,87.0,5.2,30,GAM
 Ryan Andrews,J4,RB,Defender,Young Boys,UEFA Europa League,3.0,2.7,21,ENG
+Donyell Malen,J5,AM,Forward,Aston Villa,UEFA Europa League,59.0,7.2,26,NED
+Ross Barkley,J5,DM,Midfielder,Aston Villa,UEFA Europa League,31.0,5.6,31,ENG
+Jadon Sancho,J5,LW,Forward,Aston Villa,UEFA Europa League,90.0,7.4,25,ENG
+Evann Guessand,J5,RW,Forward,Aston Villa,UEFA Europa League,90.0,4.0,24,CIV
+Morgan Rogers,J5,AM,Forward,Aston Villa,UEFA Europa League,59.0,8.3,23,ENG
+Emi Buendía,J5,AM,Forward,Aston Villa,UEFA Europa League,31.0,3.5,28,ARG
+Youri Tielemans,J5,DM,Midfielder,Aston Villa,UEFA Europa League,59.0,7.1,28,BEL
+Ollie Watkins,J5,AM,Forward,Aston Villa,UEFA Europa League,31.0,5.5,29,ENG
+Amadou Onana,J5,DM,Midfielder,Aston Villa,UEFA Europa League,78.0,5.9,24,BEL
+Boubacar Kamara,J5,DM,Midfielder,Aston Villa,UEFA Europa League,12.0,5.1,26,FRA
+Ian Maatsen,J5,LB,Defender,Aston Villa,UEFA Europa League,90.0,4.5,23,NED
+Pau Torres,J5,CB,Defender,Aston Villa,UEFA Europa League,59.0,4.2,28,ESP
+Ezri Konsa,J5,CB,Defender,Aston Villa,UEFA Europa League,31.0,3.9,28,ENG
+Victor Lindelöf,J5,CB,Defender,Aston Villa,UEFA Europa League,90.0,3.3,31,SWE
+Lamare Bogarde,J5,RB,Defender,Aston Villa,UEFA Europa League,90.0,5.4,21,NED
+Sergio Córdova,J5,AM,Forward,Young Boys,UEFA Europa League,69.0,0.2,28,VEN
+Chris Bedia,J5,AM,Forward,Young Boys,UEFA Europa League,21.0,1.5,29,CIV
+Christian Fassnacht,J5,AM,Forward,Young Boys,UEFA Europa League,69.0,0.8,32,SUI
+Joel Monteiro,J5,LW,Forward,Young Boys,UEFA Europa League,21.0,7.4,26,SUI
+Darian Males,J5,AM,Forward,Young Boys,UEFA Europa League,61.0,2.9,24,SUI
+Alan Virginius,J5,RW,Forward,Young Boys,UEFA Europa League,29.0,4.7,22,FRA
+Dominik Pech,J5,CM,Midfielder,Young Boys,UEFA Europa League,90.0,3.3,19,CZE
+Rayan Raveloson,J5,CM,Midfielder,Young Boys,UEFA Europa League,62.0,4.6,28,MAD
+Alvyn Sanches,J5,AM,Forward,Young Boys,UEFA Europa League,28.0,4.9,22,SUI
+Jaouen Hadjam,J5,LB,Defender,Young Boys,UEFA Europa League,90.0,5.2,22,ALG
+Saidy Janko,J5,RB,Defender,Young Boys,UEFA Europa League,90.0,3.8,30,GAM
+Loris Benito,J5,CB,Defender,Young Boys,UEFA Europa League,90.0,6.2,33,SUI
+Sandro Lauper,J5,DM,Midfielder,Young Boys,UEFA Europa League,90.0,2.9,29,SUI
+Tanguy Zoukrou,J5,CB,Defender,Young Boys,UEFA Europa League,81.0,3.4,22,FRA
+Gregory Wüthrich,J5,CB,Defender,Young Boys,UEFA Europa League,9.0,3.7,30,SUI
+Samu Omorodion,J5,AM,Forward,Porto,UEFA Europa League,72.0,5.4,21,ESP
+Luuk de Jong,J5,AM,Forward,Porto,UEFA Europa League,18.0,1.3,35,NED
+Deniz Gül,J5,LW,Forward,Porto,UEFA Europa League,67.0,1.9,21,TUR
+Borja Sainz,J5,LW,Forward,Porto,UEFA Europa League,23.0,1.1,24,ESP
+Pepê,J5,RW,Forward,Porto,UEFA Europa League,90.0,3.7,28,BRA
+Gabriel Veiga,J5,LM,Midfielder,Porto,UEFA Europa League,79.0,6.5,23,ESP
+Stephen Eustáquio,J5,RM,Midfielder,Porto,UEFA Europa League,11.0,2.7,28,CAN
+Alan Varela,J5,CM,Midfielder,Porto,UEFA Europa League,45.0,3.9,24,ARG
+Jan Bednarek,J5,CB,Defender,Porto,UEFA Europa League,45.0,4.4,29,POL
+Victor Froholdt,J5,RM,Midfielder,Porto,UEFA Europa League,72.0,3.9,19,DEN
+Rodrigo Mora,J5,LM,Midfielder,Porto,UEFA Europa League,18.0,1.6,18,POR
+Moura,J5,LB,Defender,Porto,UEFA Europa League,90.0,4.3,26,POR
+Jakub Kiwior,J5,CB,Defender,Porto,UEFA Europa League,90.0,5.1,25,POL
+Pablo Rosario,J5,CM,Midfielder,Porto,UEFA Europa League,90.0,3.7,28,DOM
+Alberto costa,J5,RB,Defender,Porto,UEFA Europa League,90.0,7.0,22,POR
+Terem Moffi,J5,AM,Forward,Nice,UEFA Europa League,67.0,2.6,26,NGA
+Kevin Carlos,J5,AM,Forward,Nice,UEFA Europa League,23.0,2.1,24,ESP
+Mohamed Ali Cho,J5,AM,Forward,Nice,UEFA Europa League,67.0,3.3,21,FRA
+Isak Jansson,J5,AM,Forward,Nice,UEFA Europa League,23.0,4.9,23,SWE
+Sofiane Diop,J5,CM,Midfielder,Nice,UEFA Europa League,67.0,5.4,25,MAR
+Hicham Boudaoui,J5,CM,Midfielder,Nice,UEFA Europa League,23.0,2.0,26,ALG
+Charles Vanhoutte,J5,CM,Midfielder,Nice,UEFA Europa League,90.0,5.5,27,BEL
+Morgan Sanson,J5,CM,Midfielder,Nice,UEFA Europa League,90.0,3.3,31,FRA
+Ali Abdi,J5,WB,Midfielder,Nice,UEFA Europa League,90.0,4.4,31,TUN
+Jonathan Clauss,J5,WB,Midfielder,Nice,UEFA Europa League,78.0,4.9,33,FRA
+Tiago Gouveia,J5,WB,Midfielder,Nice,UEFA Europa League,12.0,4.1,24,POR
+Melvin Bard,J5,CB,Defender,Nice,UEFA Europa League,90.0,3.9,25,FRA
+Dante,J5,CB,Defender,Nice,UEFA Europa League,78.0,4.4,42,BRA
+Kojo Peprah Oppong,J5,CB,Defender,Nice,UEFA Europa League,12.0,5.2,21,GHA
+Antoine Mendy,J5,CB,Defender,Nice,UEFA Europa League,90.0,4.0,21,SEN
+Paulo Dybala,J5,AM,Forward,Roma,UEFA Europa League,77.0,5.5,32,ARG
+Leon Bailey,J5,AM,Forward,Roma,UEFA Europa League,13.0,5.9,28,JAM
+Lorenzo Pellegrini,J5,AM,Forward,Roma,UEFA Europa League,61.0,5.2,29,ITA
+Stephan El Shaarawy,J5,AM,Forward,Roma,UEFA Europa League,29.0,7.6,33,ITA
+Matìas Soulé,J5,AM,Forward,Roma,UEFA Europa League,61.0,8.7,22,ARG
+Evan Ferguson,J5,AM,Forward,Roma,UEFA Europa League,29.0,5.0,21,IRL
+Manu Koné,J5,CM,Midfielder,Roma,UEFA Europa League,26.0,2.6,24,FRA
+Bryan Cristante,J5,CM,Midfielder,Roma,UEFA Europa League,64.0,5.7,30,ITA
+Neil El Aynaoui,J5,CM,Midfielder,Roma,UEFA Europa League,90.0,5.7,24,MAR
+Wesley,J5,WB,Midfielder,Roma,UEFA Europa League,90.0,4.3,22,BRA
+Zeki Çelik,J5,WB,Midfielder,Roma,UEFA Europa League,77.0,7.3,28,TUR
+Kostas Tsimikas,J5,WB,Midfielder,Roma,UEFA Europa League,13.0,2.1,29,GRE
+Gianluca Mancini,J5,CB,Defender,Roma,UEFA Europa League,90.0,3.7,29,ITA
+Obite N'Dicka,J5,CB,Defender,Roma,UEFA Europa League,90.0,3.9,26,CIV
+Daniele Ghilardi,J5,CB,Defender,Roma,UEFA Europa League,90.0,5.5,22,ITA
+Franculino Djú,J5,AM,Forward,Midtjylland,UEFA Europa League,74.0,6.5,21,GNB
+Aral Şimşir,J5,LW,Forward,Midtjylland,UEFA Europa League,16.0,8.2,23,DEN
+Mikel Gogorza,J5,LW,Forward,Midtjylland,UEFA Europa League,45.0,0.9,19,DEN
+Darío Osorio,J5,RW,Forward,Midtjylland,UEFA Europa League,45.0,5.9,21,CHI
+Denil Castillo,J5,RW,Forward,Midtjylland,UEFA Europa League,59.0,3.0,21,ECU
+Valdemar Andreasen,J5,CM,Midfielder,Midtjylland,UEFA Europa League,31.0,3.9,20,DEN
+Victor Jensen,J5,LM,Midfielder,Midtjylland,UEFA Europa League,66.0,5.0,22,DEN
+Paulinho,J5,LM,Midfielder,Midtjylland,UEFA Europa League,24.0,7.1,30,BRA
+Philip Billing,J5,CM,Midfielder,Midtjylland,UEFA Europa League,90.0,3.7,29,DEN
+Pedro Bravo,J5,CM,Midfielder,Midtjylland,UEFA Europa League,45.0,3.3,21,COL
+Júnior Brumado,J5,AM,Forward,Midtjylland,UEFA Europa League,45.0,6.3,26,BRA
+Kevin Mbabu,J5,RM,Midfielder,Midtjylland,UEFA Europa League,90.0,4.1,30,SUI
+Mads Bech Sørensen,J5,CB,Defender,Midtjylland,UEFA Europa League,90.0,5.4,26,DEN
+Martin Erlic,J5,CB,Defender,Midtjylland,UEFA Europa League,90.0,3.0,27,CRO
+Ousmane Diao,J5,CB,Defender,Midtjylland,UEFA Europa League,90.0,3.2,21,SEN
+Ayase Ueda,J5,AM,Forward,Feyenoord,UEFA Europa League,90.0,4.2,27,JPN
+Leo Sauer,J5,LW,Forward,Feyenoord,UEFA Europa League,61.0,3.9,19,SVK
+Gaoussou Diarra,J5,LW,Forward,Feyenoord,UEFA Europa League,29.0,6.0,23,MLI
+Anis Hadj Moussa,J5,RW,Forward,Feyenoord,UEFA Europa League,90.0,6.7,23,ALG
+Luciano Valente,J5,LM,Midfielder,Feyenoord,UEFA Europa League,75.0,6.0,22,NED
+Quinten Timber,J5,LM,Midfielder,Feyenoord,UEFA Europa League,15.0,2.8,24,NED
+Oussama Targhalline,J5,CM,Midfielder,Feyenoord,UEFA Europa League,90.0,4.6,23,MAR
+Sem Steijn,J5,RM,Midfielder,Feyenoord,UEFA Europa League,90.0,4.1,24,NED
+Gijs Smal,J5,LB,Defender,Feyenoord,UEFA Europa League,61.0,4.1,28,NED
+Bart Nieuwkoop,J5,RB,Defender,Feyenoord,UEFA Europa League,29.0,7.2,29,NED
+Tsuyoshi Watanabe,J5,CB,Defender,Feyenoord,UEFA Europa League,90.0,6.0,28,JPN
+Anel Ahmedhodžić,J5,CB,Defender,Feyenoord,UEFA Europa League,90.0,5.4,26,BIH
+Jordan Lotomba,J5,RB,Defender,Feyenoord,UEFA Europa League,80.0,5.8,27,SUI
+Shaqueel Van Persie,J5,AM,Forward,Feyenoord,UEFA Europa League,10.0,3.6,19,NED
+Daizen Maeda,J5,AM,Forward,Celtic,UEFA Europa League,90.0,3.8,28,JPN
+Yang Hyunjun,J5,LW,Forward,Celtic,UEFA Europa League,70.0,5.4,23,KOR
+Sebastian Tounekti,J5,LW,Forward,Celtic,UEFA Europa League,20.0,0.9,23,TUN
+Luke McCowan,J5,RW,Forward,Celtic,UEFA Europa League,62.0,4.5,27,SCO
+Benjamin Nygren,J5,RW,Forward,Celtic,UEFA Europa League,28.0,3.0,24,SWE
+Reo Hatate,J5,AM,Forward,Celtic,UEFA Europa League,82.0,6.9,28,JPN
+Paulo Bernardo,J5,AM,Forward,Celtic,UEFA Europa League,8.0,0.0,23,POR
+Callum McGregor,J5,DM,Midfielder,Celtic,UEFA Europa League,90.0,2.7,32,SCO
+Arne Engels,J5,DM,Midfielder,Celtic,UEFA Europa League,90.0,3.8,22,BEL
+Kieran Tierney,J5,LB,Defender,Celtic,UEFA Europa League,69.0,4.0,28,SCO
+Dane Murray,J5,CB,Defender,Celtic,UEFA Europa League,21.0,1.3,22,SCO
+Liam Scales,J5,CB,Defender,Celtic,UEFA Europa League,90.0,4.8,27,IRL
+Auston Trusty,J5,CB,Defender,Celtic,UEFA Europa League,90.0,3.5,27,USA
+Colby Donovan,J5,RB,Defender,Celtic,UEFA Europa League,83.0,6.8,19,SCO
+Anthony Ralston,J5,RB,Defender,Celtic,UEFA Europa League,7.0,4.6,27,SCO
+Hamza Igamane,J5,AM,Forward,Lille,UEFA Europa League,69.0,9.5,23,MAR
+Olivier Giroud,J5,AM,Forward,Lille,UEFA Europa League,21.0,4.0,39,FRA
+Félix Correia,J5,LW,Forward,Lille,UEFA Europa League,70.0,7.3,24,POR
+Osame Sahraoui,J5,LW,Forward,Lille,UEFA Europa League,20.0,6.5,24,MAR
+Ngal'Ayel Mukau,J5,RW,Forward,Lille,UEFA Europa League,90.0,5.9,20,COD
+Hákon Arnar Haraldsson,J5,AM,Forward,Lille,UEFA Europa League,83.0,9.8,22,ISL
+Matias Fernandez-Pardo,J5,AM,Forward,Lille,UEFA Europa League,7.0,2.1,20,BEL
+Benjamin André,J5,DM,Midfielder,Lille,UEFA Europa League,90.0,5.6,35,FRA
+Nabil Bentaleb,J5,DM,Midfielder,Lille,UEFA Europa League,69.0,7.1,31,ALG
+Ethan Mbappé,J5,RW,Forward,Lille,UEFA Europa League,21.0,9.3,18,FRA
+Romain Perraud,J5,LB,Defender,Lille,UEFA Europa League,77.0,5.5,28,FRA
+Tiago Santos,J5,LB,Defender,Lille,UEFA Europa League,13.0,4.7,23,POR
+Aïssa Mandi,J5,CB,Defender,Lille,UEFA Europa League,90.0,5.9,34,ALG
+Nathan Ngoy,J5,CB,Defender,Lille,UEFA Europa League,90.0,3.9,22,BEL
+Thomas Meunier,J5,RB,Defender,Lille,UEFA Europa League,90.0,5.1,34,BEL
+Monsef Bakrar,J5,AM,Forward,Dinamo Zagreb,UEFA Europa League,61.0,3.8,24,ALG
+Sandro Kulenović,J5,AM,Forward,Dinamo Zagreb,UEFA Europa League,29.0,2.3,25,CRO
+Arbër Hoxha,J5,LW,Forward,Dinamo Zagreb,UEFA Europa League,61.0,0.4,27,ALB
+Cardoso Varela,J5,RW,Forward,Dinamo Zagreb,UEFA Europa League,29.0,2.1,17,POR
+Mateo Lisica,J5,RW,Forward,Dinamo Zagreb,UEFA Europa League,70.0,3.5,22,CRO
+Gabriel Vidovic,J5,LW,Forward,Dinamo Zagreb,UEFA Europa League,20.0,1.0,21,CRO
+Dejan Ljubicic,J5,AM,Forward,Dinamo Zagreb,UEFA Europa League,61.0,1.4,28,AUT
+Luka Stojkovic,J5,AM,Forward,Dinamo Zagreb,UEFA Europa League,29.0,3.0,22,CRO
+Miha Zajc,J5,DM,Midfielder,Dinamo Zagreb,UEFA Europa League,76.0,5.1,31,SVN
+Gonzalo Villar,J5,DM,Midfielder,Dinamo Zagreb,UEFA Europa League,14.0,5.3,27,ESP
+Josip Mišić,J5,DM,Midfielder,Dinamo Zagreb,UEFA Europa League,90.0,4.6,31,CRO
+Matteo Perez Vinlöf,J5,LB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,4.0,19,SWE
+Scott McKenna,J5,CB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,5.3,29,SCO
+Sergi Dominguez,J5,CB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,4.8,20,ESP
+Noa Mikić,J5,RB,Defender,Dinamo Zagreb,UEFA Europa League,90.0,5.1,18,CRO
+Rafiu Durosinmi,J5,AM,Forward,Viktoria Plzeň,UEFA Europa League,90.0,4.7,22,NGA
+Cheick Souaré,J5,AM,Forward,Viktoria Plzeň,UEFA Europa League,89.0,8.2,23,FRA
+Milan Havel,J5,AM,Forward,Viktoria Plzeň,UEFA Europa League,1.0,0.0,31,CZE
+Matěj Vydra,J5,AM,Forward,Viktoria Plzeň,UEFA Europa League,45.0,5.2,33,CZE
+Tomáš Ladra,J5,AM,Forward,Viktoria Plzeň,UEFA Europa League,45.0,5.5,28,CZE
+Lukáš Červ,J5,CM,Midfielder,Viktoria Plzeň,UEFA Europa League,90.0,3.1,24,CZE
+Matej Valenta,J5,CM,Midfielder,Viktoria Plzeň,UEFA Europa League,81.0,5.8,25,CZE
+Adrian Zeljković,J5,CM,Midfielder,Viktoria Plzeň,UEFA Europa League,9.0,3.8,23,SVN
+Prince Adu Kwabena,J5,WB,Midfielder,Viktoria Plzeň,UEFA Europa League,88.0,6.2,22,GHA
+Denis Višinský,J5,WB,Midfielder,Viktoria Plzeň,UEFA Europa League,2.0,0.9,22,CZE
+Amar Memić,J5,WB,Midfielder,Viktoria Plzeň,UEFA Europa League,90.0,5.7,24,BIH
+Merchas Doski,J5,CB,Defender,Viktoria Plzeň,UEFA Europa League,90.0,3.9,25,IRQ
+Václav Jemelka,J5,CB,Defender,Viktoria Plzeň,UEFA Europa League,90.0,3.6,30,CZE
+Sampson Dweh Jr.,J5,CB,Defender,Viktoria Plzeň,UEFA Europa League,90.0,5.9,24,LBR
+Junior Adamu,J5,AM,Forward,Freiburg,UEFA Europa League,45.0,5.6,24,AUT
+Igor Matanovic,J5,AM,Forward,Freiburg,UEFA Europa League,45.0,4.4,22,CRO
+Vincenzo Grifo,J5,LW,Forward,Freiburg,UEFA Europa League,60.0,3.1,32,ITA
+Derry Scherhant,J5,LW,Forward,Freiburg,UEFA Europa League,30.0,2.6,23,GER
+Jan-Niklas Beste,J5,RW,Forward,Freiburg,UEFA Europa League,90.0,2.9,26,GER
+Yuito Suzuki,J5,AM,Forward,Freiburg,UEFA Europa League,68.0,4.1,24,JPN
+Johan Manzambi,J5,AM,Forward,Freiburg,UEFA Europa League,22.0,3.9,20,SUI
+Patrick Osterhage,J5,DM,Midfielder,Freiburg,UEFA Europa League,90.0,4.6,25,GER
+Maximilian Eggestein,J5,DM,Midfielder,Freiburg,UEFA Europa League,68.0,6.0,28,GER
+Nicolas Höfler,J5,DM,Midfielder,Freiburg,UEFA Europa League,22.0,1.9,35,GER
+Christian Günter,J5,LB,Defender,Freiburg,UEFA Europa League,82.0,3.6,32,GER
+Philipp Treu,J5,LB,Defender,Freiburg,UEFA Europa League,8.0,3.9,24,GER
+Philipp Lienhart,J5,CB,Defender,Freiburg,UEFA Europa League,90.0,5.1,29,AUT
+Matthias Ginter,J5,CB,Defender,Freiburg,UEFA Europa League,90.0,4.3,31,GER
+Lukas Kübler,J5,RB,Defender,Freiburg,UEFA Europa League,90.0,5.2,33,GER
+Petar Stanic,J5,AM,Forward,Ludogorets,UEFA Europa League,90.0,5.8,24,SRB
+Ivan Yordanov,J5,LW,Forward,Ludogorets,UEFA Europa League,90.0,1.7,25,BUL
+Caio Vidal,J5,RW,Forward,Ludogorets,UEFA Europa League,84.0,6.4,25,BRA
+Yves Bile,J5,RW,Forward,Ludogorets,UEFA Europa League,6.0,0.1,20,CIV
+Aguibou Camara,J5,AM,Forward,Ludogorets,UEFA Europa League,58.0,3.3,24,GUI
+Ivaylo Chochev,J5,AM,Forward,Ludogorets,UEFA Europa League,32.0,1.5,32,BUL
+Deroy Duarte,J5,DM,Midfielder,Ludogorets,UEFA Europa League,90.0,4.4,26,CPV
+Pedrinho,J5,DM,Midfielder,Ludogorets,UEFA Europa League,75.0,5.8,27,BRA
+Filip Kaloč,J5,DM,Midfielder,Ludogorets,UEFA Europa League,15.0,0.3,25,CZE
+Anton Nedyalkov,J5,LB,Defender,Ludogorets,UEFA Europa League,75.0,3.7,32,BUL
+Erick Marcus,J5,LB,Defender,Ludogorets,UEFA Europa League,15.0,3.5,21,BRA
+Dinis Almeida,J5,CB,Defender,Ludogorets,UEFA Europa League,90.0,5.1,30,POR
+Olivier Verdon,J5,CB,Defender,Ludogorets,UEFA Europa League,90.0,3.4,30,BEN
+Son,J5,RB,Defender,Ludogorets,UEFA Europa League,90.0,4.7,31,ESP
+Borja Iglesias,J5,AM,Forward,Celta Vigo,UEFA Europa League,56.0,3.5,32,ESP
+Iago Aspas,J5,CM,Midfielder,Celta Vigo,UEFA Europa League,34.0,5.0,38,ESP
+Ferran Jutglà,J5,AM,Forward,Celta Vigo,UEFA Europa League,45.0,5.5,26,ESP
+Pablo Durán,J5,AM,Forward,Celta Vigo,UEFA Europa League,45.0,5.0,24,ESP
+Ángel Arcos,J5,LM,Midfielder,Celta Vigo,UEFA Europa League,56.0,5.0,19,ESP
+Bryan Zaragoza,J5,LM,Midfielder,Celta Vigo,UEFA Europa League,34.0,6.2,24,ESP
+Ilaix Moriba,J5,CM,Midfielder,Celta Vigo,UEFA Europa League,90.0,3.9,22,GUI
+Damián Rodríguez,J5,CM,Midfielder,Celta Vigo,UEFA Europa League,45.0,3.1,22,ESP
+Miguel Román,J5,DM,Midfielder,Celta Vigo,UEFA Europa League,45.0,3.9,22,ESP
+Jones El-Abdellaoui,J5,RM,Midfielder,Celta Vigo,UEFA Europa League,90.0,4.2,19,MAR
+Mihailo Ristić,J5,LB,Defender,Celta Vigo,UEFA Europa League,90.0,5.1,30,SRB
+Manu Fernández,J5,CB,Defender,Celta Vigo,UEFA Europa League,90.0,3.6,24,ESP
+Yoel Lago,J5,CB,Defender,Celta Vigo,UEFA Europa League,67.0,3.3,21,ESP
+Carl Starfelt,J5,CB,Defender,Celta Vigo,UEFA Europa League,23.0,3.7,30,SWE
+Óscar Mingueza,J5,RB,Defender,Celta Vigo,UEFA Europa League,90.0,5.0,26,ESP
+Giorgos Giakoumakis,J5,AM,Forward,PAOK,UEFA Europa League,83.0,3.7,30,GRE
+Fyodor Chalov,J5,AM,Forward,PAOK,UEFA Europa League,7.0,2.9,27,RUS
+Taison,J5,LW,Forward,PAOK,UEFA Europa League,78.0,8.9,37,BRA
+Kiril Despodov,J5,LW,Forward,PAOK,UEFA Europa League,12.0,1.0,29,BUL
+Andrija Živković,J5,RW,Forward,PAOK,UEFA Europa League,90.0,5.4,29,SRB
+Luka Ivanušec,J5,AM,Forward,PAOK,UEFA Europa League,90.0,4.9,27,CRO
+Soualiho Meïté,J5,DM,Midfielder,PAOK,UEFA Europa League,90.0,4.3,31,FRA
+Alessandro Bianco,J5,DM,Midfielder,PAOK,UEFA Europa League,61.0,3.3,23,ITA
+Magomed Ozdoyev,J5,DM,Midfielder,PAOK,UEFA Europa League,29.0,2.4,33,RUS
+Baba Rahman,J5,LB,Defender,PAOK,UEFA Europa League,90.0,6.4,31,GHA
+Giannis Michailidis,J5,CB,Defender,PAOK,UEFA Europa League,90.0,5.5,25,GRE
+Tomasz Kędziora,J5,CB,Defender,PAOK,UEFA Europa League,90.0,5.0,31,POL
+Jonjoe Kenny,J5,RB,Defender,PAOK,UEFA Europa League,90.0,4.8,28,ENG
+Noah Holm,J5,AM,Forward,Brann,UEFA Europa League,90.0,3.1,24,NOR
+Niklas Castro,J5,LW,Forward,Brann,UEFA Europa League,71.0,5.1,29,CHI
+Markus Haaland,J5,RW,Forward,Brann,UEFA Europa League,19.0,4.5,20,NOR
+Ulrik Mathisen,J5,RW,Forward,Brann,UEFA Europa League,71.0,3.3,26,NOR
+Bård Finne,J5,LW,Forward,Brann,UEFA Europa League,19.0,3.8,30,NOR
+Eggert Aron Guðmundsson,J5,LM,Midfielder,Brann,UEFA Europa League,76.0,5.6,21,ISL
+Thore Pedersen,J5,LM,Midfielder,Brann,UEFA Europa League,14.0,1.8,29,NOR
+Jakob Sørensen,J5,CM,Midfielder,Brann,UEFA Europa League,90.0,5.5,27,DEN
+Emil Kornvig,J5,RM,Midfielder,Brann,UEFA Europa League,90.0,5.8,25,DEN
+Vetle Dragsnes,J5,LB,Defender,Brann,UEFA Europa League,86.0,3.4,31,NOR
+Joachim Soltvedt,J5,LB,Defender,Brann,UEFA Europa League,4.0,2.4,30,NOR
+Japhet Sery,J5,CB,Defender,Brann,UEFA Europa League,71.0,4.4,25,DEN
+Denzel De Roeve,J5,RB,Defender,Brann,UEFA Europa League,19.0,5.5,21,BEL
+Fredrik Pallesen Knudsen,J5,CB,Defender,Brann,UEFA Europa League,90.0,5.5,29,NOR
+Eivind Helland,J5,RB,Defender,Brann,UEFA Europa League,90.0,6.3,20,NOR
+Youssef Chermiti,J5,AM,Forward,Rangers,UEFA Europa League,88.0,2.3,21,POR
+Oliver Antman,J5,AM,Forward,Rangers,UEFA Europa League,2.0,1.8,24,FIN
+Danilo,J5,LW,Forward,Rangers,UEFA Europa League,71.0,4.9,26,BRA
+Thelo Aasgaard,J5,LW,Forward,Rangers,UEFA Europa League,19.0,3.0,23,NOR
+Djeidi Gassama,J5,RW,Forward,Rangers,UEFA Europa League,90.0,6.3,22,FRA
+Mohamed Diomandé,J5,AM,Forward,Rangers,UEFA Europa League,89.0,5.4,24,CIV
+Connor Barron,J5,DM,Midfielder,Rangers,UEFA Europa League,76.0,7.0,23,SCO
+Bojan Miovski,J5,DM,Midfielder,Rangers,UEFA Europa League,14.0,1.4,26,MKD
+Nicolas Raskin,J5,DM,Midfielder,Rangers,UEFA Europa League,90.0,3.9,24,BEL
+Max Aarons,J5,LB,Defender,Rangers,UEFA Europa League,88.0,5.8,25,ENG
+Jayden Meghoma,J5,LB,Defender,Rangers,UEFA Europa League,2.0,3.6,19,ENG
+Emmanuel Fernandez,J5,CB,Defender,Rangers,UEFA Europa League,90.0,4.1,24,ENG
+Nasser Djiga,J5,CB,Defender,Rangers,UEFA Europa League,90.0,2.7,23,BFA
+James Tavernier,J5,RB,Defender,Rangers,UEFA Europa League,90.0,6.5,34,ENG
+Fran Navarro,J5,AM,Forward,Braga,UEFA Europa League,45.0,0.4,27,ESP
+Amine El Ouazzani,J5,AM,Forward,Braga,UEFA Europa League,45.0,2.8,24,MAR
+Ricardo Horta,J5,AM,Forward,Braga,UEFA Europa League,90.0,6.9,31,POR
+Rodrigo Zalazar,J5,AM,Forward,Braga,UEFA Europa League,60.0,6.3,26,URU
+João Moutinho,J5,CM,Midfielder,Braga,UEFA Europa League,65.0,3.0,39,POR
+Florian Grillitsch,J5,CM,Midfielder,Braga,UEFA Europa League,25.0,2.0,30,AUT
+Jean Gorby,J5,CM,Midfielder,Braga,UEFA Europa League,89.0,6.6,23,FRA
+Gabriel Moscardo,J5,CM,Midfielder,Braga,UEFA Europa League,1.0,0.9,20,BRA
+Gabri Martínez,J5,WB,Midfielder,Braga,UEFA Europa League,81.0,4.4,22,ESP
+Vitor Carvalho,J5,WB,Midfielder,Braga,UEFA Europa League,9.0,1.1,28,BRA
+Victor Gomez,J5,WB,Midfielder,Braga,UEFA Europa League,90.0,3.1,25,ESP
+Sikou Niakaté,J5,CB,Defender,Braga,UEFA Europa League,90.0,3.5,26,MLI
+Gustaf Lagerbielke,J5,CB,Defender,Braga,UEFA Europa League,90.0,5.5,25,SWE
+Bright Arrey-Mbi,J5,CB,Defender,Braga,UEFA Europa League,90.0,4.1,22,GER
+Arnaud Kalimuendo,J5,AM,Forward,Nott'ham Forest,UEFA Europa League,65.0,4.7,23,FRA
+Igor Jesus,J5,AM,Forward,Nott'ham Forest,UEFA Europa League,25.0,0.5,24,BRA
+Callum Hudson-Odoi,J5,LW,Forward,Nott'ham Forest,UEFA Europa League,90.0,7.4,25,ENG
+Nicolás Domínguez,J5,RW,Forward,Nott'ham Forest,UEFA Europa League,65.0,4.6,27,ARG
+Dan Ndoye,J5,LW,Forward,Nott'ham Forest,UEFA Europa League,25.0,3.6,25,SUI
+James Mcatee,J5,AM,Forward,Nott'ham Forest,UEFA Europa League,83.0,5.5,23,ENG
+Jimmy Sinclair,J5,RW,Forward,Nott'ham Forest,UEFA Europa League,7.0,0.7,19,ENG
+Ibrahim Sangaré,J5,DM,Midfielder,Nott'ham Forest,UEFA Europa League,65.0,6.3,27,CIV
+Elliot Anderson,J5,DM,Midfielder,Nott'ham Forest,UEFA Europa League,25.0,5.9,23,ENG
+Ryan Yates,J5,DM,Midfielder,Nott'ham Forest,UEFA Europa League,90.0,5.7,28,ENG
+Murillo,J5,LB,Defender,Nott'ham Forest,UEFA Europa League,73.0,4.6,23,BRA
+Neco Williams,J5,LB,Defender,Nott'ham Forest,UEFA Europa League,17.0,5.2,24,WAL
+Morato,J5,CB,Defender,Nott'ham Forest,UEFA Europa League,90.0,4.2,24,BRA
+Nikola Milenković,J5,CB,Defender,Nott'ham Forest,UEFA Europa League,90.0,4.2,28,SRB
+Zach Abbott,J5,RB,Defender,Nott'ham Forest,UEFA Europa League,90.0,4.7,19,ENG
+Daníel Gudjohnsen,J5,AM,Forward,Malmö,UEFA Europa League,64.0,0.2,19,ISL
+Anders Christiansen,J5,AM,Forward,Malmö,UEFA Europa League,26.0,1.5,35,DEN
+Sead Haksabanović,J5,AM,Forward,Malmö,UEFA Europa League,86.0,3.8,26,MNE
+Oliver Berg,J5,AM,Forward,Malmö,UEFA Europa League,4.0,1.0,32,NOR
+Hugo Bolin,J5,AM,Forward,Malmö,UEFA Europa League,51.0,0.3,22,SWE
+Emmanuel Ekong,J5,AM,Forward,Malmö,UEFA Europa League,39.0,2.1,23,SWE
+Adrian Skogmar,J5,CM,Midfielder,Malmö,UEFA Europa League,86.0,2.7,20,SWE
+Oscar Lewicki,J5,CM,Midfielder,Malmö,UEFA Europa League,4.0,2.5,33,SWE
+Lasse Berg Johnsen,J5,CM,Midfielder,Malmö,UEFA Europa League,64.0,1.9,26,NOR
+Kenan Busuladžić,J5,CM,Midfielder,Malmö,UEFA Europa League,26.0,4.1,18,SWE
+Busanello,J5,WB,Midfielder,Malmö,UEFA Europa League,90.0,2.6,27,BRA
+Jens Stryger Larsen,J5,WB,Midfielder,Malmö,UEFA Europa League,90.0,2.1,34,DEN
+Colin Rosler,J5,CB,Defender,Malmö,UEFA Europa League,90.0,4.7,25,NOR
+Pontus Jansson,J5,CB,Defender,Malmö,UEFA Europa League,90.0,4.9,34,SWE
+Andrej Đurić,J5,CB,Defender,Malmö,UEFA Europa League,90.0,4.8,22,MNE
+Youssef En-Nesyri,J5,AM,Forward,Fenerbahçe,UEFA Europa League,59.0,3.8,28,MAR
+Jáder Durán,J5,AM,Forward,Fenerbahçe,UEFA Europa League,30.0,0.8,21,COL
+Kerem Aktürkoğlu,J5,LM,Midfielder,Fenerbahçe,UEFA Europa League,59.0,3.9,27,TUR
+Levent Mercan,J5,LB,Defender,Fenerbahçe,UEFA Europa League,31.0,6.1,24,GER
+Marco Asensio,J5,CM,Midfielder,Fenerbahçe,UEFA Europa League,59.0,4.9,29,ESP
+Nene Dorgeles,J5,RM,Midfielder,Fenerbahçe,UEFA Europa League,31.0,4.1,22,MLI
+Talisca,J5,CM,Midfielder,Fenerbahçe,UEFA Europa League,90.0,6.5,31,BRA
+Oğuz Aydın,J5,RM,Midfielder,Fenerbahçe,UEFA Europa League,90.0,5.0,25,TUR
+Edson Álvarez,J5,DM,Midfielder,Fenerbahçe,UEFA Europa League,90.0,5.9,28,MEX
+Archie Brown,J5,LB,Defender,Fenerbahçe,UEFA Europa League,90.0,3.3,23,ENG
+Yiğit Efe Demir,J5,CB,Defender,Fenerbahçe,UEFA Europa League,75.0,5.4,21,NAN
+Mert Müldür,J5,RB,Defender,Fenerbahçe,UEFA Europa League,15.0,5.7,26,TUR
+Milan Škriniar,J5,CB,Defender,Fenerbahçe,UEFA Europa League,90.0,5.2,30,SVK
+Nélson Semedo,J5,RB,Defender,Fenerbahçe,UEFA Europa League,90.0,5.0,32,POR
+Dele,J5,AM,Forward,Ferencváros,UEFA Europa League,73.0,5.1,24,NGA
+Lenny Joseph,J5,AM,Forward,Ferencváros,UEFA Europa League,17.0,1.0,25,FRA
+Barnabás Varga,J5,AM,Forward,Ferencváros,UEFA Europa League,90.0,5.5,31,HUN
+Gavriel Kanichowsky,J5,CM,Midfielder,Ferencváros,UEFA Europa League,80.0,6.3,28,ISR
+Bence Ötvös,J5,CM,Midfielder,Ferencváros,UEFA Europa League,10.0,0.1,27,HUN
+Naby Keïta,J5,CM,Midfielder,Ferencváros,UEFA Europa League,80.0,6.4,30,GUI
+Julio Romão,J5,CM,Midfielder,Ferencváros,UEFA Europa League,10.0,4.2,27,BRA
+Kristoffer Zachariassen,J5,CM,Midfielder,Ferencváros,UEFA Europa League,59.0,3.6,31,NOR
+Alex Tóth,J5,CM,Midfielder,Ferencváros,UEFA Europa League,31.0,1.8,20,HUN
+Cadu,J5,WB,Midfielder,Ferencváros,UEFA Europa League,59.0,4.5,28,BRA
+Callum O'Dowda,J5,WB,Midfielder,Ferencváros,UEFA Europa League,31.0,1.6,30,IRL
+Cebrails Makreckis,J5,WB,Midfielder,Ferencváros,UEFA Europa League,90.0,3.1,25,LVA
+Gábor Szalai,J5,CB,Defender,Ferencváros,UEFA Europa League,90.0,2.7,25,HUN
+Toon Raemaekers,J5,CB,Defender,Ferencváros,UEFA Europa League,90.0,5.5,25,BEL
+Ibrahim Cissé,J5,CB,Defender,Ferencváros,UEFA Europa League,90.0,2.4,29,SEN
+Saied Farchi,J5,AM,Forward,Maccabi Tel Aviv,UEFA Europa League,90.0,1.2,19,ISR
+Hélio Varela,J5,LW,Forward,Maccabi Tel Aviv,UEFA Europa League,29.0,1.0,23,CPV
+Sagiv Yehezkel,J5,LW,Forward,Maccabi Tel Aviv,UEFA Europa League,60.0,2.3,30,ISR
+Osher Davida,J5,RW,Forward,Maccabi Tel Aviv,UEFA Europa League,56.0,2.7,24,ISR
+Ion Nicolaescu,J5,AM,Forward,Maccabi Tel Aviv,UEFA Europa League,34.0,2.7,27,MDA
+Dor Peretz,J5,AM,Forward,Maccabi Tel Aviv,UEFA Europa League,73.0,3.2,30,ISR
+Kervin Andrade,J5,AM,Forward,Maccabi Tel Aviv,UEFA Europa League,17.0,1.0,20,VEN
+Ido Shahar,J5,DM,Midfielder,Maccabi Tel Aviv,UEFA Europa League,90.0,2.9,24,ISR
+Ben Lederman,J5,DM,Midfielder,Maccabi Tel Aviv,UEFA Europa League,45.0,2.8,25,POL
+Itamar Noy,J5,DM,Midfielder,Maccabi Tel Aviv,UEFA Europa League,45.0,3.3,24,ISR
+Roy Revivo,J5,LB,Defender,Maccabi Tel Aviv,UEFA Europa League,56.0,5.1,22,ISR
+Noam Ben Harosh,J5,LB,Defender,Maccabi Tel Aviv,UEFA Europa League,34.0,2.2,20,ISR
+Raz Shlomo,J5,CB,Defender,Maccabi Tel Aviv,UEFA Europa League,90.0,5.0,26,ISR
+Heitor,J5,CB,Defender,Maccabi Tel Aviv,UEFA Europa League,90.0,3.9,25,BRA
+Tyrese Asante,J5,RB,Defender,Maccabi Tel Aviv,UEFA Europa League,90.0,4.0,23,NED
+Martin Satriano,J5,AM,Forward,Lyon,UEFA Europa League,76.0,4.1,24,URU
+Alejandro Rodriguez,J5,AM,Forward,Lyon,UEFA Europa League,14.0,0.1,17,POR
+Abner,J5,LW,Forward,Lyon,UEFA Europa League,68.0,8.6,25,BRA
+Téo Barisic,J5,CB,Defender,Lyon,UEFA Europa League,22.0,2.6,21,CRO
+Pavel Šulc,J5,RW,Forward,Lyon,UEFA Europa League,57.0,7.4,24,CZE
+Adam Karabec,J5,RW,Forward,Lyon,UEFA Europa League,33.0,4.1,22,CZE
+Corentin Tolisso,J5,LM,Midfielder,Lyon,UEFA Europa League,57.0,3.8,31,FRA
+Khalis Merah,J5,LW,Forward,Lyon,UEFA Europa League,33.0,5.1,18,FRA
+Tyler Morton,J5,CM,Midfielder,Lyon,UEFA Europa League,90.0,6.9,23,ENG
+Mathys De Carvalho,J5,RM,Midfielder,Lyon,UEFA Europa League,90.0,3.7,20,FRA
+Nicolás Tagliafico,J5,LB,Defender,Lyon,UEFA Europa League,90.0,4.1,33,ARG
+Moussa Niakhate,J5,CB,Defender,Lyon,UEFA Europa League,90.0,4.1,29,SEN
+Tanner Tessmann,J5,CB,Defender,Lyon,UEFA Europa League,90.0,5.2,24,USA
+Ainsley Maitland-Niles,J5,RB,Defender,Lyon,UEFA Europa League,68.0,6.0,28,ENG
+Tiago Silva,J5,RM,Midfielder,Lyon,UEFA Europa League,22.0,3.6,18,POR
+Marko Arnautović,J5,AM,Forward,Red Star,UEFA Europa League,84.0,6.8,36,AUT
+Aleksandar Katai,J5,AM,Forward,Red Star,UEFA Europa League,6.0,1.1,34,SRB
+Mirko Ivanić,J5,LM,Midfielder,Red Star,UEFA Europa League,90.0,5.9,32,MNE
+Tomás Händel,J5,CM,Midfielder,Red Star,UEFA Europa League,80.0,4.9,25,POR
+Milson,J5,RM,Midfielder,Red Star,UEFA Europa League,10.0,3.7,26,ANG
+Bruno Duarte,J5,RM,Midfielder,Red Star,UEFA Europa League,68.0,6.8,29,BRA
+Rodrigão,J5,CB,Defender,Red Star,UEFA Europa League,22.0,2.2,30,BRA
+Timi Elšnik,J5,CM,Midfielder,Red Star,UEFA Europa League,90.0,3.7,27,SVN
+Rade Krunić,J5,CB,Defender,Red Star,UEFA Europa League,90.0,4.3,32,BIH
+Nair Tiknizyan,J5,LB,Defender,Red Star,UEFA Europa League,90.0,5.4,26,ARM
+Franklin Tebo,J5,CB,Defender,Red Star,UEFA Europa League,26.0,3.5,25,NGA
+Miloš Veljković,J5,CB,Defender,Red Star,UEFA Europa League,90.0,3.4,30,SRB
+Seol Young-woo,J5,RB,Defender,Red Star,UEFA Europa League,90.0,5.2,26,KOR
+Daniel Birligea,J5,AM,Forward,FCSB,UEFA Europa League,90.0,4.5,25,ROU
+Mamadou Thiam,J5,LW,Forward,FCSB,UEFA Europa League,45.0,0.8,30,SEN
+Juri Cisotti,J5,LW,Forward,FCSB,UEFA Europa League,45.0,4.3,32,ITA
+David Miculescu,J5,RW,Forward,FCSB,UEFA Europa League,83.0,7.8,24,ROU
+Dennis Politic,J5,RW,Forward,FCSB,UEFA Europa League,7.0,1.8,25,ROU
+Darius Olaru,J5,AM,Forward,FCSB,UEFA Europa League,73.0,5.1,27,ROU
+Octavian-George Popescu,J5,AM,Forward,FCSB,UEFA Europa League,17.0,4.7,22,ROU
+Adrian Șut,J5,DM,Midfielder,FCSB,UEFA Europa League,90.0,5.5,26,ROU
+Mihai Lixandru,J5,DM,Midfielder,FCSB,UEFA Europa League,45.0,4.0,24,ROU
+Florin Tănase,J5,DM,Midfielder,FCSB,UEFA Europa League,45.0,7.5,30,ROU
+Risto Radunović,J5,LB,Defender,FCSB,UEFA Europa League,90.0,5.7,33,MNE
+Daniel Graovac,J5,CB,Defender,FCSB,UEFA Europa League,90.0,6.0,32,BIH
+Siyabonga Ngezana,J5,CB,Defender,FCSB,UEFA Europa League,90.0,6.6,28,RSA
+Valentin Crețu,J5,RB,Defender,FCSB,UEFA Europa League,83.0,7.2,36,ROU
+Alexandru Pantea,J5,RB,Defender,FCSB,UEFA Europa League,7.0,4.6,22,ROU
+Oh Hyeon-gyu,J5,AM,Forward,Genk,UEFA Europa League,74.0,5.1,24,KOR
+Robin Mirisola,J5,AM,Forward,Genk,UEFA Europa League,16.0,4.6,18,BEL
+Yira Sor,J5,LW,Forward,Genk,UEFA Europa League,45.0,5.6,25,NGA
+Noah Adedeji,J5,LW,Forward,Genk,UEFA Europa League,45.0,7.3,20,BEL
+Konstantinos Karetsas,J5,RW,Forward,Genk,UEFA Europa League,90.0,7.1,18,GRE
+Daan Heymans,J5,AM,Forward,Genk,UEFA Europa League,74.0,6.8,26,BEL
+Nikolas Sattlberger,J5,AM,Forward,Genk,UEFA Europa League,16.0,1.9,21,AUT
+Bryan Heynen,J5,DM,Midfielder,Genk,UEFA Europa League,90.0,5.6,28,BEL
+Patrik Hrošovský,J5,DM,Midfielder,Genk,UEFA Europa League,89.0,4.4,33,SVK
+Ibrahima Sory Bangoura,J5,DM,Midfielder,Genk,UEFA Europa League,1.0,2.3,21,GUI
+Yaimar Medina,J5,LB,Defender,Genk,UEFA Europa League,89.0,6.4,21,ECU
+Adrián Palacios,J5,LB,Defender,Genk,UEFA Europa League,1.0,2.3,21,VEN
+Matte Smets,J5,CB,Defender,Genk,UEFA Europa League,90.0,4.5,21,BEL
+Mujaid Sadick,J5,CB,Defender,Genk,UEFA Europa League,90.0,4.7,25,ESP
+Zakaria El Ouahdi,J5,RB,Defender,Genk,UEFA Europa League,90.0,6.6,23,MAR
+Moritz Broschinski,J5,AM,Forward,Basel,UEFA Europa League,59.0,2.0,25,GER
+Albian Ajeti,J5,AM,Forward,Basel,UEFA Europa League,31.0,2.2,28,SUI
+Philip Otele,J5,LW,Forward,Basel,UEFA Europa League,86.0,8.4,26,NGA
+Marin Šotiček,J5,WB,Midfielder,Basel,UEFA Europa League,4.0,2.1,21,CRO
+Bénie Traoré,J5,RW,Forward,Basel,UEFA Europa League,90.0,7.5,22,CIV
+Andrej Bačanin,J5,LM,Midfielder,Basel,UEFA Europa League,78.0,4.7,18,SRB
+Koba Koindredi,J5,CM,Midfielder,Basel,UEFA Europa League,12.0,2.4,24,FRA
+Metinho,J5,CM,Midfielder,Basel,UEFA Europa League,90.0,5.5,22,BRA
+Léo Leroy,J5,RM,Midfielder,Basel,UEFA Europa League,59.0,4.7,25,FRA
+Jeremy Agbonifo,J5,RM,Midfielder,Basel,UEFA Europa League,31.0,2.9,20,SWE
+Dominik Schmid,J5,LB,Defender,Basel,UEFA Europa League,90.0,6.7,27,SUI
+Flavius Daniliuc,J5,CB,Defender,Basel,UEFA Europa League,90.0,5.8,24,AUT
+Jonas Adjetey,J5,CB,Defender,Basel,UEFA Europa League,90.0,4.9,21,GHA
+Keigo Tsunemoto,J5,RB,Defender,Basel,UEFA Europa League,78.0,6.4,27,JPN
+Xherdan Shaqiri,J5,AM,Forward,Basel,UEFA Europa League,12.0,2.8,34,SUI
+Thijs Dallinga,J5,AM,Forward,Bologna,UEFA Europa League,80.0,6.6,25,NED
+Santiago Castro,J5,AM,Forward,Bologna,UEFA Europa League,10.0,4.4,21,ARG
+Federico Bernardeschi,J5,LW,Forward,Bologna,UEFA Europa League,68.0,8.8,31,ITA
+Benjamín Domínguez,J5,LW,Forward,Bologna,UEFA Europa League,22.0,5.2,22,ARG
+Riccardo Orsolini,J5,RW,Forward,Bologna,UEFA Europa League,90.0,6.3,28,ITA
+Jens Odgaard,J5,AM,Forward,Bologna,UEFA Europa League,68.0,6.5,26,DEN
+Giovanni Fabbian,J5,AM,Forward,Bologna,UEFA Europa League,22.0,7.3,22,ITA
+Tommaso Pobega,J5,DM,Midfielder,Bologna,UEFA Europa League,74.0,4.3,26,ITA
+Nikola Moro,J5,DM,Midfielder,Bologna,UEFA Europa League,16.0,3.4,27,CRO
+Lewis Ferguson,J5,DM,Midfielder,Bologna,UEFA Europa League,90.0,5.3,26,SCO
+Juan Miranda,J5,LB,Defender,Bologna,UEFA Europa League,90.0,4.9,25,ESP
+Jhon Lucumí,J5,CB,Defender,Bologna,UEFA Europa League,90.0,5.0,27,COL
+Torbjørn Heggem,J5,CB,Defender,Bologna,UEFA Europa League,68.0,6.6,26,NOR
+Martin Vitík,J5,CB,Defender,Bologna,UEFA Europa League,22.0,3.2,22,CZE
+Nadir Zortea,J5,RB,Defender,Bologna,UEFA Europa League,90.0,5.5,26,ITA
+Yorbe Vertessen,J5,AM,Forward,RB Salzburg,UEFA Europa League,73.0,7.3,24,BEL
+Enrique Aguilar,J5,AM,Forward,RB Salzburg,UEFA Europa League,17.0,0.9,18,SUI
+Edmund Baidoo,J5,AM,Forward,RB Salzburg,UEFA Europa League,80.0,5.9,19,GHA
+Karim Konaté,J5,AM,Forward,RB Salzburg,UEFA Europa League,10.0,1.3,21,CIV
+Clement Bischoff,J5,LM,Midfielder,RB Salzburg,UEFA Europa League,73.0,3.9,19,DEN
+Oliver Lukic,J5,RM,Midfielder,RB Salzburg,UEFA Europa League,17.0,3.3,19,CRO
+Soumaïla Diabaté,J5,CM,Midfielder,RB Salzburg,UEFA Europa League,58.0,4.9,21,MLI
+Kerim Alajbegović,J5,LM,Midfielder,RB Salzburg,UEFA Europa League,32.0,3.4,18,BIH
+Mads Bidstrup,J5,CM,Midfielder,RB Salzburg,UEFA Europa League,90.0,5.1,24,DEN
+Moussa Kounfolo Yeo,J5,RM,Midfielder,RB Salzburg,UEFA Europa League,59.0,3.7,21,MLI
+Petar Ratkov,J5,AM,Forward,RB Salzburg,UEFA Europa League,31.0,6.8,22,SRB
+Aleksa Terzić,J5,LB,Defender,RB Salzburg,UEFA Europa League,90.0,5.7,26,SRB
+Jacob Rasmussen,J5,CB,Defender,RB Salzburg,UEFA Europa League,90.0,6.0,28,DEN
+Kouakou Gadou,J5,CB,Defender,RB Salzburg,UEFA Europa League,90.0,5.5,18,FRA
+Stefan Lainer,J5,RB,Defender,RB Salzburg,UEFA Europa League,90.0,5.9,33,AUT
+Milan Smit,J5,AM,Forward,Go Ahead Eag,UEFA Europa League,90.0,2.9,22,NED
+Mathis Suray,J5,LW,Forward,Go Ahead Eag,UEFA Europa League,80.0,1.7,24,BEL
+Aske Adelgaard,J5,LW,Forward,Go Ahead Eag,UEFA Europa League,10.0,1.0,22,DEN
+Kenzo Goudmijn,J5,RW,Forward,Go Ahead Eag,UEFA Europa League,45.0,2.7,23,NED
+Oskar Siira Sivertsen,J5,RW,Forward,Go Ahead Eag,UEFA Europa League,45.0,5.5,21,NOR
+Calvin Twigt,J5,AM,Forward,Go Ahead Eag,UEFA Europa League,70.0,3.5,22,NED
+Victor Edvardsen,J5,AM,Forward,Go Ahead Eag,UEFA Europa League,20.0,1.9,29,SWE
+Yassir Salah Rahmouni,J5,DM,Midfielder,Go Ahead Eag,UEFA Europa League,45.0,3.9,19,NED
+Evert Linthorst,J5,DM,Midfielder,Go Ahead Eag,UEFA Europa League,45.0,1.6,25,NED
+Melle Meulensteen,J5,DM,Midfielder,Go Ahead Eag,UEFA Europa League,90.0,5.1,26,NED
+Dean James,J5,LB,Defender,Go Ahead Eag,UEFA Europa League,90.0,1.9,25,IDN
+Joris Kramer,J5,CB,Defender,Go Ahead Eag,UEFA Europa League,90.0,4.7,29,NED
+Julius Dirksen,J5,CB,Defender,Go Ahead Eag,UEFA Europa League,59.0,5.5,22,NED
+Giovanni van Zwam,J5,CB,Defender,Go Ahead Eag,UEFA Europa League,31.0,2.0,21,NED
+Mats Deijl,J5,RB,Defender,Go Ahead Eag,UEFA Europa League,90.0,3.8,28,NED
+Deniz Undav,J5,AM,Forward,Stuttgart,UEFA Europa League,79.0,8.6,29,GER
+Badredine Bouanani,J5,AM,Forward,Stuttgart,UEFA Europa League,11.0,5.6,20,ALG
+Jamie Leweling,J5,AM,Forward,Stuttgart,UEFA Europa League,87.0,9.4,24,GER
+Lazar Jovanović,J5,AM,Forward,Stuttgart,UEFA Europa League,3.0,1.6,18,SRB
+Bilal El Khannouss,J5,AM,Forward,Stuttgart,UEFA Europa League,67.0,9.2,21,MAR
+Chris Führich,J5,AM,Forward,Stuttgart,UEFA Europa League,23.0,5.6,27,GER
+Angelo Stiller,J5,CM,Midfielder,Stuttgart,UEFA Europa League,79.0,6.3,24,GER
+Nikolas Nartey,J5,CM,Midfielder,Stuttgart,UEFA Europa League,11.0,4.0,25,DEN
+Atakan Karazor,J5,CM,Midfielder,Stuttgart,UEFA Europa League,90.0,2.8,29,TUR
+Maximilian Mittelstädt,J5,WB,Midfielder,Stuttgart,UEFA Europa League,90.0,5.4,28,GER
+Lorenz Assignon,J5,WB,Midfielder,Stuttgart,UEFA Europa League,90.0,4.8,25,TOG
+Ramon Hendriks,J5,CB,Defender,Stuttgart,UEFA Europa League,67.0,3.8,24,NED
+Luca Jaquez,J5,CB,Defender,Stuttgart,UEFA Europa League,23.0,3.7,22,SUI
+Julian Chabot,J5,CB,Defender,Stuttgart,UEFA Europa League,90.0,4.2,27,GER
+Finn Jeltsch,J5,CB,Defender,Stuttgart,UEFA Europa League,90.0,3.2,19,GER
+Cucho,J5,AM,Forward,Betis,UEFA Europa League,81.0,7.5,26,COL
+Ezequiel Ávila,J5,AM,Forward,Betis,UEFA Europa League,9.0,3.5,31,ARG
+Abde Ezzalzouli,J5,LW,Forward,Betis,UEFA Europa League,81.0,7.1,23,MAR
+Pablo Garcia,J5,LW,Forward,Betis,UEFA Europa League,9.0,3.8,19,ESP
+Antony,J5,RW,Forward,Betis,UEFA Europa League,90.0,6.5,25,BRA
+Isco,J5,AM,Forward,Betis,UEFA Europa League,8.0,2.0,33,ESP
+Nelson Deossa,J5,DM,Midfielder,Betis,UEFA Europa League,82.0,5.4,25,COL
+Sofyan Amrabat,J5,DM,Midfielder,Betis,UEFA Europa League,14.0,1.1,29,MAR
+Pablo Fornals,J5,AM,Forward,Betis,UEFA Europa League,76.0,8.7,29,ESP
+Sergi Altimira,J5,DM,Midfielder,Betis,UEFA Europa League,90.0,5.2,24,ESP
+Ricardo Rodríguez,J5,LB,Defender,Betis,UEFA Europa League,90.0,3.7,33,SUI
+Natan,J5,CB,Defender,Betis,UEFA Europa League,90.0,4.5,24,BRA
+Diego Llorente,J5,CB,Defender,Betis,UEFA Europa League,90.0,4.0,32,ESP
+Ángel Ortíz,J5,RB,Defender,Betis,UEFA Europa League,90.0,4.8,21,ESP
+Sébastien Haller,J5,AM,Forward,Utrecht,UEFA Europa League,67.0,2.5,31,CIV
+David Min,J5,AM,Forward,Utrecht,UEFA Europa League,23.0,0.9,26,NED
+Yoann Cathline,J5,LW,Forward,Utrecht,UEFA Europa League,82.0,2.8,23,FRA
+Adrian Blake,J5,LW,Forward,Utrecht,UEFA Europa League,8.0,4.3,20,ENG
+Miguel Rodríguez,J5,RW,Forward,Utrecht,UEFA Europa League,90.0,3.8,22,ESP
+Can Bozdogan,J5,LM,Midfielder,Utrecht,UEFA Europa League,57.0,4.8,24,GER
+Gjivai Zechiël,J5,LM,Midfielder,Utrecht,UEFA Europa League,33.0,4.6,21,NED
+Alonzo Engwanda,J5,CM,Midfielder,Utrecht,UEFA Europa League,90.0,4.5,22,BEL
+Dani de Wit,J5,RM,Midfielder,Utrecht,UEFA Europa League,90.0,3.0,27,NED
+Souffian El Karouani,J5,LB,Defender,Utrecht,UEFA Europa League,45.0,4.8,25,MAR
+Derry Murkin,J5,LB,Defender,Utrecht,UEFA Europa League,45.0,2.8,26,ENG
+Nick Viergever,J5,CB,Defender,Utrecht,UEFA Europa League,90.0,2.7,36,NED
+Mike van der Hoorn,J5,CB,Defender,Utrecht,UEFA Europa League,82.0,4.4,33,NED
+Matisse Didden,J5,CB,Defender,Utrecht,UEFA Europa League,8.0,3.0,24,BEL
+Siebe Horemans,J5,RB,Defender,Utrecht,UEFA Europa League,90.0,5.2,27,BEL
+Karol Świderski,J5,AM,Forward,Panathinaikos,UEFA Europa League,65.0,4.4,28,POL
+Miloš Pantović,J5,AM,Forward,Panathinaikos,UEFA Europa League,25.0,2.5,23,SRB
+Filip Đuričić,J5,LW,Forward,Panathinaikos,UEFA Europa League,90.0,2.7,33,SRB
+Tetê,J5,RW,Forward,Panathinaikos,UEFA Europa League,64.0,5.6,25,BRA
+Pedro Chirivella,J5,CM,Midfielder,Panathinaikos,UEFA Europa League,26.0,3.4,28,ESP
+Anass Zaroury,J5,LM,Midfielder,Panathinaikos,UEFA Europa League,90.0,5.7,25,MAR
+Anastasios Bakasetas,J5,CM,Midfielder,Panathinaikos,UEFA Europa League,84.0,8.5,32,GRE
+Filip Mladenović,J5,LM,Midfielder,Panathinaikos,UEFA Europa League,6.0,0.2,34,SRB
+Adam Gnezda Čerin,J5,CM,Midfielder,Panathinaikos,UEFA Europa League,90.0,4.9,26,SVN
+Davide Calabria,J5,RM,Midfielder,Panathinaikos,UEFA Europa League,79.0,5.5,28,ITA
+Giannis Kotsiras,J5,RM,Midfielder,Panathinaikos,UEFA Europa League,11.0,3.8,32,GRE
+Ahmed Touba,J5,CB,Defender,Panathinaikos,UEFA Europa League,90.0,5.6,27,ALG
+Erik Palmer-Brown,J5,CB,Defender,Panathinaikos,UEFA Europa League,90.0,4.3,28,USA
+Sverrir Ingi Ingason,J5,CB,Defender,Panathinaikos,UEFA Europa League,90.0,2.9,32,ISL
+Maurice Malone,J5,AM,Forward,Sturm Graz,UEFA Europa League,60.0,2.7,25,GER
+Axel Kayombo,J5,AM,Forward,Sturm Graz,UEFA Europa League,30.0,2.5,19,FRA
+Seedy Jatta,J5,AM,Forward,Sturm Graz,UEFA Europa League,77.0,3.2,22,NOR
+Leon Grgic,J5,AM,Forward,Sturm Graz,UEFA Europa League,13.0,3.0,19,CRO
+Otar Kiteishvili,J5,AM,Forward,Sturm Graz,UEFA Europa League,73.0,6.4,29,GEO
+Jacob Hodl,J5,AM,Forward,Sturm Graz,UEFA Europa League,17.0,1.0,18,AUT
+Tochi Chukwuani,J5,LM,Midfielder,Sturm Graz,UEFA Europa League,90.0,5.8,22,DEN
+Filip Rózga,J5,RM,Midfielder,Sturm Graz,UEFA Europa League,60.0,4.1,19,POL
+Tomi Horvat,J5,RM,Midfielder,Sturm Graz,UEFA Europa League,30.0,3.7,26,SVN
+Jon Gorenc Stanković,J5,DM,Midfielder,Sturm Graz,UEFA Europa League,90.0,4.7,29,SVN
+Emir Karic,J5,LB,Defender,Sturm Graz,UEFA Europa League,90.0,6.9,28,BIH
+Niklas Geyrhofer,J5,CB,Defender,Sturm Graz,UEFA Europa League,90.0,5.1,25,AUT
+Emanuel Aiwum,J5,CB,Defender,Sturm Graz,UEFA Europa League,90.0,4.1,24,AUT
+Jeyland Mitchell,J5,RB,Defender,Sturm Graz,UEFA Europa League,45.0,3.3,21,CRC
+Arjan Malic,J5,RB,Defender,Sturm Graz,UEFA Europa League,45.0,5.6,20,BIH
 Andrea Belotti,J3,AM,Forward,Cagliari,Italian Serie A,73.0,5.2,31,ITA
 Gennaro Borrelli,J3,AM,Forward,Cagliari,Italian Serie A,17.0,3.9,25,ITA
 Sebastiano Esposito,J3,AM,Forward,Cagliari,Italian Serie A,73.0,4.5,23,ITA
@@ -13769,6 +14934,441 @@ Petar Mamić,J3,LB,Defender,Zrinjski Mostar,UEFA Europa Conference League,90.0,3
 Duje Dujmović,J3,CB,Defender,Zrinjski Mostar,UEFA Europa Conference League,90.0,4.0,21,CRO
 Ilija Mašić,J3,CB,Defender,Zrinjski Mostar,UEFA Europa Conference League,90.0,2.9,26,BIH
 Marko Vranjković,J3,RB,Defender,Zrinjski Mostar,UEFA Europa Conference League,90.0,5.6,26,CRO
+Andraž Šporar,J4,AM,Forward,Slovan Bratislava,UEFA Europa Conference League,45.0,1.1,31,SVN
+Alasana Yirajang,J4,AM,Forward,Slovan Bratislava,UEFA Europa Conference League,45.0,4.7,21,GAM
+Nino Marcelli,J4,LW,Forward,Slovan Bratislava,UEFA Europa Conference League,89.0,7.5,20,SVK
+Kyriakos Savvidis,J4,LW,Forward,Slovan Bratislava,UEFA Europa Conference League,1.0,0.0,30,GRE
+Róbert Mak,J4,RW,Forward,Slovan Bratislava,UEFA Europa Conference League,78.0,5.7,34,SVK
+Marko Tolić,J4,RW,Forward,Slovan Bratislava,UEFA Europa Conference League,12.0,2.7,29,CRO
+Vladimír Weiss,J4,AM,Forward,Slovan Bratislava,UEFA Europa Conference League,82.0,4.6,35,SVK
+Rahim Ibrahim,J4,AM,Forward,Slovan Bratislava,UEFA Europa Conference League,8.0,3.5,24,GHA
+Danylo Ihnatenko,J4,DM,Midfielder,Slovan Bratislava,UEFA Europa Conference League,90.0,3.9,28,UKR
+Peter Pokorny,J4,DM,Midfielder,Slovan Bratislava,UEFA Europa Conference League,90.0,4.7,24,SVK
+Kevin Wimmer,J4,LB,Defender,Slovan Bratislava,UEFA Europa Conference League,90.0,5.8,33,AUT
+Guram Kashia,J4,CB,Defender,Slovan Bratislava,UEFA Europa Conference League,90.0,4.8,38,GEO
+Kenan Bajrić,J4,CB,Defender,Slovan Bratislava,UEFA Europa Conference League,90.0,4.5,30,SVN
+César Blackman,J4,RB,Defender,Slovan Bratislava,UEFA Europa Conference League,90.0,6.3,27,PAN
+Alexandre Alemão,J4,AM,Forward,Rayo Vallecano,UEFA Europa Conference League,90.0,5.1,27,BRA
+Francisco Perez,J4,LW,Forward,Rayo Vallecano,UEFA Europa Conference League,90.0,7.9,23,ESP
+Jorge de Frutos,J4,RW,Forward,Rayo Vallecano,UEFA Europa Conference League,90.0,5.2,28,ESP
+Isaac Palazón Camacho,J4,LM,Midfielder,Rayo Vallecano,UEFA Europa Conference League,56.0,6.6,30,ESP
+Álvaro García,J4,RM,Midfielder,Rayo Vallecano,UEFA Europa Conference League,34.0,4.8,33,ESP
+Pathé Ciss,J4,CM,Midfielder,Rayo Vallecano,UEFA Europa Conference League,56.0,2.2,31,SEN
+Óscar Valentín,J4,CM,Midfielder,Rayo Vallecano,UEFA Europa Conference League,34.0,6.3,31,ESP
+Gerard Gumbau,J4,RM,Midfielder,Rayo Vallecano,UEFA Europa Conference League,45.0,3.7,30,ESP
+Unai López,J4,LM,Midfielder,Rayo Vallecano,UEFA Europa Conference League,45.0,5.9,30,ESP
+Alfonso Espino,J4,LB,Defender,Rayo Vallecano,UEFA Europa Conference League,90.0,6.5,33,URU
+Jozhua Vertrouwd,J4,CB,Defender,Rayo Vallecano,UEFA Europa Conference League,82.0,5.1,21,NED
+Sergio Camello,J4,CB,Defender,Rayo Vallecano,UEFA Europa Conference League,8.0,0.2,24,ESP
+Florian Lejeune,J4,CB,Defender,Rayo Vallecano,UEFA Europa Conference League,90.0,4.4,34,FRA
+Iván Balliu,J4,RB,Defender,Rayo Vallecano,UEFA Europa Conference League,31.0,1.2,33,ALB
+Andrei Ratiu,J4,RB,Defender,Rayo Vallecano,UEFA Europa Conference League,59.0,5.5,27,ROU
+Nemanja Bilbija,J4,AM,Forward,Zrinjski Mostar,UEFA Europa Conference League,85.0,5.6,35,BIH
+Antonio Ivancic,J4,DM,Midfielder,Zrinjski Mostar,UEFA Europa Conference League,5.0,0.2,30,CRO
+Mario Čuže,J4,LW,Forward,Zrinjski Mostar,UEFA Europa Conference League,90.0,8.1,26,CRO
+Matej Sakota,J4,RW,Forward,Zrinjski Mostar,UEFA Europa Conference League,57.0,4.0,21,BIH
+Leo Mikić,J4,RW,Forward,Zrinjski Mostar,UEFA Europa Conference League,33.0,4.1,28,CRO
+Neven Đurasek,J4,AM,Forward,Zrinjski Mostar,UEFA Europa Conference League,65.0,2.1,27,CRO
+Stefano Surdanovic,J4,AM,Forward,Zrinjski Mostar,UEFA Europa Conference League,25.0,1.8,27,SRB
+Borna Filipović,J4,DM,Midfielder,Zrinjski Mostar,UEFA Europa Conference League,65.0,4.7,19,BIH
+Marijan Ćavar,J4,DM,Midfielder,Zrinjski Mostar,UEFA Europa Conference League,25.0,1.3,27,BIH
+Igor Savić,J4,DM,Midfielder,Zrinjski Mostar,UEFA Europa Conference League,90.0,4.0,25,BIH
+Petar Mamić,J4,LB,Defender,Zrinjski Mostar,UEFA Europa Conference League,85.0,5.6,29,CRO
+Ante Sušak,J4,LB,Defender,Zrinjski Mostar,UEFA Europa Conference League,5.0,2.5,19,CRO
+Duje Dujmović,J4,CB,Defender,Zrinjski Mostar,UEFA Europa Conference League,90.0,4.4,21,CRO
+Slobodan Jakovljević,J4,CB,Defender,Zrinjski Mostar,UEFA Europa Conference League,90.0,3.7,36,SRB
+Memija Kerim,J4,RB,Defender,Zrinjski Mostar,UEFA Europa Conference League,90.0,4.6,29,BIH
+Isak Brusberg,J4,AM,Forward,Häcken,UEFA Europa Conference League,60.0,1.6,19,SWE
+Adrian Svanbäck,J4,AM,Forward,Häcken,UEFA Europa Conference League,30.0,5.6,21,FIN
+Amor Layouni,J4,LW,Forward,Häcken,UEFA Europa Conference League,90.0,6.0,33,TUN
+Pontus Dahbo,J4,RW,Forward,Häcken,UEFA Europa Conference League,60.0,2.2,20,SWE
+Sanders Ngabo,J4,RW,Forward,Häcken,UEFA Europa Conference League,30.0,6.1,21,DEN
+Simon Gustafson,J4,LM,Midfielder,Häcken,UEFA Europa Conference League,90.0,4.9,30,SWE
+Mikkel Rygaard Jensen,J4,CM,Midfielder,Häcken,UEFA Europa Conference League,90.0,6.3,34,DEN
+Silas Andersen,J4,RM,Midfielder,Häcken,UEFA Europa Conference League,90.0,5.0,21,DEN
+Adam Lundqvist,J4,LB,Defender,Häcken,UEFA Europa Conference League,84.0,4.8,31,SWE
+Brice Wembangomo,J4,LB,Defender,Häcken,UEFA Europa Conference League,6.0,4.3,28,NOR
+Filip Helander,J4,CB,Defender,Häcken,UEFA Europa Conference League,90.0,4.5,32,SWE
+Olle Samuelsson,J4,CB,Defender,Häcken,UEFA Europa Conference League,84.0,6.8,21,SWE
+Johan Hammar,J4,CB,Defender,Häcken,UEFA Europa Conference League,6.0,3.8,31,SWE
+Julius Lindberg,J4,RB,Defender,Häcken,UEFA Europa Conference League,90.0,4.1,26,SWE
+Daniel Vašulín,J4,AM,Forward,Sigma Olomouc,UEFA Europa Conference League,86.0,5.5,27,CZE
+Muhamed Tijani,J4,AM,Forward,Sigma Olomouc,UEFA Europa Conference League,4.0,1.4,25,NGA
+Jáchym Šíp,J4,LW,Forward,Sigma Olomouc,UEFA Europa Conference League,68.0,4.8,22,CZE
+Jan Navrátil,J4,LW,Forward,Sigma Olomouc,UEFA Europa Conference League,22.0,4.2,35,CZE
+Ghali Ahmad,J4,RW,Forward,Sigma Olomouc,UEFA Europa Conference League,57.0,6.3,25,NGA
+Artūr Dolžnikov,J4,RW,Forward,Sigma Olomouc,UEFA Europa Conference League,33.0,3.2,25,LTU
+Štěpán Langer,J4,AM,Forward,Sigma Olomouc,UEFA Europa Conference League,68.0,5.6,25,CZE
+Tihomir Kostadinov,J4,AM,Forward,Sigma Olomouc,UEFA Europa Conference League,22.0,4.3,29,MKD
+Michal Beran,J4,DM,Midfielder,Sigma Olomouc,UEFA Europa Conference League,90.0,5.6,25,CZE
+Radim Breite,J4,DM,Midfielder,Sigma Olomouc,UEFA Europa Conference League,86.0,5.6,36,CZE
+Jiří Spáčil,J4,DM,Midfielder,Sigma Olomouc,UEFA Europa Conference League,4.0,2.3,26,NAN
+Filip Slavíček,J4,LB,Defender,Sigma Olomouc,UEFA Europa Conference League,90.0,4.0,23,NAN
+Tomáš Huk,J4,CB,Defender,Sigma Olomouc,UEFA Europa Conference League,90.0,3.2,30,SVK
+Abdoulaye Sylla,J4,CB,Defender,Sigma Olomouc,UEFA Europa Conference League,90.0,3.4,25,GUI
+Matěj Hadaš,J4,RB,Defender,Sigma Olomouc,UEFA Europa Conference League,90.0,4.5,22,CZE
+Franko Kovačević,J4,AM,Forward,NK Celje,UEFA Europa Conference League,45.0,3.1,26,CRO
+Andrej Kotnik,J4,AM,Forward,NK Celje,UEFA Europa Conference League,45.0,3.1,30,SVN
+Danijel Šturm,J4,LW,Forward,NK Celje,UEFA Europa Conference League,90.0,5.3,26,SVN
+Nikita Iosifov,J4,RW,Forward,NK Celje,UEFA Europa Conference League,90.0,4.6,24,RUS
+Mario Kvesić,J4,LM,Midfielder,NK Celje,UEFA Europa Conference League,74.0,1.3,33,BIH
+Milot Avdyli,J4,LM,Midfielder,NK Celje,UEFA Europa Conference League,16.0,1.5,23,KVX
+Žan Karničnik,J4,CM,Midfielder,NK Celje,UEFA Europa Conference League,90.0,7.0,31,SVN
+Darko Hrka,J4,CM,Midfielder,NK Celje,UEFA Europa Conference League,45.0,1.5,26,SVN
+Papa Daniel,J4,CM,Midfielder,NK Celje,UEFA Europa Conference League,29.0,4.9,23,NGA
+Florjan Jevšenak,J4,CM,Midfielder,NK Celje,UEFA Europa Conference League,16.0,0.8,20,SVN
+Vitaly Lisakovich,J4,RM,Midfielder,NK Celje,UEFA Europa Conference League,26.0,4.8,27,BLR
+Ivica Vidovic,J4,RM,Midfielder,NK Celje,UEFA Europa Conference League,64.0,6.2,23,CRO
+Artemijus Tutyškinas,J4,CB,Defender,NK Celje,UEFA Europa Conference League,90.0,6.1,22,LTU
+Łukasz Bejger,J4,CB,Defender,NK Celje,UEFA Europa Conference League,90.0,4.2,23,POL
+Juanjo Nieto,J4,CB,Defender,NK Celje,UEFA Europa Conference League,90.0,6.1,31,ESP
+Philippe Koffi,J4,AM,Forward,Ħamrun Spartans FC,UEFA Europa Conference League,89.0,7.2,23,CIV
+Sven Xerri,J4,RW,Forward,Ħamrun Spartans FC,UEFA Europa Conference League,1.0,0.0,20,MLT
+Serigne Thioune,J4,LW,Forward,Ħamrun Spartans FC,UEFA Europa Conference League,45.0,6.3,21,ITA
+Semir Smajlagić,J4,AM,Forward,Ħamrun Spartans FC,UEFA Europa Conference League,45.0,5.7,27,BIH
+Joseph Mbong,J4,RW,Forward,Ħamrun Spartans FC,UEFA Europa Conference League,85.0,6.5,28,MLT
+Ante Ćorić,J4,LM,Midfielder,Ħamrun Spartans FC,UEFA Europa Conference League,5.0,2.4,28,CRO
+Eder,J4,LM,Midfielder,Ħamrun Spartans FC,UEFA Europa Conference League,45.0,3.2,36,BRA
+Mouad El Fanis,J4,LM,Midfielder,Ħamrun Spartans FC,UEFA Europa Conference League,45.0,4.5,21,BEL
+Ognjen Bjeličić,J4,CM,Midfielder,Ħamrun Spartans FC,UEFA Europa Conference League,90.0,5.9,28,SRB
+Matias Garcia,J4,RM,Midfielder,Ħamrun Spartans FC,UEFA Europa Conference League,71.0,4.4,29,MLT
+Jovan Čađenović,J4,RM,Midfielder,Ħamrun Spartans FC,UEFA Europa Conference League,19.0,5.4,30,MNE
+Ryan Camenzuli,J4,LB,Defender,Ħamrun Spartans FC,UEFA Europa Conference League,90.0,5.3,31,MLT
+Marcelina Emerson,J4,CB,Defender,Ħamrun Spartans FC,UEFA Europa Conference League,90.0,4.9,34,BRA
+Vincenzo Polito,J4,CB,Defender,Ħamrun Spartans FC,UEFA Europa Conference League,78.0,4.7,26,ITA
+Rafael Compri,J4,RB,Defender,Ħamrun Spartans FC,UEFA Europa Conference League,90.0,2.5,30,BRA
+Kike Gómez,J4,AM,Forward,Red Imps,UEFA Europa Conference League,66.0,5.3,31,PHI
+Nicholas Pozo,J4,CM,Midfielder,Red Imps,UEFA Europa Conference League,24.0,4.4,20,GIB
+Boubacar Dabo,J4,LW,Forward,Red Imps,UEFA Europa Conference League,81.0,2.9,28,SEN
+Rafael Muñoz,J4,CB,Defender,Red Imps,UEFA Europa Conference League,9.0,2.3,31,ESP
+Antonio García Montero,J4,RW,Forward,Red Imps,UEFA Europa Conference League,90.0,2.4,34,ESP
+Graeme Torilla,J4,LM,Midfielder,Red Imps,UEFA Europa Conference League,62.0,2.7,28,GIB
+Mandi,J4,CM,Midfielder,Red Imps,UEFA Europa Conference League,81.0,6.0,36,ESP
+Juanje,J4,AM,Forward,Red Imps,UEFA Europa Conference League,9.0,0.7,30,ESP
+Tjay De Barr,J4,RM,Midfielder,Red Imps,UEFA Europa Conference League,90.0,4.7,25,GIB
+Nano,J4,LB,Defender,Red Imps,UEFA Europa Conference League,90.0,4.7,41,ESP
+Oliva Rutjens,J4,CB,Defender,Red Imps,UEFA Europa Conference League,90.0,3.4,27,ESP
+Bernardo Lopes,J4,CB,Defender,Red Imps,UEFA Europa Conference League,89.0,4.5,32,GIB
+Ayman El Ghobashy,J4,AM,Forward,Red Imps,UEFA Europa Conference League,1.0,1.7,29,EGY
+Toni Kolega,J4,RB,Defender,Red Imps,UEFA Europa Conference League,90.0,6.9,27,CRO
+Mikael Ishak,J4,AM,Forward,Lech Poznań,UEFA Europa Conference League,84.0,3.0,32,SWE
+Yannick Agnero,J4,AM,Forward,Lech Poznań,UEFA Europa Conference League,6.0,3.4,22,CIV
+Luis Enrique Palma,J4,LW,Forward,Lech Poznań,UEFA Europa Conference League,90.0,5.6,25,HON
+Ali Gholizadeh,J4,RW,Forward,Lech Poznań,UEFA Europa Conference League,58.0,4.9,29,IRN
+Taofeek Ismaheel,J4,RW,Forward,Lech Poznań,UEFA Europa Conference League,32.0,7.7,25,NGA
+Pablo Rodríguez,J4,AM,Forward,Lech Poznań,UEFA Europa Conference League,58.0,2.3,24,ESP
+Leo Bengtsson,J4,AM,Forward,Lech Poznań,UEFA Europa Conference League,32.0,2.5,27,SWE
+Filip Jagiełło,J4,DM,Midfielder,Lech Poznań,UEFA Europa Conference League,74.0,6.5,28,POL
+Gísli Þórðarson,J4,DM,Midfielder,Lech Poznań,UEFA Europa Conference League,16.0,3.5,21,ISL
+Antoni Kozubal,J4,DM,Midfielder,Lech Poznań,UEFA Europa Conference League,90.0,4.6,21,POL
+Michał Gurgul,J4,LB,Defender,Lech Poznań,UEFA Europa Conference League,90.0,4.9,19,POL
+Mateusz Skrzypczak,J4,CB,Defender,Lech Poznań,UEFA Europa Conference League,90.0,4.7,25,POL
+Wojciech Mońka,J4,CB,Defender,Lech Poznań,UEFA Europa Conference League,90.0,4.9,18,POL
+Joel Pereira,J4,RB,Defender,Lech Poznań,UEFA Europa Conference League,58.0,5.9,29,POR
+Robert Gumny,J4,RB,Defender,Lech Poznań,UEFA Europa Conference League,32.0,6.9,27,POL
+Alban Ajdini,J4,AM,Forward,Lausanne-Sport,UEFA Europa Conference League,60.0,5.7,26,KVX
+Gaoussou Diakite,J4,AM,Forward,Lausanne-Sport,UEFA Europa Conference League,30.0,5.0,20,MLI
+Theo Bair,J4,AM,Forward,Lausanne-Sport,UEFA Europa Conference League,90.0,6.3,26,CAN
+Beyatt Lekoueiry,J4,AM,Forward,Lausanne-Sport,UEFA Europa Conference League,81.0,8.2,20,MTN
+Enzo Kana-Biyik,J4,AM,Forward,Lausanne-Sport,UEFA Europa Conference League,9.0,3.2,18,FRA
+Nicky Beloko,J4,LM,Midfielder,Lausanne-Sport,UEFA Europa Conference League,69.0,5.8,25,SUI
+Nathan Butler-Oyedeji,J4,RM,Midfielder,Lausanne-Sport,UEFA Europa Conference League,21.0,4.7,22,ENG
+Jamie Roche,J4,CM,Midfielder,Lausanne-Sport,UEFA Europa Conference League,90.0,5.8,24,SWE
+Gabriel Sigua,J4,RM,Midfielder,Lausanne-Sport,UEFA Europa Conference League,69.0,6.2,20,GEO
+Olivier Custodio,J4,LM,Midfielder,Lausanne-Sport,UEFA Europa Conference League,21.0,1.7,30,SUI
+Morgan Poaty,J4,LB,Defender,Lausanne-Sport,UEFA Europa Conference League,81.0,3.9,28,CGO
+Sékou Fofana,J4,LB,Defender,Lausanne-Sport,UEFA Europa Conference League,9.0,3.9,22,CIV
+Bryan Okoh,J4,CB,Defender,Lausanne-Sport,UEFA Europa Conference League,90.0,4.8,22,SUI
+Kevin Mouanga,J4,CB,Defender,Lausanne-Sport,UEFA Europa Conference League,90.0,4.8,25,CGO
+Brandon Soppy,J4,RB,Defender,Lausanne-Sport,UEFA Europa Conference League,90.0,4.9,23,FRA
+Troy Parrott,J4,AM,Forward,AZ Alkmaar,UEFA Europa Conference League,90.0,6.9,23,IRL
+Wassim Bouziane,J4,LW,Forward,AZ Alkmaar,UEFA Europa Conference League,65.0,6.5,18,NED
+Isak Jensen,J4,LW,Forward,AZ Alkmaar,UEFA Europa Conference League,25.0,6.9,21,DEN
+Weslley Patati,J4,RW,Forward,AZ Alkmaar,UEFA Europa Conference League,76.0,5.0,22,BRA
+Matej Sin,J4,RW,Forward,AZ Alkmaar,UEFA Europa Conference League,14.0,3.1,21,CZE
+Dave Kwakman,J4,LM,Midfielder,AZ Alkmaar,UEFA Europa Conference League,45.0,4.2,21,NED
+Kees Smit,J4,LM,Midfielder,AZ Alkmaar,UEFA Europa Conference League,45.0,4.8,19,NED
+Sven Mijnans,J4,CM,Midfielder,AZ Alkmaar,UEFA Europa Conference League,90.0,6.4,25,NED
+Peer Koopmeiners,J4,RM,Midfielder,AZ Alkmaar,UEFA Europa Conference League,90.0,6.0,25,NED
+Mees de Wit,J4,LB,Defender,AZ Alkmaar,UEFA Europa Conference League,89.0,7.9,27,NED
+Billy van Duijl,J4,LB,Defender,AZ Alkmaar,UEFA Europa Conference League,1.0,3.5,20,NED
+Alexandre Penetra,J4,CB,Defender,AZ Alkmaar,UEFA Europa Conference League,90.0,4.7,24,POR
+Wouter Goes,J4,CB,Defender,AZ Alkmaar,UEFA Europa Conference League,90.0,4.0,21,NED
+Elijah Dijkstra,J4,RB,Defender,AZ Alkmaar,UEFA Europa Conference League,65.0,7.5,19,NED
+Mateo Chávez,J4,RB,Defender,AZ Alkmaar,UEFA Europa Conference League,25.0,4.1,21,MEX
+Mipo Odubeko,J4,AM,Forward,Shelbourne FC,UEFA Europa Conference League,83.0,4.9,23,IRL
+Sean Boyd,J4,AM,Forward,Shelbourne FC,UEFA Europa Conference League,7.0,1.3,27,IRL
+Harry Wood,J4,AM,Forward,Shelbourne FC,UEFA Europa Conference League,61.0,2.9,23,ENG
+John Martin,J4,AM,Forward,Shelbourne FC,UEFA Europa Conference League,29.0,6.7,26,IRL
+Kerr McInroy,J4,CM,Midfielder,Shelbourne FC,UEFA Europa Conference League,90.0,3.9,25,SCO
+Jonathan Lunney,J4,CM,Midfielder,Shelbourne FC,UEFA Europa Conference League,61.0,3.5,27,IRL
+Evan Caffrey,J4,CM,Midfielder,Shelbourne FC,UEFA Europa Conference League,29.0,2.7,22,IRL
+Jack Henry-Francis,J4,CM,Midfielder,Shelbourne FC,UEFA Europa Conference League,76.0,4.0,22,IRL
+Ellis Chapman,J4,CM,Midfielder,Shelbourne FC,UEFA Europa Conference League,14.0,1.3,24,ENG
+Daniel Kelly,J4,LB,Defender,Shelbourne FC,UEFA Europa Conference League,90.0,4.4,29,IRL
+Kameron Ledwidge,J4,CB,Defender,Shelbourne FC,UEFA Europa Conference League,90.0,2.0,24,IRL
+Paddy Barrett,J4,CB,Defender,Shelbourne FC,UEFA Europa Conference League,90.0,3.3,32,IRL
+Mark Coyle,J4,CB,Defender,Shelbourne FC,UEFA Europa Conference League,90.0,2.6,28,IRL
+Milan Mbeng,J4,RB,Defender,Shelbourne FC,UEFA Europa Conference League,76.0,3.9,23,FRA
+Sean Gannon,J4,RB,Defender,Shelbourne FC,UEFA Europa Conference League,14.0,3.2,34,IRL
+Jonatan Braut Brunes,J4,AM,Forward,Raków,UEFA Europa Conference League,74.0,7.3,25,NOR
+Ivi,J4,AM,Forward,Raków,UEFA Europa Conference League,16.0,5.4,31,ESP
+Patryk Makuch,J4,AM,Forward,Raków,UEFA Europa Conference League,90.0,5.6,26,POL
+Mohamed Lamine Diaby,J4,AM,Forward,Raków,UEFA Europa Conference League,60.0,5.1,24,FRA
+Tomasz Pieńko,J4,RM,Midfielder,Raków,UEFA Europa Conference League,30.0,5.0,21,POL
+Oskar Repka,J4,CM,Midfielder,Raków,UEFA Europa Conference League,86.0,6.4,26,POL
+Bogdan Mirčetić,J4,CM,Midfielder,Raków,UEFA Europa Conference League,4.0,2.3,20,SRB
+Péter Baráth,J4,CM,Midfielder,Raków,UEFA Europa Conference League,90.0,5.9,23,HUN
+Adriano,J4,WB,Midfielder,Raków,UEFA Europa Conference League,60.0,4.4,23,BRA
+Marko Bulat,J4,LM,Midfielder,Raków,UEFA Europa Conference League,30.0,2.7,24,CRO
+Michael Ameyaw,J4,RB,Defender,Raków,UEFA Europa Conference League,90.0,4.2,25,POL
+Stratos Svarnas,J4,LB,Defender,Raków,UEFA Europa Conference League,90.0,6.5,28,GRE
+Bogdan Racovitan,J4,CB,Defender,Raków,UEFA Europa Conference League,90.0,5.4,25,ROU
+Fran Tudor,J4,CB,Defender,Raków,UEFA Europa Conference League,45.0,5.7,30,CRO
+Tolis Konstantopoulos,J4,CB,Defender,Raków,UEFA Europa Conference League,45.0,3.0,23,GRE
+Ercan Kara,J4,AM,Forward,Rapid Wien,UEFA Europa Conference League,64.0,3.1,29,AUT
+Nikolaus Wurmbrand,J4,AM,Forward,Rapid Wien,UEFA Europa Conference League,26.0,4.1,19,AUT
+Janis Antiste,J4,AM,Forward,Rapid Wien,UEFA Europa Conference League,90.0,3.8,23,FRA
+Tobias Gulliksen,J4,AM,Forward,Rapid Wien,UEFA Europa Conference League,64.0,3.4,22,NOR
+Louis Schaub,J4,AM,Forward,Rapid Wien,UEFA Europa Conference League,26.0,6.6,30,AUT
+Martin Atemengue,J4,CM,Midfielder,Rapid Wien,UEFA Europa Conference League,65.0,5.2,22,CMR
+Matthias Seidl,J4,CM,Midfielder,Rapid Wien,UEFA Europa Conference League,25.0,5.7,24,AUT
+Romeo Amane,J4,CM,Midfielder,Rapid Wien,UEFA Europa Conference League,90.0,6.4,22,CIV
+Jonas Auer,J4,WB,Midfielder,Rapid Wien,UEFA Europa Conference League,90.0,4.5,25,AUT
+Furkan Demir,J4,WB,Midfielder,Rapid Wien,UEFA Europa Conference League,79.0,5.1,20,TUR
+Eaden Roka,J4,WB,Midfielder,Rapid Wien,UEFA Europa Conference League,11.0,0.2,18,AUT
+Jannes Horn,J4,CB,Defender,Rapid Wien,UEFA Europa Conference League,90.0,5.1,28,GER
+Ange Ahoussou,J4,CB,Defender,Rapid Wien,UEFA Europa Conference League,90.0,3.7,21,CIV
+Nenad N. Cvetković,J4,CB,Defender,Rapid Wien,UEFA Europa Conference League,80.0,4.8,29,SRB
+Amin-Elias Gröller,J4,CB,Defender,Rapid Wien,UEFA Europa Conference League,10.0,2.0,20,AUT
+Aimé Steven Nsimba Labe,J4,AM,Forward,CS U Craiova,UEFA Europa Conference League,64.0,2.3,29,FRA
+Assad Al Hamalawi,J4,AM,Forward,CS U Craiova,UEFA Europa Conference League,26.0,5.6,25,PLE
+Stefan Baiaram,J4,AM,Forward,CS U Craiova,UEFA Europa Conference League,63.0,6.0,22,ROU
+Monday Etim,J4,AM,Forward,CS U Craiova,UEFA Europa Conference League,27.0,4.4,26,NGA
+Alexandru Cicâldău,J4,AM,Forward,CS U Craiova,UEFA Europa Conference League,82.0,2.3,28,ROU
+Teles,J4,AM,Forward,CS U Craiova,UEFA Europa Conference League,8.0,4.2,28,POR
+Tudor Băluță,J4,CM,Midfielder,CS U Craiova,UEFA Europa Conference League,82.0,4.4,26,ROU
+Alexandru Crețu,J4,CM,Midfielder,CS U Craiova,UEFA Europa Conference League,8.0,1.7,33,ROU
+Anzor Mekvabishvili,J4,CM,Midfielder,CS U Craiova,UEFA Europa Conference League,89.0,4.0,24,GEO
+Nikola Stevanović,J4,CM,Midfielder,CS U Craiova,UEFA Europa Conference League,1.0,0.2,27,SRB
+Nicușor Bancu,J4,WB,Midfielder,CS U Craiova,UEFA Europa Conference League,90.0,5.4,33,ROU
+Vasile Mogos,J4,WB,Midfielder,CS U Craiova,UEFA Europa Conference League,90.0,4.4,33,ROU
+Vladimir Screciu,J4,CB,Defender,CS U Craiova,UEFA Europa Conference League,90.0,6.1,25,ROU
+Adrian Rus,J4,CB,Defender,CS U Craiova,UEFA Europa Conference League,90.0,5.3,29,ROU
+Oleksandr Romanchuk,J4,CB,Defender,CS U Craiova,UEFA Europa Conference League,90.0,4.3,25,UKR
+Arnaud Nordin,J4,AM,Forward,Mainz 05,UEFA Europa Conference League,61.0,3.7,27,FRA
+Paul Nebel,J4,RW,Forward,Mainz 05,UEFA Europa Conference League,29.0,1.9,23,GER
+William Bøving,J4,LW,Forward,Mainz 05,UEFA Europa Conference League,90.0,3.1,22,DEN
+Ben Bobzien,J4,RW,Forward,Mainz 05,UEFA Europa Conference League,60.0,3.7,22,GER
+Lee Jae-sung,J4,AM,Forward,Mainz 05,UEFA Europa Conference League,30.0,1.7,33,KOR
+Nikolas Veratschnig,J4,LM,Midfielder,Mainz 05,UEFA Europa Conference League,90.0,4.8,22,AUT
+Nadiem Amiri,J4,CM,Midfielder,Mainz 05,UEFA Europa Conference League,90.0,3.3,29,GER
+Lennard Maloney,J4,CM,Midfielder,Mainz 05,UEFA Europa Conference League,72.0,3.7,26,USA
+Kaishu Sano,J4,CM,Midfielder,Mainz 05,UEFA Europa Conference League,18.0,4.4,24,JPN
+Silvan Widmer,J4,RM,Midfielder,Mainz 05,UEFA Europa Conference League,90.0,5.6,32,SUI
+Andreas Hanche-Olsen,J4,CB,Defender,Mainz 05,UEFA Europa Conference League,90.0,5.5,28,NOR
+Stefan Bell,J4,CB,Defender,Mainz 05,UEFA Europa Conference League,45.0,3.9,34,GER
+Kacper Potulski,J4,CB,Defender,Mainz 05,UEFA Europa Conference League,45.0,4.1,18,POL
+Dominik Kohr,J4,CB,Defender,Mainz 05,UEFA Europa Conference League,90.0,5.5,31,GER
+Angelos Neophytou,J4,AM,Forward,AC Omonia,UEFA Europa Conference League,71.0,4.9,20,CYP
+Stevan Jovetić,J4,AM,Forward,AC Omonia,UEFA Europa Conference League,19.0,5.1,36,MNE
+Novica Erakovic,J4,AM,Forward,AC Omonia,UEFA Europa Conference League,82.0,4.4,26,MNE
+Carel Eiting,J4,AM,Forward,AC Omonia,UEFA Europa Conference League,8.0,0.8,27,NED
+Willy Semedo,J4,LM,Midfielder,AC Omonia,UEFA Europa Conference League,71.0,6.4,31,CPV
+Anastasios Chatzigiovannis,J4,LM,Midfielder,AC Omonia,UEFA Europa Conference League,19.0,5.3,28,GRE
+Mateo Maric,J4,CM,Midfielder,AC Omonia,UEFA Europa Conference League,82.0,5.7,27,BIH
+Ioannis Kousoulos,J4,CM,Midfielder,AC Omonia,UEFA Europa Conference League,8.0,0.9,29,CYP
+Ewandro,J4,CM,Midfielder,AC Omonia,UEFA Europa Conference League,90.0,4.0,29,BRA
+Evangelos Andreou,J4,RM,Midfielder,AC Omonia,UEFA Europa Conference League,90.0,5.8,23,CYP
+Fotios Kitsos,J4,LB,Defender,AC Omonia,UEFA Europa Conference League,90.0,5.0,22,GRE
+Saad Agouzoul,J4,CB,Defender,AC Omonia,UEFA Europa Conference League,90.0,5.1,28,MAR
+Stefan Simić,J4,CB,Defender,AC Omonia,UEFA Europa Conference League,90.0,2.3,30,CZE
+Giannis Masouras,J4,RB,Defender,AC Omonia,UEFA Europa Conference League,90.0,7.1,29,GRE
+Nazar Voloshyn,J4,AM,Forward,Dynamo Kyiv,UEFA Europa Conference League,78.0,5.7,22,UKR
+Matvii Ponomarenko,J4,LW,Forward,Dynamo Kyiv,UEFA Europa Conference League,12.0,2.3,19,UKR
+Ogundana Shola,J4,LW,Forward,Dynamo Kyiv,UEFA Europa Conference League,62.0,2.2,20,NGA
+Eduardo Guerrero,J4,AM,Forward,Dynamo Kyiv,UEFA Europa Conference League,28.0,6.1,25,PAN
+Vladyslav Kabayev,J4,RW,Forward,Dynamo Kyiv,UEFA Europa Conference League,90.0,3.9,30,UKR
+Valentyn Rubchynskyi,J4,LM,Midfielder,Dynamo Kyiv,UEFA Europa Conference League,59.0,5.5,23,UKR
+Vitaliy Buyalskyi,J4,LM,Midfielder,Dynamo Kyiv,UEFA Europa Conference League,31.0,4.6,32,UKR
+Mykola Mykhailenko,J4,CM,Midfielder,Dynamo Kyiv,UEFA Europa Conference League,90.0,3.4,24,UKR
+Oleksandr Pikhalyonok,J4,RM,Midfielder,Dynamo Kyiv,UEFA Europa Conference League,78.0,8.0,28,UKR
+Oleksandr Yatsyk,J4,RM,Midfielder,Dynamo Kyiv,UEFA Europa Conference League,12.0,2.4,22,UKR
+Taras Mykhavko,J4,CB,Defender,Dynamo Kyiv,UEFA Europa Conference League,90.0,4.6,20,UKR
+Aliou Thiaré,J4,CB,Defender,Dynamo Kyiv,UEFA Europa Conference League,90.0,5.1,21,SEN
+Denys Popov,J4,CB,Defender,Dynamo Kyiv,UEFA Europa Conference League,45.0,3.3,26,UKR
+Vladyslav Dubinchak,J4,LB,Defender,Dynamo Kyiv,UEFA Europa Conference League,45.0,5.6,27,UKR
+Oleksandr Karavayev,J4,RB,Defender,Dynamo Kyiv,UEFA Europa Conference League,90.0,3.3,33,UKR
+Kevin Nisbet,J4,AM,Forward,Aberdeen,UEFA Europa Conference League,56.0,3.2,28,SCO
+Marko Lazetić,J4,AM,Forward,Aberdeen,UEFA Europa Conference League,34.0,3.9,21,SRB
+Jesper Karlsson,J4,AM,Forward,Aberdeen,UEFA Europa Conference League,90.0,6.5,27,SWE
+Topi Keskinen,J4,AM,Forward,Aberdeen,UEFA Europa Conference League,56.0,6.5,22,FIN
+Stuart Armstrong,J4,AM,Forward,Aberdeen,UEFA Europa Conference League,34.0,4.6,33,SCO
+Dante Polvara,J4,CM,Midfielder,Aberdeen,UEFA Europa Conference League,56.0,5.0,25,USA
+Graeme Shinnie,J4,CM,Midfielder,Aberdeen,UEFA Europa Conference League,34.0,4.2,34,SCO
+Adil Aouchiche,J4,CM,Midfielder,Aberdeen,UEFA Europa Conference League,64.0,6.2,23,FRA
+Leighton Clarkson,J4,CM,Midfielder,Aberdeen,UEFA Europa Conference League,26.0,7.4,24,ENG
+Alexander Jensen,J4,WB,Midfielder,Aberdeen,UEFA Europa Conference League,90.0,4.7,24,DEN
+Dylan Lobban,J4,WB,Midfielder,Aberdeen,UEFA Europa Conference League,69.0,6.3,20,SCO
+Nicolas Milanovic,J4,WB,Midfielder,Aberdeen,UEFA Europa Conference League,21.0,1.6,24,AUS
+Mats Knoester,J4,CB,Defender,Aberdeen,UEFA Europa Conference League,90.0,4.9,27,NED
+Jack Milne,J4,CB,Defender,Aberdeen,UEFA Europa Conference League,90.0,3.6,22,SCO
+Nicky Devlin,J4,CB,Defender,Aberdeen,UEFA Europa Conference League,90.0,4.4,32,SCO
+Nardin Mulahusejnović,J4,AM,Forward,FC Noah,UEFA Europa Conference League,90.0,4.4,27,BIH
+Hélder Ferreira,J4,RW,Forward,FC Noah,UEFA Europa Conference League,79.0,5.0,28,POR
+Hovhannes Hambardzumyan,J4,RW,Forward,FC Noah,UEFA Europa Conference League,11.0,3.4,35,ARM
+Alen Grgić,J4,LW,Forward,FC Noah,UEFA Europa Conference League,45.0,1.9,31,CRO
+Matheus Aiás,J4,LW,Forward,FC Noah,UEFA Europa Conference League,45.0,6.5,28,BRA
+Gustavo Sangaré,J4,AM,Forward,FC Noah,UEFA Europa Conference League,86.0,5.4,29,BFA
+Marin Jakoliš,J4,AM,Forward,FC Noah,UEFA Europa Conference League,4.0,2.9,28,CRO
+Guðmundur Þórarinsson,J4,DM,Midfielder,FC Noah,UEFA Europa Conference League,58.0,4.5,33,ISL
+Takuto Oshima,J4,DM,Midfielder,FC Noah,UEFA Europa Conference League,32.0,5.1,27,JPN
+Yan Brice Eteki,J4,DM,Midfielder,FC Noah,UEFA Europa Conference League,90.0,3.2,28,CMR
+David Sualehe,J4,LB,Defender,FC Noah,UEFA Europa Conference League,90.0,5.2,28,POR
+Sergei Muradyan,J4,CB,Defender,FC Noah,UEFA Europa Conference League,90.0,5.6,21,ARM
+Nathanaël Saintini,J4,CB,Defender,FC Noah,UEFA Europa Conference League,90.0,6.9,25,GLP
+Eric Boakye,J4,RB,Defender,FC Noah,UEFA Europa Conference League,90.0,6.1,26,GHA
+Ágúst Orri Þorsteinsson,J4,AM,Forward,Breiðablik,UEFA Europa Conference League,90.0,6.9,20,ISL
+Aron Bjarnason,J4,LW,Forward,Breiðablik,UEFA Europa Conference League,69.0,4.0,30,ISL
+Kristófer Kristinsson,J4,LW,Forward,Breiðablik,UEFA Europa Conference League,21.0,5.3,26,ISL
+Óli Valur Ómarsson,J4,RW,Forward,Breiðablik,UEFA Europa Conference League,90.0,3.6,22,ISL
+Anton Logi Lúðvíksson,J4,LM,Midfielder,Breiðablik,UEFA Europa Conference League,69.0,4.8,22,ISL
+Gabriel Snaer,J4,LM,Midfielder,Breiðablik,UEFA Europa Conference League,21.0,1.1,0,NAN
+Höskuldur Gunnlaugsson,J4,CM,Midfielder,Breiðablik,UEFA Europa Conference League,90.0,3.9,31,ISL
+Viktor Karl Einarsson,J4,RM,Midfielder,Breiðablik,UEFA Europa Conference League,81.0,2.3,28,ISL
+Kristinn Steindórsson,J4,RM,Midfielder,Breiðablik,UEFA Europa Conference League,9.0,3.3,35,ISL
+Davíð Ingvarsson,J4,LB,Defender,Breiðablik,UEFA Europa Conference League,90.0,4.6,26,ISL
+Viktor Örn Margeirsson,J4,CB,Defender,Breiðablik,UEFA Europa Conference League,90.0,3.6,31,ISL
+Damir Muminovic,J4,CB,Defender,Breiðablik,UEFA Europa Conference League,90.0,4.8,35,ISL
+Valgeir Valgeirsson,J4,RB,Defender,Breiðablik,UEFA Europa Conference League,69.0,4.5,23,ISL
+Andri Rafn Yeoman,J4,RB,Defender,Breiðablik,UEFA Europa Conference League,21.0,3.7,33,ISL
+Marius Mouandilmadji,J4,AM,Forward,Samsunspor,UEFA Europa Conference League,90.0,4.8,28,CHA
+Anthony Musaba,J4,LM,Midfielder,Samsunspor,UEFA Europa Conference League,74.0,5.6,24,NED
+Polat Yaldır,J4,LM,Midfielder,Samsunspor,UEFA Europa Conference League,16.0,3.1,22,TUR
+Antoine Makoumbou,J4,DM,Midfielder,Samsunspor,UEFA Europa Conference League,90.0,5.5,27,CGO
+Carlo Holse,J4,CM,Midfielder,Samsunspor,UEFA Europa Conference League,90.0,3.9,26,DEN
+Emre Kılınç,J4,RM,Midfielder,Samsunspor,UEFA Europa Conference League,90.0,5.0,31,TUR
+Yunus Emre Çift,J4,DM,Midfielder,Samsunspor,UEFA Europa Conference League,45.0,4.1,22,TUR
+Soner Aydoğdu,J4,CM,Midfielder,Samsunspor,UEFA Europa Conference League,45.0,4.6,34,TUR
+Logi Tómasson,J4,LB,Defender,Samsunspor,UEFA Europa Conference League,74.0,4.1,25,ISL
+Soner Gönül,J4,LB,Defender,Samsunspor,UEFA Europa Conference League,16.0,3.2,28,TUR
+Rick van Drongelen,J4,CB,Defender,Samsunspor,UEFA Europa Conference League,90.0,5.8,26,NED
+Toni Borevkovic,J4,CB,Defender,Samsunspor,UEFA Europa Conference League,90.0,5.9,28,CRO
+Zeki Yavru,J4,RB,Defender,Samsunspor,UEFA Europa Conference League,65.0,6.1,34,TUR
+Joe Mendes,J4,RB,Defender,Samsunspor,UEFA Europa Conference League,25.0,5.5,22,SWE
+Rory Gaffney,J4,AM,Forward,Shamrock Rovers,UEFA Europa Conference League,67.0,6.2,36,IRL
+Graham Burke,J4,AM,Forward,Shamrock Rovers,UEFA Europa Conference League,23.0,5.4,32,IRL
+John McGovern,J4,AM,Forward,Shamrock Rovers,UEFA Europa Conference League,67.0,3.1,23,NIR
+Michael Noonan,J4,AM,Forward,Shamrock Rovers,UEFA Europa Conference League,23.0,1.1,17,IRL
+Darragh Nugent,J4,CM,Midfielder,Shamrock Rovers,UEFA Europa Conference League,68.0,2.9,24,IRL
+Connor Malley,J4,CM,Midfielder,Shamrock Rovers,UEFA Europa Conference League,22.0,2.4,25,ENG
+Matt Healy,J4,CM,Midfielder,Shamrock Rovers,UEFA Europa Conference League,90.0,4.3,23,IRL
+Dylan Watts,J4,CM,Midfielder,Shamrock Rovers,UEFA Europa Conference League,86.0,4.9,28,IRL
+Aaron Greene,J4,CM,Midfielder,Shamrock Rovers,UEFA Europa Conference League,4.0,2.4,35,IRL
+Cory O'Sullivan,J4,WB,Midfielder,Shamrock Rovers,UEFA Europa Conference League,90.0,2.9,19,IRL
+Danny Grant,J4,WB,Midfielder,Shamrock Rovers,UEFA Europa Conference League,90.0,4.1,25,IRL
+Lee Grace,J4,CB,Defender,Shamrock Rovers,UEFA Europa Conference League,90.0,3.3,32,IRL
+Pico,J4,CB,Defender,Shamrock Rovers,UEFA Europa Conference League,90.0,3.8,33,CPV
+Daniel Cleary,J4,CB,Defender,Shamrock Rovers,UEFA Europa Conference League,90.0,2.9,29,IRL
+Kauã Elias,J4,AM,Forward,Shakhtar,UEFA Europa Conference League,89.0,9.4,19,BRA
+Luca Meirelles,J4,AM,Forward,Shakhtar,UEFA Europa Conference League,1.0,0.0,18,BRA
+Newerton,J4,LM,Midfielder,Shakhtar,UEFA Europa Conference League,83.0,7.0,20,BRA
+Yukhym Konoplia,J4,RB,Defender,Shakhtar,UEFA Europa Conference League,7.0,4.3,26,UKR
+Isaque,J4,CM,Midfielder,Shakhtar,UEFA Europa Conference League,90.0,5.5,18,BRA
+Dmytro Kryskiv,J4,CM,Midfielder,Shakhtar,UEFA Europa Conference League,73.0,3.8,25,UKR
+Oleh Ocheretko,J4,CM,Midfielder,Shakhtar,UEFA Europa Conference League,17.0,0.7,22,UKR
+Lucas Ferreira,J4,RM,Midfielder,Shakhtar,UEFA Europa Conference League,73.0,4.7,19,BRA
+Artem Bondarenko,J4,CM,Midfielder,Shakhtar,UEFA Europa Conference League,17.0,2.6,25,UKR
+Yehor Nazaryna,J4,DM,Midfielder,Shakhtar,UEFA Europa Conference League,90.0,3.8,28,UKR
+Irakli Azarov,J4,LB,Defender,Shakhtar,UEFA Europa Conference League,73.0,5.6,23,GEO
+Pedro Henrique,J4,LB,Defender,Shakhtar,UEFA Europa Conference League,17.0,4.0,23,BRA
+Mykola Matviyenko,J4,CB,Defender,Shakhtar,UEFA Europa Conference League,90.0,4.0,29,UKR
+Valerii Bondar,J4,CB,Defender,Shakhtar,UEFA Europa Conference League,90.0,5.0,26,UKR
+Vinicius Tobias,J4,RB,Defender,Shakhtar,UEFA Europa Conference League,90.0,6.7,21,BRA
+Arb Manaj,J4,AM,Forward,KF Drita,UEFA Europa Conference League,59.0,3.4,27,KVX
+Blerim Krasniqi,J4,AM,Forward,KF Drita,UEFA Europa Conference League,31.0,2.2,29,ALB
+Blerton Sheji,J4,LW,Forward,KF Drita,UEFA Europa Conference League,90.0,1.0,25,MKD
+Albert Dabiqaj,J4,CM,Midfielder,KF Drita,UEFA Europa Conference League,90.0,2.9,29,KVX
+Vesel Limaj,J4,CM,Midfielder,KF Drita,UEFA Europa Conference League,90.0,1.7,28,GER
+Almir Ajzeraj,J4,RM,Midfielder,KF Drita,UEFA Europa Conference League,89.0,5.7,28,KVX
+Liridon Balaj,J4,RW,Forward,KF Drita,UEFA Europa Conference League,1.0,1.9,26,KVX
+Rron Broja,J4,DM,Midfielder,KF Drita,UEFA Europa Conference League,45.0,6.0,29,KVX
+Mamadou Soumahoro,J4,AM,Forward,KF Drita,UEFA Europa Conference League,34.0,1.4,20,CIV
+Ilir Mustafa,J4,AM,Forward,KF Drita,UEFA Europa Conference League,11.0,2.2,29,KVX
+Raddy Ovouka,J4,LB,Defender,KF Drita,UEFA Europa Conference League,90.0,6.0,25,CGO
+Jorgo Pellumbi,J4,CB,Defender,KF Drita,UEFA Europa Conference League,90.0,3.1,25,ALB
+Egzon Bejtulai,J4,CB,Defender,KF Drita,UEFA Europa Conference League,90.0,3.9,31,MKD
+Besnik Krasniqi,J4,RB,Defender,KF Drita,UEFA Europa Conference League,90.0,5.0,35,KVX
+Fabrice Tamba,J4,AM,Forward,Shkëndija 79,UEFA Europa Conference League,80.0,2.8,21,SEN
+Fiton Ademi,J4,AM,Forward,Shkëndija 79,UEFA Europa Conference League,10.0,2.5,23,MKD
+Liridon Latifi,J4,LW,Forward,Shkëndija 79,UEFA Europa Conference League,90.0,4.7,31,ALB
+Sebastjan Spahiu,J4,RW,Forward,Shkëndija 79,UEFA Europa Conference League,85.0,4.5,26,ALB
+Florent Ramadani,J4,RW,Forward,Shkëndija 79,UEFA Europa Conference League,5.0,0.0,25,MKD
+Endrit Krasniqi,J4,AM,Forward,Shkëndija 79,UEFA Europa Conference League,56.0,6.9,31,KVX
+Besart Ibraimi,J4,AM,Forward,Shkëndija 79,UEFA Europa Conference League,34.0,5.4,38,MKD
+Adamu Alhassan,J4,DM,Midfielder,Shkëndija 79,UEFA Europa Conference League,57.0,5.2,25,NGA
+Arbin Zejnulai,J4,DM,Midfielder,Shkëndija 79,UEFA Europa Conference League,33.0,4.0,26,ALB
+Reshat Ramadani,J4,DM,Midfielder,Shkëndija 79,UEFA Europa Conference League,80.0,5.1,22,MKD
+Kamer Qaka,J4,DM,Midfielder,Shkëndija 79,UEFA Europa Conference League,10.0,2.8,30,ALB
+Ronaldo Webster,J4,LB,Defender,Shkëndija 79,UEFA Europa Conference League,90.0,5.2,24,JAM
+Klisman Cake,J4,CB,Defender,Shkëndija 79,UEFA Europa Conference League,90.0,4.4,26,ALB
+Imran Fetai,J4,CB,Defender,Shkëndija 79,UEFA Europa Conference League,90.0,3.6,23,MKD
+Aleksandër Trumci,J4,RB,Defender,Shkëndija 79,UEFA Europa Conference League,90.0,5.1,24,ALB
+Daniel Adu-Adjei,J4,AM,Forward,Rijeka,UEFA Europa Conference League,66.0,2.4,20,ENG
+Duje Čop,J4,AM,Forward,Rijeka,UEFA Europa Conference League,24.0,1.3,35,CRO
+Toni Fruk,J4,AM,Forward,Rijeka,UEFA Europa Conference League,90.0,7.6,24,CRO
+Amer Gojak,J4,LM,Midfielder,Rijeka,UEFA Europa Conference League,66.0,5.2,28,BIH
+Luka Menalo,J4,LM,Midfielder,Rijeka,UEFA Europa Conference League,24.0,1.6,29,BIH
+Anel Husic,J4,CM,Midfielder,Rijeka,UEFA Europa Conference League,90.0,6.1,24,SUI
+Tiago Dantas,J4,CM,Midfielder,Rijeka,UEFA Europa Conference League,90.0,5.0,24,POR
+Samuele Vignato,J4,RM,Midfielder,Rijeka,UEFA Europa Conference League,90.0,5.3,21,ITA
+Justas Lasickas,J4,LB,Defender,Rijeka,UEFA Europa Conference League,90.0,5.7,28,LTU
+Stjepan Radeljić,J4,CB,Defender,Rijeka,UEFA Europa Conference League,90.0,5.0,28,BIH
+Ante Majstorović,J4,CB,Defender,Rijeka,UEFA Europa Conference League,90.0,4.7,32,CRO
+Ante Orec,J4,RB,Defender,Rijeka,UEFA Europa Conference League,90.0,5.4,24,CRO
+Riad Bajić,J4,AM,Forward,AÉK Lárnaka,UEFA Europa Conference League,74.0,3.2,31,BIH
+Enzo Cabrera,J4,AM,Forward,AÉK Lárnaka,UEFA Europa Conference League,16.0,2.5,26,ARG
+Waldo Rubio,J4,LW,Forward,AÉK Lárnaka,UEFA Europa Conference League,73.0,4.3,30,ESP
+Godswill Ekpolo,J4,LM,Midfielder,AÉK Lárnaka,UEFA Europa Conference League,17.0,3.0,30,NGA
+Giorgos Naoum,J4,RW,Forward,AÉK Lárnaka,UEFA Europa Conference League,74.0,2.8,24,CYP
+Jaime Suárez Juesas,J4,RM,Midfielder,AÉK Lárnaka,UEFA Europa Conference League,16.0,5.7,28,ESP
+Đorđe Ivanović,J4,AM,Forward,AÉK Lárnaka,UEFA Europa Conference League,89.0,3.3,30,SRB
+Valentin Roberge,J4,CM,Midfielder,AÉK Lárnaka,UEFA Europa Conference League,1.0,0.2,38,CYP
+Pere Pons,J4,DM,Midfielder,AÉK Lárnaka,UEFA Europa Conference League,90.0,3.4,32,ESP
+Luís Gustavo Ledes,J4,DM,Midfielder,AÉK Lárnaka,UEFA Europa Conference League,90.0,3.1,33,POR
+Jérémie Gnali,J4,LB,Defender,AÉK Lárnaka,UEFA Europa Conference League,90.0,5.9,23,CGO
+Enric Saborit,J4,CB,Defender,AÉK Lárnaka,UEFA Europa Conference League,90.0,2.8,33,ESP
+Hrvoje Miličević,J4,CB,Defender,AÉK Lárnaka,UEFA Europa Conference League,90.0,4.5,32,BIH
+Jorge Miramón,J4,RB,Defender,AÉK Lárnaka,UEFA Europa Conference League,90.0,5.9,36,ESP
+Antonio Čolak,J4,AM,Forward,Legia Warsaw,UEFA Europa Conference League,42.0,2.8,32,CRO
+Mileta Rajovic,J4,AM,Forward,Legia Warsaw,UEFA Europa Conference League,48.0,1.8,26,DEN
+Ermal Krasniqi,J4,LW,Forward,Legia Warsaw,UEFA Europa Conference League,59.0,5.6,27,KVX
+Wahan Biczachczian,J4,LW,Forward,Legia Warsaw,UEFA Europa Conference League,31.0,3.0,26,ARM
+Paweł Wszołek,J4,RW,Forward,Legia Warsaw,UEFA Europa Conference League,90.0,4.8,33,POL
+Wojciech Urbanski,J4,LM,Midfielder,Legia Warsaw,UEFA Europa Conference League,74.0,2.5,20,POL
+Noah Weißhaupt,J4,LM,Midfielder,Legia Warsaw,UEFA Europa Conference League,16.0,4.9,24,GER
+Rafał Augustyniak,J4,CM,Midfielder,Legia Warsaw,UEFA Europa Conference League,90.0,5.6,31,POL
+Bartosz Kapustka,J4,RM,Midfielder,Legia Warsaw,UEFA Europa Conference League,90.0,5.7,28,POL
+Rúben Vinagre,J4,LB,Defender,Legia Warsaw,UEFA Europa Conference League,74.0,7.0,26,POR
+Arkadiusz Reca,J4,LB,Defender,Legia Warsaw,UEFA Europa Conference League,16.0,5.3,30,POL
+Steve Kapuadi,J4,CB,Defender,Legia Warsaw,UEFA Europa Conference League,90.0,3.0,27,COD
+Kamil Piątkowski,J4,CB,Defender,Legia Warsaw,UEFA Europa Conference League,90.0,6.5,25,POL
+Petar Stojanović,J4,RB,Defender,Legia Warsaw,UEFA Europa Conference League,59.0,3.4,30,SVN
+Kacper Urbanski,J4,RB,Defender,Legia Warsaw,UEFA Europa Conference League,31.0,2.1,21,POL
+Albion Rrahmani,J4,AM,Forward,Sparta Prague,UEFA Europa Conference League,58.0,2.9,25,KVX
+Jan Kuchta,J4,AM,Forward,Sparta Prague,UEFA Europa Conference League,32.0,2.3,28,CZE
+Lukáš Haraslín,J4,LW,Forward,Sparta Prague,UEFA Europa Conference League,84.0,5.3,29,SVK
+Garang Kuol,J4,LW,Forward,Sparta Prague,UEFA Europa Conference League,6.0,1.1,21,AUS
+Veljko Birmančević,J4,RW,Forward,Sparta Prague,UEFA Europa Conference League,59.0,6.2,27,SRB
+John Mercado,J4,RW,Forward,Sparta Prague,UEFA Europa Conference League,31.0,3.3,23,ECU
+Matěj Ryneš,J4,LM,Midfielder,Sparta Prague,UEFA Europa Conference League,90.0,5.7,24,CZE
+Kaan Kairinen,J4,CM,Midfielder,Sparta Prague,UEFA Europa Conference League,90.0,4.5,26,FIN
+Patrik Vydra,J4,CM,Midfielder,Sparta Prague,UEFA Europa Conference League,71.0,4.2,22,CZE
+Santiago Eneme,J4,CM,Midfielder,Sparta Prague,UEFA Europa Conference League,19.0,7.0,25,EQG
+Ángelo Preciado,J4,RM,Midfielder,Sparta Prague,UEFA Europa Conference League,90.0,6.7,27,ECU
+Jaroslav Zelený,J4,CB,Defender,Sparta Prague,UEFA Europa Conference League,90.0,5.2,33,CZE
+Adam Sevinsky,J4,CB,Defender,Sparta Prague,UEFA Europa Conference League,90.0,5.9,21,CZE
+Pavel Kadeřábek,J4,CB,Defender,Sparta Prague,UEFA Europa Conference League,90.0,3.9,33,CZE
 Dušan Vlahović,J3,AM,Forward,Juventus,Italian Serie A,72.0,1.4,25,SRB
 Loïs Openda,J3,AM,Forward,Juventus,Italian Serie A,18.0,3.6,25,BEL
 Kenan Yıldız,J3,AM,Forward,Juventus,Italian Serie A,90.0,6.5,20,TUR
@@ -13799,6 +15399,92 @@ Matteo Darmian,J3,WB,Midfielder,Inter,Italian Serie A,14.0,0.4,35,ITA
 Alessandro Bastoni,J3,CB,Defender,Inter,Italian Serie A,90.0,4.2,26,ITA
 Francesco Acerbi,J3,CB,Defender,Inter,Italian Serie A,90.0,5.0,37,ITA
 Manuel Akanji,J3,CB,Defender,Inter,Italian Serie A,90.0,4.7,30,SUI
+Emanuel Emegha,J4,AM,Forward,Strasbourg,UEFA Europa Conference League,73.0,5.0,22,NED
+Joaquín Panichelli,J4,AM,Forward,Strasbourg,UEFA Europa Conference League,17.0,1.1,23,ARG
+Sebastian Nanasi,J4,AM,Forward,Strasbourg,UEFA Europa Conference League,73.0,4.6,23,SWE
+Kendry Páez,J4,AM,Forward,Strasbourg,UEFA Europa Conference League,17.0,5.4,18,ECU
+Julio Enciso,J4,AM,Forward,Strasbourg,UEFA Europa Conference League,88.0,7.3,21,PAR
+Andrew Omobamidele,J4,AM,Forward,Strasbourg,UEFA Europa Conference League,2.0,0.0,23,IRL
+Samir El Mourabet,J4,CM,Midfielder,Strasbourg,UEFA Europa Conference League,90.0,4.4,20,MAR
+Valentín Barco,J4,CM,Midfielder,Strasbourg,UEFA Europa Conference League,90.0,5.8,21,ARG
+Diego Moreira,J4,WB,Midfielder,Strasbourg,UEFA Europa Conference League,90.0,5.1,21,BEL
+Guela Doué,J4,WB,Midfielder,Strasbourg,UEFA Europa Conference League,90.0,4.2,23,CIV
+Ismaël Doukouré,J4,CB,Defender,Strasbourg,UEFA Europa Conference League,90.0,4.0,22,FRA
+Mamadou Sarr,J4,CB,Defender,Strasbourg,UEFA Europa Conference League,90.0,5.1,20,SEN
+Lucas Høgsberg,J4,CB,Defender,Strasbourg,UEFA Europa Conference League,42.0,5.5,19,DEN
+Ben Chilwell,J4,CB,Defender,Strasbourg,UEFA Europa Conference League,48.0,5.7,28,ENG
+Jean-Philippe Mateta,J4,AM,Forward,Crystal Palace,UEFA Europa Conference League,61.0,5.9,28,FRA
+Eddie Nketiah,J4,AM,Forward,Crystal Palace,UEFA Europa Conference League,29.0,3.7,26,ENG
+Yeremi Pino,J4,LW,Forward,Crystal Palace,UEFA Europa Conference League,90.0,5.7,23,ESP
+Ismaila Sarr,J4,RW,Forward,Crystal Palace,UEFA Europa Conference League,90.0,6.9,27,SEN
+Tyrick Mitchell,J4,LM,Midfielder,Crystal Palace,UEFA Europa Conference League,90.0,4.2,26,ENG
+Jefferson Lerma,J4,CM,Midfielder,Crystal Palace,UEFA Europa Conference League,81.0,5.0,31,COL
+Daichi Kamada,J4,CM,Midfielder,Crystal Palace,UEFA Europa Conference League,9.0,0.3,29,JPN
+Will Hughes,J4,CM,Midfielder,Crystal Palace,UEFA Europa Conference League,30.0,4.0,30,ENG
+Adam Wharton,J4,CM,Midfielder,Crystal Palace,UEFA Europa Conference League,60.0,4.3,21,ENG
+Daniel Muñoz,J4,RM,Midfielder,Crystal Palace,UEFA Europa Conference League,90.0,6.3,29,COL
+Marc Guéhi,J4,CB,Defender,Crystal Palace,UEFA Europa Conference League,45.0,4.7,25,ENG
+Chris Richards,J4,CB,Defender,Crystal Palace,UEFA Europa Conference League,45.0,5.5,25,USA
+Maxence Lacroix,J4,CB,Defender,Crystal Palace,UEFA Europa Conference League,90.0,4.0,25,FRA
+Jaydee Canvot,J4,CB,Defender,Crystal Palace,UEFA Europa Conference League,90.0,2.1,19,FRA
+Albert Guðmundsson,J4,AM,Forward,Fiorentina,UEFA Europa Conference League,90.0,2.1,28,ISL
+Edin Džeko,J4,AM,Forward,Fiorentina,UEFA Europa Conference League,90.0,4.6,39,BIH
+Cher Ndour,J4,CM,Midfielder,Fiorentina,UEFA Europa Conference League,62.0,2.2,21,ITA
+Moise Kean,J4,AM,Forward,Fiorentina,UEFA Europa Conference League,28.0,0.5,25,ITA
+Hans Nicolussi Caviglia,J4,CM,Midfielder,Fiorentina,UEFA Europa Conference League,78.0,5.7,25,ITA
+Nicolò Fagioli,J4,CM,Midfielder,Fiorentina,UEFA Europa Conference League,12.0,4.0,24,ITA
+Rolando Mandragora,J4,CM,Midfielder,Fiorentina,UEFA Europa Conference League,90.0,3.3,28,ITA
+Fabiano Parisi,J4,WB,Midfielder,Fiorentina,UEFA Europa Conference League,62.0,5.0,25,ITA
+Eddy Kouadio,J4,WB,Midfielder,Fiorentina,UEFA Europa Conference League,28.0,4.2,19,CIV
+Niccolò Fortini,J4,WB,Midfielder,Fiorentina,UEFA Europa Conference League,78.0,4.9,19,ITA
+Jacopo Fazzini,J4,WB,Midfielder,Fiorentina,UEFA Europa Conference League,12.0,4.5,22,ITA
+Luca Ranieri,J4,CB,Defender,Fiorentina,UEFA Europa Conference League,78.0,4.0,26,ITA
+Mattia Viti,J4,CB,Defender,Fiorentina,UEFA Europa Conference League,12.0,6.9,23,ITA
+Pietro Comuzzo,J4,CB,Defender,Fiorentina,UEFA Europa Conference League,90.0,4.4,20,ITA
+Marin Pongračić,J4,CB,Defender,Fiorentina,UEFA Europa Conference League,90.0,4.8,28,CRO
+Luka Jović,J4,AM,Forward,AEK Athens,UEFA Europa Conference League,90.0,2.8,27,SRB
+Mijat Gaćinović,J4,LW,Forward,AEK Athens,UEFA Europa Conference League,80.0,4.1,30,SRB
+Marko Grujić,J4,CM,Midfielder,AEK Athens,UEFA Europa Conference League,10.0,3.2,29,SRB
+Aboubakary Koita,J4,RW,Forward,AEK Athens,UEFA Europa Conference League,66.0,0.9,27,MTN
+Zini,J4,RW,Forward,AEK Athens,UEFA Europa Conference League,23.0,3.9,23,ANG
+James Penrice,J4,LW,Forward,AEK Athens,UEFA Europa Conference League,1.0,2.1,26,SCO
+Roberto Pereyra,J4,LM,Midfielder,AEK Athens,UEFA Europa Conference League,66.0,4.3,34,ARG
+Petros Mantalos,J4,RW,Forward,AEK Athens,UEFA Europa Conference League,24.0,5.0,34,GRE
+Răzvan Marin,J4,CM,Midfielder,AEK Athens,UEFA Europa Conference League,90.0,5.4,29,ROU
+Orbelín Pineda,J4,RM,Midfielder,AEK Athens,UEFA Europa Conference League,90.0,7.0,29,MEX
+Stavros Pilios,J4,LB,Defender,AEK Athens,UEFA Europa Conference League,90.0,5.2,24,GRE
+Filipe Relvas,J4,CB,Defender,AEK Athens,UEFA Europa Conference League,90.0,2.6,26,POR
+Harold Moukoudi,J4,CB,Defender,AEK Athens,UEFA Europa Conference League,90.0,3.9,28,CMR
+Llazaros Rota,J4,RB,Defender,AEK Athens,UEFA Europa Conference League,90.0,5.4,28,GRE
+Afimico Pululu,J4,AM,Forward,Jagiellonia,UEFA Europa Conference League,90.0,7.7,26,COD
+Oskar Pietuszewski,J4,LW,Forward,Jagiellonia,UEFA Europa Conference League,86.0,6.6,17,POL
+Aziel Jackson,J4,LW,Forward,Jagiellonia,UEFA Europa Conference League,4.0,1.4,24,USA
+Alejandro Pozo Pozo,J4,RW,Forward,Jagiellonia,UEFA Europa Conference League,67.0,7.0,26,ESP
+Dawid Drachal,J4,RW,Forward,Jagiellonia,UEFA Europa Conference League,23.0,3.5,20,POL
+Bartosz Mazurek,J4,LM,Midfielder,Jagiellonia,UEFA Europa Conference League,78.0,6.8,18,POL
+Louka Prip,J4,LM,Midfielder,Jagiellonia,UEFA Europa Conference League,12.0,2.1,28,DEN
+Taras Romanchuk,J4,CM,Midfielder,Jagiellonia,UEFA Europa Conference League,90.0,4.4,34,POL
+Dimitris Rallis,J4,RM,Midfielder,Jagiellonia,UEFA Europa Conference League,67.0,5.2,20,GRE
+Leon Flach,J4,RM,Midfielder,Jagiellonia,UEFA Europa Conference League,23.0,2.0,24,USA
+Bartłomiej Wdowik,J4,LB,Defender,Jagiellonia,UEFA Europa Conference League,90.0,4.0,25,POL
+Dušan Stojinovič,J4,CB,Defender,Jagiellonia,UEFA Europa Conference League,90.0,4.4,25,SVN
+Bernardo Vital,J4,CB,Defender,Jagiellonia,UEFA Europa Conference League,90.0,4.8,24,POR
+Norbert Wojtuszek,J4,RB,Defender,Jagiellonia,UEFA Europa Conference League,90.0,7.1,24,POL
+Piotr Parzyszek,J4,AM,Forward,KuPS,UEFA Europa Conference League,90.0,2.6,32,POL
+Petteri Pennanen,J4,LW,Forward,KuPS,UEFA Europa Conference League,62.0,5.6,35,FIN
+Paulius Golubickas,J4,LW,Forward,KuPS,UEFA Europa Conference League,28.0,6.7,26,LTU
+Mohamed Touré,J4,RW,Forward,KuPS,UEFA Europa Conference League,62.0,3.8,20,GUI
+Jerry Voutilainen,J4,RW,Forward,KuPS,UEFA Europa Conference League,28.0,4.6,30,FIN
+Otto Ruoppi,J4,AM,Forward,KuPS,UEFA Europa Conference League,90.0,5.8,19,FIN
+Doni Arifi,J4,DM,Midfielder,KuPS,UEFA Europa Conference League,81.0,5.0,23,FIN
+Agon Sadiku,J4,DM,Midfielder,KuPS,UEFA Europa Conference League,9.0,1.1,22,FIN
+Jaakko Oksanen,J4,DM,Midfielder,KuPS,UEFA Europa Conference League,90.0,3.8,25,FIN
+Clinton Antwi,J4,LB,Defender,KuPS,UEFA Europa Conference League,81.0,5.8,26,GHA
+Joslyn Luyeye-Lutumba,J4,RW,Forward,KuPS,UEFA Europa Conference League,9.0,2.9,22,FIN
+Samuli Miettinen,J4,CB,Defender,KuPS,UEFA Europa Conference League,90.0,5.5,21,FIN
+Ibrahim Cissé,J4,CB,Defender,KuPS,UEFA Europa Conference League,90.0,6.1,26,CIV
+Taneli Hämäläinen,J4,RB,Defender,KuPS,UEFA Europa Conference League,72.0,7.0,24,FIN
+Bob Nii Armah,J4,LB,Defender,KuPS,UEFA Europa Conference League,18.0,4.2,21,GHA
 Edin Džeko,J3,AM,Forward,Fiorentina,Italian Serie A,45.0,3.9,39,BIH
 Roberto Piccoli,J3,AM,Forward,Fiorentina,Italian Serie A,45.0,4.1,24,ITA
 Moise Kean,J3,AM,Forward,Fiorentina,Italian Serie A,90.0,4.4,25,ITA
