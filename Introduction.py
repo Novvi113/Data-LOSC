@@ -1,32 +1,29 @@
-# streamlit run "/Users/matteolemesre/Desktop/Data Project/Data LOSC/Github/Introduction.py"
 import streamlit as st
 
-st.set_page_config(page_title="Data LOSC")
+# 1. Настройка названия страницы (вкладки браузера)
+# Внимание: эта команда должна быть САМОЙ ПЕРВОЙ командой Streamlit в коде
+st.set_page_config(
+    page_title="data blessing by Novvi",
+    page_icon="⚽",  # Можно поменять иконку на другую
+    layout="wide"
+)
 
-st.title("Data LOSC")
+# 2. Скрытие "водяных знаков" (меню, футера и хедера)
+hide_streamlit_style = """
+<style>
+/* Скрывает гамбургер-меню справа сверху */
+#MainMenu {visibility: hidden;}
 
-st.markdown(""" 
-I'm passionate about data analysis, data science, and football — especially as a dedicated Lille OSC supporter.
-This dashboard is a personal end-to-end project designed to analyze, compare, and visualize football player and team performances, using data scraped from [FBref.com](https://fbref.com).
+/* Скрывает футер "Made with Streamlit" */
+footer {visibility: hidden;}
 
-Pages overview:
-- **Top Player Rankings:** Rank top players by average rating, filtered by league, position, age, and matches played.
-- **Matchday Player Report:** Dive into match-specific ratings and stats by league, week, and team.
-- **Player Performance Overview:** Compare individual performances in attack, passing, defense, and possession, with radar charts and average ratings.
-- **Player Performance Indices:** Explore custom indices by role and minutes played, displayed on a percentile scale for advanced comparisons.
-- **Team Performances:** Compare team performances across leagues using percentile charts and key performance indicators.
-- **Top Match Performances:** Highlight the best single-match outputs by stat (e.g., assists, interceptions, saves).
-- **Top Season Performances:** Rank seasonal outputs by stat, with totals or per-90 metrics.
-- **UEFA Leagues Simulation**: Simulate and visualize qualification, play-off, and elimination chances for teams, based on matches played.
-- **Leagues Summary**: Display the current league standing and the average opponent ranking — the lower the score, the tougher the opponents faced.
-- **Scouting:** Access detailed metrics and radar charts for players from the Minor Leagues.
+/* Скрывает верхнюю полосу (где кнопка Deploy) для более чистого вида */
+header {visibility: hidden;}
+</style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
-Note: 
-- **Big Leagues:** Top 5 European leagues, UCL, UEL and UECL — over 2,100 matches per season
-- **Minor Leagues:** Argentine Primera, Brazilian Série A, Dutch Eredivisie, MLS, Portuguese Primeira Liga, Copa Libertadores, English Championship, Italian Serie B, Liga MX, and Belgian Pro League
+# 3. Если вы хотите добавить заголовок прямо на страницу текстом:
+st.title("data blessing by Novvi")
 
----
-
-> Use the **sidebar on the left** to start exploring the data!
-""")
-
+# --- Ниже должен идти ваш основной код приложения ---
